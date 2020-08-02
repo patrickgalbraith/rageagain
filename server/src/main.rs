@@ -1,18 +1,14 @@
-use askama::Template;
 use warp::Filter;
 
-#[derive(Template)]
-#[template(path = "hello.html")]
-struct HelloTemplate<'a> {
-    name: &'a str,
-}
+mod db;
+mod routes;
+mod views;
 
 #[tokio::main]
 async fn main() {
-    // GET /hello/warp => 200 OK with body "Hello, warp!"
-    let hello = warp::get()
-        .and(warp::path::end())
-        .map(|| HelloTemplate { name: "world2" });
+    let get_static = warp::path("static").and(warp::fs::dir("static"));
 
-    warp::serve(hello).run(([127, 0, 0, 1], 3030)).await;
+    let routes = routes::prepare_routes().or(get_static);
+
+    warp::serve(routes).run(([127, 0, 0, 1], 3030)).await;
 }
