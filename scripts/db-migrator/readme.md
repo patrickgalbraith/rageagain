@@ -1,0 +1,1 @@
+This script was used to convert the original database containing tracks and playlists stored in MySQL into JSON files.

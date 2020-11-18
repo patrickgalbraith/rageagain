@@ -1,0 +1,15 @@
+{
+  "name": "db-migrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Galbraith",
+  "license": "MIT",
+  "dependencies": {
+    "mysql-promise": "^5.0.0",
+    "mysql2": "^2.2.5"
+  }
+}
