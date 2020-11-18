@@ -1,0 +1,513 @@
+{
+  "title": "Friday night  Friday, 29 March",
+  "special": null,
+  "timeslot": "night",
+  "date": "2013-03-29",
+  "url": "http://www.abc.net.au/rage/archive/s3726072.htm",
+  "tracks": [
+    {
+      "artist": "HANNI EL KHATIB",
+      "song": "Family",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ABBE MAY",
+      "song": "T.R.O.U.B.L.E",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Falling",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Beach",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "STEP PANTHER",
+      "song": "Bad Mood",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DARWIN DEEZ",
+      "song": "You Can't Be My Girl",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BITING ELBOWS",
+      "song": "Bad Motherfucker",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE SON FEATURING BLUEJUICE",
+      "song": "More Fire",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "Entertainment",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE STROKES,",
+      "song": "All The Time",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WAVVES",
+      "song": "Sail To The Sun",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "IGGY AZALEA",
+      "song": "Work",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ACTION BRONSON",
+      "song": "The Symbol",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EARL SWEATSHIRT",
+      "song": "Whoa",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR FEATURING DRAKE",
+      "song": "Poetic Justice",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DUBMARINE",
+      "song": "Beat In Control",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ATOMS FOR PEACE",
+      "song": "Ingenue",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Wishes",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EAGLE and THE WORM",
+      "song": "Angela's Lonely Heart",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "VILLAGERS",
+      "song": "The Bell",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Mind Mischief",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YOUNG DREAMS",
+      "song": "First Days Of Something",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JEP AND DEP",
+      "song": "Ain't Coming Back",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "QUANTIC and ALICE RUSSELL with THE COMBO BARBARO",
+      "song": "Magdalena",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAJOFONDO",
+      "song": "Pide Piso",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CAT EMPIRE,",
+      "song": "Brighter Than Gold",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE SNOWDROPPERS,",
+      "song": "Moving Out Of Eden",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MISS LITTLE",
+      "song": "Years",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAMA KIN",
+      "song": "Rescue",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KATHRYN ROLLINS",
+      "song": "Reckless",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOYS NOIZE",
+      "song": "What You Want",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BINGO PLAYERS FEATURING FAR EAST MOVEMENT",
+      "song": "Get Up (Rattle)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TALES IN SPACE",
+      "song": "Shades",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Recover",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEADMAU5 and IMOGEN HEAP",
+      "song": "Telemiscommunications",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Lilies",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Ballad Of The War Machine",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HOLOGRAMS",
+      "song": "Fever",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PVT",
+      "song": "Vertigo",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOE GIDEON and THE SHARK",
+      "song": "Poor Born",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KODALINE",
+      "song": "High Hopes",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "The Stars (Are Out Tonight)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "Jubliee Street",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE TROUBLE WITH TEMPLETON,",
+      "song": "Like A Kid",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE TIGER AND ME,",
+      "song": "Made It To The Harbour",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GLASS TOWERS",
+      "song": "Tonight",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GOLD FIELDS",
+      "song": "Dark Again",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FLUME",
+      "song": "Holdin On",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE VACCINES,",
+      "song": "Bad Mood",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PORTUGAL. THE MAN",
+      "song": "Evil Friends",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHILDREN COLLIDE",
+      "song": "My Heart Came Alive",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALL THE COLOURS",
+      "song": "Second To None",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "POPSTRANGERS",
+      "song": "What Else Could They Do?",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LITTLE GREEN CARS",
+      "song": "Harper Lee",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PASSION PIT",
+      "song": "Carried Away",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MELODY'S ECHO CHAMBER",
+      "song": "You Won't Be Missing That Part Of Me",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "UNKNOWN MORTAL ORCHESTRA",
+      "song": "So Good At Being In Trouble",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DUKE DUMONT",
+      "song": "Need U (100%)",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BRING ME THE HORIZON",
+      "song": "Sleepwalking",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KILLSWITCH ENGAGE",
+      "song": "In Due Time",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "METREYA",
+      "song": "Machines Of War",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVICE",
+      "song": "Vilify",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLEED FROM WITHIN",
+      "song": "Uprising",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MONUMENTS",
+      "song": "Regenerate",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CATHERINE BRITT FEATURING TIM ROGERS",
+      "song": "Troubled Man",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLACKIE",
+      "song": "Tickle",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE PREHISTORICS,",
+      "song": "Medusa Touch",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LEE MON",
+      "song": "Genetics",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE ENGAGEMENT,",
+      "song": "Psychotherapy",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LUCIANA",
+      "song": "U B The Bass",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JASON MRAZ",
+      "song": "I Won't Give Up",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "IMAGINE DRAGONS",
+      "song": "Radioactive",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NEON TREES",
+      "song": "Everybody Talks",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAVID GUETTA FEATURING TAPED RAI",
+      "song": "Just One Last Time",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RUDIMENTAL FEATURING JOHN NEWMAN and ALEX CLARE",
+      "song": "Not Giving In",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RICKI-LEE",
+      "song": "Burn It Down",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BORGORE FEATURING MILEY CYRUS",
+      "song": "Decisions",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MACKLEMORE and RYAN LEWIS FEATURING WANZ",
+      "song": "Thrift Shop",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BOMBS AWAY FEATURING THE TWINS",
+      "song": "Party Bass",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WILL.I.AM FEATURING BRITNEY SPEARS",
+      "song": "Scream and Shout (Remix)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ONEREPUBLIC",
+      "song": "If I lose Myself",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AVICII VS NICKY ROMERO",
+      "song": "I Could Be The One",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KE$HA",
+      "song": "C'mon",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HAVANA BROWN FEATURING R3HAB and PROPHET",
+      "song": "Big Banana",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "title": "Saturday night 25 February 2017, ABC",
+  "special": "Midnight Oil",
+  "timeslot": "night",
+  "date": "2017-02-25",
+  "url": "http://www.abc.net.au/rage/archive/s4626041.htm",
+  "tracks": [
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Beds Are Burning",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DRAGON",
+      "song": "This Time",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RADIO BIRDMAN - LIVE",
+      "song": "New Race",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CELIBATE RIFLES",
+      "song": "Buttland",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Prisoner Of Society",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KING GIZZARD _and_ THE LIZARD WIZARD",
+      "song": "Rattlesnake",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "Kong Foo Sing",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Buy Me A Pony",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Black Betty",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "The Wheel",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DRAPHT",
+      "song": "Rapunzel",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "A.B. ORIGINAL ft. DAN SULTAN",
+      "song": "January 26",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THUNDAMENTALS",
+      "song": "Smiles Don't Lie",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ABBE MAY",
+      "song": "Design Desire",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TUMBLEWEED",
+      "song": "Daddy Long Legs",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE FAUVES",
+      "song": "Everybody's Getting A 3 Piece Together",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEIL MURRAY",
+      "song": "Whispering Casuarina",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "Weather With You",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BREAK",
+      "song": "Cylinders",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ATLANTICS",
+      "song": "Bombora...The Next Generation",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROBERT WYATT",
+      "song": "Ship Building",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "To Think That I Once Loved You",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARTISTS UNITED AGAINST APARTHEID",
+      "song": "Sun City",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TEX, DON and CHARLIE",
+      "song": "Whenever It Snows",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SWINGERS",
+      "song": "Counting The Beat",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Treaty",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LEAH FLANAGAN",
+      "song": "Everything",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ADALITA",
+      "song": "Trust Is Rust",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Science Fiction",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "APAKATJAH",
+      "song": "Waru",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "Jailangaru Pakarnu (Out From Jail)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "What's My Scene",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE MUTTONBIRDS",
+      "song": "Pulled Along By Love",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SHIHAD",
+      "song": "Home Again",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JACK HOWARD",
+      "song": "The Lark Ascends",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRANK YAMMA",
+      "song": "She Cried",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DARREN HANLON",
+      "song": "I Wish That I Was Beautiful For You",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOB EVANS",
+      "song": "Don't You Think It's Time",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "URTHBOY",
+      "song": "We Get Around",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE HERD",
+      "song": "I Was Only 19",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Nothing Compares 2 U",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "All I Want",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Redneck Wonderland",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Cemetery In My Mind",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "White Skin, Black Heart",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Surf's Up Tonight",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Underwater",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL and VARIOUS ARTISTS",
+      "song": "Land",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Truganini",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Outbreak Of Love",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "My Country",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "In The Valley",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Instant Karma (Live at the Exxon Building)",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "One Country",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Forgotten Years",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Blue Sky Mine",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "King Of The Mountain",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Put Down That Weapon",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "The Dead Heart",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL - LIVE AT OILS ON THE WATER CONCERT",
+      "song": "Best Of Both Worlds",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Pictures Of The World",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Armistice Day",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "U.S. Forces",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Read About It",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "The Power And The Passion",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL - LIVE IN CONCERT",
+      "song": "Don't Wanna Be The One",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Used And Abused",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Blot/Know Your Product (Live on Recovery)",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "In Bloom",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Come As You Are",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Lithium",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Drain You",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Aneurysm",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Sliver",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "All Apologies",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Heart-Shaped Box",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "You Know You're Right",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALUNAGEORGE",
+      "song": "Not Above Love",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SOFI TUKKER ft. BETTER LEMME",
+      "song": "Awoo",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HORRORSHOW ft. OMAR MUSA",
+      "song": "Ceiling Fans",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LADY LESHURR",
+      "song": "Where Are You Now?",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "POST MALONE ft. QUAVO",
+      "song": "Congratulations",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AURORA",
+      "song": "Winter Bird",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HOLLY THROSBY",
+      "song": "Aeroplane",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SAMPHA",
+      "song": "(No One Knows Me) Like The Piano",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALEX LAHEY",
+      "song": "Wes Anderson",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DOPE LEMON",
+      "song": "Home Soon",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE SMITH STREET BAND",
+      "song": "Birthdays",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE CREASES",
+      "song": "Everybody Knows",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BRIGHTNESS",
+      "song": "Oblivion",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ROLLING BLACKOUTS COASTAL FEVER",
+      "song": "French Press",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JULIA JACKLIN",
+      "song": "Coming Of Age",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BORNEO",
+      "song": "Hold Me In The River",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Sweep Me Off My Feet",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE LEMON TWIGS",
+      "song": "I Wanna Prove To You",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PVT",
+      "song": "Another Life",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BABAGANOUJ",
+      "song": "Star",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

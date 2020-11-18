@@ -1,0 +1,585 @@
+{
+  "title": "Saturday night 16 August 2014",
+  "special": "Psycroptic",
+  "timeslot": "night",
+  "date": "2014-08-16",
+  "url": "http://www.abc.net.au/rage/archive/s4068197.htm",
+  "tracks": [
+    {
+      "artist": "PSYCROPTIC",
+      "song": "Initiate",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "AC/DC - LIVE",
+      "song": "Jailbreak",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Jump",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "RONNIE JAMES DIO",
+      "song": "Holy Diver",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Stone",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Rooster",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "STONE TEMPLE PILOTS",
+      "song": "Plush",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE BLACK DAHLIA MURDER",
+      "song": "What A Horrible Night To Have A Curse",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLIND GUARDIAN",
+      "song": "Another Stranger Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DREAM EVIL",
+      "song": "The Book Of Heavy Metal",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MACHINE HEAD",
+      "song": "Davidian",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Seek and Destroy",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLOOD DUSTER",
+      "song": "Pornstorestiffi",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MARDUK",
+      "song": "Souls For Belial",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BOLT THROWER",
+      "song": "Cenotaph",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WATAIN",
+      "song": "Outlaw",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CYPRESS HILL",
+      "song": "I Ain't Goin' Out Like That",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HOUSE OF PAIN",
+      "song": "On Point",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LIL WAYNE featuring 2 CHAINZ",
+      "song": "Rich As Fuck",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAMAGED",
+      "song": "Nails",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Divinations",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DARKTHRONE",
+      "song": "Too Old, Too Cold",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MISERY INDEX",
+      "song": "Traitors",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SATYRICON",
+      "song": "Black Crow On A Tombstone",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DYING FETUS",
+      "song": "From Womb To Waste",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "IMMORTAL",
+      "song": "All Shall Fall",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LAMB OF GOD",
+      "song": "As The Palaces Burn",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HUEY LEWIS and THE NEWS",
+      "song": "Hip To Be Square",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOHNNY DIESEL",
+      "song": "Tip Of My Tongue",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEAD CAN DANCE",
+      "song": "Frontier",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIMMU BORGIR",
+      "song": "The Serpentine Offering",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MORBID ANGEL",
+      "song": "Immortal Rites",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SUFFOCATION",
+      "song": "Abomination Reborn",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEN AT WORK",
+      "song": "Downunder",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GENESIS",
+      "song": "I Can't Dance",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHN FARNHAM",
+      "song": "You're The Voice",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HEART",
+      "song": "Alone",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BABY ANIMALS",
+      "song": "One Word",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Jeremy",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHRIS CORNELL",
+      "song": "You Know My Name",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Fell On Black Days",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Hold The Line",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Killing In The Name",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DILLINGER ESCAPE PLAN",
+      "song": "Panasonic Youth",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "I'm Broken",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HYPOCRISY",
+      "song": "Scrutinized",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ZYKLON",
+      "song": "Psyklon Aeon",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Arise",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Digging The Grave",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Billie Jean",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Treaty",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BODY COUNT featuring ICE-T",
+      "song": "Talk Shit, Get Shot",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Wu-Tang Clan Ain't Nuthin'",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.W.A",
+      "song": "Express Yourself",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX - LIVE",
+      "song": "Red House",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AC/DC - LIVE",
+      "song": "Riff Raff",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Seasons In The Abyss",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PSYCROPTIC",
+      "song": "Initiate",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PSYCROPTIC",
+      "song": "Live at The Hi-Fi Bar, Melbourne",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ZIG ZAGS",
+      "song": "Magic",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GALLOWS",
+      "song": "Chains",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TRIPTYKON",
+      "song": "Aurorae",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BELPHEGOR",
+      "song": "Conjuring The Dead",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SIGHT OF EMPTINESS feat CHRISTIAN ALVESTAM",
+      "song": "Deception",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "The Negative One",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICKY NIGHT TIME",
+      "song": "Everybody Together",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANNA LUNOE",
+      "song": "All Out",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CASTANETS",
+      "song": "Call Them Memphis",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RETIREE",
+      "song": "Altruisme",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Ultraviolence",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMILY BROWNING AND BELLE and SEBASTIAN",
+      "song": "God Help The Girl",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOON HOLIDAY",
+      "song": "Rid U",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "IBEYI",
+      "song": "River",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE PINK TILES",
+      "song": "Ordinary Girl",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LOWELL",
+      "song": "The Bells",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AUSTRA",
+      "song": "Doepfer",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PIONAL",
+      "song": "It's All Over",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ANDRAS FOX featuring IMHOTEP",
+      "song": "Ankle Snapper",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PHILIP SELWAY",
+      "song": "Coming Up For Air",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BENJAMIN CLEMENTINE",
+      "song": "Condolence",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FOXYGEN",
+      "song": "How Can You Really",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BANKS",
+      "song": "Beggin For Thread",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BENOIT and SERGIO",
+      "song": "Your Darkness",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JOE GODDARD featuring BETSY",
+      "song": "Endless Love",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CELEBRATION",
+      "song": "Tomorrow's Here Today",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WOODKID featuring MAX RICHTER",
+      "song": "The Golden Age",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DARREN SYLVESTER",
+      "song": "Boys Die Young",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BILL CALLAHAN",
+      "song": "Javelin Unlanding",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Heart Is A Drum",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DEERS",
+      "song": "Trippy Gum",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE GOOCH PALMS",
+      "song": "Hungry",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SON LUX",
+      "song": "Lanterns Lit",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LIL B",
+      "song": "No Black Person Is Ugly",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JANELLE MONAE",
+      "song": "Electric Lady",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

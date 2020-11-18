@@ -1,0 +1,495 @@
+{
+  "title": "Saturday night  Saturday, 4 June",
+  "special": "Airbourne",
+  "timeslot": "night",
+  "date": "2011-06-04",
+  "url": "http://www.abc.net.au/rage/archive/s3235048.htm",
+  "tracks": [
+    {
+      "artist": "CINDERELLA",
+      "song": "Shake Me",
+      "label": "Polygram",
+      "timeslot": "23:45:00"
+    },
+    {
+      "artist": "TWISTED SISTER",
+      "song": "We're Not Gonna Take It",
+      "label": "Warner",
+      "timeslot": "23:45:00"
+    },
+    {
+      "artist": "WARRANT",
+      "song": "Cherry Pie",
+      "label": "Sony",
+      "timeslot": "23:45:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Poison",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "POISON",
+      "song": "Unskinny Bop",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Janie's Got A Gun",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE POOR",
+      "song": "More Wine Waiter Please",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE POOR",
+      "song": "Kill My Faith",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE ANGELS - LIVE AT NARARA '83",
+      "song": "Eat City",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE ANGELS - LIVE AT NARARA '83",
+      "song": "Comin' Down",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "Some Of That Love",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "Sticky Little Bitch",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "Take A Long Line",
+      "label": "Albert Productions",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "We've Got to Get Out Of This Place",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Big Guns",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Flick Of The Switch",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Sink The Pink",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC/DC - LIVE",
+      "song": "Let's Get It Up",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AC/DC - LIVE",
+      "song": "Put The Finger On You",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Rock Out",
+      "label": "Riot",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Bomber",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "We Die Young",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Man In The Box",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Bark At The Moon",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Paranoid",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "No More Tears",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Number Of The Beast",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Run To The Hills",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN - LIVE",
+      "song": "Fear Of The Dark",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Enter Sandman",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "For Whom The Bell Tolls",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "METALLICA - LIVE",
+      "song": "Master Of Puppets",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROSE TATTOO",
+      "song": "Branded",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROSE TATTOO",
+      "song": "Born To Be Wild",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "You've Got Nothing I Want",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Bow River",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "COLD CHISEL - LIVE",
+      "song": "20th Century",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "COLD CHISEL - LIVE",
+      "song": "The Star Hotel",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ZZ TOP",
+      "song": "Gimme All Your Lovin'",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ZZ TOP",
+      "song": "Legs",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TWISTED SISTER",
+      "song": "I Wanna Rock",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CULT",
+      "song": "Love Removal Machine",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "You Could Be Mine",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Paradise City",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES - LIVE",
+      "song": "Live & Let Die",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AIRBOURNE",
+      "song": "Runnin' Wild",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AIRBOURNE",
+      "song": "Too Much, Too Young, Too Fast",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AIRBOURNE",
+      "song": "Diamond In The Rough",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AIRBOURNE",
+      "song": "No Way But The Hard Way",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AIRBOURNE",
+      "song": "Blonde, Bad And Beautiful",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Live At The Cambridge Hotel",
+      "label": "Murmur",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Tomorrow",
+      "label": "Murmur",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Pure Massacre",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR - LIVE ON RECOVERY",
+      "song": "The Closing",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Israel's Son",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Shade",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR - LIVE IN MELBOURNE PARK",
+      "song": "Slave",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Freak",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Abuse Me",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR - LIVE IN MELBOURNE PARK",
+      "song": "Kick Out The Jams",
+      "label": "Murmur",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Cemetery",
+      "label": "Murmur",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "The Door",
+      "label": "Murmur",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR - LIVE ON RECOVERY",
+      "song": "The Closing",
+      "label": "Murmur",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Anthem For The Year 2000",
+      "label": "Murmur",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Emotion Sickness",
+      "label": "Murmur",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Ana's Song (Open Fire)",
+      "label": "Murmur",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Miss You Love",
+      "label": "Murmur",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR - LIVE IN MELBOURNE PARK",
+      "song": "Point Of View",
+      "label": "Murmur",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR - LIVE IN MELBOURNE PARK",
+      "song": "Paint Pastel Princess",
+      "label": "Murmur",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "The Greatest View",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR - LIVE",
+      "song": "World Upon Your Shoulders",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Without You",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Luv Your Life",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Across The Night",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "After All These Years",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR - LIVE 'ACROSS THE GREAT DIVIDE'",
+      "song": "Mind Reader",
+      "label": "Eleven",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Straight Lines",
+      "label": "Eleven",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Reflections Of A Sound",
+      "label": "Eleven",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "If You Keep Losing Sleep",
+      "label": "Eleven",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR - triple j Like A Version",
+      "song": "Yellow Submarine",
+      "label": "Eleven",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "title": "Saturday night 12 December 2015",
+  "special": "Costa Georgiadis",
+  "timeslot": "night",
+  "date": "2015-12-12",
+  "url": "http://www.abc.net.au/rage/archive/s4370742.htm",
+  "tracks": [
+    {
+      "artist": "COSTA",
+      "song": "Down and Dirty",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FORMIDABLE VEGETABLE SOUNDSYSTEM",
+      "song": "Yield",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DIRTGIRL",
+      "song": "Chicken Jam",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE FOOLS",
+      "song": "Psycho Chicken",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CAMEO",
+      "song": "Word Up",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CHIC",
+      "song": "Le Freak",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ISAAC HAYES",
+      "song": "Shaft",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KC and THE SUNSHINE BAND",
+      "song": "Please Don't Go",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Best Of You",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Bow River",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MACHINE GUN FELLATIO",
+      "song": "Rollercoaster",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "Blackfella Whitefella",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "Waru (Fire)",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Digging In The Dirt",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EARTH, WIND AND FIRE",
+      "song": "Fantasy",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HOT CHOCOLATE",
+      "song": "Emma",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HOT CHOCOLATE",
+      "song": "Everyone's A Winner",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TEARS FOR FEARS",
+      "song": "Everybody Wants To Rule The World",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAFT PUNK featuring PHARRELL WILLIAMS",
+      "song": "Get Lucky",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Holiday",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YAZZ",
+      "song": "The Only Way Is Up",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMMY LITTLE",
+      "song": "Down Below",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMMY LITTLE",
+      "song": "Yorta Yorta Man",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KARMA COUNTY with BRYAN BROWN",
+      "song": "Dexter and Sinistra",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE REELS",
+      "song": "Quasimodo's Dream",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE REELS",
+      "song": "This Guy's In Love (With You) (Live on Countdown, 1982)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Freedom Of Choice",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "Music Non Stop",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PHILIP GLASS",
+      "song": "Koyaanisqatsi",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JAMES BROWN - LIVE AT CHASTAIN PARK",
+      "song": "It's Too Funky In Here",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GEORGE CLINTON",
+      "song": "Atomic Dog",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE GEORGE CLINTON and P-FUNK ALL STARS",
+      "song": "If Anybody Gets Funked Up (It's Gonna Be You)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KINGS OF LEON - LIVE",
+      "song": "Use Somebody",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL - LIVE",
+      "song": "Only The Strong",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Big On Love",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HUNTERS and COLLECTORS",
+      "song": "When The River Runs Dry",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BEARDS",
+      "song": "If Your Dad Doesn't Have A Beard, You've Got Two Mums",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BEARDS",
+      "song": "Growing A Beard",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CRUEL SEA",
+      "song": "This Is Not The Way Home",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Controversy",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KOOL and THE GANG",
+      "song": "Celebration",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WILD CHERRY",
+      "song": "Play That Funky Music",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RICHARD CLAPTON",
+      "song": "I Am An Island",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DAVID MCCORMACK",
+      "song": "The Good Times (Keep Following Me Around)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TINY TIM",
+      "song": "Highway To Hell",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BRUNO MARS",
+      "song": "Locked Out Of Heaven",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CLIFF RICHARD",
+      "song": "Wired For Sound",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GERRY RAFFERTY",
+      "song": "Baker Street",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOY and BEAR",
+      "song": "Southern Sun",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GEORGE EZRA",
+      "song": "Blame It On Me",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KING CURLY",
+      "song": "I Wish I Was A Girl",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KING CURLY",
+      "song": "Curly and Sue",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE TRAMMPS",
+      "song": "Disco Inferno",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BARRY WHITE",
+      "song": "Let The Music Play (Funkstar remix)",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Don't Stop 'Til You Get Enough",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DAVE GRANEY 'N' THE CORAL SNAKES",
+      "song": "Feelin' Kinda Sporty",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MILES DAVIS",
+      "song": "So What",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLACK GRASS",
+      "song": "Don't Leave Me This Way",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE and BING CROSBY",
+      "song": "Little Drummer Boy",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GEOFFREY GURRUMUL YUNUPINGU - LIVE",
+      "song": "Djarimirri",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GURRUMUL AND BLUE KING BROWN",
+      "song": "Gathu Mawula",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SIMPLE MINDS - LIVE ON COUNTDOWN",
+      "song": "Love Song",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DIRTGIRL",
+      "song": "Go Get Grubby",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JOHN PAUL YOUNG",
+      "song": "Love Is In The Air",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEMIS ROUSSOS",
+      "song": "Life In The City",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DONNA SUMMER",
+      "song": "State Of Independence",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE JACKSONS",
+      "song": "Blame It On The Boogie",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Forgotten Years",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Friday I'm In Love",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Road To Nowhere",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SIMPLE MINDS",
+      "song": "Don't You (Forget About Me)",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KD LANG",
+      "song": "Constant Craving",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LENNY KRAVITZ",
+      "song": "Mr Cab Driver",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "It's The End Of The World As We Know It",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PRIMUS",
+      "song": "Candy Man",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JACK LADDER THE DREAMLANDERS ft. SHARON VAN ETTE",
+      "song": "To Keep and To Be Kept",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ATOMIC KITTEN",
+      "song": "Ladies Night",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "Kings and Queens",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ADULT JAZZ",
+      "song": "Idiot Mantra",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "30 ODD FOOT OF GRUNTS",
+      "song": "What's Her Name?",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALIEN ANT FARM",
+      "song": "Attitude",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ADAM POWER",
+      "song": "Stink In History",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "28 DAYS",
+      "song": "Birthday",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Chiquitita",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE AUSTRALIAN BEEFWEEK SHOW",
+      "song": "A Russian Lunch Affair",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "4 NON BLONDES",
+      "song": "Misty Mountain Hop",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BABAGANOUJ",
+      "song": "Too Late For Love",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOEY BADA$$ featuring KIESZA",
+      "song": "Teach Me",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Empty Threat",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WOLF ALICE",
+      "song": "Freazy",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BULLY",
+      "song": "Too Tough",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TINY LITTLE HOUSES",
+      "song": "Soon We Won't Exist",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HIPPO CAMPUS",
+      "song": "South",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AUTRE NE VEUT",
+      "song": "Age Of Transparency",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ELIZABETH ROSE",
+      "song": "Shoulda Coulda Woulda",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DORNIK",
+      "song": "Strong",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FAILURE",
+      "song": "Counterfeit Sky",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SOCIETY",
+      "song": "Protocol",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE BIG MOON",
+      "song": "Nothing Without You",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ECCA VANDAL",
+      "song": "End Of Time",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAVAGES",
+      "song": "The Answer",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Trapdoor",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

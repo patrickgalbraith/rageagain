@@ -1,0 +1,433 @@
+{
+  "title": "Saturday 13th January",
+  "special": "GTK, Hitscene, Countdown & Rock Arena episodes",
+  "timeslot": null,
+  "date": "2001-01-13",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010113.htm",
+  "tracks": [
+    {
+      "artist": "Elvis Costello",
+      "song": "Pump It Up",
+      "label": "Warner",
+      "timeslot": "01:45:00"
+    },
+    {
+      "artist": "Iggy Pop",
+      "song": "5 Foot 1",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "The Clash",
+      "song": "Tommy Gun",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "New Order",
+      "song": "Blue Monday",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Depeche Mode",
+      "song": "Just Can't Get Enough",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Soft Cell",
+      "song": "Tainted Love",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "The Cure",
+      "song": "Love Cats",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Siouxsie & The Banshees",
+      "song": "Passenger",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "The Sisters Of Mercy",
+      "song": "This Corrosion",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "The Jesus & Mary Chain",
+      "song": "Sidewalking",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Duran Duran",
+      "song": "Planet Earth",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Flock Of Seagulls",
+      "song": "I Ran",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Husker Du",
+      "song": "Don't Want To Know If You Are Lonely",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "It's The End Of The World As We Know It",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Orange Crush",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Smashing Pumpkins",
+      "song": "Rhinoceros",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Nirvana",
+      "song": "Come As You Are",
+      "label": "Universal (MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "The Corrs",
+      "song": "Irresistible",
+      "label": "Warner",
+      "timeslot": "04:00:00",
+      "countdown": 50
+    },
+    {
+      "artist": "Invertigo",
+      "song": "Chances Are",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00",
+      "countdown": 49
+    },
+    {
+      "artist": "Kylie Minogue",
+      "song": "On A Night Like This",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00",
+      "countdown": 48
+    },
+    {
+      "artist": "Nelly",
+      "song": "Country Grammar",
+      "label": "Universal",
+      "timeslot": "04:00:00",
+      "countdown": 47
+    },
+    {
+      "artist": "Girl Thing",
+      "song": "Girls On Top",
+      "label": "BMG",
+      "timeslot": "04:00:00",
+      "countdown": 44
+    },
+    {
+      "artist": "All Saints",
+      "song": "Black Coffee",
+      "label": "Warner",
+      "timeslot": "04:00:00",
+      "countdown": 43
+    },
+    {
+      "artist": "Boys & Fly Girls - Bomfunk MC's",
+      "song": "B",
+      "label": "Sony",
+      "timeslot": "04:00:00",
+      "countdown": 42
+    },
+    {
+      "artist": "Sonique",
+      "song": "Sky",
+      "label": "Universal",
+      "timeslot": "04:00:00",
+      "countdown": 41
+    },
+    {
+      "artist": "Westlife",
+      "song": "My Love",
+      "label": "BMG",
+      "timeslot": "04:30:00",
+      "countdown": 40
+    },
+    {
+      "artist": "Ronan Keating",
+      "song": "The Way You Make Me Feel",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 39
+    },
+    {
+      "artist": "Powderfinger",
+      "song": "My Happiness",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 38
+    },
+    {
+      "artist": "Kylie Minogue",
+      "song": "Please Stay",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00",
+      "countdown": 37
+    },
+    {
+      "artist": "Mandy Moore",
+      "song": "I Wanna Be With You",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 36
+    },
+    {
+      "artist": "MaryMary",
+      "song": "Shackles (Praise You)",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 35
+    },
+    {
+      "artist": "Coldplay",
+      "song": "Yellow",
+      "label": "EMI",
+      "timeslot": "04:30:00",
+      "countdown": 34
+    },
+    {
+      "artist": "Kandi",
+      "song": "Don't Think I'm Not",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 33
+    },
+    {
+      "artist": "U2",
+      "song": "Beautiful Day",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 32
+    },
+    {
+      "artist": "Madasun",
+      "song": "Don't You Worry",
+      "label": "V2",
+      "timeslot": "05:00:00",
+      "countdown": 31
+    },
+    {
+      "artist": "Anastacia",
+      "song": "Not That Kind",
+      "label": "Sony",
+      "timeslot": "05:00:00",
+      "countdown": 30
+    },
+    {
+      "artist": "Melanie C",
+      "song": "I Turn To You",
+      "label": "Virgin",
+      "timeslot": "05:00:00",
+      "countdown": 29
+    },
+    {
+      "artist": "Pink",
+      "song": "You Make Me Sick",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 28
+    },
+    {
+      "artist": "Christina Aguilera",
+      "song": "Come On Over Baby (All I Want Is You)",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 27
+    },
+    {
+      "artist": "LeAnn Rimes",
+      "song": "Can't Fight The Moonlight",
+      "label": "Sony",
+      "timeslot": "05:00:00",
+      "countdown": 26
+    },
+    {
+      "artist": "3 Doors Down",
+      "song": "Kryptonite",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 25
+    },
+    {
+      "artist": "Darude",
+      "song": "Feel The Beat",
+      "label": "Central Station",
+      "timeslot": "05:30:00",
+      "countdown": 23
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "song": "If You're Gone",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 22
+    },
+    {
+      "artist": "Samantha Mumba",
+      "song": "Gotta Tell You",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 21
+    },
+    {
+      "artist": "Spice Girls",
+      "song": "Holler",
+      "label": "Virgin",
+      "timeslot": "05:30:00",
+      "countdown": 20
+    },
+    {
+      "artist": "Ricky Martin",
+      "song": "She Bangs",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 19
+    },
+    {
+      "artist": "Backstreet Boys",
+      "song": "Shape Of My Heart",
+      "label": "Jive/Zomba",
+      "timeslot": "05:30:00",
+      "countdown": 17
+    },
+    {
+      "artist": "Britney Spears",
+      "song": "Stronger",
+      "label": "Jive/Zomba",
+      "timeslot": "05:30:00",
+      "countdown": 16
+    },
+    {
+      "artist": "Robbie Williams & Kylie Minogue",
+      "song": "Kids",
+      "label": "EMI",
+      "timeslot": "06:00:00",
+      "countdown": 15
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "song": "Let's Get Loud",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 14
+    },
+    {
+      "artist": "Modjo",
+      "song": "Lady (Hear Me Tonight)",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 13
+    },
+    {
+      "artist": "Vitamin C",
+      "song": "Graduation (Friends Forever)",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 12
+    },
+    {
+      "artist": "Spiller",
+      "song": "Groovejet (If This Ain't Love)",
+      "label": "EMI",
+      "timeslot": "06:00:00",
+      "countdown": 11
+    },
+    {
+      "artist": "Human Nature",
+      "song": "He Don't Love You",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 10
+    },
+    {
+      "artist": "The Offspring",
+      "song": "Original Prankster",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 9
+    },
+    {
+      "artist": "Vanessa Amorosi",
+      "song": "The Power",
+      "label": "Transistor",
+      "timeslot": "06:00:00",
+      "countdown": 8
+    },
+    {
+      "artist": "Madonna",
+      "song": "Don't Tell Me",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 7
+    },
+    {
+      "artist": "Vitamin C",
+      "song": "The Itch",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 6
+    },
+    {
+      "artist": "Craig David",
+      "song": "7 Days",
+      "label": "Shock",
+      "timeslot": "06:30:00",
+      "countdown": 5
+    },
+    {
+      "artist": "Debelah Morgan",
+      "song": "Dance With Me",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 4
+    },
+    {
+      "artist": "Destiny's Child",
+      "song": "Independent Women",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 3
+    },
+    {
+      "artist": "Wheatus",
+      "song": "Teenage Dirtbag",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 2
+    },
+    {
+      "artist": "Huey Lewis & Gwyneth Paltrow",
+      "song": "Cruisin'",
+      "label": "Fest/Mush",
+      "timeslot": "06:30:00",
+      "countdown": 1
+    }
+  ]
+}

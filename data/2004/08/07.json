@@ -1,0 +1,555 @@
+{
+  "title": "Saturday 7th August",
+  "special": "Cyndi Lauper guest programs",
+  "timeslot": null,
+  "date": "2004-08-07",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040807.htm",
+  "tracks": [
+    {
+      "artist": "THE CURE",
+      "song": "Friday I'm In Love",
+      "label": "Warner",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Our House",
+      "label": "Virgin",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "I Got You",
+      "label": "Fest/Mush",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "THE EURYTHMICS",
+      "song": "Sweet Dreams",
+      "label": "Universal (MCA)",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Burning Down The House",
+      "label": "Warner",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Beds Are Burning",
+      "label": "Sony",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": "Universal (MCA)",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "LIVING COLOUR",
+      "song": "Cult Of Personality",
+      "label": "Sony",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Give It Away",
+      "label": "Warner",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ziggy Stardust",
+      "label": "EMI",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "I Am The Walrus",
+      "label": "EMI",
+      "timeslot": "12:11:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "It's Oh So Quiet",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Weapon Of Choice",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JAMIROQUAI",
+      "song": "Canned Heat",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEAD OR ALIVE",
+      "song": "You Spin Me Round (Like A Record)",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROCKY HORROR PICTURE SHOW",
+      "song": "Time Warp",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CAMEO",
+      "song": "Word Up",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Kiss",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TERENCE TRENT D'ARBY",
+      "song": "Wishing Well",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MARVIN GAYE",
+      "song": "Sexual Healing",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BOB MARLEY & THE WAILERS",
+      "song": "One Love",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "INDIA.ARIE",
+      "song": "Brown Skin",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MACY GRAY",
+      "song": "I Try",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CULTURE CLUB",
+      "song": "Do You Really Want To Hurt Me?",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Losing My Religion",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "K.D. LANG",
+      "song": "Constant Craving",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "Don't Dream It's Over",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Road To Nowhere",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "One Step Ahead",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "Better Be Home Soon",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "The Streets Of Philadelphia",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Need You Tonight/Mediate",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "White Wedding",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "I Want To Break Free",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Rapture",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MARIANNE FAITHFULL",
+      "song": "Sex With Strangers",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THELMA HOUSTON",
+      "song": "Don't Leave Me This Way",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "M PEOPLE",
+      "song": "Moving On Up",
+      "label": "Universal (MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JENNIFER LOPEZ",
+      "song": "Ain't It Funny",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SALT 'N' PEPA",
+      "song": "Whatta Man",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Just A Girl",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DIVINYLS",
+      "song": "Pleasure & Pain",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PAT BENATAR",
+      "song": "Love Is A Battlefield",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BLUE ANGEL",
+      "song": "I'm Gonna Be Strong",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Girls Just Want To Have Fun",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Time After Time",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "She Bop",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER - Live In New York",
+      "song": "All Through The Night",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Money Changes Everything",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "The Goonies 'R' Good Enough",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "True Colors",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Change Of Heart",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "What's Going On",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Boy Blue",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Hole In My Heart (All The Way To China)",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "I Drove All Night",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "My First Night Without You",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "The World Is Stone",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Who Let In The Rain",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Sally's Pigeons",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "That's What I Think",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Hey Now (Girls Just Want To Have Fun)",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "I'm Gonna Be Strong",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "You Don't Know",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Sisters Of Avalon",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Stay",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER - Live In New York",
+      "song": "Don't Let Me Be Misunderstood",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER - Live In New York",
+      "song": "At Last",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANKEE",
+      "song": "F.U.R.B.",
+      "label": "Sony",
+      "timeslot": "05:00:00",
+      "countdown": 20
+    },
+    {
+      "artist": "REG REAGAN & THE KNUCKLEMEN",
+      "song": "Am I Ever Gonna See The Biff Again?",
+      "label": "Sony",
+      "timeslot": "05:00:00",
+      "countdown": 19
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Roses",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 18
+    },
+    {
+      "artist": "JESSICA SIMPSON",
+      "song": "Take My Breath Away",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 17
+    },
+    {
+      "artist": "KILLING HEIDI",
+      "song": "I Am",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 16
+    },
+    {
+      "artist": "COUNTING CROWS",
+      "song": "Accidentally In Love",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "SHANNON NOLL",
+      "song": "Learn To Fly",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "ANASTACIA",
+      "song": "Sick And Tired",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "KELIS",
+      "song": "Trick Me",
+      "label": "Virgin",
+      "timeslot": "05:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "AVRIL LAVIGNE",
+      "song": "My Happy Ending",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "MARIO WINANS featuring P. DIDDY",
+      "song": "I Don't Wanna Know",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "Perfect",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 8
+    },
+    {
+      "artist": "STARSAILOR",
+      "song": "Four To The Floor",
+      "label": "EMI",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Let's Get It Started",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "D-12",
+      "song": "How Come",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "USHER",
+      "song": "Burn",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "FREESTYLERS",
+      "song": "Push Up",
+      "label": "Shock",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "PAULINI",
+      "song": "Angel Eyes",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

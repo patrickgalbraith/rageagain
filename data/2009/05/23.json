@@ -1,0 +1,591 @@
+{
+  "title": "Saturday, 23 May",
+  "special": "Howling Bells",
+  "timeslot": null,
+  "date": "2009-05-23",
+  "url": "http://www.abc.net.au/rage/archive/s2578051.htm",
+  "tracks": [
+    {
+      "artist": "STONE ROSES",
+      "song": "I Wanna Be Adored",
+      "label": "BMG",
+      "timeslot": "23:50:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Beetlebum",
+      "label": "EMI",
+      "timeslot": "23:50:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "Sorted For E's & Wizz",
+      "label": "Mercury",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SUPERGRASS",
+      "song": "Moving",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Mistaken for Strangers",
+      "label": "Remote Control",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sugar Kane",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Date With The Night",
+      "label": "Modular",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE RAVEONETTES",
+      "song": "Love In A Trashcan",
+      "label": "SBME",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE GO-GOs",
+      "song": "Our Lips Are Sealed",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TEARS FOR FEARS",
+      "song": "Everybody Wants To Rule The World",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Burning Down The House",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ELBOW",
+      "song": "Fugitive Motel",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Crystal",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "I Feel Loved",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Making Plans For Nigel",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Life On Mars",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "One Step Ahead",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KULA SHAKER",
+      "song": "Shower Your Love",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Human Behaviour",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GRANDADDY",
+      "song": "Hewlett's Daughter",
+      "label": "V2",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Knife",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Born In The USA",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "The Needle & The Damage Done",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BON IVER",
+      "song": "The Wolves (Act I & II)",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MILES DAVIS",
+      "song": "So What",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOARDS OF CANADA",
+      "song": "Dayvan Cowboy",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Everything In Its Right Place",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Would?",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Are You Experienced?",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Sweet Jane",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "Roadhouse Blues",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIGABLE PLANETS",
+      "song": "Rebirth Of Slick (Cool Like Dat)",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GRAVEDIGGAZ",
+      "song": "Nowhere To Run, Nowhere To Hide",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SNOOP DOGG",
+      "song": "Snoop Dogg",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RIHANNA featuring JAY-Z",
+      "song": "Umbrella",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GNARLS BARKLEY",
+      "song": "Crazy",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HOWLING BELLS",
+      "song": "Broken Bones",
+      "label": "Liberation",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HOWLING BELLS",
+      "song": "Low Happening",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HOWLING BELLS",
+      "song": "Into The Chaos",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WAIKIKI",
+      "song": "Frail",
+      "label": "Lib/Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WAIKIKI",
+      "song": "New Technology",
+      "label": "Lib/Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WAIKIKI",
+      "song": "Here Comes September",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WAIKIKI",
+      "song": "Lucky",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WAIKIKI",
+      "song": "Complicated",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "No Pussy Blues",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "Electric Alice",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOYS NEXT DOOR",
+      "song": "Shivers",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY",
+      "song": "Nick The Stripper",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY",
+      "song": "Junkyard - from video 'Pleasure Heads Must Burn'",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIRTHDAY PARTY, THE - Live",
+      "song": "Dead Joe",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY - Live",
+      "song": "Release The Bats",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY - Live",
+      "song": "Dead Song",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY",
+      "song": "Pleasure Heads Must Burn",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY - Live",
+      "song": "Deep In The Woods",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "In The Ghetto",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Tupelo",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "The Singer",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "The Mercy Seat",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Deanna",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "The Ship Song",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "The Weeping Song",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Straight To You",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Jack The Ripper",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "I Had A Dream Joe",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE & SHANE McGOWAN",
+      "song": "What A Wonderful World",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Do You Love Me?",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Loverman",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Red Right Hand",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICK CAVE",
+      "song": "Mack The Knife",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Stagger Lee",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS featuring CHRIS BAILEY",
+      "song": "Bring It On",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "More News From Nowhere",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICK CAVE & KYLIE MINOGUE",
+      "song": "Where The Wild Roses Grow",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICK CAVE & PJ HARVEY",
+      "song": "Henry Lee",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Into My Arms",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "(Are You) The One That I've Been Waiting For?",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "As I Sat Sadly By Her Side",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "15 Feet Of Pure White Snow",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Love Letter",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "No More Shall We Part",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "God Is In The House",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Janey's Gone",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Babe, I'm On Fire",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Nature Boy",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Breathless",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Dig, Lazarus, Dig!!!",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PEACHES",
+      "song": "Talk To Me",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CAGE THE ELEPHANT",
+      "song": "Aint No Rest For The Wicked",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BLACKCHORDS",
+      "song": "At World's End",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHAIRLIFT",
+      "song": "Evident Utensil",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WE ARE THE KICKS",
+      "song": "Limousine",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LOST VALENTINOS",
+      "song": "Serio",
+      "label": "Etc Etc",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHRISTIAN FALK featuring ROBYN",
+      "song": "Dream On",
+      "label": "MOS",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE RAY MANN THREE",
+      "song": "Hook Me Up",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MIMS",
+      "song": "Move (If You Wanna)",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FILTHY DUKES",
+      "song": "This Rhythm",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DIZZEE RASCAL & ARMAND VAN HELDEN",
+      "song": "Bonkers",
+      "label": "Liberator",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

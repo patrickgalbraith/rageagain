@@ -1,0 +1,734 @@
+{
+  "title": "Saturday 21st October",
+  "special": "Radiohead & U2 Special",
+  "timeslot": null,
+  "date": "2000-10-21",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001021.htm",
+  "tracks": [
+    {
+      "artist": "Radiohead",
+      "song": "Creep",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "Stop Whispering",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "Anyone Can Play Guitar",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "My Iron Lung",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "Fake Plastic Trees",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead - Live In Barcelona",
+      "song": "The Bends",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "High And Dry",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "Just",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "Street Spirit",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "Lucky",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead - Live In Barcelona",
+      "song": "Climbing Up The Wall",
+      "label": "EMI",
+      "timeslot": "11:15:00"
+    },
+    {
+      "artist": "Radiohead - Live In Barcelona",
+      "song": "Exit Music",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "Paranoid Android",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "Karma Police",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Radiohead",
+      "song": "No Surprises",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Radiohead - Live",
+      "song": "The National Anthem",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "I Will Follow",
+      "label": "Mercury",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Celebration",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "New Year's Day",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Two Hearts Beat As One",
+      "label": "Mercury",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Gloria",
+      "label": "Mercury",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "11 O'Clock",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Sunday Bloody Sunday",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Pride (In The Name Of Love)",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "A Sort Of Homecoming",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "The Unforgettable Fire",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "With Or Without You",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "I Still Haven't Found What I'm Looking For",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Where The Streets Have No Name",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Desire",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Helter Skelter",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Angel Of Harlem",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2 with B.B. King",
+      "song": "When Love Comes To Town",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "I Believe In You (Lovetown)",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "U2 - Live in Sydney",
+      "song": "Need Your Love",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "All I Want Is You",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "The Fly",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Mysterious Ways",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "One",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Even Better Than The Real Thing",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Wild Horses",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Lemon",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Numb",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Stay",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Discotheque",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Night & Day",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Staring At The Sun",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Please",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Last Night On Earth",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Mofo (Phunk Force Mix)",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Sweetest Thing",
+      "label": "Mercury",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Beautiful Day",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PJ Harvey",
+      "song": "Good Fortune",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Brassy",
+      "song": "Play Some D",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Blink 182",
+      "song": "Man Overboard",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Foo Fighters",
+      "song": "Next Year",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Blur",
+      "song": "Music Is My Radar",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Thievery Corporation",
+      "song": "Shadows Of Ourselves",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Isaac Hayes",
+      "song": "Theme From Shaft 2000",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Robbie Williams & Kylie Minogue",
+      "song": "Kids",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Music (Video remix)",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "The Avalanches",
+      "song": "Frontier Psychiatrist",
+      "label": "Modular",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "The Fauves",
+      "song": "Celebrate The Failure",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Regurgitator",
+      "song": "Crush The Losers",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Grinspoon",
+      "song": "Violent & Lazy",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "A1",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "03:30:00",
+      "countdown": 50
+    },
+    {
+      "artist": "Toni Braxton",
+      "song": "Spanish Guitar",
+      "label": "BMG",
+      "timeslot": "04:00:00",
+      "countdown": 49
+    },
+    {
+      "artist": "Bon Jovi",
+      "song": "Say It Isn't So",
+      "label": "Universal",
+      "timeslot": "04:00:00",
+      "countdown": 48
+    },
+    {
+      "artist": "BBMak",
+      "song": "Back Here",
+      "label": "Shock",
+      "timeslot": "04:00:00",
+      "countdown": 47
+    },
+    {
+      "artist": "Destiny's Child",
+      "song": "Jumpin' Jumpin'",
+      "label": "Sony",
+      "timeslot": "04:00:00",
+      "countdown": 46
+    },
+    {
+      "artist": "All Saints",
+      "song": "Black Coffee",
+      "label": "Warner",
+      "timeslot": "04:00:00",
+      "countdown": 45
+    },
+    {
+      "artist": "The Superjesus",
+      "song": "Gravity",
+      "label": "Warner",
+      "timeslot": "04:00:00",
+      "countdown": 44
+    },
+    {
+      "artist": "Destiny's Child",
+      "song": "Bug A Boo",
+      "label": "Sony",
+      "timeslot": "04:00:00",
+      "countdown": 43
+    },
+    {
+      "artist": "*NSync",
+      "song": "This I Promise You",
+      "label": "Jive/Zomba",
+      "timeslot": "04:00:00",
+      "countdown": 42
+    },
+    {
+      "artist": "Modjo",
+      "song": "Lady (Hear Me Tonight)",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 41
+    },
+    {
+      "artist": "S Club 7",
+      "song": "Reach",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 40
+    },
+    {
+      "artist": "Morcheeba",
+      "song": "Rome Wasn't Built In A Day",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 39
+    },
+    {
+      "artist": "True Steppers & Dane Bowers feat Victoria Beckham",
+      "song": "Out Of Your Mind",
+      "label": "BMG",
+      "timeslot": "04:30:00",
+      "countdown": 38
+    },
+    {
+      "artist": "Vanessa Amorosi",
+      "song": "Shine",
+      "label": "Transistor",
+      "timeslot": "04:30:00",
+      "countdown": 37
+    },
+    {
+      "artist": "Green Day",
+      "song": "Minority",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 36
+    },
+    {
+      "artist": "Nine Days",
+      "song": "Absolutely (Story Of A Girl)",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 35
+    },
+    {
+      "artist": "Aaron Carter",
+      "song": "I Want Candy",
+      "label": "Jive/Zomba",
+      "timeslot": "05:00:00",
+      "countdown": 33
+    },
+    {
+      "artist": "Bardot",
+      "song": "These Days",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 32
+    },
+    {
+      "artist": "Anastacia",
+      "song": "I'm Outta Love",
+      "label": "Sony",
+      "timeslot": "05:00:00",
+      "countdown": 31
+    },
+    {
+      "artist": "The Corrs",
+      "song": "Breathless",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 30
+    },
+    {
+      "artist": "Vitamin C",
+      "song": "Graduation (Friends Forever)",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 29
+    },
+    {
+      "artist": "Savage Garden",
+      "song": "Chained To You",
+      "label": "Roadshow",
+      "timeslot": "05:00:00",
+      "countdown": 28
+    },
+    {
+      "artist": "98 Degrees",
+      "song": "Give Me Just One Night (Una Noche)",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 27
+    },
+    {
+      "artist": "Aaliyah",
+      "song": "Try Again",
+      "label": "Virgin",
+      "timeslot": "05:00:00",
+      "countdown": 26
+    },
+    {
+      "artist": "Britney Spears",
+      "song": "Lucky",
+      "label": "Jive/Zomba",
+      "timeslot": "05:30:00",
+      "countdown": 25
+    },
+    {
+      "artist": "Five & Queen",
+      "song": "We Will Rock You",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 24
+    },
+    {
+      "artist": "Powderfinger",
+      "song": "My Happiness",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 23
+    },
+    {
+      "artist": "Girl Thing",
+      "song": "Last One Standing",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 22
+    },
+    {
+      "artist": "Anastacia",
+      "song": "Not That Kind",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 21
+    },
+    {
+      "artist": "Billie Piper",
+      "song": "Something Deep Inside",
+      "label": "EMI",
+      "timeslot": "05:30:00",
+      "countdown": 20
+    },
+    {
+      "artist": "Ronan Keating",
+      "song": "Life Is A Rollercoaster",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 18
+    },
+    {
+      "artist": "Madison Avenue",
+      "song": "Everything You Need",
+      "label": "Virgin",
+      "timeslot": "05:30:00",
+      "countdown": 17
+    },
+    {
+      "artist": "Madasun",
+      "song": "Don't You Worry",
+      "label": "V2",
+      "timeslot": "06:00:00",
+      "countdown": 16
+    },
+    {
+      "artist": "Mandy Moore",
+      "song": "I Wanna Be With You",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 15
+    },
+    {
+      "artist": "Melanie C",
+      "song": "I Turn To You",
+      "label": "Virgin",
+      "timeslot": "06:00:00",
+      "countdown": 14
+    },
+    {
+      "artist": "Samantha Mumba",
+      "song": "Gotta Tell You",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 13
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "song": "Let's Get Loud",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 12
+    },
+    {
+      "artist": "Christina Aguilera",
+      "song": "Come On Over Baby (All I Want Is You)",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 11
+    },
+    {
+      "artist": "Wheatus",
+      "song": "Teenage Dirtbag",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 10
+    },
+    {
+      "artist": "Boys & Fly Girls - Bomfunk MC's",
+      "song": "B",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 9
+    },
+    {
+      "artist": "Craig David",
+      "song": "Fill Me In",
+      "label": "Shock",
+      "timeslot": "06:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "Madonna",
+      "song": "Music",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 7
+    },
+    {
+      "artist": "MaryMary",
+      "song": "Shackles (Praise You)",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 5
+    },
+    {
+      "artist": "Kylie Minogue",
+      "song": "On A Night Like This",
+      "label": "Fest/Mush",
+      "timeslot": "06:30:00",
+      "countdown": 4
+    },
+    {
+      "artist": "Spiller",
+      "song": "Groovejet (If This Ain't Love)",
+      "label": "EMI",
+      "timeslot": "06:30:00",
+      "countdown": 3
+    },
+    {
+      "artist": "Pink",
+      "song": "Most Girls",
+      "label": "BMG",
+      "timeslot": "06:30:00",
+      "countdown": 2
+    },
+    {
+      "artist": "U2",
+      "song": "Beautiful Day",
+      "label": "Universal",
+      "timeslot": "06:30:00",
+      "countdown": 1
+    }
+  ]
+}

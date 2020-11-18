@@ -1,0 +1,567 @@
+{
+  "title": "Saturday night  Saturday, 2 October",
+  "special": "Old Man River",
+  "timeslot": "night",
+  "date": "2010-10-02",
+  "url": "http://www.abc.net.au/rage/archive/s3027140.htm",
+  "tracks": [
+    {
+      "artist": "DAVID BOWIE- LIVE",
+      "song": "Rock And Roll Suicide",
+      "label": "EMI",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Nude",
+      "label": "Remote Control",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "GILLIAN WELCH",
+      "song": "My First Lover",
+      "label": "Shock",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "GEORGE BYRNE",
+      "song": "Foreign Water",
+      "label": "Independent",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "TRAVELING WILBURYS",
+      "song": "Handle With Care",
+      "label": "Warner",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "Don't Worry Baby",
+      "label": "EMI",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "Stand By Me",
+      "label": "EMI",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "Mr Pleasant",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Babooshka",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Venus In Furs",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Subterranean Homesick Blues",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE DOORS - LIVE",
+      "song": "When The Music's Over",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JAMES BROWN - LIVE AT CHASTAIN PARK",
+      "song": "It's A Man's Man's Man's World",
+      "label": "MRA Entertainment",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Crosstown Traffic",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Dazed And Confused",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOB MARLEY",
+      "song": "Iron Lion Zion",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Cinnamon Girl",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "Won't Get Fooled Again",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Waiting On A Friend",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Astronomy Domine",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DR DOG",
+      "song": "The Ark",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JUSTIN TIMBERLAKE",
+      "song": "My Love",
+      "label": "SBME",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GELBISON",
+      "song": "Good God",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "We Are The People",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MODEST MOUSE",
+      "song": "Float On",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LEFTFIELD",
+      "song": "Afro Left",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEUS",
+      "song": "Suds 'N' Soda",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PANDA BEAR",
+      "song": "Bros",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CORNELIUS",
+      "song": "Tone Twilight Zone",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Model",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DJ SHADOW",
+      "song": "You Can't Go Home Again",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BHANGRA KNIGHTS vs HUSAN",
+      "song": "Husan",
+      "label": "Central Station",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Blue Suede Shoes",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOHN LEE HOOKER",
+      "song": "One Bourbon, One Scotch, One Beer",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Atlas",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BRIAN ENO",
+      "song": "Ali Click",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TRICKY",
+      "song": "Makes Me Wanna Die",
+      "label": "Mercury",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "UNDERWORLD",
+      "song": "Born Slippy",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OLD MAN RIVER",
+      "song": "You're On My Mind",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OLD MAN RIVER",
+      "song": "La",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OLD MAN RIVER",
+      "song": "Sunshine",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OLD MAN RIVER",
+      "song": "Norway (I Like It Like This)",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KAHN BROTHERS",
+      "song": "Open",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KAHN BROTHERS",
+      "song": "Thing Called Love",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GELBISON",
+      "song": "Metal Detector",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GELBISON",
+      "song": "Homelands",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GELBISON",
+      "song": "Revolution",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GELBISON",
+      "song": "All The Rage",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GELBISON",
+      "song": "Holy",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Away With The Pixies",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Pop Queen",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Cigarettes Will Kill You",
+      "label": "Modular",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Tornados",
+      "label": "Modular",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Nothing Much Happens",
+      "label": "Modular",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Something Borrowed, Something Blue",
+      "label": "Modular",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Running With Scissors",
+      "label": "Modular",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Chills",
+      "label": "Modular",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Gamble Everything For Love",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Catch My Disease",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Into The Dark",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "We're All In This Together",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Song For The Divine Mother Of The Universe",
+      "label": "Dew Process/UMA",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Glasshouses",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Miniskirt",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Good Dancers",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Sunkids",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Vampire Racecourse",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Come To This",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Devil Was In My Yard",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Walking On A Dream",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "We Are The People",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Standing On The Shore",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Without You",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Half Mast",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OLOF ARNALDS",
+      "song": "Crazy Car",
+      "label": "Spunk",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "I DREAM IN TRANSIT",
+      "song": "Electronic Bells",
+      "label": "SpeaknSpell",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OTOUTO",
+      "song": "W.Hillier",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THAO WITH THE GET DOWN STAY DOWN",
+      "song": "When We Swam",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SAM BUCKINGHAM",
+      "song": "Gravity",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE SEABELLIES",
+      "song": "Trans Ending",
+      "label": "Albert Productions",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DUM DUM GIRLS",
+      "song": "Bhang Bhang, I'm A Burnout",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VEARA",
+      "song": "My B-Side Life",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OU EST LE SWIMMING POOL",
+      "song": "Jackson's Last Stand",
+      "label": "MOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JONSI",
+      "song": "Animal Arithmetic",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FAITHLESS featuring DIDO",
+      "song": "Feelin Good",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BAG RAIDERS",
+      "song": "Way Back Home",
+      "label": "KAOS",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KELE",
+      "song": "Everything You Wanted",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH & THE NEW SLANG",
+      "song": "Modern Day Addiction",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLUE KING BROWN",
+      "song": "Never Fade Away",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DARWIN DEEZ",
+      "song": "Up In The Clouds",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JINJA SAFARI",
+      "song": "Peter Pan",
+      "label": "Other Tongues",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Congratulations",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MIAMI HORROR featuring KIMBRA",
+      "song": "I Look To You",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

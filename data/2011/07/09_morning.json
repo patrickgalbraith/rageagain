@@ -1,0 +1,465 @@
+{
+  "title": "Saturday morning  Saturday, 9 July",
+  "special": "Warwick Thornton presents NAIDOC Week",
+  "timeslot": "morning",
+  "date": "2011-07-09",
+  "url": "http://www.abc.net.au/rage/archive/s3265012.htm",
+  "tracks": [
+    {
+      "artist": "DARREN HAYES",
+      "song": "Talk Talk Talk",
+      "label": "Universal",
+      "timeslot": "06:03:00"
+    },
+    {
+      "artist": "BENI",
+      "song": "It's A Bubble",
+      "label": "Universal",
+      "timeslot": "06:03:00"
+    },
+    {
+      "artist": "CODY SIMPSON",
+      "song": "On My Mind",
+      "label": "Warner",
+      "timeslot": "06:03:00"
+    },
+    {
+      "artist": "TONIGHT ALIVE",
+      "song": "Starlight",
+      "label": "Sony",
+      "timeslot": "06:03:00"
+    },
+    {
+      "artist": "THE SCRIPT",
+      "song": "Science & Faith",
+      "label": "Sony",
+      "timeslot": "06:03:00"
+    },
+    {
+      "artist": "NEON TREES",
+      "song": "Your Surrender",
+      "label": "Universal",
+      "timeslot": "06:03:00"
+    },
+    {
+      "artist": "JOE JONAS",
+      "song": "See No More",
+      "label": "Universal",
+      "timeslot": "06:03:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "The Story Of Us",
+      "label": "Universal",
+      "timeslot": "06:03:00"
+    },
+    {
+      "artist": "BRUNO MARS",
+      "song": "The Lazy Song",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CHRISTINA PERRI",
+      "song": "Jar Of Hearts",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "California King Bed",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JASON DERULO",
+      "song": "Don't Wanna Go Home",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HAVANA BROWN",
+      "song": "We Run The Night",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NICOLE SCHERZINGER featuring 50 CENT",
+      "song": "Right There",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Run The World (Girls)",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KATY B",
+      "song": "Broken Record",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "EXAMPLE",
+      "song": "Changed The Way You Kiss Me",
+      "label": "MOS",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LMFAO featuring NATALIA KILLS",
+      "song": "Champagne Showers",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "WYNTER GORDON",
+      "song": "Til Death (Denzal Park Radio Edit)",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JENNIFER LOPEZ feat PITBULL",
+      "song": "On The Floor",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "HOT CHELLE RAE",
+      "song": "Tonight Tonight",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE",
+      "song": "Smile",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KATY PERRY",
+      "song": "Last Friday Night (T.G.I.F)",
+      "label": "EMI",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "SCOUTING FOR GIRLS",
+      "song": "Love How It Hurts",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SIMPLE PLAN feat NATASHA BEDINGFIELD",
+      "song": "Jetlag",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "The Edge Of Glory",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SELENA GOMEZ & THE SCENE",
+      "song": "Love You Like A Love Song",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "STAN WALKER",
+      "song": "Loud",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JESSIE J",
+      "song": "Nobody's Perfect",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Every Teardrop Is A Waterfall",
+      "label": "EMI",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "PATRICK WOLF",
+      "song": "House",
+      "label": "Inertia",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "A-Punk",
+      "label": "Remote Control",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "FATTY GETS A STYLIST",
+      "song": "Are You Ready?",
+      "label": "Sony",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "The Sweet Escape",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LANU featuring MEGAN WASHINGTON",
+      "song": "Fall",
+      "label": "Inertia",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LIAM FINN",
+      "song": "Cold Feet",
+      "label": "Liberation",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BANANARAMA & LA NA NEE NEE NOO NOO",
+      "song": "Help",
+      "label": "Polydor",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "ROISIN MURPHY",
+      "song": "If We're In Love",
+      "label": "Liberation",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "YOUNG THE GIANT",
+      "song": "My Body",
+      "label": "Roadrunner",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Who Can Say",
+      "label": "Remote Control",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE NAKED AND FAMOUS",
+      "song": "Girls Like You",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "GROUPLOVE",
+      "song": "Itchin' On A Photograph",
+      "label": "Warner",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE AMCATS",
+      "song": "Peggy Sue",
+      "label": "Smashed Records",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "MORRIS DAY & THE TIME",
+      "song": "Jungle Love",
+      "label": "Warner",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BAG RAIDERS",
+      "song": "Not Over",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "This Fire",
+      "label": "Sony",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Love Will Tear Us Apart",
+      "label": "Festival",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ANNA CALVI",
+      "song": "Desire",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Future Starts Slow",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Cheap And Cheerful",
+      "label": "Virgin",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BALL PARK MUSIC",
+      "song": "Rich People Are Stupid",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PAPA VS PRETTY",
+      "song": "Honey",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Pour Some Sugar On Me",
+      "label": "Universal",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "FRIENDLY FIRES",
+      "song": "Hawaiian Air",
+      "label": "Liberator",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "God Lead Your Soul",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BROUS",
+      "song": "Streamers",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "OWL EYES",
+      "song": "Raiders",
+      "label": "Warner",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "The Bay",
+      "label": "Warner",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DIGITALISM",
+      "song": "2 Hearts",
+      "label": "Cooperative",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BON IVER",
+      "song": "Calgary",
+      "label": "Inertia",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "I Send A Message",
+      "label": "Warner",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Don't Change",
+      "label": "Warner",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Treaty",
+      "label": "Mushroom",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "COLOURED STONE",
+      "song": "Black Boy",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DAN SULTAN",
+      "song": "Old Fitzroy",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MORGANICS featuring WIRE MC",
+      "song": "They Movin'",
+      "label": "Creative Vibes",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE LAST KINECTION featuring RADICAL SON",
+      "song": "I Can",
+      "label": "Elefant Traks",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BROTHABLACK",
+      "song": "Are You With Me Out There!",
+      "label": "Obese Records",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "TEENAGE BAND",
+      "song": "Wiyappa Wanti Jalu",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CHRISTINE ANU",
+      "song": "Sunshine On A Rainy Day",
+      "label": "Fest/Mush",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Up/Down",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DAVID PAGE",
+      "song": "Which Way",
+      "label": "CAAMA",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "NO FIXED ADDRESS",
+      "song": "From My Eyes",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "My Island Home",
+      "label": "Festival",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ARCHIE ROACH & RUBY HUNTER & THE DEADLY BAND",
+      "song": "Down City Streets",
+      "label": "ABC",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "JOHN BUTLER, DAN SULTAN & MISSY HIGGINS",
+      "song": "From Little Things Big Things Grow",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    }
+  ]
+}

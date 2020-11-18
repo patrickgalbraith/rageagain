@@ -1,0 +1,681 @@
+{
+  "title": "Saturday night 21 May 2016, ABC",
+  "special": "Kate Ceberano",
+  "timeslot": "night",
+  "date": "2016-05-21",
+  "url": "http://www.abc.net.au/rage/archive/s4466469.htm",
+  "tracks": [
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Bedroom Eyes",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE SWEET",
+      "song": "Fox On The Run",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE SWEET",
+      "song": "Ballroom Blitz",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CHEAP TRICK",
+      "song": "Dream Police",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ISAAC HAYES",
+      "song": "Shaft",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "AMII STEWART",
+      "song": "Knock On Wood",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE - LIVE",
+      "song": "Fame",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "IAN DURY",
+      "song": "Hit Me With Your Rhythm Stick",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Burning Down The House",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Atomic",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Heart Of Glass",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Under The Milky Way",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "I Hope I Never",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "This Woman's Work",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Shine On You Crazy Diamond",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DONNA SUMMER",
+      "song": "I Feel Love",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DONNA SUMMER",
+      "song": "The Wanderer",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "COLLETTE",
+      "song": "Ring My Bell",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RENEE GEYER - Live at the 1975 Music Industry...",
+      "song": "It's A Man's Man's World",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Devil Gate Drive/Can The Can/48 Crash",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Brown Sugar",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "I Was Made For Lovin' You",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Rock 'N' Roll All Nite",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EARTH, WIND AND FIRE",
+      "song": "Boogie Wonderland",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Master Blaster",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Message In A Bottle",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Don't Stand So Close To Me",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Golden Brown",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Skin Deep",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SUPERTRAMP",
+      "song": "Dreamer",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "Hong Kong Garden",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Boys Don't Cry",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JAMES FREUD and BERLIN",
+      "song": "Modern Girl",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "London Calling",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Too Much, Too Young",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "UK SQUEEZE",
+      "song": "Cool For Cats",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Slave To The Rhythm",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Pull Up To The Bumper",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FOX",
+      "song": "S-S-S-Single Bed",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Out Of Mind Out Of Sight",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Man With A Child In His Eyes",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JUDIE TZUKE",
+      "song": "Stay WIth Me Till Dawn",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Protection",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SERGE GAINSBOURG and BRIGITTE BARDOT",
+      "song": "Bonnie And Clyde",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Raspberry Beret",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Kiss",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROBERT PALMER",
+      "song": "Looking For Clues",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SANTANA",
+      "song": "Black Magic Woman/Gypsy Queen",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC VS TODD TERJE",
+      "song": "Love Is The Drug",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Heroes",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUEEN featuring DAVID BOWIE",
+      "song": "Under Pressure",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "I Want To Break Free",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Psycho Killer",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Sunday Bloody Sunday",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "I Got You",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Pash",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Lush Life",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Young Boys Are My Weakness",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Bedroom Eyes",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Love Dimension",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Brave",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Since You've Been Gone",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Nature Boy",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "That's What I Call Love",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "I'M TALKING",
+      "song": "Someday",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "I'M TALKING",
+      "song": "Trust Me",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "I'M TALKING",
+      "song": "Love Dont Live Here Anymore",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "I'M TALKING",
+      "song": "Do You Wanna Be",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "I'M TALKING",
+      "song": "Holy Word",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "I'M TALKING",
+      "song": "How Can It Be",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "See Right Through",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Change",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Love And Affection",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Love Is Alive",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Time To Think",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "I Won't Let You Down",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "True Romantic",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Yes",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Higher and Higher",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "At Last",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Unchained Melody",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "She Will Be Loved",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Magnet",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KAYTRANADA",
+      "song": "Lite Spots",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ANDERSON .PAAK",
+      "song": "The Season / Carry Me / The Waters",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Make Them Wheels Roll",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Viceroy",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Reflective Skull",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Jump N' Shout",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HEARTBEAT UK",
+      "song": "Jump To It!",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Jump Into The Fog",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Jump They Say",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HERB ALPERT featuring YVONNE DE LA VEGA",
+      "song": "Jump Street",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Jumpin' Jumpin'",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE POINTER SISTERS",
+      "song": "Jump (For My Love)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOUSE OF PAIN",
+      "song": "Jump Around",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KRIS KROSS",
+      "song": "Jump",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Jump",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "California",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "D.D DUMBO",
+      "song": "Satan",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BROADWAY SOUNDS",
+      "song": "Exclusive Love / Digital Influence",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "World Of Our Love",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SHINING BIRD",
+      "song": "Helluva Lot",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GYPSY _and_ THE CAT",
+      "song": "I Just Wanna Be Somebody Else",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Sunday",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAMES BLAKE ft. BON IVER",
+      "song": "I Need A Forrest Fire",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TWIN PEAKS",
+      "song": "Butterfly",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BLONDE REDHEAD and CONNAN MOCKASIN",
+      "song": "Defeatist Anthem By The Sea",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KING GIZZARD and THE LIZARD WIZARD",
+      "song": "People Vultures",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO and JON LENT",
+      "song": "I Was A Fool To Care",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Heart Of A Dog",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Daydreaming",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

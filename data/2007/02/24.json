@@ -1,0 +1,495 @@
+{
+  "title": "Saturday, 24 February",
+  "special": "Hot Chip guest program ",
+  "timeslot": null,
+  "date": "2007-02-24",
+  "url": "http://www.abc.net.au/rage/archive/s1975155.htm",
+  "tracks": [
+    {
+      "artist": "PRINCE",
+      "song": "Partyman",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MARVIN GAYE",
+      "song": "Sexual Healing",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BIZ MARKIE",
+      "song": "Just A Friend",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Electric Relaxation",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YING YANG TWINS",
+      "song": "Wait (The Whisper Song)",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Da Mystery Of Cheesboxin'",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "99 Problems",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "911 (Is A Joke)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "All Is Full Of Love",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SPARKS",
+      "song": "No. 1 Song In Heaven",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KATE BUSH AND PETER GABRIEL",
+      "song": "Don't Give Up",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BONNIE PRINCE BILLY",
+      "song": "Agnes, Queen Of Sorrow",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WEEN",
+      "song": "Freedom Of '76",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "Don't Worry Baby",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LEONARD COHEN",
+      "song": "First We Take Manhattan",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LEONARD COHEN",
+      "song": "In My Secret Life",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Series Of Dreams",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "In The Neighbourhood",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "Looking Out My Back Door",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "No Money Down",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Miss You",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Love In An Elevator",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "TNT",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CRAZY WORLD OF ARTHUR BROWN",
+      "song": "Fire",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PAUL McCARTNEY",
+      "song": "Coming Up",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PAUL McCARTNEY & WINGS",
+      "song": "Band On The Run",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Workin' In A Coalmine",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "Telephone Call",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HERBIE HANCOCK",
+      "song": "Rock It",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AFRIKA BAMBAATAA & THE SOUL SONIC FORCE",
+      "song": "Planet Rock",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BETA BAND",
+      "song": "Inner Meet Me",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Playboy",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Over & Over",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Boy From School",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Colours",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SCISSOR SISTERS",
+      "song": "Take Your Mama Out",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIKA",
+      "song": "Grace Kelly",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PAUL MAC",
+      "song": "Love Declaration",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DANNII",
+      "song": "Everlasting Night",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Ray Of Light",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Slow",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Spinning Around",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GEORGE MICHAEL",
+      "song": "I Want Your Sex",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PET SHOP BOYS",
+      "song": "Go West",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WHITE TOWN",
+      "song": "Your Woman",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE COMMUNARDS",
+      "song": "Don't Leave Me This Way",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ARMY OF LOVERS",
+      "song": "My Army Of Lovers",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEAD OR ALIVE",
+      "song": "Sex Drive",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DIANA ROSS",
+      "song": "Upside Down",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DONNA SUMMER",
+      "song": "I Feel Love",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SYLVESTER",
+      "song": "Mighty Real",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE WEATHERGIRLS",
+      "song": "It's Raining Men",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHAKA KHAN",
+      "song": "I'm Every Woman",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RU PAUL",
+      "song": "Supermodel",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Plug It In",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FEDDE LE GRAND",
+      "song": "Put Your Hands Up For Detroit",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MICHAEL GRAY",
+      "song": "The Weekend",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "Alfie",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE GOSSIP",
+      "song": "Standing In The Way Of Control",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SNOWMAN",
+      "song": "You Are A Casino",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Flathead",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SABOTEURS - Live",
+      "song": "Level",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "...AND YOU WILL KNOW US BY THE TRAIL OF DEAD",
+      "song": "Naked Sun",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Ruby",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GOMEZ",
+      "song": "Girlshapedlovedrug",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "The Blinding",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JAMIE T",
+      "song": "Salvador",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GYM CLASS HEROES",
+      "song": "Cupid's Chokehold",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "K-OS",
+      "song": "Sunday Morning",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DJ SHADOW",
+      "song": "This Time (I'm Gonna Try It My Way)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MONEY MARK",
+      "song": "Pick Up The Pieces",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OLD MAN RIVER",
+      "song": "La",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "California",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE MAGIC NUMBERS",
+      "song": "This Is A Song",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "Lines On Palms",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Hearts A Mess",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DARREN HANLON",
+      "song": "Elbows",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BOB EVANS",
+      "song": "Friend",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Snow (Hey Oh)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Window In The Skies",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

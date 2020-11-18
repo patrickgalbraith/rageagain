@@ -1,0 +1,477 @@
+{
+  "title": "Saturday morning 19 December 2015",
+  "special": null,
+  "timeslot": "morning",
+  "date": "2015-12-19",
+  "url": "http://www.abc.net.au/rage/archive/s4376385.htm",
+  "tracks": [
+    {
+      "artist": "ZARA LARSSON",
+      "song": "Lush Life",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG",
+      "song": "Plus 1",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GUY SEBASTIAN",
+      "song": "Black and Blue",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANDY GRAMMER",
+      "song": "Good To Be Alive (Hallelujah)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHARLIE PUTH",
+      "song": "One Call Away",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AVICII",
+      "song": "Broken Arrows",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JARRYD JAMES",
+      "song": "This Time (Serious Symptoms, Simple Solutions)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KILIAN _and_ JO ft. CONRAD SEWELL and SONS OF MIDNIGHT",
+      "song": "Little Love",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE featuring DANNII MINOGUE",
+      "song": "100 Degrees",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHARLOTTE DEVANEY featuring. SNOOP DOGG",
+      "song": "Flip It (The Edit)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LUNCHMONEY LEWIS ft. CHLOE ANGELIDES",
+      "song": "Whip It!",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CYRUS",
+      "song": "Stone",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "WSTRN",
+      "song": "In2",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Adventure Of A Lifetime",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ROBIN SCHULZ",
+      "song": "Sugar",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DAWIN ft SILENTO",
+      "song": "Dessert",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ONE DIRECTION",
+      "song": "Perfect",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "DRAKE",
+      "song": "Hotline Bling",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MARCUS MARR and CHET FAKER",
+      "song": "The Trouble With Us",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MACKLEMORE _and_ RYAN LEWIS ft. MELLE MEL KOOL MOE DEE",
+      "song": "Downtown",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "SIGALA",
+      "song": "Sweet Lovin'",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER",
+      "song": "What Do You Mean?",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LUNCHMONEY LEWIS",
+      "song": "Ain't Too Cool",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "RUDIMENTAL featuring ED SHEERAN",
+      "song": "Lay It All On Me",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "MNEK and ZARA LARSSON",
+      "song": "Never Forget You",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "DUKE DUMONT",
+      "song": "Ocean Drive",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SHAWN MENDES",
+      "song": "Stitches",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER",
+      "song": "Sorry",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Hello",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER",
+      "song": "Love Yourself",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SHARON JONES AND THE DAP-KINGS",
+      "song": "White Christmas",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "JILL SCOTT",
+      "song": "Back Together",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Empty Threat",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "JOHN GRANT",
+      "song": "Down Here",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LUCIUS",
+      "song": "Born Again Teen",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "WOLF ALICE",
+      "song": "Freazy",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BAND AID",
+      "song": "Do They Know It's Christmas?",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "DREAMTIME CHRISTMAS ALL-STARS",
+      "song": "Twelve Days Of Christmas",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "INCREDIBLE PENGUINS",
+      "song": "Happy Xmas (War Is Over)",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PAINTERS and DOCKERS",
+      "song": "Merry Christmas, Carol",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "How To Make Gravy",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "The Season's Upon Us",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Christmas Time (Don't Let The Bells End)",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "JOE DOLCE MUSIC THEATRE",
+      "song": "Christmas In Australia (Live on Countdown, 1981)",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "MENTAL AS ANYTHING",
+      "song": "Apocalypso",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "All I Want For Christmas Is You",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "8 Days Of Christmas",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "STEPHEN CUMMINGS",
+      "song": "Have Yourself A Merry Little Christmas (Live on Countdown Revolution, 1990)",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE POGUES featuring KIRSTY MACCOLL",
+      "song": "Fairytale Of New York",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BILLY MACK",
+      "song": "Christmas Is All Around",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BJORN AGAIN",
+      "song": "Santa Claus Is Coming To Town",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "AUSTRALIAN CRAWL",
+      "song": "Santa Claus Is Back In Town (with Countdown intro)",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "Little Drummer Boy",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "King Of Kings",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE PRETENDERS",
+      "song": "2000 Miles",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "WHAM",
+      "song": "Last Christmas",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "!!!",
+      "song": "Ooo",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "POLICA",
+      "song": "Lime Habit",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "CHAIRLIFT",
+      "song": "Romeo",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DORNIK",
+      "song": "Strong",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "AURORA",
+      "song": "Half The World Away",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Mouth Mantra",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SAVAGES",
+      "song": "The Answer",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "TINY LITTLE HOUSES",
+      "song": "Soon We Won't Exist",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "PRIMUS",
+      "song": "Candy Man",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "GUM",
+      "song": "Anesthetized Lesson",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "HIPPO CAMPUS",
+      "song": "South",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CLUBFEET",
+      "song": "We Are Affected",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Trapdoor",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "EDDY CURRENT SUPPRESSION RING",
+      "song": "Which Way To Go",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE ANIMALS",
+      "song": "Don't Let Me Be Misunderstood",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "Friday On My Mind",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Computer Age",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "HERBIE HANCOCK",
+      "song": "Rock It",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Burning Down The House",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Sitting Up On Our Crane",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Cellophane",
+      "label": null,
+      "timeslot": "11:00:00"
+    }
+  ]
+}

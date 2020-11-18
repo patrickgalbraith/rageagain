@@ -1,0 +1,591 @@
+{
+  "title": "Saturday night 8 April 2017, ABC",
+  "special": "Catfish and the Bottlemen",
+  "timeslot": "night",
+  "date": "2017-04-08",
+  "url": "http://www.abc.net.au/rage/archive/s4650183.htm",
+  "tracks": [
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Hourglass",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JAPAN",
+      "song": "Ghosts",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Avalon",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SERGE GAINSBOURG and BRIGITTE BARDOT",
+      "song": "Bonnie And Clyde",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "EELS",
+      "song": "Novocaine For The Soul",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "STEREOLAB",
+      "song": "Miss Modular",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "Babies",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WARPAINT",
+      "song": "Disco//Very - Keep It Healthy",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "Cities In Dust",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BIG AUDIO DYNAMITE",
+      "song": "The Medicine Show",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SCRITTI POLITTI",
+      "song": "The Word Girl",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HALL and OATES",
+      "song": "Adult Education",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ORANGE JUICE",
+      "song": "Rip It Up",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "12:51",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Bones",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SUPERGRASS",
+      "song": "Mary",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STEREOPHONICS",
+      "song": "The Bartender and The Thief",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WALKMEN",
+      "song": "The Rat",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE DEAD WEATHER",
+      "song": "Treat Me Like Your Mother",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE STREETS",
+      "song": "Don't Mug Yourself",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "D-12",
+      "song": "My Band",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "I Wanna Be Your Lover",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO",
+      "song": "Another One",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AIR",
+      "song": "Cherry Blossom Girl",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CARLY SIMON",
+      "song": "Why",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOWA TEI",
+      "song": "Technova",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MODJO",
+      "song": "Lady (Hear Me Tonight)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "COCTEAU TWINS",
+      "song": "Heaven Or Las Vegas",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GEORGE HARRISON - AT CONCERT FOR BANGLEDESH",
+      "song": "Something",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DOORS - LIVE",
+      "song": "Touch Me",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Rosalita",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "VAN MORRISON",
+      "song": "Wavelength",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Most Likely You Go Your Way (And I'll Go Mine)....",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Graceless",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Mind Mischief",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DUNGEN",
+      "song": "Panda",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "I Will Possess Your Heart",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "Crooked Teeth",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE ZUTONS",
+      "song": "Oh Stacey (Look What You've Done)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PETER BJORN and JOHN",
+      "song": "Nothing To Worry About",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MODEST MOUSE",
+      "song": "Ocean Breathes Salty",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FIELD MUSIC",
+      "song": "Let's Write A Book",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOMBAY BICYCLE CLUB",
+      "song": "Luna",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NATHANIEL RATELIFF _and_ THE NIGHT SWEATS",
+      "song": "I Need Never Get Old",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JULY TALK",
+      "song": "Beck and Call",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DNCE",
+      "song": "Cake By The Ocean",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BAND OF SKULLS",
+      "song": "Sweet Sour",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Is This How You Feel?",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE STAVES",
+      "song": "Steady",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Karma Police",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "House Of Cards",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPIRITUALIZED",
+      "song": "Do It All Over Again",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "Swallow",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Debaser",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Twice",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "7",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Soundcheck",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Pacifier",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Hourglass",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Cocoon",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Fallout",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Kathleen",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Rango",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Humble",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALLDAY ft. JAPANESE WALLPAPER",
+      "song": "In Motion",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIT SYNDICATE ft. JOYRIDE AND SOLO",
+      "song": "Hold On Me",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "You're In Love With A Psycho",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Feeling Remains",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MITCH TAMBO",
+      "song": "Walanbaa",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ESSENDON AIRPORT",
+      "song": "The Science of Sound",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAVID CHESWORTH",
+      "song": "Kraut Mich Mit Einem Dachshund",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAVID CHESWORTH",
+      "song": "Flea Circus",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Model",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WHADYA WANT?",
+      "song": "Life on TV",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PEL MEL",
+      "song": "Pandemonium",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ESSENDON AIRPORT",
+      "song": "Martial Art",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "UNDERGROUND LOVERS",
+      "song": "Losin' It",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GREGOR",
+      "song": "The Actress",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Treaty",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ESSENDON AIRPORT",
+      "song": "Transfusion Express",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAVID CHESWORTH",
+      "song": "No Particular Place",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ESSENDON AIRPORT",
+      "song": "Rock the Falafel Bar",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "Off White Limousine (Censored Version)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FERLA",
+      "song": "In The Night",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BODY TYPE",
+      "song": "Ludlow",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FLOWERTRUCK",
+      "song": "Dying To Hear",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ARIEL PINK AND WEYES BLOOD",
+      "song": "Tears On Fire",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAC DEMARCO",
+      "song": "This Old Dog",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WEST THEBARTON BROTHEL PARTY",
+      "song": "Moving Out (censored)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN",
+      "song": "Bravado",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PERFUME GENIUS",
+      "song": "Slip Away",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GUM",
+      "song": "Deep Razz",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALEX THE ASTRONAUT",
+      "song": "Rockstar City",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SASKWATCH",
+      "song": "December Nights",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Got On My Skateboard",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "AMY SHARK",
+      "song": "Weekends",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JAMES BLAKE",
+      "song": "My Willing Heart",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

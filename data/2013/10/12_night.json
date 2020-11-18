@@ -1,0 +1,627 @@
+{
+  "title": "Saturday night  Saturday, 12 October",
+  "special": "MOBY",
+  "timeslot": "night",
+  "date": "2013-10-12",
+  "url": "http://www.abc.net.au/rage/archive/s3867370.htm",
+  "tracks": [
+    {
+      "artist": "MOBY",
+      "song": "Bodyrock - The Auditions",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Charlotte Sometimes",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "EURYTHMICS",
+      "song": "Here Comes The Rain Again",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "Down In The Park",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Heroes",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Hallelujah",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Pull Up To The Bumper",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "AFRIKA BAMBAATAA and THE SOUL SONIC FORCE",
+      "song": "Renegades Of Funk",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Welcome To The Terrordome",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Girl U Want",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "(I Can't Get No) Satisfaction",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Loser",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "COLD WAR KIDS",
+      "song": "Hang Me Up To Dry",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JOHNNY THUNDERS and THE HEARTBREAKERS",
+      "song": "Chinese Rocks",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Rip Her To Shreds",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "X",
+      "song": "Burning House Of Love",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "Going Underground",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Midnight Summer Dream",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Losing My Edge",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Down By The Water",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "NYC",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Last Nite",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Pilots",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Superstar",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Sign O' The Times",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "UNDERWORLD",
+      "song": "Cowgirl",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GURU JOSH",
+      "song": "Infinity (1990's... Time For the Guru)",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE KLF",
+      "song": "What Time Is Love?",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "P.I.L.",
+      "song": "Rise",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MALCOLM McLAREN",
+      "song": "Madame Butterfly",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE MOTELS",
+      "song": "Only The Lonely",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "UNKLE",
+      "song": "Rabbit In Your Headlights",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Safe From Harm",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SLY and ROBBIE",
+      "song": "Boops (Here To Go)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Complete Control",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WALL OF VOODOO",
+      "song": "Mexican Radio",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Making Plans For Nigel",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ULTRAVOX",
+      "song": "Vienna",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Save A Prayer",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "D.A.F.",
+      "song": "Der Rauber Und Der Prinz",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Atmosphere",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MERCURY REV",
+      "song": "Holes",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JAMES BLAKE",
+      "song": "Retrograde",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BYRDS",
+      "song": "Turn! Turn! Turn!",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "I Just Wanna Love You",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "So What'cha Want",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ICE-T",
+      "song": "Colors",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LL COOL J",
+      "song": "Mama Said Knock You Out",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRANKIE GOES TO HOLLYWOOD",
+      "song": "Two Tribes",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRONT 242",
+      "song": "Headhunter",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "No Pussy Blues",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS - LIVE IN LYON",
+      "song": "The Mercy Seat",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Violet",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Foolin'",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ADAM and THE ANTS",
+      "song": "Prince Charming",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SIMPLE MINDS",
+      "song": "Sweat In Bullet",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Temptation",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CREAM",
+      "song": "I'm So Glad",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JEFFERSON AIRPLANE",
+      "song": "White Rabbit",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MARK LANEGAN BAND",
+      "song": "The Gravedigger's Song",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Over The Hills And Far Away",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "We Are All Made Of Stars",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY featuring COLD SPECKS",
+      "song": "A Case For Shame",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY featuring WAYNE COYNE",
+      "song": "The Perfect Life",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "That's When I Reach For My Revolver",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "James Bond Theme",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Honey",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Run On",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Bodyrock",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Why Does My Heart Feel So Bad?",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Porcelain",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Extreme Ways",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "In This World",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Sunday",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Jam For The Ladies",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOBY and PUBLIC ENEMY",
+      "song": "Make Love Fuck War",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Lift Me Up",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Raining Again",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Beautiful",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "New York New York",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Alice",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "I Love to Move In Here",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Disco Lies",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Shot In The Back Of The Head",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Pale Horses",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "One Time We Lived",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Wait For Me",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "The Day",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "After",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HEART",
+      "song": "Barracuda",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "In Every Dream Home A Heartache",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Us And Them",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PREFAB SPROUT",
+      "song": "When Love Breaks Down",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LLOYD COLE and THE COMMOTIONS",
+      "song": "Rattlesnakes",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Venus In Furs",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOHN LEE HOOKER",
+      "song": "Boom Boom",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "Instant Karma",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "Looking Out My Back Door",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Satellite Of Love",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG - LIVE",
+      "song": "The Needle and The Damage Done",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Space Oddity",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PSYCHEDELIC FURS",
+      "song": "Pretty In Pink",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "The ROLLING STONES",
+      "song": "Angie",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

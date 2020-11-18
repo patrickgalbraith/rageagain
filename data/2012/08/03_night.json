@@ -1,0 +1,441 @@
+{
+  "title": "Friday night  Friday, 3 August",
+  "special": null,
+  "timeslot": "night",
+  "date": "2012-08-03",
+  "url": "http://www.abc.net.au/rage/archive/s3495564.htm",
+  "tracks": [
+    {
+      "artist": "LOON LAKE",
+      "song": "Cherry Lips",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BALL PARK MUSIC",
+      "song": "Surrender",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CHANCE WATERS feat LILIAN BLUE",
+      "song": "Maybe Tomorrow",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "FULL TOTE ODDS",
+      "song": "What's Going Down?",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DIE! DIE! DIE!",
+      "song": "Oblivious, Oblivion",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "OH MERCY",
+      "song": "Drums",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CHILDISH GAMBINO",
+      "song": "Fire Fly",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ZULU WINTER",
+      "song": "Silver Tongue",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OPOSSOM",
+      "song": "Blue Meanies",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ACTIVE CHILD",
+      "song": "Johnny Belinda",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HARTS",
+      "song": "All Too Real",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE HEAVY",
+      "song": "What Makes A Good Man",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GIN WIGMORE",
+      "song": "Devil In Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JACK WHITE",
+      "song": "Freedom At 21",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "Shredding The Balloon",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DUNE",
+      "song": "Shoestring",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EUGENE McGUINNESS",
+      "song": "Harlequinade",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MONEY FOR ROPE",
+      "song": "Misery Lane",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SONNY and THE SUNSETS",
+      "song": "Pretend You Love Me",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MINI BIKES",
+      "song": "Oh Japan",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE JUNGLE GIANTS",
+      "song": "She's A Riot",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "STONEFIELD",
+      "song": "Ruby Skies",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BELL WEATHER DEPARTMENT",
+      "song": "Asterisk",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BERTIE BLACKMAN",
+      "song": "Mercy Killer",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SEBASTIEN TELLIER",
+      "song": "Cochon Ville",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CYBERNETIC EXPRESS",
+      "song": "Love Rocket",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOB SINCLAR featuring SOPHIE ELLIS-BEXTOR",
+      "song": "Rock With You",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DR DON DON feat AMALI WARD",
+      "song": "Good Thing",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PIGEON",
+      "song": "Oh Hebe",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DIAFRIX",
+      "song": "Helicopter",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DISCLOSURE featuring RIA RITCHIE",
+      "song": "Control",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JESSIE WARE",
+      "song": "Wildest Moments",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NORTHEAST PARTY HOUSE",
+      "song": "Pascal Cavalier",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SNAKADAKTAL",
+      "song": "Dance Bear",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PHEBE STARR",
+      "song": "Alone With You",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ANDY BURROWS",
+      "song": "Keep On Moving On",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FRANCOIS and THE ATLAS MOUNTAINS",
+      "song": "City Kiss",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Everybody Have A Good Time",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEER REPUBLIC",
+      "song": "The Score",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Brendan's Death Song",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE INCREDIBLE KICKS",
+      "song": "Any Excuse",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE LAURELS",
+      "song": "Changing The Timeline",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DISASTERADIO",
+      "song": "Drop The Bomb",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TALES IN SPACE",
+      "song": "Starwars",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LUPE FIASCO",
+      "song": "Around My Way (Freedom Ain't Free)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SURES",
+      "song": "Stars",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARUNDEL",
+      "song": "A Deep Freeze",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Youth In Trouble",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BLOODY BEETROOTS",
+      "song": "Rock Steady",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOMBS AWAY and SEANY B",
+      "song": "Get Stoopid",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADEON",
+      "song": "Finale",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HERVE feat RONIKA",
+      "song": "How Can I Live Without You (Make It Right)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "POLLUTED MINDZ",
+      "song": "Ride My Beat",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AZEALIA BANKS",
+      "song": "Liquorice",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AXOLOTL",
+      "song": "Garden Lane",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TIM HART",
+      "song": "A Number Of Us",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BENJAMIN FRANCIS LEFTWICH",
+      "song": "Pictures",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BATTLESHIPS",
+      "song": "Your Words",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NAOMI BRAUN",
+      "song": "Deeper",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NAT COL and THE KINGS",
+      "song": "Coming Home",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE TOOT TOOT TOOTS",
+      "song": "Fool's Gold",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BLOODS",
+      "song": "Goodnight",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DRIFTER",
+      "song": "Priest",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ZAC BROWN BAND",
+      "song": "The Wind",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ENTER SHIKARI",
+      "song": "Warm Smiles Will Not Make You Welcome Here",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GUARDS OF MAY",
+      "song": "Control",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RED INK",
+      "song": "Euphoria",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JERICCO",
+      "song": "Dance Like No One's Watching",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SHINOBI",
+      "song": "Against The Brave",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE GASLIGHT ANTHEM",
+      "song": "Handwritten",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "REDCOATS",
+      "song": "Raven",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "Game Over Dude",
+      "label": null,
+      "timeslot": "03:30:00"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "title": "Saturday, 3 March",
+  "special": "Trivium guest program ",
+  "timeslot": null,
+  "date": "2007-03-03",
+  "url": "http://www.abc.net.au/rage/archive/s1975151.htm",
+  "tracks": [
+    {
+      "artist": "PEARL JAM",
+      "song": "Even Flow",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Ich Will",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Du Hast",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Head Like A Hole",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "We Die Young",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Rooster",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Seasons In The Abyss",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MACHINE HEAD",
+      "song": "Davidian",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Territory",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Inner Self",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KREATOR",
+      "song": "Violent Revolution",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Whiplash",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Sad But True",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Holy Wars",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Peace Sells ... But Who's Buying?",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "Mouth For War",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "I'm Broken",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLACK LABEL SOCIETY",
+      "song": "Stillborn",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "A Shot In The Dark",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Die Young",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RONNIE JAMES DIO",
+      "song": "Holy Diver",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MANOWAR",
+      "song": "Metal Warriors",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Paradise City",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUIET RIOT",
+      "song": "Bang Your Head",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Wild Side",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Panama",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Lick It Up",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RATT",
+      "song": "Round & Round",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TWISTED SISTER",
+      "song": "I Wanna Rock",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Thriller",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BILLY JOEL",
+      "song": "Uptown Girl",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "QUEEN featuring DAVID BOWIE",
+      "song": "Under Pressure",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Policy Of Truth",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Karma Police",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "In Bloom",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Suck My Kiss",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN - Live",
+      "song": "Fear Of The Dark",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Two Minutes To Midnight",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "W.A.S.P.",
+      "song": "I Wanna Be Somebody",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Freewheel Burning",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Anthem (We Are The Fire)",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Dying In Your Arms",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "A Gunshot To The Head Of Trepidation",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Pull Harder On The Strings",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Like Light To The Flies",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GLASSJAW",
+      "song": "Cosmopolitan Blood Loss",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLACK LABEL SOCIETY",
+      "song": "Concrete Jungle",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOULFLY",
+      "song": "Back To The Primitive",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Ratamahatta",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CROWBAR",
+      "song": "Dead Sun",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BRUJERIA",
+      "song": "La Migra",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICK OLIVERI & THE MONDO GENERATOR",
+      "song": "I Never Sleep",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "Cherry Cola",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "67 SPECIAL",
+      "song": "Sold Your Little Sister For A Red Motor Car",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SABOTEURS - Live",
+      "song": "Level",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE GOOD, THE BAD & THE QUEEN",
+      "song": "Kingdom Of Doom",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE GOSSIP",
+      "song": "Standing In The Way Of Control",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OPERATOR PLEASE",
+      "song": "Get What You Want",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE BARRIE",
+      "song": "Love You",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SNOWMAN",
+      "song": "You Are A Casino",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "...AND YOU WILL KNOW US BY THE TRAIL OF DEAD",
+      "song": "Naked Sun",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Ruby",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "The Blinding",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JAMIE T",
+      "song": "If You Got The Money",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE DEAD 60s",
+      "song": "Riot Radio",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OK GO",
+      "song": "Do What You Want (Wallpaper version)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BEES",
+      "song": "Who Cares What The Question Is?",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE MAGIC NUMBERS",
+      "song": "This Is A Song",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Hearts A Mess",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AIR",
+      "song": "Once Upon A Time",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "North American Scum",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIMIAN MOBILE DISCO",
+      "song": "It's The Beat",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GOOSE",
+      "song": "Black Gloves",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ERIC PRYDZ vs. FLOYD",
+      "song": "Proper Education",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "K-OS",
+      "song": "Sunday Morning",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MONEY MARK",
+      "song": "Pick Up The Pieces",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DJ SHADOW",
+      "song": "This Time (I'm Gonna Try It My Way)",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

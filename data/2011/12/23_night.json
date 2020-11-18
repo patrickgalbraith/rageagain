@@ -1,0 +1,597 @@
+{
+  "title": "Friday night  Friday, 23 December",
+  "special": null,
+  "timeslot": "night",
+  "date": "2011-12-23",
+  "url": "http://www.abc.net.au/rage/archive/s3396596.htm",
+  "tracks": [
+    {
+      "artist": "HILLTOP HOODS featuring SIA",
+      "song": "I Love It",
+      "label": "Universal",
+      "timeslot": "23:50:00"
+    },
+    {
+      "artist": "THE HERD",
+      "song": "A Thousand Lives",
+      "label": "Elefant Traks",
+      "timeslot": "23:50:00"
+    },
+    {
+      "artist": "FRANK OCEAN",
+      "song": "Swim Good",
+      "label": "Universal",
+      "timeslot": "23:50:00"
+    },
+    {
+      "artist": "THE NAKED AND FAMOUS",
+      "song": "No Way",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ALPINE",
+      "song": "Hands",
+      "label": "Ivy League",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FOSTER THE PEOPLE",
+      "song": "Call It What You Want",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE TROUBLE WITH TEMPLETON",
+      "song": "I Wrote A Novel",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE PANDA BAND",
+      "song": "Spill",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JOSH PYKE featuring KATY STEELE",
+      "song": "Punch In The Heart",
+      "label": "Ivy League",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "How Come You Never Go There",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TOTALLY ENORMOUS EXTINCT DINOSAURS",
+      "song": "Garden",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LAST DINOSAURS",
+      "song": "Zoom",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NOEL GALLAGHER'S HIGH FLYING BIRDS",
+      "song": "AKA...What A Life!",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "No Light No Light",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Someone Like You",
+      "label": "Remote Control",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "OCEANICS",
+      "song": "Chinatown (Is Not Newtown)",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Awkward",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE VASCO ERA",
+      "song": "Rock and Roll Is The Only Thing That Makes Me...",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WU LYF",
+      "song": "We Bros",
+      "label": "Liberator",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Marry The Night",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AVICII",
+      "song": "Levels",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BLACK KEYS",
+      "song": "Lonely Boy",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YESYOU",
+      "song": "Half Of It",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Video Games",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SWAY",
+      "song": "Still Speeding",
+      "label": "Liberator",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CROOKERS",
+      "song": "Hummus",
+      "label": "Liberation",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE KENNETH BAGER EXPERIENCE featuring ALOE BLACC",
+      "song": "The Sound Of Swing",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YOUNG THE GIANT",
+      "song": "Cough Syrup",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WILD FLAG",
+      "song": "Romance",
+      "label": "Spunk",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SWAMP DANDIES",
+      "song": "Olivia",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE DEATH SET",
+      "song": "It's Another Day",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "INLAND SEA",
+      "song": "The Only One",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Baby Says",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Satisfied",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JAGWAR MA",
+      "song": "Come And Save Me",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JUNICA",
+      "song": "And It Hurts",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TARA SIMMONS",
+      "song": "Be Gone",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HEY GERONIMO",
+      "song": "Why Don't We Do Something",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PEAR & THE AWKWARD ORCHESTRA",
+      "song": "Bigger Than You",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PEGZ featuring JOE NEW, DIALECTRIX & 2 BUCK",
+      "song": "Priceless",
+      "label": "Obese Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FULL TOTE ODDS",
+      "song": "Southern Wind",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LUCIANA featuring BETTY WHITE",
+      "song": "I'm Still Hot",
+      "label": "MOS",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NEPTUNE POWER FEDERATION",
+      "song": "Wizard Lovin'",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAND OF SKULLS",
+      "song": "The Devil Takes Care Of His Own",
+      "label": "Liberator",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOXX ON FIRE",
+      "song": "March Into The Sun",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "COGEL",
+      "song": "The Bug",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CITY RIOTS",
+      "song": "Matchsticks",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SIMON KELLY AND THE LONELY WIVES",
+      "song": "Eye Of The Storm",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROLAND K SMITH & THE SINNERS",
+      "song": "This Could Be The End (Merry Christmas)",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOUR LITRE FRIDAY",
+      "song": "Yes No Maybe",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LEK FONQ",
+      "song": "Short Skirts (Tight Mix)",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ERIK OMEN featuring HOLIDAY SIDEWINDER",
+      "song": "Payphone",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DOMEYKO GONZALEZ",
+      "song": "Sunshower",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BRIGHT YOUNG THINGS",
+      "song": "A Different Kind Of Light",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE PAPER KITES",
+      "song": "Featherstone",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ELIZA HULL",
+      "song": "Five",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHECKS",
+      "song": "Candyman Shimmer",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Narcissistic Cannibal",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Built To Fall",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Curl Of The Burl",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Public Enemy No. 1",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BRING ME THE HORIZON",
+      "song": "Alligator Blood",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ENTER SHIKARI",
+      "song": "Snakepit",
+      "label": "Liberator",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DISTURBED",
+      "song": "Asylum",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PERGAMUM",
+      "song": "You Can Resist",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "STAIND",
+      "song": "Not Again",
+      "label": "Roadrunner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GALACTIC ACID",
+      "song": "Ol' Rock Betty",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LUCY'S CROWN",
+      "song": "Romance",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WAVERLEY",
+      "song": "Paper Walls",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HOBO BORDEAUX",
+      "song": "Dress Shoes",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE MEDICS",
+      "song": "Joseph",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ARTS MARTIAL",
+      "song": "Running",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DESERTERS",
+      "song": "Lemon Kicks",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "The A Team",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICKI MINAJ",
+      "song": "Super Bass",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SEAN PAUL featuring ALEXIS JORDAN",
+      "song": "Got 2 Luv U",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE POTBELLEEZ",
+      "song": "Feed Off Me",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RIHANNA featuring CALVIN HARRIS",
+      "song": "We Found Love",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WIZ KHALIFA featuring SNOOP DOGG",
+      "song": "Young, Wild & Free",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RJD2",
+      "song": "The Glow",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AFROJACK & STEVE AOKI featuring MISS PALMER",
+      "song": "No Beef",
+      "label": "MOS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BEN WESTBEECH",
+      "song": "Something For The Weekend",
+      "label": "Central Station",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MORGAN PAGE, SULTAN & NED SHEPARD & BT...",
+      "song": "In The Air",
+      "label": "OneLove",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAY KAY featuring FLO RIDA",
+      "song": "What The Girls Like",
+      "label": "Central Station",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE NEXT STEP",
+      "song": "Do It On The Dance Floor",
+      "label": "Central Station",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PITBULL featuring CHRIS BROWN",
+      "song": "International Love",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LMFAO",
+      "song": "Sexy And I Know It",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STEVE AOKI featuring RIVERS CUOMO",
+      "song": "Earthquakey People",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GALAPAGOS",
+      "song": "Steam",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROXETTE",
+      "song": "No One Makes It On Her Own",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE FEARLESS VAMPIRE KILLERS",
+      "song": "Tell Me What You're Trying To Say",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BOWERS",
+      "song": "She Gets Shy",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HARRY HOOKEY",
+      "song": "Don't You Ever Treat Me Like A Fool",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TIM FREEDMAN",
+      "song": "You Weren't In Love With Me",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Ours",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Unite Us",
+      "label": "MOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "Feel So Close",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PROFESSOR GREEN featuring EMELI SANDE",
+      "song": "Read All About It",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

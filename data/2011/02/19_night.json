@@ -1,0 +1,579 @@
+{
+  "title": "Saturday night  Saturday, 19 February",
+  "special": "The National",
+  "timeslot": "night",
+  "date": "2011-02-19",
+  "url": "http://www.abc.net.au/rage/archive/s3142520.htm",
+  "tracks": [
+    {
+      "artist": "PAVEMENT",
+      "song": "Gold Soundz",
+      "label": "Shock",
+      "timeslot": "23:56:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "I Wanna Be Adored",
+      "label": "BMG",
+      "timeslot": "23:56:00"
+    },
+    {
+      "artist": "MY BRIGHTEST DIAMOND",
+      "song": "Dragonfly",
+      "label": "Spunk",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Walk In The Park",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "Heathen Child",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ECHO & THE BUNNYMEN",
+      "song": "The Killing Moon",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Straight To You",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "WEEN - TRIPLE J TV",
+      "song": "Your Party",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THOM YORKE",
+      "song": "Harrowdown Hill",
+      "label": "Remote Control",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ANTONY & THE JOHNSONS",
+      "song": "You Are My Sister",
+      "label": "Spunk/Inertia",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE WALKMEN",
+      "song": "The Rat",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MENOMENA",
+      "song": "Wet & Rusting",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Atmosphere",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "The Diamond Sea",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Ghost Town",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BREEDERS",
+      "song": "Divine Hammer",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Hold On",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NO AGE",
+      "song": "Eraser",
+      "label": "Stomp",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WILD BEASTS",
+      "song": "We Still Got The Taste Dancin' On Our Tongues",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "In Between Days",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Enjoy The Silence",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Model",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "P.I.L.",
+      "song": "Rise",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Venus In Furs",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "This Must Be The Place (Naive Melody)",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Monkey Gone To Heaven",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LIARS",
+      "song": "Scissor",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Gobbledigook",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FEVER RAY",
+      "song": "If I Had A Heart",
+      "label": "MOS",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CARIBOU",
+      "song": "Melody Day",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NOTORIOUS B.I.G.",
+      "song": "Hypnotize",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Everybody Hurts",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Atlantic City",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GRATEFUL DEAD",
+      "song": "Touch Of Grey",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Dreams",
+      "label": "WEA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Superstar",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Terrible Love",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Abel",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Lit Up",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Mistaken for Strangers",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Apartment Story",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Bloodbuzz Ohio",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BON IVER",
+      "song": "The Wolves (Act I & II)",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BON IVER - TRIPLE J TV",
+      "song": "Creature Fear",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BON IVER - TRIPLE J TV LIKE A VERSION",
+      "song": "The Park",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MY MORNING JACKET",
+      "song": "One Big Holiday",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MY MORNING JACKET",
+      "song": "Off The Record",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MY MORNING JACKET",
+      "song": "Gideon",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MY MORNING JACKET - LIVE TRIPLE J TV",
+      "song": "Highly Suspicious",
+      "label": "Spunk",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE ARCADE FIRE",
+      "song": "Neighbourhood #3 (Power Out)",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE ARCADE FIRE - LIVE",
+      "song": "No Cars Go",
+      "label": "Spunk",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "Ready To Start",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "The Suburbs",
+      "label": "Spunk/EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "Small Stakes",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "The Way We Get By",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "I Turn My Camera On",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "Sister Jack",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "The Underdog",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "You Got Yr. Cherry Bomb",
+      "label": "Spunk",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "Written In Reverse",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MY BRIGHTEST DIAMOND",
+      "song": "Inside A Boy",
+      "label": "Spunk",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MY BRIGHTEST DIAMOND",
+      "song": "From The Top Of The World",
+      "label": "Spunk",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE DECEMBERISTS",
+      "song": "The Soldiering Life",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE DECEMBERISTS",
+      "song": "Sixteen Military Wives",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE DECEMBERISTS",
+      "song": "O' Valencia!",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IRON & WINE",
+      "song": "Southern Anthem",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IRON & WINE",
+      "song": "Naked As We Came",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IRON & WINE",
+      "song": "Boy With A Coin",
+      "label": "Stomp",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Cross Bones Style",
+      "label": "MDS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "He War",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Living Proof",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Lived In Bars",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "Movie Script Ending",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "Crooked Teeth",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "I Will Follow You Into The Dark",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "I Will Possess Your Heart",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "Meet Me On The Equinox",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Two Weeks",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "While You Wait For The Others",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Ready, Able",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "Mushaboom",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "My Moon My Man",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "1 2 3 4",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "I Feel It All",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HUMAN LIFE",
+      "song": "Wherever We Are",
+      "label": "OneLove",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OH MERCY",
+      "song": "Stay, Please Stay",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOAN AS POLICEWOMAN",
+      "song": "The Magic",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROXETTE",
+      "song": "She's Got Nothing On (But The Radio)",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FANTINE",
+      "song": "Rubber Room",
+      "label": "KAOS",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THOSE DANCING DAYS",
+      "song": "Fuckarias",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CAGE THE ELEPHANT",
+      "song": "Shake Me Down",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ZOWIE",
+      "song": "Bite Back",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OPERATOR PLEASE",
+      "song": "Catapult",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SUFJAN STEVENS",
+      "song": "Too Much",
+      "label": "Spunk",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

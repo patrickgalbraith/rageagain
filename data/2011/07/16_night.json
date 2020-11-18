@@ -1,0 +1,591 @@
+{
+  "title": "Saturday night  Saturday, 16 July",
+  "special": null,
+  "timeslot": "night",
+  "date": "2011-07-16",
+  "url": "http://www.abc.net.au/rage/archive/s3270451.htm",
+  "tracks": [
+    {
+      "artist": "DAFT PUNK",
+      "song": "Digital Love",
+      "label": "Virgin",
+      "timeslot": "12:02:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Praise You",
+      "label": "Sony",
+      "timeslot": "12:02:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Get Ur Freak On",
+      "label": "Warner",
+      "timeslot": "12:02:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Runaway",
+      "label": "Universal",
+      "timeslot": "12:02:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": "Universal (MCA",
+      "timeslot": "12:02:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Hey Ya",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ALOE BLACC",
+      "song": "I Need A Dollar",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MARK RONSON & THE BUSINESS INTL featuring BOY GEO",
+      "song": "Somebody To Love Me",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "I Bet You Look Good On The Dancefloor",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WRETCH 32 feat EXAMPLE",
+      "song": "Unorthodox",
+      "label": "MOS",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DUCK SAUCE",
+      "song": "Barbra Streisand",
+      "label": "MOS",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Jump N' Shout",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DEADMAU5 featuring ROB SWIRE",
+      "song": "Ghosts 'n' Stuff",
+      "label": "Hussle/UMA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AIR",
+      "song": "Sexy Boy",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE TEMPER TRAP",
+      "song": "Sweet Disposition",
+      "label": "Liberation",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Purple Rain",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "What You Waiting For?",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Hollywood",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SWEDISH HOUSE MAFIA",
+      "song": "Save The World",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SUPERGRASS",
+      "song": "Pumping On Your Stereo",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "All Is Full Of Love",
+      "label": "Universal (MCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hunter",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MYLO",
+      "song": "Destroy Rock & Roll",
+      "label": "MOS/EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CAMILLE",
+      "song": "Ta Douleur",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LENNY KRAVITZ",
+      "song": "Are You Gonna Go My Way?",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "N*E*R*D",
+      "song": "Everyone Nose (All The Girls Standing......)",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "N*E*R*D",
+      "song": "Hypnotize U",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Hey Boy, Hey Girl",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Star Guitar",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Fell In Love With A Girl",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Banquet",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Soul To Squeeze",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DRAKE featuring KANYE WEST, LIL' WAYNE & EMINEM",
+      "song": "Forever",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Killing In The Name",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Chop Suey",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SUNDAY GIRL",
+      "song": "Four Floors",
+      "label": "Geffen",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SHINY TOY GUNS",
+      "song": "Le Disko",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DON DIABLO featuring DRAGONETTE",
+      "song": "Animale",
+      "label": "MOS",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DRAGONETTE",
+      "song": "Fixin To Thrill",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DRAGONETTE",
+      "song": "Pick Up The Phone",
+      "label": "Bandroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KELE",
+      "song": "Everything You Wanted",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KELE",
+      "song": "Tenderoni",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOB SINCLAR",
+      "song": "The Beat Goes On",
+      "label": "MOS/EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CONGOROCK",
+      "song": "Babylon",
+      "label": "MOS",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG & DRAGONETTE",
+      "song": "Hello",
+      "label": "MOS",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG",
+      "song": "Rocking Music",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG",
+      "song": "Everybody",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG",
+      "song": "Jealousy",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG",
+      "song": "C'est La Vie",
+      "label": "MOS",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG",
+      "song": "One 2 3 Four",
+      "label": "MOS",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG",
+      "song": "I Want You",
+      "label": "MOS",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG featuring DRAGONETTE",
+      "song": "Boys & Girls",
+      "label": "Bandroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG feat KELE",
+      "song": "Ready 2 Go (Part 1)",
+      "label": "MOS",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG feat KELE",
+      "song": "Ready 2 Go (Part 2)",
+      "label": "MOS",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARMAND VAN HELDEN",
+      "song": "Koochy",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARMAND VAN HELDEN",
+      "song": "Hear My Name",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARMAND VAN HELDEN",
+      "song": "When The Lights Go Down",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ARMAND VAN HELDEN",
+      "song": "Touch Your Toes",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BENNY BENASSI",
+      "song": "Satisfaction",
+      "label": "MOS/EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BENNY BENASSI",
+      "song": "No Matter What You Do",
+      "label": "MOS/EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BENNY BENASSI featuring KELIS, APL.DE.AP & JEAN-BA",
+      "song": "Spaceship",
+      "label": "Liberator",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BENNY BENASSI feat GARY GO",
+      "song": "Cinema",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ROGER SANCHEZ",
+      "song": "Another Chance",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ROGER SANCHEZ",
+      "song": "You Can't Change Me",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ROGER SANCHEZ",
+      "song": "Turn On The Music",
+      "label": "Central Station",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ROGER SANCHEZ",
+      "song": "Lost",
+      "label": "Central Station",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FENECH-SOLER",
+      "song": "Lies",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FENECH SOLER",
+      "song": "Stop And Stare",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FENECH-SOLER",
+      "song": "Demons",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FELIX DA HOUSECAT",
+      "song": "Silver Screen Shower Scene",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FELIX DA HOUSECAT",
+      "song": "Something For Porno",
+      "label": "Liberation",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FELIX DA HOUSECAT",
+      "song": "Radio",
+      "label": "Liberator",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FEDDE LE GRAND",
+      "song": "Put Your Hands Up For Detroit",
+      "label": "MOS/EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FEDDE LE GRAND featuring MITCH CROWN",
+      "song": "Scared Of Me",
+      "label": "Hussle/UMA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FEDDE LE GRAND featuring MITCH CROWN",
+      "song": "Let Me Be Real",
+      "label": "Hussle/UMA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEADMAU5 featuring KASKADE",
+      "song": "I Remember",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STROMAE",
+      "song": "Alors On Dance",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROLL DEEP",
+      "song": "Green Light",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHRIS SORBELLO",
+      "song": "Dangerzone",
+      "label": "MOS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FATTY GETS A STYLIST",
+      "song": "Are You Ready?",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KARUNA",
+      "song": "It's A Beautiful Day",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MINI MANSIONS",
+      "song": "Monk",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE FEARLESS VAMPIRE KILLERS",
+      "song": "For You And Me",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ENOLA FALL",
+      "song": "Andromeda",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOHNSONG",
+      "song": "Sneak",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KATALYST feat KWEENG",
+      "song": "Ready To Drop",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SNEAKY SOUND SYSTEM",
+      "song": "We Love",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EAGLE AND THE WORM",
+      "song": "Too Young",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOLLAND",
+      "song": "No Control",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NOAH AND THE WHALE",
+      "song": "Tonight's The Kind Of Night",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LIAM FINN",
+      "song": "Cold Feet",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Feeding Line",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FERGUS BROWN",
+      "song": "Nerds In Love",
+      "label": "MAKEbeLIVE Prod",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE GASLIGHT ANTHEM",
+      "song": "Bring It On",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AVALANCHE CITY",
+      "song": "Love Love Love",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE GRATES",
+      "song": "Turn Me On",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GOTYE featuring KIMBRA",
+      "song": "Somebody That I Used To Know",
+      "label": "Eleven",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

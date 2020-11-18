@@ -1,0 +1,552 @@
+{
+  "title": "Saturday 2nd July",
+  "special": "Mudvayne guest program",
+  "timeslot": null,
+  "date": "2005-07-02",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050702.htm",
+  "tracks": [
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Head Like A Hole",
+      "label": "Warner",
+      "timeslot": "12:29:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Freedom",
+      "label": "Sony",
+      "timeslot": "12:29:00"
+    },
+    {
+      "artist": "STONE TEMPLE PILOTS",
+      "song": "Wicked Garden",
+      "label": "Warner",
+      "timeslot": "12:29:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Down In A Hole",
+      "label": "Sony",
+      "timeslot": "12:29:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Bleed The Freak",
+      "label": "Sony",
+      "timeslot": "12:29:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": "Universal (MCA)",
+      "timeslot": "12:29:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "Lunch Box",
+      "label": "Warner",
+      "timeslot": "12:29:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Sober",
+      "label": "Universal (MCA)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Iron Tusk",
+      "label": "Riot",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SHADOWS FALL",
+      "song": "The Power Of I And I",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "5 Minutes Alone",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Master Of Puppets",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "For Whom The Bell Tolls",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Welcome To The Jungle",
+      "label": "Universal (MCA)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Sweet Emotion",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Livewire",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Hells Bells",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "No Sleep 'Til Brooklyn",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Dazed And Confused",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Downtown Train",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Devil's Haircut",
+      "label": "Universal (MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "It's Oh So Quiet",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Fast As You Can",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Devil Inside",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HARRY CONNICK JR.",
+      "song": "Come By Me",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GEORGE MICHAEL & ELTON JOHN",
+      "song": "Don't Let The Sun Go Down",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Ocean Spray",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EINSTURZENDE NEUBAUTEN",
+      "song": "Blume",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Red Right Hand",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOETUS",
+      "song": "Verklemmt",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Pyramid Song",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PLAID",
+      "song": "Eyen",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KING CRIMSON",
+      "song": "Sleepless",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Personal Jesus",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CARS",
+      "song": "Shake It Up",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FRONT LINE ASSEMBLY",
+      "song": "Virus",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AUTECHRE",
+      "song": "Gantz Graf",
+      "label": "Creative Vibes",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MUDVAYNE",
+      "song": "Happy?",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MUDVAYNE",
+      "song": "World So Cold",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MUDVAYNE",
+      "song": "Not Falling",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MUDVAYNE",
+      "song": "Death Blooms",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MUDVAYNE",
+      "song": "Nothing To Gein",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MUDVAYNE",
+      "song": "Dig",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN - Live at The Astoria",
+      "song": "Sugar",
+      "label": "SBME",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN - Live at The Astoria",
+      "song": "B.Y.O.B",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN - Live at The Astoria",
+      "song": "Science",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN - Live at The Astoria",
+      "song": "Needles",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN - Live at The Astoria",
+      "song": "Psycho",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN - Live at The Astoria",
+      "song": "Chop Suey",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN - Live at The Astoria",
+      "song": "Aerials",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "War",
+      "label": "Sony",
+      "timeslot": "04:20:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Sugar",
+      "label": "Sony",
+      "timeslot": "04:20:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Toxicity",
+      "label": "Sony",
+      "timeslot": "04:20:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Boom",
+      "label": "Sony",
+      "timeslot": "04:20:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Chop Suey",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SKINLAB",
+      "song": "Second Skin",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOCIETY 1",
+      "song": "Nothing",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOULFLY",
+      "song": "Back To The Primitive",
+      "label": "Roadrunner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SEPULTURA - Live",
+      "song": "Desperate Cry",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FEAR FACTORY",
+      "song": "Replica",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NAPALM DEATH",
+      "song": "Greed Killing",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GLASSJAW",
+      "song": "Cosmopolitan Blood Loss",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CORROSION OF CONFORMITY",
+      "song": "Clean My Wounds",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COAL CHAMBER",
+      "song": "Loco",
+      "label": "Roadrunner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MURDERDOLLS",
+      "song": "Dead In Hollywood",
+      "label": "Roadrunner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Before I Forget",
+      "label": "Roadrunner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "In My Head",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "UNWRITTEN LAW",
+      "song": "She Says",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AFTER THE FALL",
+      "song": "Concrete Boots",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AUDIOSLAVE",
+      "song": "Your Time Has Come",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JIMMY BARNES & DALLAS CRANE",
+      "song": "Sit On My Knee",
+      "label": "Liberation",
+      "timeslot": "05:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "P-MONEY & SCRIBE",
+      "song": "Stop The Music",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "SNOOP DOGG featuring JUSTIN TIMBERLAKE",
+      "song": "Signs",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "Untitled (How Could This Happen To Me)",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "WILL SMITH",
+      "song": "Switch",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "ROGUE TRADERS",
+      "song": "Voodoo Child",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "RICKI-LEE COULTER",
+      "song": "Hell No!",
+      "label": "Shock",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "FRANKIE J featuring BABY BASH",
+      "song": "Obsession",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "RANDOM",
+      "song": "Put Your Hands Up",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "KELLY CLARKSON",
+      "song": "Behind These Hazel Eyes",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Feel Good Inc.",
+      "label": "EMI",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "Hollaback Girl",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Don't Phunk With My Heart",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "Incomplete",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "We Belong Together",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

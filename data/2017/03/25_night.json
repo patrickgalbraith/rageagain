@@ -1,0 +1,567 @@
+{
+  "title": "Saturday night 25 March 2017, ABC",
+  "special": "Frightened Rabbit",
+  "timeslot": "night",
+  "date": "2017-03-25",
+  "url": "http://www.abc.net.au/rage/archive/s4642117.htm",
+  "tracks": [
+    {
+      "artist": "BEN FOLDS FIVE",
+      "song": "Song For The Dumped",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GENESIS",
+      "song": "I Can't Dance",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Rosanna",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE HELLACOPTERS",
+      "song": "Hopeless Case Of A Kid In Denial",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FREE ENERGY",
+      "song": "Bang Pop",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LIT",
+      "song": "My Own Worst Enemy",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "You Are A Tourist",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "Sprawl II (Mountains Beyond Mountains)",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "K-CI and JOJO",
+      "song": "All My Life",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "UNDERWORLD",
+      "song": "Born Slippy",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ERASURE",
+      "song": "Oh L'Amour",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "All My Friends",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Time After Time",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Babooshka",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Teardrop",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LIONEL RICHIE",
+      "song": "Hello",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE GASLIGHT ANTHEM",
+      "song": "The '59 Sound",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE MARS VOLTA",
+      "song": "The Widow",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE ICARUS LINE",
+      "song": "Feed A Cat To Your Cobra",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GIRL BAND",
+      "song": "De Bom Bom",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CLARK",
+      "song": "Winter Linn",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TWIN SHADOW",
+      "song": "Five Seconds",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JAY P",
+      "song": "How The Times Have Changed",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE ANTLERS",
+      "song": "Bear",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE DIRTY THREE",
+      "song": "Sue's Last Ride (Live on Recovery, 1997)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Still Life",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE 1975",
+      "song": "A Change Of Heart",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Hounds Of Love",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Spanish Sahara",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JON HOPKINS",
+      "song": "Open Eye Signal",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FOUR TET",
+      "song": "No More Mosquitoes",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FUCK BUTTONS",
+      "song": "Surf Solar",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CARLY RAE JEPSEN",
+      "song": "Call Me Maybe",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "I Knew You Were Trouble",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LITTLE MIX",
+      "song": "Black Magic",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Survivor",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "I Fought The Law",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "T REX",
+      "song": "Children Of The Revolution",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Kevin Carter",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOM PETTY",
+      "song": "Free Fallin'",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Suspicious Minds (Live)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Dazed And Confused",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IGGY and THE STOOGES - LIVE",
+      "song": "I Wanna Be Your Dog",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JON SPENCER BLUES EXPLOSION",
+      "song": "She Said",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Take A Chance On Me",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MARMADUKE DUKE",
+      "song": "Rubber Lover",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Laura",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JULIA HOLTER",
+      "song": "Feel You",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BADLY DRAWN BOY",
+      "song": "Spitting In The Wind",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DELGADOS",
+      "song": "American Trilogy",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE MACCABEES",
+      "song": "Pelican",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLAP YOUR HANDS SAY YEAH",
+      "song": "Maniac",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TWIN PEAKS",
+      "song": "Making Breakfast",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FIDLAR",
+      "song": "Cocaine",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "The Woodpile",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Get Out",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "I Wish I Was Sober",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Woke Up Hurting",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Holy",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Backyard Skulls",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Nothing Like You",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "I Feel Better",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Head Rolls Off",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "How To Taste",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SETH SENTRY",
+      "song": "Play It Safe",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JOE GODDARD",
+      "song": "Home",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PACES ft. NYNE",
+      "song": "Savage (Clean Version)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LONDON O'CONNOR",
+      "song": "Nobody Hangs Out Anymore",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SPLASHH",
+      "song": "Waiting A Lifetime",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SOFI TUKKER ft. BETTER LEMME",
+      "song": "Awoo",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KANYE WEST ft. PUSHA T",
+      "song": "Runaway (Extended Version) (Clean Version)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Bad Girls",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CRYSTAL CASTLES",
+      "song": "Crimewave",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "YOUNG THUG",
+      "song": "Wyclef Jean (Clean version)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SOFI TUKKER",
+      "song": "Drinkee",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Doing It To Death",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE OFFSPRING",
+      "song": "Pretty Fly (For A White Guy)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MAGGIE ROGERS",
+      "song": "Alaska",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SOFI TUKKER",
+      "song": "Johny (Censored Version)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LITTLE DRAGON",
+      "song": "High",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MOODY BEACH",
+      "song": "Vanilla",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Stone Men",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CAMERON AVERY",
+      "song": "Dance With Me",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ARIEL PINK AND WEYES BLOOD",
+      "song": "Tears On Fire",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SHE-DEVILS",
+      "song": "The World Laughs",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "Can I Sit Next To You",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE XX",
+      "song": "Say Something Loving",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PIPE-EYE",
+      "song": "Sweets And Treats",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Feeling Remains",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "Come Party",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "Off White Limousine (Censored Version)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FERLA",
+      "song": "In The Night",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THUNDAMENTALS",
+      "song": "Sally",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

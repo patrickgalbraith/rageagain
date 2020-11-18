@@ -1,0 +1,501 @@
+{
+  "title": "Saturday morning  Saturday, 23 November 2013",
+  "special": "Cut Copy",
+  "timeslot": "morning",
+  "date": "2013-11-23",
+  "url": "http://www.abc.net.au/rage/archive/s3897176.htm",
+  "tracks": [
+    {
+      "artist": "ALOE BLACC",
+      "song": "Wake Me Up",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OLLY MURS",
+      "song": "Hand On Heart",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE featuring CHAD KROEGER",
+      "song": "Let Me Go",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Pop A Bottle (Fill Me Up)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LITTLE MIX",
+      "song": "Move",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "Wrecking Ball",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CALVIN HARRIS and ALESSO featuring HURTS",
+      "song": "Under Control",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "REDFOO",
+      "song": "Let's Get Ridiculous",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YLVIS",
+      "song": "The Fox (What Does The Fox Say?)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ONE DIRECTION",
+      "song": "Story Of My Life",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ONEREPUBLIC",
+      "song": "Something I Need",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NATHANIEL WILLEMSE",
+      "song": "You",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT featuring ED SHEERAN",
+      "song": "Everything Has Changed",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JASON DERULO",
+      "song": "Marry Me",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "Bonfire Heart",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JOHN LEGEND",
+      "song": "All Of Me",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BONNIE ANDERSON",
+      "song": "Raise The Bar",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "GUY SEBASTIAN",
+      "song": "Like A Drum",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "HAVANA BROWN",
+      "song": "Warrior",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "REECE MASTIN",
+      "song": "Girls",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Work Bitch",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "TIMOMATIC",
+      "song": "Waterfalls",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "FLO RIDA",
+      "song": "How I Feel",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Breakfast Can Wait",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JANELLE MONAE featuring MIGUEL",
+      "song": "PrimeTime",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Young And Beautiful",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JUSTICE CREW",
+      "song": "Everybody",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "AVICII",
+      "song": "You Make Me",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "KATY PERRY",
+      "song": "Roar",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Your Body Is A Weapon",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "One For The Road",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BEST COAST",
+      "song": "I Don't Know How",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "WHITE DENIM",
+      "song": "Pretty Green",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "KILTER featuring YOUTH",
+      "song": "Hold Me",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "YESYOU",
+      "song": "Frivolous Life",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "METRIC",
+      "song": "Synthetica",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THUMPERS",
+      "song": "Sound Of Screams",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "ANNA CALVI",
+      "song": "Suddenly",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "DIRTY PROJECTORS",
+      "song": "Impregnable Question",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "YUCK",
+      "song": "Middle Sea",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "CAGE THE ELEPHANT",
+      "song": "Come A Little Closer",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SHARON JONES and THE DAP-KINGS",
+      "song": "Retreat!",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BLACK JOE LEWIS",
+      "song": "Come To My Party",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ROBERT GLASPER EXPERIMENT featuring JILL SCOTT",
+      "song": "Calls",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Lies",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "TORO Y MOI",
+      "song": "Rose Quartz",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "DELOREAN featuring CAROLINE POLACHEK",
+      "song": "Unhold",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SASKWATCH",
+      "song": "Hands",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Northern Lights",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Hoping For",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "VANCE JOY",
+      "song": "Play With Fire",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "Feeling",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE MODEL SCHOOL",
+      "song": "Streets I Left Behind",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DAN SULTAN",
+      "song": "Under Your Skin",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE BAMBOOS",
+      "song": "The Avenger",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PANAMA",
+      "song": "Always",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DARYL BRAITHWAITE",
+      "song": "The Horses",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BIG SCARY",
+      "song": "Twin Rivers",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "RUFUS",
+      "song": "Tonight",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "FLUME and CHET FAKER",
+      "song": "Drop The Game",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE AVALANCHES - LIVE ON RECOVERY,",
+      "song": "Run DNA",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "JON SPENCER BLUES EXPLOSION - LIVE ON RECOVERY",
+      "song": "2 Kindsa Love",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "FRENZAL RHOMB - LIVE ON RECOVERY",
+      "song": "There's Your Dad",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "NANCY VANDAL",
+      "song": "Flogging A Dead Phoenix",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Let There Be Rock",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DEAD LETTER CIRCUS",
+      "song": "Cage",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "COG",
+      "song": "My Enemy",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "Warm In Winter",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Dojo Rising",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE JEZABELS",
+      "song": "The End",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Future",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "CARIBOU",
+      "song": "Odessa",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "We Share Our Mother's Health",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ANDRAS FOX",
+      "song": "Soft Illusion",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "PH.D",
+      "song": "I Won't Let You Down",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "NO ZU",
+      "song": "Emotion",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "CORNELIUS",
+      "song": "Drop",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Fine Time",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sunday",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "INSPIRAL CARPETS",
+      "song": "This Is How It Feels",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "FLASH and THE PAN",
+      "song": "Midnight Man",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Free Your Mind",
+      "label": null,
+      "timeslot": "11:00:00"
+    }
+  ]
+}

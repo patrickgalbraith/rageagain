@@ -1,0 +1,621 @@
+{
+  "title": "Saturday night  Saturday, 21 May",
+  "special": "Foals",
+  "timeslot": "night",
+  "date": "2011-05-21",
+  "url": "http://www.abc.net.au/rage/archive/s3222556.htm",
+  "tracks": [
+    {
+      "artist": "KLAXONS",
+      "song": "Twin Flames",
+      "label": "Universal",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Girls On Film",
+      "label": "EMI",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Orange Crush",
+      "label": "Warner",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "METHOD MAN featuring BUSTA RHYMES",
+      "song": "What's Happenin'",
+      "label": "Universal",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "JANELLE MONAE",
+      "song": "Cold War",
+      "label": "Warner",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Velouria",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "15 Feet Of Pure White Snow",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Drunk Girls",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Tonto",
+      "label": "Inertia",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "She Is The New Thing",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HOLY FUCK",
+      "song": "Super Inuit",
+      "label": "Remote Control",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CORNELIUS",
+      "song": "Drop",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WILD BEASTS",
+      "song": "Hooting & Howling",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PANDA BEAR",
+      "song": "Bros",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WARPAINT",
+      "song": "Undertow",
+      "label": "Remote Control",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hyperballad",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "The Earth Intruders",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Bullet With Butterfly Wings",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "All Apologies",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE & MICK JAGGER",
+      "song": "Dancing In The Street",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Protect Ya Neck (The Jump Off)",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "C.R.E.A.M.",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Sexy M.F.",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Gett Off",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHRISTINA MILIAN",
+      "song": "Dip It Low",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FRANKIE GOES TO HOLLYWOOD",
+      "song": "Relax",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AT THE DRIVE-IN",
+      "song": "One Armed Scissor",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEFTONES",
+      "song": "Back To School",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "...AND YOU WILL KNOW US BY THE TRAIL OF DEAD",
+      "song": "Another Morning Stoner",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "The Beautiful People",
+      "label": "Universal (MCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "REFUSED",
+      "song": "New Noise",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FUGAZI",
+      "song": "Suggestion",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Enjoy The Silence",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LIARS",
+      "song": "Scissor",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Freak On A Leash",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Parabola",
+      "label": "Jive/Zomba",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Closer",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Cassius",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "This Orient",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Balloons",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Blue Blood",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THESE NEW PURITANS",
+      "song": "Swords of Truth",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THESE NEW PURITANS",
+      "song": "Attack Music",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THESE NEW PURITANS",
+      "song": "Elvis",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "Gravity's Rainbow",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "Golden Skans",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "It's Not Over Yet",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "Echoes",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LATE OF THE PIER",
+      "song": "The Bears Are Coming",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LATE OF THE PIER",
+      "song": "Heartbeat",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LATE OF THE PIER",
+      "song": "Space and The Woods",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "Holiday",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "Heartbreaker",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "A Thing For Me",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "The Look",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CRYSTAL FIGHTERS",
+      "song": "Follow",
+      "label": "Liberator",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CRYSTAL FIGHTERS",
+      "song": "At Home",
+      "label": "Liberation",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DOES IT OFFEND YOU, YEAH?",
+      "song": "We Are Rockstars",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DOES IT OFFEND YOU, YEAH?",
+      "song": "Epic Last Song",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DOES IT OFFEND YOU, YEAH?",
+      "song": "Dawn Of The Dead",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DOES IT OFFEND YOU, YEAH?",
+      "song": "The Monkeys Are Coming",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FENECH SOLER",
+      "song": "Stop And Stare",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FENECH-SOLER",
+      "song": "Demons",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CAJUN DANCE PARTY",
+      "song": "Amylase",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CAJUN DANCE PARTY",
+      "song": "The Race",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CAJUN DANCE PARTY",
+      "song": "Colourful Life",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WE HAVE BAND",
+      "song": "Divisive",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HADOUKEN!",
+      "song": "Declaration Of War",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HADOUKEN!",
+      "song": "That Boy That Girl",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HADOUKEN!",
+      "song": "Crank It Up",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "Club Foot",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "LSF",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "Fire",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "Where Did All The Love Go",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Stumble And Fall",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Hostage Of Love",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Wire To Wire",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Decent Days & Nights",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Area",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "The Beginning Of The Twist",
+      "label": "Liberator",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Radio Heart",
+      "label": "Liberator",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Take Me Out",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Matinee",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "This Fire",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "The Fallen",
+      "label": "SBME",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Two More Years",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "I Still Remember",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Flux",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Talons",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KELE",
+      "song": "Everything You Wanted",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "This Is War",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE VINES",
+      "song": "Gimme Love",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WAVVES",
+      "song": "King Of The Beach",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE NAKED AND FAMOUS",
+      "song": "All Of This",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PLUTO JONZE",
+      "song": "Meet You Under Neon",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LES SAVVY FAV",
+      "song": "Sleepless In Silverlake",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YELLE",
+      "song": "Safari Disco Club",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OU EST LE SWIMMING POOL",
+      "song": "These New Knights",
+      "label": "MOS",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DARWIN DEEZ",
+      "song": "DNA",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KANYE WEST feat RIHANNA & KID CUDI",
+      "song": "All Of The Lights",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Judas",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

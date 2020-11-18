@@ -1,0 +1,501 @@
+{
+  "title": "Saturday morning 20 February 2016",
+  "special": null,
+  "timeslot": "morning",
+  "date": "2016-02-20",
+  "url": "http://www.abc.net.au/rage/archive/s4409938.htm",
+  "tracks": [
+    {
+      "artist": "JAI WAETFORD",
+      "song": "Living Not Dreaming",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TIESTO _and_ OLIVER HELDENS ft. NATALIE LA ROSE",
+      "song": "The Right Song",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ZHU x SKRILLEX x THEY.",
+      "song": "Working For It",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NERVO ft. KYLIE MINOGUE, JAKE SHEARS _and_ NILE RODGER",
+      "song": "The Other Boys",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GRACE MITCHELL",
+      "song": "NoLo",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EMMI",
+      "song": "My Kinda Swag",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LITTLE MIX featuring JASON DERULO",
+      "song": "Secret Love Song",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LUCA SCHREINER ft KIMBERLY ANNE",
+      "song": "Missing",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COLDPLAY featuring BEYONCE",
+      "song": "A Hymn For The Weekend",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ONE DIRECTION",
+      "song": "History",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALESSIA CARA",
+      "song": "Here",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER",
+      "song": "What Do You Mean?",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HILLTOP HOODS ft. MONTAIGNE _and_ TOM THUM",
+      "song": "1955",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "WALK THE MOON",
+      "song": "Work This Body",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DUKE DUMONT",
+      "song": "Ocean Drive",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "Hoops",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "G-EAZY X BEBE REXHA",
+      "song": "Me, Myself and I",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LUKAS GRAHAM",
+      "song": "7 Years",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Hello",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "L D R U featuring PAIGE IV",
+      "song": "Keeping Score",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "SHAWN MENDES",
+      "song": "Stitches",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER",
+      "song": "Sorry",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ELLE KING",
+      "song": "Ex's and Oh's",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "SNAKEHIPS ft. TINASHE _and_ CHANCE THE RAPPER",
+      "song": "All My Friends",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ZARA LARSSON",
+      "song": "Lush Life",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "VALENTINO KHAN",
+      "song": "Deep Down Low",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JONAS BLUE featuring DAKOTA",
+      "song": "Fast Car",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER",
+      "song": "Love Yourself",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "CHARLIE PUTH",
+      "song": "One Call Away",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "TWENTY ONE PILOTS",
+      "song": "Stressed Out",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ZAYN",
+      "song": "Pillowtalk",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "OK GO",
+      "song": "Upside Down and Inside Out",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "PACES featuring JESS KENT",
+      "song": "1993 (No Chill)",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Kill V. Maim",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "MARK RONSON featuring KEVIN PARKER",
+      "song": "Summer Breaking / Daffodils",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "CHEMICAL BROTHERS, THE ft. BECK",
+      "song": "Wide Open",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "NOTHING BUT THIEVES",
+      "song": "If I Get High",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "JEFF BUCKLEY",
+      "song": "I Know It's Over",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "The Wheel",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "The One",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Girls and Boys",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Gold",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "I Would Die 4 U",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Breakfast Can Wait",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Mountains",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SHEILA E and PRINCE",
+      "song": "A Love Bizarre",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SHEILA E",
+      "song": "The Belle Of St. Mark",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MORRIS DAY",
+      "song": "The Oak Tree",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MORRIS DAY and THE TIME",
+      "song": "Jungle Love",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ANDRE CYMONE",
+      "song": "The Dance Electric",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "WENDY and LISA",
+      "song": "Honeymoon Express",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SHEENA EASTON",
+      "song": "Sugar Walls",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "U Got The Look",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SHEILA E",
+      "song": "Glamorous Life",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SHEILA E",
+      "song": "Sister Fate",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "APOLLONIA",
+      "song": "Since I Fell For You",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "APOLLONIA 6",
+      "song": "Sex Shooter",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "CHAKA KHAN",
+      "song": "I Feel For You",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MARTIKA",
+      "song": "Love...Thy Will Be Done",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Nothing Compares 2 U",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "VANITY",
+      "song": "Under The Influence",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "VANITY 6",
+      "song": "He's So Dull",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "VANITY",
+      "song": "Pretty Mess",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "VANITY 6",
+      "song": "Nasty Girl",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "WHITNEY",
+      "song": "No Woman",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "POLICA",
+      "song": "Wedding",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "PHONY PPL",
+      "song": "Why iii Love The Moon",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "LUCIUS",
+      "song": "Something About You",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Too Soon",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "PAUL DEMPSEY",
+      "song": "Morningless",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "PLAGUE VENDOR",
+      "song": "Jezebel",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK, TRICKY _and_ 3D",
+      "song": "Take It There",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BROADHURST",
+      "song": "Little Lover",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "OH WONDER",
+      "song": "Lose It",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "LAST DINOSAURS",
+      "song": "Wurl",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE BLUE JEAN COMMITTEE",
+      "song": "Catalina Breeze",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "CITY AND COLOUR",
+      "song": "The Lonely Life",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "EN VOGUE",
+      "song": "Free Your Mind",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Feel The Pain",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE CONSTANTINES",
+      "song": "Working Full-Time",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SADE",
+      "song": "By Your Side",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "CITY AND COLOUR",
+      "song": "Wasted Love",
+      "label": null,
+      "timeslot": "11:00:00"
+    }
+  ]
+}

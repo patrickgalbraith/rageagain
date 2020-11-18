@@ -1,0 +1,561 @@
+{
+  "title": "Saturday, 6 June",
+  "special": "Tim Minchin",
+  "timeslot": null,
+  "date": "2009-06-06",
+  "url": "http://www.abc.net.au/rage/archive/s2590237.htm",
+  "tracks": [
+    {
+      "artist": "QUEEN",
+      "song": "Crazy Little Thing Called Love",
+      "label": "Warner",
+      "timeslot": "23:51:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Space Oddity",
+      "label": "EMI",
+      "timeslot": "23:51:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Boys Don't Cry",
+      "label": "Warner",
+      "timeslot": "23:51:00"
+    },
+    {
+      "artist": "INSPIRAL CARPETS",
+      "song": "This Is How It Feels",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ANDY PRIEBOY",
+      "song": "Tomorrow Wendy",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "You Really Got Me",
+      "label": "Fest/Mush",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Sympathy For The Devil [from Rock & Roll Circus]",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CHARLATANS",
+      "song": "North Country Boy",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Coffee & TV",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "I Was Made For Loving You",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DEEP PURPLE",
+      "song": "Black Night",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "You Took The Words Right Out Of My Mouth",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "One",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "By My Side",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DOORS, THE - Live",
+      "song": "The End",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Fire",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Just",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "In Bloom",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE DANDY WARHOLS",
+      "song": "Bohemian Like You",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Killing In The Name",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Go With The Flow",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LENNY KRAVITZ",
+      "song": "Fly Away",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "POWDERFINGER",
+      "song": "On My Mind",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Black Betty",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "From The Sea",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BEDROOM PHILOSOPHER",
+      "song": "The Happiest Boy",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "1,000 Miles Away",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ERIC PRYDZ",
+      "song": "Call On Me",
+      "label": "MOS/EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARMAND VAN HELDEN",
+      "song": "Hear My Name",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Sexx Laws",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEN FOLDS",
+      "song": "Rockin' The Suburbs",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THEY MIGHT BE GIANTS",
+      "song": "Birdhouse In Your Soul",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "REEL BIG FISH",
+      "song": "Take On Me",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Right Here, Right Now",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Star Guitar",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PORTISHEAD",
+      "song": "Glory Box",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Glosoli",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TIM MINCHIN",
+      "song": "Canvas Bags",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TIM MINCHIN",
+      "song": "Drowned",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "I Will Follow",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Gloria",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Celebration",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "New Year's Day",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Two Hearts Beat As One",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Sunday Bloody Sunday",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Pride (In The Name Of Love)",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "The Unforgettable Fire",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "A Sort Of Homecoming",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "With Or Without You",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "I Still Haven't Found What I'm Looking For",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "I Believe In You (Lovetown)",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Where The Streets Have No Name",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Desire",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Angel Of Harlem",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "U2 with B.B. KING",
+      "song": "When Love Comes To Town",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "All I Want Is You",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Night & Day",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "The Fly",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Mysterious Ways",
+      "label": "Mercury",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Even Better Than The Real Thing",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Numb",
+      "label": "Mercury",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Lemon",
+      "label": "Mercury",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Stay (Far Away, So Close)",
+      "label": "Mercury",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Discotheque",
+      "label": "Mercury",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Staring At The Sun",
+      "label": "Mercury",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Last Night On Earth",
+      "label": "Mercury",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Please",
+      "label": "Mercury",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Mofo (Phunk Force Mix)",
+      "label": "Mercury",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Sweetest Thing",
+      "label": "Mercury",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "The Ground Beneath Her Feet",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Beautiful Day",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Stuck In A Moment You Can't Get Out Of",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Walk On",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Elevation",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Electrical Storm",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Vertigo",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "All Because Of You",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Sometimes You Can't Make It On Your Own",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "City Of Blinding Lights",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Original Of The Species",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Window In The Skies",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Magnificent",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "Fire",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LITTLE BOOTS",
+      "song": "New In Town",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PASSION PIT",
+      "song": "The Reeling",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ANDY BULL",
+      "song": "Young Man",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "Lisztomania",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OF MONTREAL",
+      "song": "An Eluardian Instance",
+      "label": "Popfrenzy",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HOT LITTLE HANDS",
+      "song": "Dynamite In Black & White",
+      "label": "Rubber",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RED RIDERS",
+      "song": "You've Got A Lot Of Nerve",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HUNGRY KIDS OF HUNGARY",
+      "song": "Scattered Diamonds",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Standing On The Shore",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

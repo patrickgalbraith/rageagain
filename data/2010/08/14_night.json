@@ -1,0 +1,681 @@
+{
+  "title": "Saturday night  Saturday, 14 August",
+  "special": "Sally Seltmann",
+  "timeslot": "night",
+  "date": "2010-08-14",
+  "url": "http://www.abc.net.au/rage/archive/s2982247.htm",
+  "tracks": [
+    {
+      "artist": "NENEH CHERRY",
+      "song": "Buffalo Stance",
+      "label": "Virgin",
+      "timeslot": "23:05:00"
+    },
+    {
+      "artist": "ELASTICA",
+      "song": "Connection",
+      "label": "Universal (MCA",
+      "timeslot": "23:05:00"
+    },
+    {
+      "artist": "CONCRETE BLONDE",
+      "song": "Joey",
+      "label": "Mushroom",
+      "timeslot": "23:05:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Lived In Bars",
+      "label": "Remote Control",
+      "timeslot": "23:05:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Dreams",
+      "label": "WEA",
+      "timeslot": "23:05:00"
+    },
+    {
+      "artist": "DEBORAH HARRY",
+      "song": "French Kissing In The USA",
+      "label": "EMI",
+      "timeslot": "23:05:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Cream",
+      "label": "Warner",
+      "timeslot": "23:05:00"
+    },
+    {
+      "artist": "LOU REED - LIVE",
+      "song": "Walk On The Wild Side",
+      "label": "Universal (MCA",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PETULA CLARK",
+      "song": "Downtown",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MARIANNE FAITHFULL",
+      "song": "As Tears Go By",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Losing My Religion",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Psycho Killer",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Time Is On My Side",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "LENNY KRAVITZ",
+      "song": "It Ain't Over 'Til It's Over",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Jean Genie",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "Heartbeats",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JESSICA SAYS",
+      "song": "I'll Set The Night Upon You",
+      "label": "Remote Control",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Step Into My Office, Baby",
+      "label": "Spunk/Inertia",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "WOMACK & WOMACK",
+      "song": "Teardrops",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JULEE CRUISE",
+      "song": "Falling",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Venus As A Boy",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Svefn-G-Englar",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "STEREOLAB",
+      "song": "Super-Electric",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Frontier Psychiatrist",
+      "label": "Modular",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "Debbie",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ANTONY & THE JOHNSONS",
+      "song": "Hope There's Someone",
+      "label": "Spunk/Inertia",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Do You Love Me?",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE DIRTY THREE",
+      "song": "Hope",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GODSTAR",
+      "song": "Seeing Stars",
+      "label": "Half A Cow",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLAKE BABIES",
+      "song": "Out There",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DR DOG",
+      "song": "My Old Ways",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Heart Of Chambers",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BREEDERS",
+      "song": "Cannonball",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Miss World",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sugar Kane",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Nothing Compares 2 U",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Jolene",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "C'mon Billy",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LAURIE ANDERSON",
+      "song": "O Superman",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Halo",
+      "label": "SBME",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": "Modular",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "I Just Don't Know What To Do With Myself",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIANA ROSS",
+      "song": "Chain Reaction",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE RONETTES",
+      "song": "Be My Baby",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SALLY SELTMANN",
+      "song": "Dream About Changing",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPDFGH",
+      "song": "Wikky's Ode",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPDFGH",
+      "song": "Too Much",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NEW BUFFALO",
+      "song": "Recovery",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NEW BUFFALO",
+      "song": "I've Got You And You've Got Me",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NEW BUFFALO",
+      "song": "Cheer Me Up Thank You",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SALLY SELTMANN",
+      "song": "Harmony To My Heartbeat",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SALLY SELTMANN",
+      "song": "On The Borderline",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SALLY SELTMANN - triple j Like A Version",
+      "song": "You're So Vain",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "1 2 3 4",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Your Way",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Don't U Eva",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Always Worth It",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Explain",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Planet New Year",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Amazing Things",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "All I Want",
+      "label": "Dew Process/UMA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "We Won't Run",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Bird On A Wire",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOLLY THROSBY",
+      "song": "Things Between People",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOLLY THROSBY",
+      "song": "Making A Fire",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOLLY THROSBY",
+      "song": "The Shoulders & Bends",
+      "label": "Spunk",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOLLY THROSBY",
+      "song": "A Heart Divided",
+      "label": "Spunk",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOLLY THROSBY featuring BONNIE 'PRINCE' BILLY",
+      "song": "Would You?",
+      "label": "Spunk",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JENNY MORRIS",
+      "song": "Body & Soul",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Bedroom Eyes",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WENDY MATTHEWS",
+      "song": "The Day You Went Away",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DO RE MI",
+      "song": "Man Overboard",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEBORAH CONWAY",
+      "song": "It's Only The Beginning",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAX SHARAM",
+      "song": "Coma",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MONIQUE BRUMBY",
+      "song": "The Change In Me",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MONIQUE BRUMBY",
+      "song": "Wrecking Ball",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LISA MILLER",
+      "song": "Hang My Head",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LISA MILLER",
+      "song": "The Boy Who Radiates Charm",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Falling",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Scar",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "The Special Two",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Steer",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Where I Stood",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Peachy",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH & THE FEEDING SET",
+      "song": "Ms Unavailability",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH & THE FEEDING SET",
+      "song": "Divorcee By 23",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH & THE FEEDING SET",
+      "song": "Little Self Centred Queen",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH & THE FEEDING SET",
+      "song": "I Thought You Were God",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH",
+      "song": "When The Lights Went Down",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH",
+      "song": "You Look So Good",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LISA MITCHELL",
+      "song": "Incomplete Lullaby",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LISA MITCHELL",
+      "song": "See You When You Get Here",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LISA MITCHELL",
+      "song": "Coin Laundry",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LISA MITCHELL",
+      "song": "Clean White Love",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SAGE FRANCIS",
+      "song": "The Best Of Times",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TOM JONES",
+      "song": "Did Trouble Me",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAN SULTAN",
+      "song": "Old Fitzroy",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JAMIE LIDELL",
+      "song": "I Wanna Be Your Telephone",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BOWERS",
+      "song": "Caught Your Smile",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LAURA IMBRUGLIA",
+      "song": "I Wanna Be Your Girlfriend",
+      "label": "Reckoning Ent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CORDRAZINE",
+      "song": "Sunshine",
+      "label": "Rubber",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RUDELY INTERRUPTED",
+      "song": "Close My Eyes",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEYA DOVA",
+      "song": "Bad Day",
+      "label": "Reflekta",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEAR ALE...",
+      "song": "Like A Collector",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "POLAROID FRAME",
+      "song": "We Live Your Life",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LUCY LOVE",
+      "song": "Daddy Was A DJ",
+      "label": "Other Tongues",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAMA KIN",
+      "song": "To My Table",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE HUNDRED IN THE HANDS",
+      "song": "Tom Tom",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EXAMPLE",
+      "song": "Kickstarts",
+      "label": "MOS",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MYSTERY JETS",
+      "song": "Dreaming Of Another World",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PHILADELPHIA GRAND JURY",
+      "song": "I Don't Want To Party (Party)",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EDWARD SHARPE & THE MAGNETIC ZEROS",
+      "song": "Home",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

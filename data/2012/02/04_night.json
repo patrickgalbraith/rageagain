@@ -1,0 +1,663 @@
+{
+  "title": "Saturday night  Saturday, 4 February",
+  "special": null,
+  "timeslot": "night",
+  "date": "2012-02-04",
+  "url": "http://www.abc.net.au/rage/archive/s3422776.htm",
+  "tracks": [
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Go With The Flow",
+      "label": "Universal",
+      "timeslot": "23:16:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Red Right Hand",
+      "label": "Mushroom",
+      "timeslot": "23:16:00"
+    },
+    {
+      "artist": "THE PHARCYDE",
+      "song": "Drop",
+      "label": "EMI",
+      "timeslot": "23:16:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": "BMG",
+      "timeslot": "23:16:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "Magick",
+      "label": "Uknowho Records",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Rio",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MILES KANE",
+      "song": "Come Closer",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "All Around The World",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "In Bloom",
+      "label": "Universal (MCA",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Gravel Pit",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "B.O.B.",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Turn It Up, Fire It Up",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "D-12",
+      "song": "Purple Pills",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Stan",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "EMINEM featuring DR DRE",
+      "song": "Guilty Conscience",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Ace Of Spades",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "One",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "St. Anger",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Serenity And Murder",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Amerika",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CASS McCOMBS",
+      "song": "County Line",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Jailbreak",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DIO",
+      "song": "King Of Rock And Roll",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Pour Some Sugar On Me",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "You Took The Words Right Out Of My Mouth",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Emotion",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SPICE GIRLS",
+      "song": "Spice Up Your Life",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ASHANTI",
+      "song": "Only U",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AALIYAH",
+      "song": "Are You That Somebody",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CRAIG DAVID",
+      "song": "7 Days",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "P DIDDY featuring BLACK ROB & MARK CURRY",
+      "song": "Bad Boy For Life",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Suck It And See",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "I Bet You Look Good On The Dancefloor",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "When The Sun Goes Down",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "View From The Afternoon",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Fake Tales Of San Francisco",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Leave Before The Lights Come On",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Brianstorm",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Fluorescent Adolescent",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Teddy Picker",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Crying Lightning",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Cornerstone",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "My Propeller",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Don't Sit Down",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "The Hellcat Spangled Shalalala",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Evil Twin",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Black Treacle",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS - LIVE AT GLASTONBURY",
+      "song": "Fluorescent Adolescent",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "The Age Of The Understatement",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "Standing Next To Me",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "My Mistakes Were Made For You",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MILES KANE",
+      "song": "Inhaler",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MILES KANE",
+      "song": "Rearrange",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MILES KANE",
+      "song": "Come Closer",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Up The Bracket",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Don't Look Back Into The Sun",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Time For Heroes",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Can't Stand Me Now",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "Fuck Forever",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "Albion",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "The Blinding",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "Delivery",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BILLY BRAGG - LIVE",
+      "song": "A New England",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "Precious Love",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "The Call Up",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "I Predict A Riot",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUEDE",
+      "song": "Animal Nitrate",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RICHARD HAWLEY",
+      "song": "For Your Lover Give Some Time",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "There Is A Light That Never Goes Out",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Charmless Man",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "Help The Aged",
+      "label": "Mercury",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Let's Go To Bed",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GRAHAM COXON",
+      "song": "Standing On My Own Again",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELBOW",
+      "song": "One Day Like This",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Kowalski",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PLACEBO",
+      "song": "Special K",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Sunburn",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "If You Tolerate This Your Children Will Be Next",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "Swallow",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Loose Fit",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "The Drugs Don't Work",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE STREETS",
+      "song": "Fit But You Know It",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Feel Good Inc.",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GOMEZ",
+      "song": "Bring It On",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Rip It Up",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Radio Heart",
+      "label": "Liberator",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "INFADELS",
+      "song": "Make Mistakes",
+      "label": "Liberator",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "Golden Skans",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "Underdog",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "A Thing For Me",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAMIE T",
+      "song": "If You Got The Money",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Street Spirit",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "She Bangs The Drums",
+      "label": "Universal (MCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Babooshka",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "Drumming Song",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LADY SOVEREIGN",
+      "song": "So Human",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE LONG BLONDES",
+      "song": "Once And Never Again",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Good Fortune",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LOS CAMPESINOS!",
+      "song": "Death To Los Campesinos!",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Flux",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SUPERGRASS",
+      "song": "Bad Blood",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "1990s",
+      "song": "See You At The Lights",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "No You Girls",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LA ROUX",
+      "song": "I'm Not Your Toy",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Let's Dance To Joy Division",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MUMFORD & SONS",
+      "song": "The Cave",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KATE NASH",
+      "song": "Pumpkin Soup",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JESSIE J featuring B.o.B",
+      "song": "Price Tag",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "The Fear",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

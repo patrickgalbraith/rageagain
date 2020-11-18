@@ -1,0 +1,711 @@
+{
+  "title": "Saturday 8th July",
+  "special": "Moby guest programs rage",
+  "timeslot": null,
+  "date": "2000-07-08",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000708.htm",
+  "tracks": [
+    {
+      "artist": "The Cure",
+      "song": "Just Like Heaven",
+      "label": "Warner",
+      "timeslot": "11:36:00"
+    },
+    {
+      "artist": "The Specials",
+      "song": "Ghost Town",
+      "label": "Sony",
+      "timeslot": "11:36:00"
+    },
+    {
+      "artist": "Faithless",
+      "song": "Insomnia",
+      "label": "Festival",
+      "timeslot": "11:36:00"
+    },
+    {
+      "artist": "Massive Attack",
+      "song": "Safe From Harm",
+      "label": "Virgin",
+      "timeslot": "11:36:00"
+    },
+    {
+      "artist": "Cat Power",
+      "song": "Cross Bones Style",
+      "label": "MDS",
+      "timeslot": "11:36:00"
+    },
+    {
+      "artist": "Bran Van 3000",
+      "song": "Drinking In L.A.",
+      "label": "EMI",
+      "timeslot": "11:36:00"
+    },
+    {
+      "artist": "Beta Band",
+      "song": "Inner Meet Me",
+      "label": "Modular",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Folk Implosion",
+      "song": "Natural One",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Grant Lee Buffalo",
+      "song": "Mockingbirds",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PJ Harvey",
+      "song": "Send His Love To Me",
+      "label": "Mercury",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Blondie",
+      "song": "Heart Of Glass",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Blue Boy",
+      "song": "Remember Me",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Depeche Mode",
+      "song": "Enjoy The Silence",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Joy Division",
+      "song": "Atmosphere",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "Massive Attack",
+      "song": "Protection",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "Sneaker Pimps",
+      "song": "Six Underground",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "Hole",
+      "song": "Gold Dust Woman",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "song": "Looking Out My Back Door",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "Jimi Hendrix",
+      "song": "Are You Experienced?",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "John Lennon",
+      "song": "Instant Karma",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Senses Working Overtime",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Queen",
+      "song": "We Are The Champions",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Don't Change",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "One",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "David Bowie & Bing Crosby",
+      "song": "Little Drummer Boy",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Nine Inch Nails",
+      "song": "Hurt",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Filter",
+      "song": "Hey Man Nice Shot",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Nick Cave & The Bad Seeds",
+      "song": "The Mercy Seat",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "The Birthday Party",
+      "song": "Release The Bats",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Iggy Pop",
+      "song": "Lust For Life",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Sex Pistols",
+      "song": "Anarchy In The U.K.",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "The Prodigy",
+      "song": "Poison",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Public Enemy",
+      "song": "Welcome To The Terrordome",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Naughty By Nature",
+      "song": "Hip Hop Hooray",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LL Cool J",
+      "song": "Mama Said Knock You Out",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "2 Pac featuring Dr. Dre",
+      "song": "California Love",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Warren G & Nate Dogg",
+      "song": "Regulate",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Moby",
+      "song": "That's When I Reach For My Revolver",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Devo",
+      "song": "Girl U Want",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Massive Attack",
+      "song": "Unfinished Sympathy",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Massive Attack",
+      "song": "Karmacoma",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Moby",
+      "song": "James Bond Theme",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Moby",
+      "song": "Run On",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Moby",
+      "song": "Bodyrock",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Moby",
+      "song": "Why Does My Heart Feel So Bad?",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Moby",
+      "song": "Honey",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "The Auditions - Moby",
+      "song": "Bodyrock",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "The Verve",
+      "song": "Blue",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "The Verve",
+      "song": "Slide Away",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "The Verve",
+      "song": "This Is Music",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "The Verve",
+      "song": "Bittersweet Symphony",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "The Verve",
+      "song": "The Drugs Don't Work",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "The Verve",
+      "song": "Lucky Man",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "The Verve",
+      "song": "Sonnet",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Richard Ashcroft",
+      "song": "A Song For The Lovers",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Richard Ashcroft",
+      "song": "Money To Burn",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "David Bridie",
+      "song": "The Koran, The Ghan & A Yarn",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "David Bridie",
+      "song": "The Deserters",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "David Bridie",
+      "song": "Dive",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "David Bridie",
+      "song": "Float",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "David Bridie",
+      "song": "The Last Great Magician",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "The Whitlams",
+      "song": "Blow Up The Pokies",
+      "label": "Warner",
+      "timeslot": "03:30:00",
+      "countdown": 50
+    },
+    {
+      "artist": "Leah Haywood",
+      "song": "We Think It's Love",
+      "label": "Sony",
+      "timeslot": "03:30:00",
+      "countdown": 49
+    },
+    {
+      "artist": "Girlfriend - No Doubt",
+      "song": "Ex",
+      "label": "Universal",
+      "timeslot": "04:00:00",
+      "countdown": 48
+    },
+    {
+      "artist": "Aqua",
+      "song": "Around The World",
+      "label": "Universal",
+      "timeslot": "04:00:00",
+      "countdown": 47
+    },
+    {
+      "artist": "Santana featuring Everlast",
+      "song": "Put Your Lights On",
+      "label": "BMG",
+      "timeslot": "04:00:00",
+      "countdown": 46
+    },
+    {
+      "artist": "Lock'n'Load",
+      "song": "Blow Ya Mind",
+      "label": "Central Station",
+      "timeslot": "04:00:00",
+      "countdown": 45
+    },
+    {
+      "artist": "Friendly",
+      "song": "I Love You But...",
+      "label": "Jive/Zomba",
+      "timeslot": "04:00:00",
+      "countdown": 44
+    },
+    {
+      "artist": "Faith Hill",
+      "song": "Breathe",
+      "label": "Warner",
+      "timeslot": "04:00:00",
+      "countdown": 43
+    },
+    {
+      "artist": "The Corrs",
+      "song": "Breathless",
+      "label": "Warner",
+      "timeslot": "04:00:00",
+      "countdown": 42
+    },
+    {
+      "artist": "Backstreet Boys",
+      "song": "The One",
+      "label": "Jive/Zomba",
+      "timeslot": "04:00:00",
+      "countdown": 41
+    },
+    {
+      "artist": "Groove Terminator",
+      "song": "One More Time (The Sunshine Song)",
+      "label": "Virgin",
+      "timeslot": "04:30:00",
+      "countdown": 40
+    },
+    {
+      "artist": "Lo-Tel",
+      "song": "Teenager Of The Year",
+      "label": "Murmur",
+      "timeslot": "04:30:00",
+      "countdown": 39
+    },
+    {
+      "artist": "Invertigo",
+      "song": "Desensitized",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00",
+      "countdown": 38
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "song": "Bent",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 37
+    },
+    {
+      "artist": "Travis",
+      "song": "Why Does It Always Rain On Me?",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 35
+    },
+    {
+      "artist": "Chicane featuring Bryan Adams",
+      "song": "Don't Give Up",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 34
+    },
+    {
+      "artist": "S Club 7",
+      "song": "Two In A Million",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 33
+    },
+    {
+      "artist": "Sonique",
+      "song": "It Feels So Good",
+      "label": "Independent",
+      "timeslot": "04:30:00",
+      "countdown": 32
+    },
+    {
+      "artist": "Limp Bizkit",
+      "song": "Take A Look Around",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 31
+    },
+    {
+      "artist": "Christine Anu",
+      "song": "Sunshine On A Rainy Day",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00",
+      "countdown": 30
+    },
+    {
+      "artist": "Kaylan",
+      "song": "Rock Me All Night",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 29
+    },
+    {
+      "artist": "S2S",
+      "song": "What's A Girl To Do",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00",
+      "countdown": 28
+    },
+    {
+      "artist": "Shaft",
+      "song": "Mambo Italiano",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 26
+    },
+    {
+      "artist": "Killing Heidi",
+      "song": "Live Without It",
+      "label": "Roadshow",
+      "timeslot": "05:00:00",
+      "countdown": 25
+    },
+    {
+      "artist": "Snoop Dogg",
+      "song": "Got Beef",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00",
+      "countdown": 24
+    },
+    {
+      "artist": "Bardot",
+      "song": "I Should've Never Let You Go",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 23
+    },
+    {
+      "artist": "Mandy Moore",
+      "song": "So Real",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 22
+    },
+    {
+      "artist": "Lonestar",
+      "song": "Amazed",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 21
+    },
+    {
+      "artist": "Whitney Houston & Enrique Iglesias",
+      "song": "Could I Have This Kiss Forever",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 20
+    },
+    {
+      "artist": "Britney Spears",
+      "song": "Oops! I Did It Again",
+      "label": "Jive/Zomba",
+      "timeslot": "05:30:00",
+      "countdown": 19
+    },
+    {
+      "artist": "28 Days",
+      "song": "Rip It Up",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00",
+      "countdown": 18
+    },
+    {
+      "artist": "Naughty By Nature",
+      "song": "Holiday",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 17
+    },
+    {
+      "artist": "Destiny's Child",
+      "song": "Say My Name",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 16
+    },
+    {
+      "artist": "Jessica Simpson",
+      "song": "I Think I'm In Love With You",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 15
+    },
+    {
+      "artist": "Vengaboys",
+      "song": "ShaLaLaLa LaLa",
+      "label": "EMI",
+      "timeslot": "06:00:00",
+      "countdown": 14
+    },
+    {
+      "artist": "*NSync",
+      "song": "It's Gonna Be Me",
+      "label": "Jive/Zomba",
+      "timeslot": "06:00:00",
+      "countdown": 13
+    },
+    {
+      "artist": "Vanessa Amorosi",
+      "song": "Shine",
+      "label": "Transistor",
+      "timeslot": "06:00:00",
+      "countdown": 12
+    },
+    {
+      "artist": "Melanie C featuring Lisa 'Left-Eye' Lopes",
+      "song": "Never Be The Same Again",
+      "label": "Virgin",
+      "timeslot": "06:00:00",
+      "countdown": 11
+    },
+    {
+      "artist": "Toni Braxton",
+      "song": "He Wasn't Man Enough",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 10
+    },
+    {
+      "artist": "Billie Piper",
+      "song": "Day & Night",
+      "label": "Virgin",
+      "timeslot": "06:00:00",
+      "countdown": 9
+    },
+    {
+      "artist": "Fragma",
+      "song": "Toca's Miracle",
+      "label": "Jive/Zomba",
+      "timeslot": "06:00:00",
+      "countdown": 8
+    },
+    {
+      "artist": "Pink",
+      "song": "There You Go",
+      "label": "BMG",
+      "timeslot": "06:30:00",
+      "countdown": 7
+    },
+    {
+      "artist": "Bon Jovi",
+      "song": "It's My Life",
+      "label": "Universal",
+      "timeslot": "06:30:00",
+      "countdown": 6
+    },
+    {
+      "artist": "Kylie Minogue",
+      "song": "Spinning Around",
+      "label": "Fest/Mush",
+      "timeslot": "06:30:00",
+      "countdown": 5
+    },
+    {
+      "artist": "Madison Avenue",
+      "song": "Who The Hell Are You",
+      "label": "Virgin",
+      "timeslot": "06:30:00",
+      "countdown": 4
+    },
+    {
+      "artist": "Sisqo",
+      "song": "Thong Song",
+      "label": "Universal",
+      "timeslot": "06:30:00",
+      "countdown": 3
+    },
+    {
+      "artist": "Anastacia",
+      "song": "I'm Outta Love",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 2
+    },
+    {
+      "artist": "Bomfunk MC's",
+      "song": "Freestyler",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 1
+    }
+  ]
+}

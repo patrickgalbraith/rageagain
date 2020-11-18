@@ -1,0 +1,591 @@
+{
+  "title": "Saturday, 13 September",
+  "special": "WILD CARD Special #2",
+  "timeslot": null,
+  "date": "2008-09-13",
+  "url": "http://www.abc.net.au/rage/archive/s2362858.htm",
+  "tracks": [
+    {
+      "artist": "RADIOHEAD",
+      "song": "Pop Is Dead",
+      "label": "EMI",
+      "timeslot": "12:19:00"
+    },
+    {
+      "artist": "FRANK BENNETT",
+      "song": "Creep",
+      "label": "Mercury",
+      "timeslot": "12:19:00"
+    },
+    {
+      "artist": "DAVE GRANEY 'N' THE CORAL SNAKES",
+      "song": "I'm Gonna Release Your Soul",
+      "label": "Mercury",
+      "timeslot": "12:19:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Deanna",
+      "label": "Mushroom",
+      "timeslot": "12:19:00"
+    },
+    {
+      "artist": "ECHO & THE BUNNYMEN",
+      "song": "Bedbugs And Ballyhoo",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE JESUS & MARY CHAIN",
+      "song": "Head On",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "In The Flesh",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SHAKESPEAR'S SISTER",
+      "song": "Dirty Mind",
+      "label": "Polygram",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SUZANNE VEGA",
+      "song": "99.9 F",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JAH WOBBLE'S INVADERS OF THE HEART",
+      "song": "Visions Of You",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Walkabout",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Triumph Of A Heart",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "The Sensual World",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SIOUXSIE & THE BANSHEES",
+      "song": "Kiss Them For Me",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "The 13th",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BENTLEY RHYTHM ACE",
+      "song": "How'd I Do Dat",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GODLEY & CREME",
+      "song": "An Englishman In New York",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YELLO",
+      "song": "Of Course I'm Lying",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMMY NAIL",
+      "song": "Ain't No Doubt",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRIMITIVE RADIO GODS",
+      "song": "Standing Outside A Broken Phone Booth...",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "URGE OVERKILL",
+      "song": "Girl, You'll Be A Woman Soon",
+      "label": "Universal (MCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THAT DOG",
+      "song": "He's Kissing Christian",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WHALE",
+      "song": "Hobo Humpin' Slobo Babe",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CAPTAIN SENSIBLE",
+      "song": "Wot?",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ADRIAN MUNSEY",
+      "song": "The Lost Sheep",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "El Scorcho",
+      "label": "Universal (MCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE RENTALS",
+      "song": "Waiting",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "STONE TEMPLE PILOTS",
+      "song": "Sour Girl",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "The Memory Remains",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Garden Of Eden",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ELECTRIC PANDAS",
+      "song": "Big Girls",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE REELS",
+      "song": "According To My Heart",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "This Note's For You",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHRIS ISAAK",
+      "song": "Graduation Day",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LYLE LOVETT",
+      "song": "Penguins",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CORDUROY",
+      "song": "The Frighteners",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "1,000 CLOWNS",
+      "song": "(Not The) Greatest Rapper",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PLASTILINA MOSH",
+      "song": "Mr. P Mosh",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLOODHOUND GANG",
+      "song": "Mama Say",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEENIE MAN",
+      "song": "Dude",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Can It All Be So Simple?",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "2 PAC featuring SNOOP DOGGY DOGG",
+      "song": "2 Of Amerikaz Most Wanted",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FU-SCHNICKENS with SHAQUILLE O'NEAL",
+      "song": "What's Up Doc?",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RONNY JORDAN",
+      "song": "The Jackal",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOUNDS OF BLACKNESS",
+      "song": "The Pressure Pt 1",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PANJABI MC featuring JAY-Z",
+      "song": "Mundian To Bach Ke (Beware Of The Boys)",
+      "label": "MOS/EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NITIN SAWHNEY",
+      "song": "Rainfall",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OPUS III",
+      "song": "It's A Fine Day",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AGE OF CHANCE",
+      "song": "Don't Get Mad... Get Even!",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIG AUDIO DYNAMITE",
+      "song": "Contact",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ECCO HOMO",
+      "song": "Motorcycle Baby",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DR. ALBAN",
+      "song": "Hello Afrika",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Judge Fudge",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LO FIDELITY ALLSTARS",
+      "song": "Vision Incision",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARY CLAIL",
+      "song": "These Things Are Worth Fighting For",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JAMIE LIDELL",
+      "song": "The City Don't Like You",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HEADLESS CHICKENS",
+      "song": "Donde Esta La Pollo",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WHOPPING BIG NAUGHTY",
+      "song": "Twist My Nipples",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SMUDGE",
+      "song": "Mike Love Not War",
+      "label": "Mercury",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE MESSENGERS",
+      "song": "Don't Start Me Talking",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "Instinct",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TLC",
+      "song": "Creep",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SALT 'N' PEPA",
+      "song": "Shoop",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TRANSVISION VAMP",
+      "song": "I Want Your Love",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PROMISES",
+      "song": "Baby It's You",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "J. GEILS BAND",
+      "song": "Centerfold",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MONO PUFF",
+      "song": "The Devil Went Down To Newport (Totally Rocking)",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BIG & RICH",
+      "song": "Save A Horse (Ride A Cowboy)",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRENTE",
+      "song": "Horrible",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GOD LIVES UNDERWATER",
+      "song": "From Your Mouth",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE BELOVED",
+      "song": "Time After Time",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "UNDERGROUND LOVERS featuring PAULY B",
+      "song": "Trackies (Remix)",
+      "label": "Jive/Zomba",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALEXEI SAYLE",
+      "song": "'Ullo John Got A New Motor",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOJO NIXON & SKID ROPER",
+      "song": "Elvis Is Everywhere",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE AFGHAN WHIGS",
+      "song": "Honky's Ladder",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEXY'S MIDNIGHT RUNNERS",
+      "song": "Jackie Wilson Said (I'm In Heaven When You Smile)",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "13 Steps Lead Down",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BOO RADLEYS",
+      "song": "What's In The Box?",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FREE",
+      "song": "All Right Now",
+      "label": "Universal (MCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CRAZY WORLD OF ARTHUR BROWN",
+      "song": "Fire",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "REDGUM",
+      "song": "I Was Only 19",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Armistice Day",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "POISON",
+      "song": "Every Rose Has Its Thorn",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KID ROCK featuring SHERYL CROW",
+      "song": "Picture",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PET SHOP BOYS",
+      "song": "Being Boring",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "McALMONT & BUTLER",
+      "song": "You Do",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Gamma Ray",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BLACK GHOSTS",
+      "song": "Repetition Kills You",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "Holiday",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE DODOS",
+      "song": "Fools",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KASEY CHAMBERS & SHANE NICHOLSON",
+      "song": "Monkey On A Wire",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUFFY",
+      "song": "Warwick Avenue",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YOUTH GROUP",
+      "song": "All This Will Pass",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "Jealousy",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Walking On A Dream",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Talons",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Talk Like That",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

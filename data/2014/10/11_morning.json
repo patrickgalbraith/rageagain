@@ -1,0 +1,489 @@
+{
+  "title": "Saturday morning 11 October 2014",
+  "special": null,
+  "timeslot": "morning",
+  "date": "2014-10-11",
+  "url": "http://www.abc.net.au/rage/archive/s4104755.htm",
+  "tracks": [
+    {
+      "artist": "LABRINTH",
+      "song": "Let It Be",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NATHANIEL",
+      "song": "Live Louder",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ECHOSMITH",
+      "song": "Cool Kids",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KATY PERRY",
+      "song": "This Is How We Do",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HILARY DUFF",
+      "song": "All About Me",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "IGGY AZALEA and RITA ORA",
+      "song": "Black Widow",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIGMA featuring PALOMA FAITH",
+      "song": "Changing",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALICIA KEYS",
+      "song": "We Are Here",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "G.R.L.",
+      "song": "Ugly Heart",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NICO _and_ VINZ",
+      "song": "In Your Arms",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAM SMITH",
+      "song": "I'm Not The Only One",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ITCH",
+      "song": "Another Man",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BECKY G",
+      "song": "Shower",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LILLY WOOD and THE PRICK",
+      "song": "Prayer In C (Robin Schulz Remix)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GEORGE EZRA",
+      "song": "Budapest",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAM SMITH",
+      "song": "Restart",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS featuring JOHN NEWMAN",
+      "song": "Blame",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JESSIE J, ARIANA GRANDE and NICKI MINAJ",
+      "song": "Bang Bang",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MARY LAMBERT",
+      "song": "Secrets",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "THE VAMPS",
+      "song": "Oh Cecilia (Breaking My Heart)",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MEGHAN TRAINOR",
+      "song": "All About That Bass",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "THE MADDEN BROTHERS",
+      "song": "We Are Done",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "TIMMY TRUMPET featuring SAVAGE",
+      "song": "Freaks",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ARIANA GRANDE",
+      "song": "Break Free",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Shake It Off",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "PHARRELL WILLIAMS",
+      "song": "It Girl",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Don't",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "USHER featuring NICKI MINAJ",
+      "song": "She Came To Give It To You",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "PALOMA FAITH",
+      "song": "Only Love Can Hurt Like This",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "KLINGANDE",
+      "song": "Jubel",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ELLA HENDERSON",
+      "song": "Ghost",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE VERONICAS",
+      "song": "You Ruin Me",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "You Are The One",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "CHILDHOOD",
+      "song": "Blue Velvet",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GOLD CLASS",
+      "song": "Michael",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "TWEEDY",
+      "song": "Low Key",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "CIVIL CIVIC V R. STEVIE MOORE",
+      "song": "When You Gonna Find Me A Wife?",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "DONNY BENET",
+      "song": "Charlotte's Web",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Shadrach",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "NILSSON",
+      "song": "Gotta Get Up",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "WEEN",
+      "song": "Freedom Of '76",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE VINES",
+      "song": "Metal Zone",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "DONNY BENET",
+      "song": "Gimmie Your Heat",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SPOD",
+      "song": "Last Dance",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "MANGELWURZEL",
+      "song": "Everybody's Friend",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ARIEL PINK",
+      "song": "Put Your Number In My Phone",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "LIARS",
+      "song": "I'm No Gold",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SBTRKT featuring EZRA KOENIG",
+      "song": "New Dorp. New York",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BROS",
+      "song": "When Will I Be Famous?",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "NELSON",
+      "song": "(Can't Live Without Your) Love And Affection)",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Stayin' Alive",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "STYX",
+      "song": "Mr. Roboto",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE BREEDERS",
+      "song": "Cannonball",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BLONDE REDHEAD",
+      "song": "23",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "TEGAN and SARA",
+      "song": "Walking With A Ghost",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE PROCLAIMERS",
+      "song": "I'm Gonna Be (500 Miles)",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Somebodys Talking",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "TUNE-YARDS",
+      "song": "Real Thing",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BOOTS",
+      "song": "Mercy",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE JUAN MACLEAN",
+      "song": "A Simple Design",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE 2 BEARS",
+      "song": "Not This Time",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "TV ON THE RADIO",
+      "song": "Happy Idiot",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CHROMEO",
+      "song": "Old 45's",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "FLYING LOTUS featuring KENDRICK LAMAR",
+      "song": "Never Catch Me",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CARIBOU",
+      "song": "Our Love",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "LIDO",
+      "song": "Money",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MEGAN WASHINGTON",
+      "song": "My Heart Is A Wheel",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "FOX",
+      "song": "S-S-S-Single Bed",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "EDITH BLISS",
+      "song": "Anything Goes",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "EDWYN COLLINS",
+      "song": "A Girl Like You",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "TEARS FOR FEARS",
+      "song": "Head Over Heels",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "FREDDIE MERCURY and MONTSERRAT CABALLE",
+      "song": "Barcelona",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ALT-J",
+      "song": "Tessellate",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ELECTRONIC",
+      "song": "Getting Away With It",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DIANA ROSS",
+      "song": "Eaten Alive",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "JAMES REYNE",
+      "song": "Hammerhead",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "RUFUS WAINWRIGHT",
+      "song": "California",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Avant Gardener",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "FATHER JOHN MISTY",
+      "song": "Funtimes In Babylon",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "Sunday Best",
+      "label": null,
+      "timeslot": "11:00:00"
+    }
+  ]
+}

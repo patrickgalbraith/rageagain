@@ -1,0 +1,705 @@
+{
+  "title": "Saturday night  Saturday, 12 March",
+  "special": "Dropkick Murphys",
+  "timeslot": "night",
+  "date": "2011-03-12",
+  "url": "http://www.abc.net.au/rage/archive/s3161898.htm",
+  "tracks": [
+    {
+      "artist": "AGAINST ME!",
+      "song": "White People For Peace",
+      "label": "Warner",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "THE DISTILLERS",
+      "song": "City Of Angels",
+      "label": "Shock",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "THE GASLIGHT ANTHEM",
+      "song": "The '59 Sound",
+      "label": "Shock",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Over It",
+      "label": "Liberation",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Desolation Row",
+      "label": "Warner",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Under My Thumb",
+      "label": "EMI",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Wild America",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Call Me",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BIG AUDIO DYNAMITE II",
+      "song": "Rush",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Dirty Boulevarde",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "In The City",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CARS",
+      "song": "Just What I Needed",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CEE LO GREEN",
+      "song": "F**k You",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "My Hero",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Everlong",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES - LIVE",
+      "song": "Knocking On Heavens Door",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JOAN JETT & THE BLACKHEARTS",
+      "song": "Fake Friends",
+      "label": "Blackheart Records",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BOUNCING SOULS",
+      "song": "Kids & Heroes",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BOUNCING SOULS",
+      "song": "Sing Along Forever",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BOUNCING SOULS",
+      "song": "The Pizza Song",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JOE STRUMMER & THE MESCALEROS",
+      "song": "Johnny Appleseed",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JOE STRUMMER & THE MESCALEROS",
+      "song": "Coma Girl",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Complete Control",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "What's On Your Radio",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE POGUES featuring KIRSTY MACCOLL",
+      "song": "Fairytale Of New York",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Little By Little",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Glory Days",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SICK OF IT ALL",
+      "song": "Step Down",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "State Of Massachusetts",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "Barroom Hero",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "The Gauntlet",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "Spicy McHaggis Jig",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "Walk Away",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "Gonna Be A Blackout Tonight",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "Sunshine Highway",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "I'm Shipping Up To Boston",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "Johnny I Hardly Knew Ya",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS - LIVE",
+      "song": "The Dirty Glass",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS - LIVE",
+      "song": "Barroom Hero",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS - LIVE",
+      "song": "Boys On The Docks",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "Fiesta",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "Dirty Old Town",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "How Come",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THIN LIZZY",
+      "song": "The Boys Are Back In Town",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THIN LIZZY",
+      "song": "Chinatown",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DEAD KENNEDYS - LIVE",
+      "song": "Holiday In Cambodia",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE SLITS",
+      "song": "Earth Beat",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MISFITS",
+      "song": "Scream",
+      "label": "Roadrunner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FLOGGING MOLLY",
+      "song": "Seven Deadly Sins",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FLOGGING MOLLY",
+      "song": "Float",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Ultra Twist",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Bikini Girls With Machine Guns",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE DESCENDENTS",
+      "song": "When I Get Old",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE DESCENDENTS",
+      "song": "I'm The One",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "Soul Craft",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "God Of Love",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "Give Thanks And Praise/Jah Love",
+      "label": "Stomp",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STIFF LITTLE FINGERS",
+      "song": "Barbed Wire Love",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STIFF LITTLE FINGERS",
+      "song": "Gotta Gettaway",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STREET DOGS",
+      "song": "You Alone",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STREET DOGS",
+      "song": "Two Angry Kids",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "Punk Rock Song",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "Stranger Than Fiction",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "American Jesus",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "New America",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NO FX",
+      "song": "Leave It Alone",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NO FX",
+      "song": "Bob",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NO FX",
+      "song": "Franco Un-American",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PENNYWISE",
+      "song": "Homesick",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PENNYWISE",
+      "song": "Society",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PENNYWISE",
+      "song": "F**K Authority",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PENNYWISE",
+      "song": "Knocked Down",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Fall Back Down",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Salvation",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Last One To Die",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUBLIME",
+      "song": "Bad Fish",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUBLIME",
+      "song": "Date Rape",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUBLIME",
+      "song": "What I Got",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE GO SET",
+      "song": "The Rising Tide",
+      "label": "Rubber",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE GO SET",
+      "song": "Portland 3:15",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE GO SET",
+      "song": "The New Age",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE GO SET",
+      "song": "Davey",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Chelsea Dagger",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Flathead",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Creepin' Up The Back Stairs",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Whistle For The Choir",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Mistress Mabel",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Look Out Sunshine",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "When I Come Around",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Longview",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Nice Guys Finish Last",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Minority",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Hitchin' A Ride",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Second Solution",
+      "label": "MDS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "All Torn Down",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Roll On",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "West End Riot",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Dirty Man",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BRITISH INDIA",
+      "song": "March Into The Ocean",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LYKKE LI",
+      "song": "I Follow Rivers",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LANU featuring MEGAN WASHINGTON",
+      "song": "Beautiful Trash",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CARO EMERALD",
+      "song": "Back It Up",
+      "label": "KAOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "360 featuring PEZ",
+      "song": "Just Got Started",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PIKELET",
+      "song": "Weakest Link",
+      "label": "Love & Mercy",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SUFJAN STEVENS",
+      "song": "Too Much",
+      "label": "Spunk",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JENNY AND JOHNNY",
+      "song": "Big Wave",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE PHOENIX FOUNDATION",
+      "song": "Buffalo",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DASH & WILL",
+      "song": "Animal",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CAGE THE ELEPHANT",
+      "song": "Shake Me Down",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TIM & JEAN",
+      "song": "I Can Show You",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "She's Like A Comet",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FOSTER THE PEOPLE",
+      "song": "Pumped Up Kicks",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "The Ballad of Mona Lisa",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TWO DOOR CINEMA CLUB",
+      "song": "What You Know",
+      "label": "MOS",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "China",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BEST COAST",
+      "song": "When I'm With You",
+      "label": "Popfrenzy",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "title": "Friday night 7 April 2017, ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2017-04-07",
+  "url": "http://www.abc.net.au/rage/archive/s4650148.htm",
+  "tracks": [
+    {
+      "artist": "KASABIAN",
+      "song": "You're In Love With A Psycho",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ALEX THE ASTRONAUT",
+      "song": "Rockstar City",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO",
+      "song": "This Old Dog",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "JESS LOCKE",
+      "song": "Better/Bitter",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GUM",
+      "song": "Deep Razz",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN",
+      "song": "Bravado",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN",
+      "song": "Off The Record",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SASKWATCH",
+      "song": "December Nights",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ALLDAY ft. JAPANESE WALLPAPER",
+      "song": "In Motion",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TORO Y MOI",
+      "song": "Omaha",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SUN CITY ft. YEO",
+      "song": "Castaway",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Humble",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CYHI DA PRYNCE ft. ERNESTINE JOHNSON",
+      "song": "Nu Africa",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SPIT SYNDICATE ft. JOYRIDE AND SOLO",
+      "song": "Hold On Me",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BADBADNOTGOOD ft. KAYTRANADA _and_ SNOOP DOGG",
+      "song": "Lavender (Nightfall Remix)",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE SMITH STREET BAND",
+      "song": "Birthdays",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WEST THEBARTON BROTHEL PARTY",
+      "song": "Moving Out",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE BENNIES",
+      "song": "Corruption",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLEEDING KNEES CLUB",
+      "song": "Chew The Gum",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SOFI TUKKER",
+      "song": "Johny",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE LEERS",
+      "song": "I Can't Cope",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FUTURE ISLANDS",
+      "song": "Ran",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THUNDAMENTALS",
+      "song": "Sally",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "REMI ft. SILENT JAY",
+      "song": "Contact Hi / High / I",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SETH SENTRY",
+      "song": "Play It Safe",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARIEL PINK AND WEYES BLOOD",
+      "song": "Tears On Fire",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAVID LIEBE HART",
+      "song": "Insect Woman",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FLOWERTRUCK",
+      "song": "Dying To Hear",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Got On My Skateboard",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "Off White Limousine",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GOLDEN VESSEL ft. EMERSON LEIF",
+      "song": "Tell The-Girl",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BENSON ft. YEO",
+      "song": "Trying",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "Legend Has It",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WEEKND, THE ft. DAFT PUNK",
+      "song": "I Feel It Coming",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SHINING BIRD",
+      "song": "Morning Light",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MITCH TAMBO",
+      "song": "Walanbaa",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SUFJAN STEVENS, BRYCE DESSNER, NICO MUHLY _and_ JAMES",
+      "song": "Saturn",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JAMES BLAKE",
+      "song": "My Willing Heart",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MERE WOMEN",
+      "song": "Big Skies",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANITA LESTER",
+      "song": "Man",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEG MAC",
+      "song": "Low Blows",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PIPE-EYE",
+      "song": "Sweets And Treats",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FERLA",
+      "song": "In The Night",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WHITE BLEACHES",
+      "song": "Mystery Child",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GALLUCCI ft. STEVE MACKAY",
+      "song": "Song For D. Boon To Sing",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EXPLOSIONS IN THE SKY",
+      "song": "The Ecstatics",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SLOW TURISMO",
+      "song": "You Were Dead",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SHE-DEVILS",
+      "song": "The World Laughs",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Feeling Remains",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NORTHLANE",
+      "song": "Citizen",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BELLE HAVEN",
+      "song": "Selfmade",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STEEL PANTHER",
+      "song": "Poontang Boomerang",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BODY COUNT",
+      "song": "Black Hoodie",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOLLOW WORLD",
+      "song": "Wildfire",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Show Yourself",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CURRENTS",
+      "song": "Night Terrors",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALPHA WOLF",
+      "song": "104",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MISH",
+      "song": "Artax",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE XX",
+      "song": "Say Something Loving",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JOE GODDARD",
+      "song": "Home",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HARTS",
+      "song": "Hope",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SAATSUMA",
+      "song": "Isolate",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NORTHEAST PARTY HOUSE",
+      "song": "Calypso Beach",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JAMES VINCENT McMORROW",
+      "song": "One Thousand Times",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TOM COONEY",
+      "song": "Futureproof",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPLASHH",
+      "song": "Waiting A Lifetime",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "Come Party",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "How To Taste",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PISSED JEANS",
+      "song": "The Bar Is Low",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ARTIFICAL PLEASURE",
+      "song": "All I Got",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AMERICAN DOUBLES",
+      "song": "The Swell",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "L.A. TAKEDOWN",
+      "song": "Night Skiing",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHASTITY BELT",
+      "song": "Different Now",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CROOKED COLOURS",
+      "song": "Flow",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Stone Men",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SEAMS",
+      "song": "ADHD",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Pork Soda",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOODY BEACH",
+      "song": "Vanilla",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JASON DERULO ft. NICKI MINAJ _and_ TY DOLLA $IGN",
+      "song": "Swalla",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LINKIN PARK ft. KIIARA",
+      "song": "Heavy",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GLITTER VEILS",
+      "song": "Gossamer Folds",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PERFUME GENIUS",
+      "song": "Slip Away",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LO MOON",
+      "song": "Loveless",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BABY BLUE",
+      "song": "Concentrate",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KING NUN",
+      "song": "Hung Around",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOOPS",
+      "song": "On Top",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BODY TYPE",
+      "song": "Ludlow",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Hey Did I Do You Wrong",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AMY SHARK",
+      "song": "Weekends",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JONTI ft. STEVE LACY",
+      "song": "Scrood",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FKJ",
+      "song": "Skyline",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SLOW DANCER",
+      "song": "Don't Believe",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SPIRAL STAIRS",
+      "song": "Emoshuns",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "!!!",
+      "song": "The One 2",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ACTRESS",
+      "song": "X22RME",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VICEROY ft. WILKI",
+      "song": "Marinate",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

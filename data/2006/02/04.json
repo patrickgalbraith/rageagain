@@ -1,0 +1,597 @@
+{
+  "title": "Saturday 4th February",
+  "special": "My Chemical Romance Guest Program",
+  "timeslot": null,
+  "date": "2006-02-04",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060204.htm",
+  "tracks": [
+    {
+      "artist": "THE PIXIES",
+      "song": "Velouria",
+      "label": "Festival",
+      "timeslot": "11:45:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Bull In The Heather",
+      "label": "Universal (MCA)",
+      "timeslot": "11:45:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Lithium",
+      "label": "Universal (MCA)",
+      "timeslot": "11:45:00"
+    },
+    {
+      "artist": "ANDREW W.K.",
+      "song": "Party Hard",
+      "label": "Universal",
+      "timeslot": "11:45:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "Rebel Yell",
+      "label": "Fest/Mush",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "99 Problems",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BIZ MARKIE",
+      "song": "Just A Friend",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ANTHRAX & PUBLIC ENEMY",
+      "song": "Bring Tha Noise",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BODY COUNT",
+      "song": "There Goes The Neighbourhood",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JAWBREAKER",
+      "song": "Fireman",
+      "label": "Universal (MCA)",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "AT THE DRIVE-IN",
+      "song": "One Armed Scissor",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DEATH FROM ABOVE 1979",
+      "song": "Romantic Rights",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DANZIG",
+      "song": "Mother '93",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Number Of The Beast",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CULT OF LUNA",
+      "song": "Leave Me Here",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HATEBREED",
+      "song": "I Will Be Heard",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE DEAD KENNEDYS - Live",
+      "song": "Holiday In Cambodia",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY - Live",
+      "song": "Release The Bats",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Lust For Life",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ziggy Stardust",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MORRISSEY - Live",
+      "song": "There Is A Light",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "The Queen Is Dead",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ECHO & THE BUNNYMEN",
+      "song": "The Killing Moon",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Boys Don't Cry",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Oliver's Army",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE ANIMALS",
+      "song": "House Of The Rising Sun",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Human Behaviour",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "The Goonies 'R' Good Enough",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Girls & Boys",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Into My Arms",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "The Scientist",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Today",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Feel The Pain",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALKALINE TRIO",
+      "song": "Time To Waste",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE GET UP KIDS",
+      "song": "Action & Action",
+      "label": "Jive/Zomba",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOUNCING SOULS",
+      "song": "Kids & Heroes",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "I'm Not OK (I Promise)",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Makes A Video (Helena)",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Ghost Of You",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "I Caught Fire",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STORY OF THE YEAR",
+      "song": "We Don't Care Anymore",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FUNERAL FOR A FRIEND",
+      "song": "Streetcar",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TAKING BACK SUNDAY",
+      "song": "This Photograph Is Proof",
+      "label": "Stomp",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FALL OUT BOY",
+      "song": "Sugar, We're Goin' Down",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SILVERSTEIN",
+      "song": "Smile In Your Sleep",
+      "label": "Stomp",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THRICE",
+      "song": "Image Of The Invisible",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FROM AUTUMN TO ASHES",
+      "song": "Where To Draw The Line?",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Take It Away",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Boulevard Of Broken Dreams",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IT DIES TODAY",
+      "song": "Enjoy The Silence",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Wake Up",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DASHBOARD CONFESSIONAL",
+      "song": "Rapid Hope Loss",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "The Taste Of Ink",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THURSDAY",
+      "song": "Signals Over The Air",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE ATARIS",
+      "song": "Boys Of Summer",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BRAND NEW",
+      "song": "Sic Transit Gloria...Glory Fades",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FUNERAL FOR A FRIEND",
+      "song": "Juneau",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "STORY OF THE YEAR",
+      "song": "Anthem Of Our Dying Day",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TAKING BACK SUNDAY",
+      "song": "A Decade Under The Influence",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FURTHER",
+      "song": "Wishlist",
+      "label": "Chatterbox",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PIEBALD",
+      "song": "American Hearts",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUNNY DAY REAL ESTATE",
+      "song": "Seven",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AFTER THE FALL",
+      "song": "Me + You = Breakdown",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLUELINE MEDIC",
+      "song": "The Moment Hasn't Come",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JIMMY EAT WORLD",
+      "song": "Pain",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE HOT LIES",
+      "song": "Promise Me",
+      "label": "Liberation",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GYROSCOPE",
+      "song": "Beware Wolf",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DASHBOARD CONFESSIONAL",
+      "song": "Hands Down",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE PROMISE RING",
+      "song": "Stop Playing Guitar",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "All That I've Got",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EVERY TIME I DIE",
+      "song": "Kill The Music",
+      "label": "Roadrunner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SILVERSTEIN",
+      "song": "Smashed Into Pieces",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ATREYU",
+      "song": "The Crimson",
+      "label": "Stomp",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "The Leaving Song Part 2",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THRICE",
+      "song": "All That's Left",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALKALINE TRIO",
+      "song": "Burn",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MATCHBOOK ROMANCE",
+      "song": "Monsters",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HORSELL COMMON",
+      "song": "The Disaster",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JIMMY EAT WORLD",
+      "song": "Work",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Blue & Yellow",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Dirty Harry",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BLACK EYED PEAS",
+      "song": "My Humps",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Hung Up",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LINDSAY LOHAN",
+      "song": "Confessions Of A Broken Heart",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SUGABABES",
+      "song": "Push The Button",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE VERONICAS",
+      "song": "Everything I'm Not",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "If It's Lovin' That You Want",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SANTANA featuring STEVE TYLER",
+      "song": "Just Feel Better",
+      "label": "SBME",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BOB SINCLAR",
+      "song": "Love Generation",
+      "label": "MOS/EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "Goodbye My Lover",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PUSSYCAT DOLLS",
+      "song": "Stickwitu",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LEE HARDING",
+      "song": "Wasabi",
+      "label": "SBME",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NICKELBACK",
+      "song": "Far Away",
+      "label": "Roadrunner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHRIS BROWN",
+      "song": "Run It",
+      "label": "SBME",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "When I'm Gone",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "title": "Saturday night  Saturday, 13 November",
+  "special": "Angus & Julia Stone",
+  "timeslot": "night",
+  "date": "2010-11-13",
+  "url": "http://www.abc.net.au/rage/archive/s3064994.htm",
+  "tracks": [
+    {
+      "artist": "NEIL YOUNG - LIVE",
+      "song": "The Needle & The Damage Done",
+      "label": "Warner",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "ALBERTA CROSS",
+      "song": "Old Man Chicago",
+      "label": "Universal",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "There There",
+      "label": "EMI",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Across The Universe",
+      "label": "Sony",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "A PERFECT CIRCLE",
+      "song": "Imagine",
+      "label": "Virgin",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Triumph Of A Heart",
+      "label": "Universal",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Teardrop",
+      "label": "Virgin",
+      "timeslot": "12:04:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Glosoli",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JEFF BUCKLEY",
+      "song": "The Last Goodbye",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Everlong",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE MAGIC NUMBERS",
+      "song": "Love Me Like You",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE LOVED ONES",
+      "song": "The Loved One",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Rabbit Song",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "High Voltage Rock 'n' Roll",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Bohemian Rhapsody",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Subterranean Homesick Blues",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "White Wedding",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Jailhouse Rock",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOHN TRAVOLTA & OLIVIA NEWTON-JOHN",
+      "song": "You're The One That I Want",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Praise You",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Do The Evolution",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Sleep Now In The Fire",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Bulls On Parade",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Beds Are Burning",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "To Her Door",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "Break On Through",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Hey Joe",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EAGLES",
+      "song": "Hotel California",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Temptation",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Love Will Tear Us Apart",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DRAGON",
+      "song": "April Sun In Cuba",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Long Walk Home",
+      "label": "SBME",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE FUGEES",
+      "song": "Fu-Gee-La",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHN LEE HOOKER",
+      "song": "Boom Boom",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Us And Them",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Another Brick In The Wall",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Time",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Hold On",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Paper Aeroplane",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Private Lawns",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Mango Tree",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "I'm Yours",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "What You Wanted",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "The Beast",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Wasted",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Just A Boy",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Hollywood",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "And The Boys",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Black Crow",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Big Jet Plane",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TEENAGE RADIO STARS",
+      "song": "I Wanna Be Your Baby",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JAMES FREUD & BERLIN",
+      "song": "Modern Girl",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BERLIN",
+      "song": "Automatic Crazy",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "On",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "I Hear Motion",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "No Shoulders, No Head",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "God Bless America",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Big On Love",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Barbados",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Out Of Mind Out Of Sight",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Cold Fever",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "King Of Kings",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Evolution",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Let's Kiss",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Hold On",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Oh Darling",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JAMES FREUD",
+      "song": "Hurricane",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JAMES FREUD",
+      "song": "One Fine Day",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JAMES FREUD",
+      "song": "Let's Get It On",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOONDOG",
+      "song": "Postcard To Hawaii",
+      "label": "TWA",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JAMES FREUD & THE RADIO STARS",
+      "song": "Modern Girl",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JOHN FARNHAM",
+      "song": "You're The Voice",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PETER ALLEN - LIVE",
+      "song": "The More I See You",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE GO-BETWEENS",
+      "song": "Right Here",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Physical",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Breathe",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NATALIE IMBRUGLIA",
+      "song": "Big Mistake",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "Locked Out",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MACHINE GUN FELLATIO",
+      "song": "The Girl Of My Dreams (Is Giving Me Nightmares)",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE WHITLAMS",
+      "song": "Gough",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ICECREAM HANDS",
+      "song": "Why'd You Have To Leave This Way",
+      "label": "Rubber",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CUSTARD",
+      "song": "Girls Like That",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KILLING HEIDI",
+      "song": "Mascara",
+      "label": "Roadshow",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALEX LLOYD",
+      "song": "My Way Home",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FRENTE",
+      "song": "Accidently Kelly Street",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TALL TALES AND TRUE",
+      "song": "Hold On",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LEONARDO'S BRIDE",
+      "song": "Even When I'm Sleeping (Remix)",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "REBECCA'S EMPIRE",
+      "song": "So Rude",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LASH",
+      "song": "Take Me Away",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOSH ABRAHAMS & AMIEL DAEMION",
+      "song": "Headroom",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SAVAGE GARDEN",
+      "song": "I Want You",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DENI HINES",
+      "song": "I Like The Way",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TINA ARENA",
+      "song": "Burn",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE MAVIS'S",
+      "song": "Cry",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DELTA GOODREM",
+      "song": "Innocent Eyes",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Ten Days",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE CAT EMPIRE",
+      "song": "Hello",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

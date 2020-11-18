@@ -1,0 +1,621 @@
+{
+  "title": "Saturday night  Saturday, 27 August",
+  "special": "Les Savy Fav",
+  "timeslot": "night",
+  "date": "2011-08-27",
+  "url": "http://www.abc.net.au/rage/archive/s3303407.htm",
+  "tracks": [
+    {
+      "artist": "PAVEMENT",
+      "song": "Shady Lane",
+      "label": "Shock",
+      "timeslot": "23:33:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Undone: The Sweater Song",
+      "label": "BMG",
+      "timeslot": "23:33:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Love Will Tear Us Apart",
+      "label": "Festival",
+      "timeslot": "23:33:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sunday",
+      "label": "Universal (MCA",
+      "timeslot": "23:33:00"
+    },
+    {
+      "artist": "SUPERCHUNK",
+      "song": "The First Part",
+      "label": "Independent",
+      "timeslot": "23:33:00"
+    },
+    {
+      "artist": "THE REPLACEMENTS",
+      "song": "Bastards Of Young",
+      "label": "Warner",
+      "timeslot": "23:33:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Fight The Power",
+      "label": "Sony",
+      "timeslot": "23:33:00"
+    },
+    {
+      "artist": "ERIC B & RAKIM",
+      "song": "Follow The Leader",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Windowlicker",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Losing My Edge",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JANELLE MONAE featuring BIG BOI",
+      "song": "Tightrope",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Single Ladies (Put A Ring On It)",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "No Surprises",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CIBO MATTO",
+      "song": "Sugar Water",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "What's A Girl To Do",
+      "label": "Spunk",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "All Is Full Of Love",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Little Red Corvette",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PHILIP BAILEY & PHIL COLLINS",
+      "song": "Easy Lover",
+      "label": "CBS",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ADAM & THE ANTS",
+      "song": "Stand & Deliver",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Making Plans For Nigel",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WAX",
+      "song": "California",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BIZ MARKIE",
+      "song": "Just A Friend",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE D.O.C.",
+      "song": "The Doc & The Doctor",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "3RD BASS",
+      "song": "The Gas Face",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TED LEO & THE PHARMACISTS",
+      "song": "Bomb Repeat Bomb",
+      "label": "Spunk",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "The Hardest Button To Button",
+      "label": "Remote Control",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Kickstart My Heart",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BON JOVI",
+      "song": "Wanted Dead Or Alive",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Home Sweet Home",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DANZIG",
+      "song": "Mother '93",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Keine Lust",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TRANS AM",
+      "song": "Futureworld",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Robots",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE JUAN MACLEAN",
+      "song": "One Day",
+      "label": "Popfrenzy",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "When Doves Cry",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "QUEEN featuring DAVID BOWIE",
+      "song": "Under Pressure",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JUSTICE",
+      "song": "D.A.N.C.E.",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FRIENDLY FIRES",
+      "song": "Skeleton Boy",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FISCHERSPOONER",
+      "song": "We Are Electric",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "I Feel Better",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROCKWELL",
+      "song": "Somebody's Watching Me",
+      "label": "Motown",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "White Wedding",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "Dancing With Myself",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "J GEILS BAND",
+      "song": "Centerfold",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EDDY CURRENT SUPPRESSION RING",
+      "song": "Rush To Relax",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Lost Cause",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "YEASAYER",
+      "song": "Ambling Alp",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Ready, Able",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LES SAVY FAV",
+      "song": "Sleepless In Silverlake",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Mansard Roof",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "A-Punk",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Oxford Comma",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Cousins",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Peacebone",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Who Could Win A Rabbit",
+      "label": "Spunk",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Grass",
+      "label": "Spunk",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "My Girls",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Brothersport",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YEASAYER",
+      "song": "Wait For The Summer",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YEASAYER",
+      "song": "One",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YEASAYER",
+      "song": "Madder Red",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YEASAYER",
+      "song": "I Remember",
+      "label": "Spunk",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Knife",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Two Weeks",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "While You Wait For The Others",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLONDE REDHEAD",
+      "song": "Equus",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLONDE REDHEAD",
+      "song": "23",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLONDE REDHEAD",
+      "song": "Not Getting There",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ENON",
+      "song": "In This City",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ENON",
+      "song": "Carbonation",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ENON",
+      "song": "Pleasure & Privlege",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Kids",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Time To Pretend",
+      "label": "Red Label",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Flash Delirium",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "It's Working",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Congratulations",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE RAPTURE",
+      "song": "House Of Jealous Lovers",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE RAPTURE",
+      "song": "Love Is All",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE RAPTURE",
+      "song": "Get Myself Into It",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE RAPTURE",
+      "song": "Whoo! Alright - Yeah...Uh Huh",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PAINS OF BEING PURE AT HEART",
+      "song": "Heart in Your Heartbreak",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE PAINS OF BEING PURE AT HEART",
+      "song": "Everything With You",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE PAINS OF BEING PURE AT HEART",
+      "song": "The Body",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BATTLES feat MATIAS AGUAYO",
+      "song": "Ice Cream",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Atlas",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Tonto",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BRAVERY",
+      "song": "An Honest Mistake",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BRAVERY",
+      "song": "Time Won?t Let Me Go",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BRAVERY",
+      "song": "Unconditional",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BRAVERY",
+      "song": "Slow Poison",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE WALKMEN",
+      "song": "The Rat",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "PDA",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "Obstacle 1",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "NYC",
+      "label": "BMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "Slow Hands",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": "Modular",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Down Boy",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Zero",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Turn Into",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Heads Will Roll",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "title": "Saturday morning  Saturday, 9 February",
+  "special": "Django Django guest program rage.",
+  "timeslot": "morning",
+  "date": "2013-02-09",
+  "url": "http://www.abc.net.au/rage/archive/s3686354.htm",
+  "tracks": [
+    {
+      "artist": "BIRDY",
+      "song": "Skinny Love",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAMES ARTHUR",
+      "song": "Impossible",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SWEDISH HOUSE MAFIA feat JOHN MARTIN",
+      "song": "Don't You Worry Child",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LITTLE MIX",
+      "song": "Wings",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Paradise (Live)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAROON 5",
+      "song": "Daylight (Playing For Change)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GUY SEBASTIAN",
+      "song": "Get Along",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "Diamonds",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LABRINTH featuring EMELI SANDE",
+      "song": "Beneath Your Beautiful",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LUDACRIS featuring USHER and DAVID GUETTA",
+      "song": "Rest Of My Life",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FLO RIDA",
+      "song": "Let It Roll",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BRUNO MARS",
+      "song": "Locked Out Of Heaven",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MCFLY",
+      "song": "Love Is Easy",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAMANTHA JADE",
+      "song": "What You've Done To Me",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALICIA KEYS featuring NICKI MINAJ",
+      "song": "Girl On Fire (Inferno Mix)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "STRANGE TALK",
+      "song": "Falling In Love",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "OLLY MURS featuring FLO RIDA",
+      "song": "Troublemaker",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "SAM and THE WOMP",
+      "song": "Bom Bom",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ONE DIRECTION",
+      "song": "Kiss You",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER featuring NICKI MINAJ",
+      "song": "Beauty And A Beat",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "CONOR MAYNARD featuring WILEY",
+      "song": "Animal",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "THE COLLECTIVE",
+      "song": "Surrender",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "NITE JEWEL",
+      "song": "Memory, Man",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LAKYN",
+      "song": "Don't Tell Me",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "FUN",
+      "song": "All The Pretty Girls",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "OF MONSTERS AND MEN",
+      "song": "Little Talks",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "REAL ESTATE",
+      "song": "It's Real",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "MUMFORD and SONS",
+      "song": "I Will Wait",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE LUMINEERS",
+      "song": "Ho Hey",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BIZ MARKIE",
+      "song": "Just A Friend",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "50 CENT featuring EMINEM and ADAM LEVINE",
+      "song": "My Life",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring TOM WAITS and KOOL KEITH",
+      "song": "Spacious Thoughts",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SANTIGOLD",
+      "song": "Girls",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "A$AP ROCKY",
+      "song": "F**kin' Problems",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "KINGS OF CONVENIENCE",
+      "song": "I'd Rather Dance With You",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "My Gun",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "CLOUD NOTHINGS",
+      "song": "Fall In",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "JIM STEINMAN",
+      "song": "Rock and Roll Dreams Come Through",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "MACKLEMORE and RYAN LEWIS",
+      "song": "Same Love",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "DENNIS PARKER",
+      "song": "Like An Eagle",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Lanterns",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ELECTRIC GUEST",
+      "song": "Bait",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "JOHNNY MARR",
+      "song": "Upstarts",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "Stop Me If You Think You've Heard This One Before",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "HUNGRY KIDS OF HUNGARY",
+      "song": "Twin Cities",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "A Wall",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SONS OF RICO",
+      "song": "You Don't Know What You're Missin'",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "JESSIE WARE",
+      "song": "Night Light",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Don't Save Me",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SOLANGE",
+      "song": "Losing You",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "FUTURE LOVE HANGOVER",
+      "song": "Sunlight",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE LONLEY ISLAND ft. ADAM LEVINE and KENDRICK",
+      "song": "YOLO",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SOMETHING WITH NUMBERS",
+      "song": "We Kill The Weekend",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "My Number",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Fred Astaire",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "History Eraser",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "NANTES",
+      "song": "Drones",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "TOKYO DENMARK SWEDEN",
+      "song": "When It Breaks",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "FLUME featuring CHET FAKER",
+      "song": "Left Alone",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "JEAN MICHEL JARRE",
+      "song": "Oxygene IV",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SHADY LANE",
+      "song": "Happy Without Controls",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DIVINE FITS",
+      "song": "My Love Is Real",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "WOLF PARADE",
+      "song": "Yulia",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BOUNCING SOULS",
+      "song": "Gone",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE DESCENDENTS",
+      "song": "I'm The One",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CLUBFEET",
+      "song": "Everything You Wanted",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Gun-Shy",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MAJOR LAZER featuring AMBER COFFMAN",
+      "song": "Get Free",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ELIZABETH ROSE featuring SINDEN",
+      "song": "Again",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MACKLEMORE and RYAN LEWIS featuring WANZ",
+      "song": "Thrift Shop",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DJANGO DJANGO",
+      "song": "Default",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Unfinished Sympathy",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ORANGE JUICE",
+      "song": "Rip It Up",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE FLYING LIZARDS",
+      "song": "Money (That's What I Want)",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "SNOOP DOGG featuring PHARRELL",
+      "song": "Drop It Like It's Hot",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "The Lovecats",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MUSICAL YOUTH",
+      "song": "Pass The Dutchie",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE MACCABEES",
+      "song": "Pelican",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Bills, Bills, Bills",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Intergalactic",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BO DIDDLEY",
+      "song": "Bo Diddley Is Crazy",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE PHARCYDE",
+      "song": "Drop",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Wuthering Heights (Studio Version)",
+      "label": null,
+      "timeslot": "11:00:00"
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "title": "Saturday night  Saturday, 27 March",
+  "special": "Robot Chicken",
+  "timeslot": "night",
+  "date": "2010-03-27",
+  "url": "http://www.abc.net.au/rage/archive/s2857258.htm",
+  "tracks": [
+    {
+      "artist": "2 PAC featuring DR. DRE",
+      "song": "California Love",
+      "label": "Mercury",
+      "timeslot": "12:13:00"
+    },
+    {
+      "artist": "SHAQUILLE O'NEAL",
+      "song": "You Can't Stop The Reign",
+      "label": "Universal",
+      "timeslot": "12:13:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "Fat",
+      "label": "Mercury",
+      "timeslot": "12:13:00"
+    },
+    {
+      "artist": "THE SIMPSONS",
+      "song": "Do The Bartman",
+      "label": "Independent",
+      "timeslot": "12:13:00"
+    },
+    {
+      "artist": "FAT BOYS & BEACH BOYS,THE",
+      "song": "Wipeout",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "No Sleep 'Til Brooklyn",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Black Or White",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Estranged",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TWISTED SISTER",
+      "song": "We're Not Gonna Take It",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "POISON",
+      "song": "Unskinny Bop",
+      "label": "Capitol",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Hot For Teacher",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAVID LEE ROTH",
+      "song": "Yankee Rose",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHICAGO",
+      "song": "Stay The Night",
+      "label": "WEA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Flash Gordon",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Thunderstruck",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "Cradle Of Love",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Walk of Life",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Hungry Like The Wolf",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE POINTER SISTERS",
+      "song": "Jump (For My Love)",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DJ JAZZY JEFF & THE FRESH PRINCE",
+      "song": "Parents Just Don't Understand",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Buddy Holly",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MATTHEW SWEET",
+      "song": "Girlfriend",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Where The Streets Have No Name",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOSIE & THE PUSSYCATS",
+      "song": "Three Small Words",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPICE GIRLS",
+      "song": "Wannabe",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JANET JACKSON",
+      "song": "Black Cat",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "G-UNIT",
+      "song": "Stunt 101",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "Living With A Hernia",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "I Lost On Jeopardy",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "Ricky",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "It's All About The Pentiums",
+      "label": "Jive/Zomba",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "Craig's List",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "White & Nerdy",
+      "label": "SBME",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MORRIS MINOR & THE MAJORS",
+      "song": "Stutter Rap",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LONELY ISLAND featuring JUSTIN TIMBERLAKE",
+      "song": "Dick In A Box",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE LONELY ISLAND featuring T-PAIN",
+      "song": "I'm On A Boat",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TEAM AMERICA",
+      "song": "America, F**k Yeah!",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLIGHT OF THE CONCHORDS",
+      "song": "Ladies Of The World",
+      "label": "Stomp",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BEDROOM PHILOSOPHER",
+      "song": "The Happiest Boy",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Praise You",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MR G",
+      "song": "Naughty Girl",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BPA featuring DAVID BYRNE & DIZZEE RASCAL",
+      "song": "Toe Jam",
+      "label": "Liberator",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BLOODHOUND GANG",
+      "song": "The Bad Touch",
+      "label": "Universal (MCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TECHNOHEAD",
+      "song": "I Wanna Be A Hippy (2004 remix)",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FRIENDLY",
+      "song": "I Love You But...",
+      "label": "Jive/Zomba",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "I Wanna Be A Nudist",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPINAL TAP",
+      "song": "The Majesty Of Rock",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "STEEL PANTHER",
+      "song": "Death To All But Metal",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BOB LOG III",
+      "song": "Boob Scotch",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FRENZAL RHOMB",
+      "song": "God's Ugly Children (part 2)",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HIGH ON FIRE",
+      "song": "Devilution",
+      "label": "Riot",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JOE TEX",
+      "song": "Ain't Gonna Bump No More (With No Big Fat Woman)",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TIM MINCHIN",
+      "song": "Canvas Bags",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHRIS FRANKLIN",
+      "song": "Bloke",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE BEARDS",
+      "song": "If Your Dad Doesn't Have A Beard, You've Got two..",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GEORGE SMILOVICH",
+      "song": "I'm Tuff",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AFROMAN",
+      "song": "Because I Got High",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LEKIDDO- LORD OF THE LOBSTERS!",
+      "song": "To The Beach",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE UMBILICAL BROTHERS",
+      "song": "Don't Dance To This",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TRIPOD",
+      "song": "Let's Take A Walk/Football Song",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EDDIE PERFECT",
+      "song": "Dwayne's Song (Some Of My Best...)",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KIRSTY LEE AKERS",
+      "song": "Knocked Up",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAULINE PANTSDOWN",
+      "song": "I Don't Like It!",
+      "label": "TWA",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOURSOB BOB",
+      "song": "Centrelink",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MARK RONSON featuring ALEX GREENWALD",
+      "song": "Just",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Kill The Director",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WE ARE SCIENTISTS",
+      "song": "After Hours",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WE ARE SCIENTISTS",
+      "song": "Impatience",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Learn To Fly",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Tribute",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LONELY ISLAND",
+      "song": "Jizz In My Pants",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "We Made You",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE PIGS featuring JOHN WILLIAMSON",
+      "song": "Single Ladies (Put A Ring On It)",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "All The Small Things",
+      "label": "Universal (MCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JEDWARD featuring VANILLA ICE",
+      "song": "Under Pressure (Ice Ice Baby)",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAVID HASSELHOFF",
+      "song": "Jump In My Car",
+      "label": "SBME",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BROKEN BELLS",
+      "song": "The High Road",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ASH",
+      "song": "True Love 1980",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GIN WIGMORE",
+      "song": "Hey Ho",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE HOLIDAYS",
+      "song": "Moonlight Hours",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SURFER BLOOD",
+      "song": "Swim",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JAMIE T",
+      "song": "Emily's Heart",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JARVIS COCKER",
+      "song": "Further Complications",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEEP SEA ARCADE",
+      "song": "Lonely In Your Arms",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Miniature Alas",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BALL PARK MUSIC",
+      "song": "Sea Strangers (I Don't Really Know You)",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Nothing Like You",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ROX",
+      "song": "My Baby Left Me",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE XX",
+      "song": "VCR",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LA ROUX",
+      "song": "I'm Not Your Toy",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Half Mast",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

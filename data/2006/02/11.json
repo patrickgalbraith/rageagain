@@ -1,0 +1,701 @@
+{
+  "title": "Saturday 11th February",
+  "special": "Roots Manuva Guest Programs",
+  "timeslot": null,
+  "date": "2006-02-11",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060211.htm",
+  "tracks": [
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Don't Phunk With My Heart",
+      "label": "Universal",
+      "timeslot": "10:59:00"
+    },
+    {
+      "artist": "WILL.I.AM",
+      "song": "I Am",
+      "label": "Creative Vibes",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "WILEY",
+      "song": "Wot Do U Call It",
+      "label": "Remote Control",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "DIZZEE RASCAL",
+      "song": "Off To Work",
+      "label": "Remote Control",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "RONI SIZE/REPRAZENT",
+      "song": "Who Told You",
+      "label": "Universal",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SO SOLID CREW",
+      "song": "Oh No",
+      "label": "EMI",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SHY FX & T POWER",
+      "song": "Shake Ur Body",
+      "label": "EMI",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "P-MONEY",
+      "song": "Synchronize Thoughts",
+      "label": "Inertia",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Just Lose It",
+      "label": "Universal",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "MOLOKO",
+      "song": "Sing It Back",
+      "label": "Mushroom",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Oh My Gosh",
+      "label": "Remote Control",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "KOSHEEN",
+      "song": "Catch",
+      "label": "BMG",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "AALIYAH",
+      "song": "Try Again",
+      "label": "Virgin",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "PORTISHEAD",
+      "song": "Numb",
+      "label": "Polydor",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Paranoid Android",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Song 2",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Fried My Little Brains",
+      "label": "Liberation",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "No One Knows",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "7 Nation Army",
+      "label": "Remote Control",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Firestarter",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Californication",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "Fools Gold",
+      "label": "Universal (MCA)",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "The Importance Of Being Idle",
+      "label": "SBME",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Golden Brown",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Message In A Bottle",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Beds Are Burning",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TEARS FOR FEARS",
+      "song": "Shout",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ENYA",
+      "song": "Orinoco Flow",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "R KELLY",
+      "song": "Thoia Thoing",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Gimme Some Mo'",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RZA",
+      "song": "We Pop",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DMX",
+      "song": "X Gonna Give It To Ya",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ARTFUL DODGER",
+      "song": "Please Don't Turn Me On",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "XZIBIT",
+      "song": "Paparazzi",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "2 PAC",
+      "song": "Dear Mama",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WARREN G & NATE DOGG",
+      "song": "Regulate",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Daydreaming",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE STREETS",
+      "song": "Weak Become Heroes",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FUN LOVIN' CRIMINALS",
+      "song": "Scooby Snacks",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "Common People",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROBBIE WILLIAMS",
+      "song": "Tripping",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MORCHEEBA",
+      "song": "Rome Wasn't Built In A Day",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Gett Off",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ERIC B & RAKIM",
+      "song": "Follow The Leader",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Night Of The Living Baseheads",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Gravel Pit",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SNOOP DOGG featuring BOOTSY COLLINS",
+      "song": "Undercova Funk (Give Up The Funk)",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SNOOP DOGG presents DOGGY'S ANGELS",
+      "song": "Baby If You're Ready",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RODNEY P",
+      "song": "The Nice Up",
+      "label": "Creative Vibes",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WESTSIDE CONNECTION",
+      "song": "Gangsta Nation",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Witness (1 Hope)",
+      "label": "Creative Vibes",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Juggle Tings Proper",
+      "label": "Creative Vibes",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Dreamy Days",
+      "label": "Creative Vibes",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Colossal Insight",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Too Cold",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FAITHLESS",
+      "song": "I Want More",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Matter - TRICKY",
+      "song": "Anti",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Na-Mi-Tee - MS. DYNAMITE",
+      "song": "Dy",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NIGHTMARES ON WAX",
+      "song": "Know My Name",
+      "label": "Creative Vibes",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STEREO MC's",
+      "song": "Set It Off",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JACKNIFE LEE",
+      "song": "Bursting Off The Back Beat",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AUDIO BULLYS",
+      "song": "The Things",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARK B & BLADE",
+      "song": "Ya Don't See The Signs",
+      "label": "Creative Vibes",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DIZZEE RASCAL",
+      "song": "Fix Up Look Sharp",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WILEY",
+      "song": "Pies",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE STREETS",
+      "song": "Fit But You Know It",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GOLDIE LOOKIN CHAIN",
+      "song": "Guns Don't Kill People, Rappers Do",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DIZZEE RASCAL",
+      "song": "Dream",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AUDIO BULLYS",
+      "song": "I'm In Love",
+      "label": "MOS/EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE STREETS",
+      "song": "Dry Your Eyes",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MS. DYNAMITE",
+      "song": "Judgement Day",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TRICKY featuring PJ HARVEY",
+      "song": "Broken Homes",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Teardrop",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE HERBALISER",
+      "song": "Wall Crawling Giant Insect Break",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLDCUT",
+      "song": "Beats & Pieces",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RAE & CHRISTIAN featuring DINAH WASHINGTON",
+      "song": "Is You Is Or Is You Ain't My Baby",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DJ VADIM featuring BLU RUM 13",
+      "song": "It's Obvious",
+      "label": "Creative Vibes",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE HERBALISER",
+      "song": "The Blend",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FOUR TET",
+      "song": "As Serious As Your Life",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Weapon Of Choice",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MYLO",
+      "song": "In My Arms",
+      "label": "MOS/EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LEMON JELLY",
+      "song": "Stay With You",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FAITHLESS",
+      "song": "Muhammad Ali",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "STEREO MC's",
+      "song": "Deep Down & Dirty",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MYLO",
+      "song": "Drop The Pressure",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AUDIO BULLYS featuring NANCY SINATRA",
+      "song": "Shot You Down",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FOUR TET",
+      "song": "Smile Around The Face",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LEMON JELLY",
+      "song": "The Shouty Track",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ESTELLE",
+      "song": "1980",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DIZZEE RASCAL",
+      "song": "I Love U",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LADY SOVEREIGN",
+      "song": "Random",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLAK TWANG featuring K9",
+      "song": "GCSE",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BLACK EYED PEAS",
+      "song": "My Humps",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 20
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "I Still",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 19
+    },
+    {
+      "artist": "50 CENT",
+      "song": "Window Shopper",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 18
+    },
+    {
+      "artist": "SUGABABES",
+      "song": "Ugly",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 17
+    },
+    {
+      "artist": "DADDY YANKEE",
+      "song": "Gasolina",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 16
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Dirty Harry",
+      "label": "EMI",
+      "timeslot": "05:00:00",
+      "countdown": 15
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Hung Up",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "DANNII MINOGUE & THE SOUL SEEKERZ",
+      "song": "Perfection",
+      "label": "Central Station",
+      "timeslot": "05:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "THE VERONICAS",
+      "song": "Everything I'm Not",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "LINDSAY LOHAN",
+      "song": "Confessions Of A Broken Heart",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "If It's Lovin' That You Want",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "SANTANA featuring STEVE TYLER",
+      "song": "Just Feel Better",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "PUSSYCAT DOLLS",
+      "song": "Stickwitu",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "ROGUE TRADERS",
+      "song": "Watching You",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "LEE HARDING",
+      "song": "Wasabi",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "Goodbye My Lover",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "EMINEM",
+      "song": "When I'm Gone",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "BOB SINCLAR",
+      "song": "Love Generation",
+      "label": "MOS/EMI",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "NICKELBACK",
+      "song": "Far Away",
+      "label": "Roadrunner",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "CHRIS BROWN",
+      "song": "Run It",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

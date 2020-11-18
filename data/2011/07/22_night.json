@@ -1,0 +1,609 @@
+{
+  "title": "Friday night  Friday, 22 July",
+  "special": null,
+  "timeslot": "night",
+  "date": "2011-07-22",
+  "url": "http://www.abc.net.au/rage/archive/s3275623.htm",
+  "tracks": [
+    {
+      "artist": "FOSTER THE PEOPLE",
+      "song": "Helena Beat",
+      "label": "Sony",
+      "timeslot": "23:46:00"
+    },
+    {
+      "artist": "BAG RAIDERS",
+      "song": "Not Over",
+      "label": "Universal",
+      "timeslot": "23:46:00"
+    },
+    {
+      "artist": "CULTS",
+      "song": "Go Outside",
+      "label": "Sony",
+      "timeslot": "23:46:00"
+    },
+    {
+      "artist": "BON IVER",
+      "song": "Calgary",
+      "label": "Inertia",
+      "timeslot": "23:46:00"
+    },
+    {
+      "artist": "PAPA VS PRETTY",
+      "song": "Honey",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "Switchblade Smiles",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Future Starts Slow",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE VACCINES",
+      "song": "Norgaard",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PHRASE featuring DAVEY LANE",
+      "song": "Apart",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "VATO GONZALEZ featuring FOREIGN BEGGARS",
+      "song": "Badman Riddim (Jump)",
+      "label": "MOS",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BAD MEETS EVIL",
+      "song": "Fast Lane",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Taken For A Fool",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FRIENDLY FIRES",
+      "song": "Hawaiian Air",
+      "label": "Remote Control",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GOTYE featuring KIMBRA",
+      "song": "Somebody That I Used To Know",
+      "label": "Eleven",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EMMA-LOUISE",
+      "song": "Jungle",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Girls Do Cry",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MATT & KIM",
+      "song": "Block After Block",
+      "label": "Liberator",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WOLFGANG GARTNER featuring WILL.I.AM",
+      "song": "Forever",
+      "label": "MOS",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DIGITALISM",
+      "song": "2 Hearts",
+      "label": "Cooperative",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "YOUNG THE GIANT",
+      "song": "My Body",
+      "label": "Roadrunner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CAGE THE ELEPHANT",
+      "song": "Around My Head",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Love Is A Drug",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MADCON",
+      "song": "Beggin'",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "The Bay",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RYE RYE featuring ROBYN",
+      "song": "Never Will Be Mine",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS featuring SANTIGOLD",
+      "song": "Don't Play No Game That I Can't Win",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DOES IT OFFEND YOU, YEAH?",
+      "song": "Pull Out My Insides",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ASIAN GOAT PROJECT",
+      "song": "Outside (Morning Song)",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EXAMPLE",
+      "song": "Changed The Way You Kiss Me",
+      "label": "MOS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CALVIN HARRIS featuring KELIS",
+      "song": "Bounce",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PATRICK WOLF",
+      "song": "House",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ANNA CALVI",
+      "song": "Desire",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CAT'S EYES",
+      "song": "Face In The Crowd",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SKIPPING GIRL VINEGAR",
+      "song": "You Can",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "No One Wants A Lover",
+      "label": "Ivy League",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Every Teardrop Is A Waterfall",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OTHER LIVES",
+      "song": "For 12",
+      "label": "Liberation",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BROUS",
+      "song": "Streamers",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "D'OPUS & ROSHAMBO",
+      "song": "Bring Happiness",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "Perform This Way",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JONTI",
+      "song": "Firework Spraying Moon",
+      "label": "Mistletone",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE PANICS",
+      "song": "Majesty",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FAKER",
+      "song": "Dangerous",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RUBY FROST",
+      "song": "Moonlight",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAMMOTH LOGIC",
+      "song": "Speck Of Dust",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE AMCATS",
+      "song": "Peggy Sue",
+      "label": "Smashed Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "The Hellcat Spangled Shalalala",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STONEFIELD",
+      "song": "Black Water Rising",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PIERCES",
+      "song": "You'll Be Mine",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DIAGRAMS",
+      "song": "Night All Night",
+      "label": "Other Tongues",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JUSTIN TOWNES EARLE",
+      "song": "Slippin' & Slidin'",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LIBERATORS",
+      "song": "Rags To Riches",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JEFF THE BROTHERHOOD",
+      "song": "Hey Friend",
+      "label": "Spunk",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "The Ending Is Just The Beginning Repeated",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIAS B featuring JOYRIDE",
+      "song": "Midlife",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IS TROPICAL",
+      "song": "The Greeks",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ENOLA FALL",
+      "song": "I Am An Aerial",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BELLES WILL RING",
+      "song": "Street Lamp Stomp",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SISTER JANE",
+      "song": "Great Highway",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DISHPAN FINGERS",
+      "song": "Team Persecution",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FANTINE",
+      "song": "Eleven",
+      "label": "KAOS",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WU LYF",
+      "song": "L Y F",
+      "label": "Liberator",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LITTLE BARRIE",
+      "song": "How Come",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLONDE ON BLONDE",
+      "song": "Friends In Danger",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEAD LETTER CIRCUS",
+      "song": "Reaction",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LIMP BIZKIT",
+      "song": "Gold Cobra",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LOVE MACE",
+      "song": "Not Fair Girl",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARCH ENEMY",
+      "song": "Yesterday Is Dead And Gone",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAGNERTRON",
+      "song": "The Bleeding",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "Promises, Promises",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOUNDS OF SIRUS",
+      "song": "Day By Name",
+      "label": "Remedy Music",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYNDICATE",
+      "song": "All My Life",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IN FLAMES",
+      "song": "Deliver Us",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANGELSPIT",
+      "song": "Sleep Now",
+      "label": "Metropolis",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JEFREY SILER",
+      "song": "History's March On Conscience Hill",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CRAZY MAMA",
+      "song": "Handyman",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VIV DENHAM",
+      "song": "481",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SIDESHOW ANNIE",
+      "song": "Thing",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KHANCOBAN",
+      "song": "Cause & Chaos",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LONDON ELEKTRICITY feat ELSA ESMERELDA",
+      "song": "Meteorites",
+      "label": "Central Station",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SHAKE ALETTI",
+      "song": "Dancefloor",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MARK ASHMORE",
+      "song": "Away",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ENRIQUE IGLESIAS with USHER feat LIL WAYNE",
+      "song": "Dirty Dancer",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NICKI MINAJ",
+      "song": "Super Bass",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BENNY BENASSI feat GARY GO",
+      "song": "Cinema",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ISRAEL CRUZ",
+      "song": "Party Up",
+      "label": "MOS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SNOOP DOGG featuring T-PAIN",
+      "song": "Boom",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KELLY ROWLAND featuring LIL WAYNE",
+      "song": "Motivation",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NERO",
+      "song": "Guilt",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALEXANDRA STAN",
+      "song": "Mr Saxobeat",
+      "label": "Central Station",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BINGO PLAYERS",
+      "song": "Cry (Just A Little)",
+      "label": "OneLove",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MANN featuring SNOOP DOGG and IYAZ",
+      "song": "The Mack",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Best Thing I Never Had",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DANIEL LEE KENDAL",
+      "song": "My Love To Be",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VANESSA AMOROSI",
+      "song": "Gossip",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE NEVER EVER",
+      "song": "Hey KT",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "I Wanna Go",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WIZ KHALIFA",
+      "song": "Roll Up",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MICHAEL MIND featuring SEAN KINGSTON",
+      "song": "Ready Or Not",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHRIS BROWN featuring JUSTIN BIEBER",
+      "song": "Next To You",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

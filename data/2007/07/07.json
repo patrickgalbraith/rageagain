@@ -1,0 +1,609 @@
+{
+  "title": "Saturday, 7 July",
+  "special": "30 Seconds To Mars guest program",
+  "timeslot": null,
+  "date": "2007-07-07",
+  "url": "http://www.abc.net.au/rage/archive/s1976217.htm",
+  "tracks": [
+    {
+      "artist": "PINK FLOYD",
+      "song": "The Wall",
+      "label": null,
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "No Surprises",
+      "label": null,
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Karma Police",
+      "label": null,
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "The Scientist",
+      "label": null,
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "All Is Full Of Love",
+      "label": null,
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Weapon Of Choice",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE MARS VOLTA",
+      "song": "Televators",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MAZZY STAR",
+      "song": "Fade Into You",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ROYKSOPP",
+      "song": "What Else Is There?",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Glosoli",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "1979",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Rocket",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Today",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "UNKLE",
+      "song": "Rabbit In Your Headlights",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Butterflies & Hurricanes",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Give It Away",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "In Bloom",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Devil's Haircut",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Thriller",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Hungry Like The Wolf",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Rio",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "One",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Closer",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Sober",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Stinkfist",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Hurt",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Dr. Feelgood",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Hot For Teacher",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Whole Lotta Love",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "2 PAC featuring DR. DRE",
+      "song": "California Love",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PHARCYDE",
+      "song": "Drop",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Sheena Is A Parasite",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Windowlicker",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Smack My Bitch Up",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Justify My Love",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Vogue",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Sunday Bloody Sunday",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "One",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Love Will Tear Us Apart",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "From Yesterday",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "The Kill (Bury Me)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "But It's Better If You Do",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "Miss Murder",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "Love Like Winter",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SAOSIN",
+      "song": "You're Not Alone",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THURSDAY",
+      "song": "5-4-3-2-1",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Helena",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Welcome To The Black Parade",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "The Bird And The Worm",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FUNERAL FOR A FRIEND",
+      "song": "Roses For The Dead",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "4 Words To Choke Upon",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ENTER SHIKARI",
+      "song": "Sorry You're Not A Winner",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SAOSIN",
+      "song": "Voices",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TAKING BACK SUNDAY",
+      "song": "Liar (It Takes One To Know One)",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEHIND CRIMSON EYES",
+      "song": "Shakedown",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE RED JUMPSUIT APPARATUS",
+      "song": "Face Down",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ESCAPE THE FATE",
+      "song": "Not Good Enough For Truth In Cliche",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "I Write Sins Not Tragedies",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SAVES THE DAY",
+      "song": "The End",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SENSES FAIL",
+      "song": "Calling All Cars",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BRAND NEW",
+      "song": "Sic Transit Gloria...Glory Fades",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "I Caught Fire",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "Yamanote Line",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLUELINE MEDIC",
+      "song": "Soft Toy",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "The Underdog",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "COBRA STARSHIP",
+      "song": "Church of Hot Addiction",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VELVET REVOLVER",
+      "song": "She Builds Quick Machines",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TURBONEGRO",
+      "song": "Do You Do You Dig Destruction",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GRINSPOON",
+      "song": "Black Tattoo",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SUM41",
+      "song": "Underclass Hero",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SCARE",
+      "song": "Bats! Bats! Bats!",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Do It Again",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SIMIAN MOBILE DISCO",
+      "song": "I Believe",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Into The Galaxy",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "It's Not Over Yet",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SHY CHILD",
+      "song": "Drop The Phone",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE GO! TEAM",
+      "song": "Grip Like A Vice",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TIMBALAND featuring THE HIVES",
+      "song": "Throw It On Me",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLISS N ESO",
+      "song": "Coppin' It Sweet/Blazin'",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "URTHBOY",
+      "song": "We Get Around",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WILEY",
+      "song": "My Mistakes",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Boyz",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OPERATOR PLEASE",
+      "song": "Just A Song About Ping Pong",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE YOUNG PUNX",
+      "song": "You've Got To...",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JUNIOR SENIOR",
+      "song": "Take My Time",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOOK N SLING & KID KENOBI",
+      "song": "The Bump",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BUSDRIVER",
+      "song": "Sun Showers",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BEIRUT",
+      "song": "Elephant Gun",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EXPATRIATE",
+      "song": "The Spaces Between",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JACK PENATE",
+      "song": "Torn On The Platform",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Vision Bell",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Where I Stood",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COLD WAR KIDS",
+      "song": "Hospital Beds",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SNOW PATROL",
+      "song": "Open Your Eyes",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

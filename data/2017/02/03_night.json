@@ -1,0 +1,603 @@
+{
+  "title": "Friday night 3 February 2017, ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2017-02-03",
+  "url": "http://www.abc.net.au/rage/archive/s4614055.htm",
+  "tracks": [
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Season 2, Episode 3",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ALEX LAHEY",
+      "song": "You Don't Think You Like People Like Me",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ELK ROAD ft. NATALIE FORSTER",
+      "song": "Hanging By A Thread",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "High and Low",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Subways",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Over You",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "DOPE LEMON",
+      "song": "Uptown Folks",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BLISS N ESO",
+      "song": "Dopamine",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "My Love Is Gone",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TKAY MAIDZA",
+      "song": "Simulation",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THUNDAMENTALS FT. PETA _and_ THE WOLVES",
+      "song": "Think About It",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DESIIGNER",
+      "song": "Panda",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BANKS",
+      "song": "Gemini Feed",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Burn The Witch",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "VERA BLUE",
+      "song": "Settle",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Soundcheck",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE AMITY AFFLICTION",
+      "song": "This Could Be Heartbreak",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Because I'm Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CAMP COPE",
+      "song": "Lost: Season One",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "No Shade",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Famous",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BROODS",
+      "song": "Free",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "So Sentimental",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "L D R U",
+      "song": "Next To You",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE AMITY AFFLICTION",
+      "song": "I Bring The Weather With Me",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Hold Up",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE AMITY AFFLICTION",
+      "song": "All Fucked Up",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MAGGIE ROGERS",
+      "song": "Alaska",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Life Itself",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DOPE LEMON",
+      "song": "Marinade",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KING GIZZARD and THE LIZARD WIZARD",
+      "song": "Gamma Knife",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SOFI TUKKER",
+      "song": "Drinkee",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ALI BARTER",
+      "song": "Girlie Bits",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Twice",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PACES ft. GUY SEBASTIAN",
+      "song": "Keeping Score (Live on triple j's Like A Version)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RUFUS",
+      "song": "Say A Prayer For Me",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "Bored To Death",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Blanket",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HALSEY",
+      "song": "Love Yourself (Live on triple j's Like A Version)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Outcast At Last",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GANG OF YOUTHS",
+      "song": "Strange Diseases",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HILLTOP HOODS ft. JAMES CHATBURN",
+      "song": "Higher",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Creepin",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "D.D DUMBO",
+      "song": "Walrus",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAC MILLER ft. ANDERSON .PAAK",
+      "song": "Dang!",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "A.B. ORIGINAL ft. PAUL KELLY _and_ DAN SULTAN",
+      "song": "Dumb Things (Live on triple j's Like A Version)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "D.D DUMBO",
+      "song": "Satan",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MO",
+      "song": "Final Song",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BROODS",
+      "song": "Heartlines",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KID CUDI ft. PHARRELL",
+      "song": "Surfin'",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Step Up The Morphine",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Youth",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Sad Songs",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "World Of Our Love",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DUNE RATS",
+      "song": "Scott Green",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DUNE RATS",
+      "song": "Bullshit",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TASH SULTANA",
+      "song": "Notion (Live)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Our Town",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Frankie Sinatra",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Make Them Wheels Roll",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Come On Mess Me Up",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ILLY ft. ANNE-MARIE",
+      "song": "Catch 22",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SMITH STREET BAND",
+      "song": "Death To The Lads",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE XX",
+      "song": "On Hold",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "7",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "A.B. ORIGINAL ft. DAN SULTAN",
+      "song": "January 26",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIIKE SNOW",
+      "song": "Genghis Khan",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Viceroy",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MURA MASA ft. A$AP ROCKY",
+      "song": "Love$ick",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MILKY CHANCE",
+      "song": "Cocoon",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Chameleon",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WEEKND, THE ft. DAFT PUNK",
+      "song": "Starboy",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PEKING DUK ft. ELLIPHANT",
+      "song": "Stranger",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FLUME ft. TOVE LO",
+      "song": "Say It",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ILLY ft. VERA BLUE",
+      "song": "Papercuts",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DMA's",
+      "song": "Believe (Live on triple j's Like A Version)",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS ft. MONTAIGNE and TOM THUM",
+      "song": "1955",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TASH SULTANA",
+      "song": "Jungle (Live)",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AMY SHARK",
+      "song": "Adore",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FLUME featuring KAI",
+      "song": "Never Be Like You",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMASH MOUTH",
+      "song": "All Star",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JAMIROQUAI",
+      "song": "Automaton",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TORNADO WALLACE ft. SUI ZHEN",
+      "song": "Today",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DIPLO _and_ AUTOEROTIQUE",
+      "song": "Waist Time",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RL GRIME _and_ WHAT SO NOT _and_ SKRILLEX",
+      "song": "Waiting",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MIDDLE KIDS",
+      "song": "Never Start",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JARROW",
+      "song": "Mutual Feelings",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CAMERON AVERY",
+      "song": "C'est Toi",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BONOBO ft. NICK MURPHY",
+      "song": "No Reason",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JOE GODDARD",
+      "song": "Music Is The Answer",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KAMALIZA",
+      "song": "Zermatt",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TOURIST",
+      "song": "U",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Ubu",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALEX THE ASTRONAUT",
+      "song": "Already Home",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KATY STEELE",
+      "song": "Everywhere With You",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "IMPERIAL BROADS",
+      "song": "Ephemeral",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LISA MITCHELL",
+      "song": "Warhol",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LISA MITCHELL",
+      "song": "Warriors",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BANKS",
+      "song": "Trainwreck",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

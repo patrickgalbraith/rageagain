@@ -1,0 +1,390 @@
+{
+  "title": "Saturday 13th May",
+  "special": null,
+  "timeslot": null,
+  "date": "2000-05-13",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000513.htm",
+  "tracks": [
+    {
+      "artist": "Moloko",
+      "song": "The Time Is Now",
+      "label": "Fest/Mush",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "Tom Jones featuring The Stereophonics",
+      "song": "Mamma Told Me Not To Come",
+      "label": "Fest/Mush",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "Embrace",
+      "song": "You're Not Alone",
+      "label": "Virgin",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "James",
+      "song": "Just Like Fred Astaire",
+      "label": "Universal (MCA)",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "The (International) Noise Conspiracy",
+      "song": "Smash It Up",
+      "label": "Shock",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "A Perfect Circle",
+      "song": "Judith",
+      "label": "Virgin",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "Tool",
+      "song": "Sober",
+      "label": "Universal (MCA)",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "Nine Inch Nails - Live",
+      "song": "The Wretched",
+      "label": "Universal (MCA)",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "Limp Bizkit",
+      "song": "Break Stuff",
+      "label": "Universal",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "28 Days",
+      "song": "Rip It Up",
+      "label": "Fest/Mush",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "Area-7",
+      "song": "Himbo",
+      "label": "Jive/Zomba",
+      "timeslot": "03:15:00"
+    },
+    {
+      "artist": "Savage Garden",
+      "song": "Affirmation",
+      "label": "Roadshow",
+      "timeslot": "03:15:00",
+      "countdown": 50
+    },
+    {
+      "artist": "Killing Heidi",
+      "song": "Mascara",
+      "label": "Roadshow",
+      "timeslot": "04:00:00",
+      "countdown": 49
+    },
+    {
+      "artist": "Alice Deejay",
+      "song": "Back In My Life",
+      "label": "Jive/Zomba",
+      "timeslot": "04:00:00",
+      "countdown": 47
+    },
+    {
+      "artist": "Tom Jones",
+      "song": "Sexbomb",
+      "label": "Festival",
+      "timeslot": "04:00:00",
+      "countdown": 46
+    },
+    {
+      "artist": "Brian McKnight",
+      "song": "Back At One",
+      "label": "Universal",
+      "timeslot": "04:00:00",
+      "countdown": 45
+    },
+    {
+      "artist": "Santana featuring Everlast",
+      "song": "Put Your Lights On",
+      "label": "BMG",
+      "timeslot": "04:00:00",
+      "countdown": 44
+    },
+    {
+      "artist": "Ilanda featuring Joanne",
+      "song": "Breakin: There's No Stoppin' Us",
+      "label": "Warner",
+      "timeslot": "04:00:00",
+      "countdown": 43
+    },
+    {
+      "artist": "Christina Aguilera",
+      "song": "I Turn To You",
+      "label": "BMG",
+      "timeslot": "04:00:00",
+      "countdown": 42
+    },
+    {
+      "artist": "Westlife",
+      "song": "Flying Without Wings",
+      "label": "BMG",
+      "timeslot": "04:30:00",
+      "countdown": 41
+    },
+    {
+      "artist": "Madonna",
+      "song": "American Pie",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 40
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "song": "Be With You",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 39
+    },
+    {
+      "artist": "Foo Fighters",
+      "song": "Generator",
+      "label": "BMG",
+      "timeslot": "04:30:00",
+      "countdown": 38
+    },
+    {
+      "artist": "M2M",
+      "song": "Mirror Mirror",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 37
+    },
+    {
+      "artist": "Oblivia",
+      "song": "My Friend",
+      "label": "BMG",
+      "timeslot": "04:30:00",
+      "countdown": 36
+    },
+    {
+      "artist": "Hanson",
+      "song": "If Only",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 35
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "song": "Feelin' So Good",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 34
+    },
+    {
+      "artist": "Kelis",
+      "song": "Caught Out There",
+      "label": "Virgin",
+      "timeslot": "05:00:00",
+      "countdown": 33
+    },
+    {
+      "artist": "Tina Cousins",
+      "song": "Pray",
+      "label": "Jive/Zomba",
+      "timeslot": "05:00:00",
+      "countdown": 32
+    },
+    {
+      "artist": "Vanessa Amorosi",
+      "song": "Absolutely Everybody",
+      "label": "Transistor",
+      "timeslot": "05:00:00",
+      "countdown": 31
+    },
+    {
+      "artist": "Shaft",
+      "song": "Mambo Italiano",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 30
+    },
+    {
+      "artist": "Coco Lee",
+      "song": "Do You Want My Love",
+      "label": "Sony",
+      "timeslot": "05:00:00",
+      "countdown": 29
+    },
+    {
+      "artist": "Kaylan",
+      "song": "Rock Me All Night",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 27
+    },
+    {
+      "artist": "Lonestar",
+      "song": "Amazed",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 26
+    },
+    {
+      "artist": "S Club 7",
+      "song": "Two In A Million",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 25
+    },
+    {
+      "artist": "Jessica Simpson",
+      "song": "I Wanna Love You Forever",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 23
+    },
+    {
+      "artist": "Macy Gray",
+      "song": "Still",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 21
+    },
+    {
+      "artist": "Blink 182",
+      "song": "All The Small Things",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 20
+    },
+    {
+      "artist": "All Saints",
+      "song": "Pure Shores",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 19
+    },
+    {
+      "artist": "Eiffel 65",
+      "song": "Move Your Body",
+      "label": "Central Station",
+      "timeslot": "05:30:00",
+      "countdown": 18
+    },
+    {
+      "artist": "Five",
+      "song": "Don't Wanna Let You Go",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 17
+    },
+    {
+      "artist": "Savage Garden",
+      "song": "Crash And Burn",
+      "label": "Roadshow",
+      "timeslot": "06:00:00",
+      "countdown": 16
+    },
+    {
+      "artist": "S2S",
+      "song": "What's A Girl To Do",
+      "label": "Fest/Mush",
+      "timeslot": "06:00:00",
+      "countdown": 15
+    },
+    {
+      "artist": "Girlfriend - No Doubt",
+      "song": "Ex",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 14
+    },
+    {
+      "artist": "Mandy Moore",
+      "song": "Candy",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 13
+    },
+    {
+      "artist": "Travis",
+      "song": "Why Does It Always Rain On Me?",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 12
+    },
+    {
+      "artist": "Pink",
+      "song": "There You Go",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 11
+    },
+    {
+      "artist": "Toni Braxton",
+      "song": "He Wasn't Man Enough",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 10
+    },
+    {
+      "artist": "Leah Haywood",
+      "song": "We Think It's Love",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 9
+    },
+    {
+      "artist": "Naughty By Nature",
+      "song": "Holiday",
+      "label": "BMG",
+      "timeslot": "06:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "Chicane featuring Bryan Adams",
+      "song": "Don't Give Up",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 6
+    },
+    {
+      "artist": "*NSync",
+      "song": "Bye Bye Bye",
+      "label": "Jive/Zomba",
+      "timeslot": "06:30:00",
+      "countdown": 5
+    },
+    {
+      "artist": "Sash!",
+      "song": "Adelante",
+      "label": "Transistor",
+      "timeslot": "06:30:00",
+      "countdown": 4
+    },
+    {
+      "artist": "Bardot",
+      "song": "Poison",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 3
+    },
+    {
+      "artist": "Melanie C featuring Lisa 'Left-Eye' Lopes",
+      "song": "Never Be The Same Again",
+      "label": "Virgin",
+      "timeslot": "06:30:00",
+      "countdown": 2
+    },
+    {
+      "artist": "Destiny's Child",
+      "song": "Say My Name",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 1
+    }
+  ]
+}

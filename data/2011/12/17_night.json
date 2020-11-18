@@ -1,0 +1,567 @@
+{
+  "title": "Saturday night  Saturday, 17 December",
+  "special": "Suzi Quatro",
+  "timeslot": "night",
+  "date": "2011-12-17",
+  "url": "http://www.abc.net.au/rage/archive/s3392897.htm",
+  "tracks": [
+    {
+      "artist": "ADELE",
+      "song": "Make You Feel My Love",
+      "label": "Remote Control",
+      "timeslot": "12:23:00"
+    },
+    {
+      "artist": "ELTON JOHN",
+      "song": "Your Song",
+      "label": "Universal (MCA",
+      "timeslot": "12:23:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "Stand By Me",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Man In The Mirror",
+      "label": "Epic",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Only Women Bleed",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Flame Trees",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Hurricane",
+      "label": "CBS",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MARTHA & THE VANDELLAS",
+      "song": "Dancing In The Streets",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JACKSON 5",
+      "song": "ABC",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "Heard It Through The Grapevine",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CRYSTALS",
+      "song": "Da Doo Ron Ron",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHAKA KHAN",
+      "song": "I'm Every Woman",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OTIS REDDING",
+      "song": "Satisfaction",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MARVIN GAYE",
+      "song": "Sexual Healing",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MICK JAGGER",
+      "song": "Just Another Night",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Sultans Of Swing",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOM PETTY",
+      "song": "I Won't Back Down",
+      "label": "Universal (MCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PRETENDERS",
+      "song": "Brass In Pocket",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Little Red Corvette",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JACKSON BROWNE",
+      "song": "In The Shape Of A Heart",
+      "label": "Asylum",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "I Don't Want To Miss A Thing",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EAGLES",
+      "song": "Hotel California",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "You And Me",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "All Along The Watchtower",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Rock And Roll",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "It's Only Rock & Roll",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Celebrity Skin",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "IGGY POP & KATE PIERSON",
+      "song": "Candy",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Hound Dog/All Shook Up",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHUCK BERRY",
+      "song": "Johnny B Goode",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROY ORBISON",
+      "song": "Oh, Pretty Woman",
+      "label": "London",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LOUIS ARMSTRONG",
+      "song": "What A Wonderful World",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Tears Dry On Their Own",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MARK RONSON featuring THE WINETTES/AMY WINEHOUSE",
+      "song": "Valerie",
+      "label": "SBME",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE SUPREMES",
+      "song": "Stop In The Name Of Love",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Knowing Me, Knowing You",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DWIGHT YOAKAM",
+      "song": "1,000 Miles From Nowhere",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE HOLLIES",
+      "song": "Long, Cool Woman In A Black Dress",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "Kokomo",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "Cool",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MICHAEL BUBLE",
+      "song": "Home",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CHRISTINA AGUILERA",
+      "song": "Beautiful",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "You Really Got Me",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Tusk",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CHEAP TRICK",
+      "song": "If You Want My Love",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LYNYRD SKYNYRD",
+      "song": "Sweet Home Alabama",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE JACKSONS",
+      "song": "Can You Feel It",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SHAKIRA",
+      "song": "Whenever, Wherever",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KT TUNSTALL",
+      "song": "Suddenly I See",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "1973",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN AND THE E-STREET BAND",
+      "song": "Born To Run",
+      "label": "Columbia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NEW RADICALS",
+      "song": "You Get What You Give",
+      "label": "Universal (MCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JIMMY BUFFET",
+      "song": "Margaritaville",
+      "label": "ABC",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NATALIE IMBRUGLIA",
+      "song": "Torn",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CELINE DION",
+      "song": "The Power Of Love",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JEWEL",
+      "song": "You Were Meant For Me",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Desperado",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Rock Hard",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Devil Gate Drive/Can The Can/48 Crash",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Daytona Demon",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Tear Me Apart",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Can The Can",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Strict Machine",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE RUNAWAYS",
+      "song": "Cherry Bomb",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HEART",
+      "song": "Barracuda",
+      "label": "Portrait",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JOAN JETT & THE BLACKHEARTS",
+      "song": "Bad Reputation",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IGGY & THE STOOGES - LIVE",
+      "song": "Real Cool Time/No Fun",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Real Wild Child",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Lust For Life",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NEW YORK DOLLS",
+      "song": "Fool For You Baby",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Rock 'N' Roll",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Satellite Of Love",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LOU REED - LIVE",
+      "song": "Walk On The Wild Side",
+      "label": "Universal (MCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Virginia Plain",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Dance Away",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "More Than This",
+      "label": "Polygram",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE - LIVE",
+      "song": "Suffragette City",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE- LIVE",
+      "song": "Oh! You Pretty Things",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE- LIVE",
+      "song": "Changes",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE- LIVE",
+      "song": "Rock And Roll Suicide",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MARC BOLAN",
+      "song": "New York City",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MARC BOLAN",
+      "song": "You Scare Me To Death",
+      "label": "Not Specified",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MARC BOLAN AND T-REX",
+      "song": "Light Of Love",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALVIN STARDUST",
+      "song": "Weekend",
+      "label": "Magnet",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GARY GLITTER",
+      "song": "Hello, Hello I'm Back Again (Good To Be Back)",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SLADE",
+      "song": "Get Down & Get With It",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SLADE",
+      "song": "Run Runaway",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE SWEET",
+      "song": "Ballroom Blitz",
+      "label": "RCA",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE SWEET",
+      "song": "Love Is Like Oxygen",
+      "label": "Polydor",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAVID ESSEX",
+      "song": "Gonna Make You A Star",
+      "label": "CBS",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAVID ESSEX",
+      "song": "Hot Love",
+      "label": "Mercury",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Bohemian Rhapsody",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Somebody To Love",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

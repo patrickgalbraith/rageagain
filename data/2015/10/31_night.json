@@ -1,0 +1,633 @@
+{
+  "title": "Saturday night 31 October 2015",
+  "special": "5 Seconds of Summer",
+  "timeslot": "night",
+  "date": "2015-10-31",
+  "url": "http://www.abc.net.au/rage/archive/s4342554.htm",
+  "tracks": [
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "She Looks So Perfect",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "The Pretender",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "No One Knows",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLACK REBEL MOTORCYCLE CLUB",
+      "song": "Weapon Of Choice",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "What's My Age Again?",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE OFFSPRING",
+      "song": "Pretty Fly (For A White Guy)",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SUM41",
+      "song": "In Too Deep",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "Shadow Of The Day",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Supermassive Black Hole",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BIFFY CLYRO",
+      "song": "Black Chandelier",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Dani California",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PAPA ROACH",
+      "song": "Last Resort",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LIMP BIZKIT",
+      "song": "Rollin'",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GOOD CHARLOTTE",
+      "song": "Dancefloor Anthem",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FALL OUT BOY",
+      "song": "Thnks Fr Th Mmrrs",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Weightless",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CAGE THE ELEPHANT",
+      "song": "Aint No Rest For The Wicked",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Vertigo",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Feel Good Inc.",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "Pon De Replay",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "N*E*R*D",
+      "song": "Rock Star",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Lose Yourself",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LOWER THAN ATLANTIS",
+      "song": "Here We Go",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRING ME THE HORIZON",
+      "song": "Drown",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EVANESCENCE",
+      "song": "Bring Me To Life",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IMAGINE DRAGONS",
+      "song": "Radioactive",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Say It Ain't So",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Today",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Pink",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Start Me Up",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Rock 'N' Roll All Nite",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Beat It",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Kickstart My Heart",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "7 Nation Army",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Never Tear Us Apart",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Sweet Child O' Mine",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Enter Sandman",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Snuff",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Khe Sanh",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Wonderwall",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "Sex On Fire",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Tribute",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Mr Brightside",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "Hey Everybody",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "Out Of My Limit",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "Good Girls",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "She Looks So Perfect",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "Amnesia",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "Don't Stop",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "She's Kinda Hot",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE GARDEN",
+      "song": "Egg",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DRAKE",
+      "song": "Hotline Bling",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DE STAAT",
+      "song": "Witch Doctor",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SAINTSENECA",
+      "song": "Bad Ideas",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "EVERYTHING EVERYTHING",
+      "song": "No Reptiles",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "Taman Shud",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "URTHBOY ft. BERTIE BLACKMAN",
+      "song": "Long Loud Hours",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DRELLER",
+      "song": "One Night Stand",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YOUTH LAGOON",
+      "song": "The Knower",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GILLIGAN MOSS",
+      "song": "Ceremonial",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE MEANIES",
+      "song": "There's A Gap",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE COPS",
+      "song": "Move Over Money",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WET",
+      "song": "Weak",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YUMA X",
+      "song": "Matchstick",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AUGUST EVE",
+      "song": "Ghost",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Heart Of The Matter",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BOY and BEAR",
+      "song": "Walk The Wire",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FRESH SNOW",
+      "song": "Don't Fuck A Gift Horse In The Mouth",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NO ZU",
+      "song": "Ui Yia Uia",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LARZRANDA",
+      "song": "Lifeguard",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FATHER JOHN MISTY",
+      "song": "The Night Josh Tillman Came To Our Apartment",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BRYSON TILLER",
+      "song": "Sorry Not Sorry",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ROSE MCGOWAN",
+      "song": "RM486",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DISCLOSURE ft. LORDE",
+      "song": "Magnets",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Lullaby",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BILLY JOEL",
+      "song": "Pressure",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROCKWELL",
+      "song": "Somebody's Watching Me",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WARREN ZEVON",
+      "song": "Werewolves Of London",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Heads Will Roll",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "I Miss You",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Pet Sematary",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "Everybody (Backstreet's Back)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Bark At The Moon",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROB ZOMBIE",
+      "song": "Dragula",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BRAINBUG",
+      "song": "Nightmare",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Sober",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RAY PARKER JR",
+      "song": "Ghostbusters",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TOTO COELO",
+      "song": "Dracula's Tango (Sucker For Your Love)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROCKY HORROR PICTURE SHOW",
+      "song": "Time Warp",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE JOHN STEEL SINGERS",
+      "song": "Weekend Lover",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FFS",
+      "song": "Call Girl",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Sunny Side Up",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHAIRLIFT",
+      "song": "Ch-Ching",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GL",
+      "song": "Number One",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Give It All",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JACK GARRATT",
+      "song": "Breathe Life",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Ghost Town",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DRENGE",
+      "song": "The Woods",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FRASER A GORMAN",
+      "song": "Never Gonna Hold You (Like I Do)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "IVEY",
+      "song": "Smell Of Smoke",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FLOATING POINTS",
+      "song": "Nespole",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PETITE MELLER",
+      "song": "Barbaric",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "OLYMPIA",
+      "song": "Tourists",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PEKING DUK ft. BENJAMIN JOSEPH",
+      "song": "Say My Name",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

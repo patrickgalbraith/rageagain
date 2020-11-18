@@ -1,0 +1,639 @@
+{
+  "title": "Saturday night 1 August 2015",
+  "special": "Splendour In The Grass Special",
+  "timeslot": "night",
+  "date": "2015-08-01",
+  "url": "http://www.abc.net.au/rage/archive/s4284801.htm",
+  "tracks": [
+    {
+      "artist": "THE VACCINES",
+      "song": "20/20",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TUKA",
+      "song": "Yeah Right",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SETH SENTRY",
+      "song": "Hell Boy",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TKAY MAIDZA",
+      "song": "Switch Lanes",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FKA TWIGS",
+      "song": "Two Weeks",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BATTLES feat MATIAS AGUAYO",
+      "song": "Ice Cream",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "King Kunta",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Cause I'm A Man",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BILLY BRAGG - LIVE",
+      "song": "A New England",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SEEKAE",
+      "song": "Another",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Run - Live at Splendour, 2015",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Magic",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PORTER ROBINSON",
+      "song": "Flicker",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DYE",
+      "song": "Fantasy",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PEKING DUK",
+      "song": "Feels Like",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CONGOROCK",
+      "song": "Babylon",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FATHER JOHN MISTY",
+      "song": "I Love You, Honeybear",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OH MERCY",
+      "song": "Sandy",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SMITH STREET BAND",
+      "song": "Ducks Fly Together - Live at Splendour, 2015",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OF MONSTERS AND MEN",
+      "song": "Crystals",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MS MR",
+      "song": "Painted",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHILDISH GAMBINO",
+      "song": "Sober",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PEKING DUK",
+      "song": "High - Live at Splendour, 2015",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CHARLES MURDOCH",
+      "song": "Straws",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LAST DINOSAURS",
+      "song": "Evie",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DUNE RATS",
+      "song": "Red Light, Green Light",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Less Out Of Sync",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Fun",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "50 CENT",
+      "song": "In Da Club",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SONIC ANIMATION",
+      "song": "Theophilus Thistler",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "End Of The Earth - Live at Splendour, 2015",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PATRICK WATSON",
+      "song": "The Great Escape",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOY AND BEAR",
+      "song": "Bridges",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RYAN ADAMS",
+      "song": "Gimme Something Good",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEG MAC",
+      "song": "Roll Up Your Sleeves",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEST COAST",
+      "song": "Feeling OK",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Gypsy",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPIRITUALIZED",
+      "song": "Hey Jane",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Hiding To Nothing",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE SAINTS",
+      "song": "Ghost Ships",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AZEALIA BANKS",
+      "song": "Liquorice",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "I Will Follow You Into The Dark",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOHNNY MARR",
+      "song": "I Feel You",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EVERYTHING EVERYTHING",
+      "song": "Distant Past",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PAUL MAC ft KIRA PURU and GOODWILL",
+      "song": "State Of War",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GEORGE MAPLE",
+      "song": "Talk Talk",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PURITY RING",
+      "song": "Fineshire",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Laurel Canyon",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Midnight Mass (At The Market Street Payphone)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DANDY WARHOLS",
+      "song": "Sad Vacation",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLIGHT FACILITIES",
+      "song": "Down To Earth",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Ong Ong",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "EARL SWEATSHIRT",
+      "song": "Grief",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALPINE",
+      "song": "Foolish",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SHLOHMO",
+      "song": "Beams",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THUNDERCAT",
+      "song": "Them Changes",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "VANCE JOY",
+      "song": "Fire And The Flood",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "VINCE STAPLES",
+      "song": "Norf Norf",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LORN",
+      "song": "Acid Rain",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DATA featuring BENNY SINGS",
+      "song": "Don't Sing",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Gunga Din",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MODEST MOUSE",
+      "song": "The Ground Walks, With Time In A Box",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JEAN-MICHEL JARRE ft. M83",
+      "song": "Glory",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Your Low",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DRAKE",
+      "song": "Energy",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "Bitch Better Have My Money",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YOGI _and_ SKRILLEX ft. PUSHA T, MOODY GOOD _and_ TROLLPHA",
+      "song": "Burial",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DISCLOSURE featuring GREGORY PORTER",
+      "song": "Holding On",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Alright",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KITE STRING TANGLE, THE and DUSTIN TEBBUTT",
+      "song": "Illuminate",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "YO LA TENGO",
+      "song": "Friday I'm In Love",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SISKA",
+      "song": "Unconditional Rebel",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DANCES",
+      "song": "Holy Fool",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Embracing Me",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BORN LION",
+      "song": "Good Dogs Play Dead",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COIN BANKS ft. APANI B, ATOM, LILI K. _and_ THE RUBY H",
+      "song": "Cursive",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE PRETENDERS",
+      "song": "Brass In Pocket",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BOW WOW WOW",
+      "song": "I Want Candy",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TOTO COELO",
+      "song": "I Eat Cannibals",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALTERED IMAGES",
+      "song": "Happy Birthday",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Venus As A Boy",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SHONEN KNIFE",
+      "song": "Banana Chips",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CIBO MATTO",
+      "song": "Know Your Chicken",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KELIS",
+      "song": "Milkshake",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RATT",
+      "song": "Round and Round",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WARRANT",
+      "song": "Cherry Pie",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TOM PETTY and THE HEARTBREAKERS",
+      "song": "Don't Come Around Here",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "Eat It",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MTUME",
+      "song": "Juicy Fruit",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TINY LITTLE HOUSES",
+      "song": "Easy",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE PAPER KITES",
+      "song": "Electric Indigo",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OSCAR KEY SUNG",
+      "song": "Brush",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DELOREAN",
+      "song": "Crystal",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DRENGE",
+      "song": "Running Wild",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SEINABO SEY",
+      "song": "Pretend",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NICOLAS GODIN",
+      "song": "Widerstehe Doch Der S?nde",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUCKTAILS",
+      "song": "Surreal Exposure",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SON LUX",
+      "song": "You Don't Know Me",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GILLIAN MOSS",
+      "song": "Choreograph",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ASTA ft ALLDAY",
+      "song": "Dynamite",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MT WARNING",
+      "song": "When It All Bleeds Out",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HOLY HOLY",
+      "song": "Sentimental And Monday",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JUNGLE GIANTS",
+      "song": "Kooky Eyes",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Be Your Shadow",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

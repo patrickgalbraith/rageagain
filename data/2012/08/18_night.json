@@ -1,0 +1,615 @@
+{
+  "title": "Saturday night  Saturday, 18 August",
+  "special": "Billy Corgan",
+  "timeslot": "night",
+  "date": "2012-08-18",
+  "url": "http://www.abc.net.au/rage/archive/s3565123.htm",
+  "tracks": [
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "1979",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "To Here Knows When",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "I Wanna Be Adored",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TEENAGE FANCLUB",
+      "song": "Star Sign",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Androgyny",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE FAINT",
+      "song": "I Disappear",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Aneurysm",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "FOZZY",
+      "song": "Enemy",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Photograph",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RONNIE JAMES DIO",
+      "song": "Holy Diver",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CULT",
+      "song": "She Sells Sanctuary",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ADAM and THE ANTS",
+      "song": "Stand and Deliver",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Careless Memories",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SIMPLE MINDS",
+      "song": "Promised You A Miracle",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Suicide Blonde",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "Cities In Dust",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Slave To The Rhythm",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LYKKE LI",
+      "song": "I'm Good, I'm Gone",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BRONSKI BEAT",
+      "song": "Smalltown Boy",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Love Will Tear Us Apart",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ECHO and THE BUNNYMEN",
+      "song": "Bring On The Dancing Horses",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE AUTEURS",
+      "song": "The Rubettes",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "I Wanna Be Sedated",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STAN RIDGWAY",
+      "song": "Don't Box Me In",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "The Kids Are Alright",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CRIME and THE CITY SOLUTION",
+      "song": "I Have The Gun",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "Wild Child",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Kashmir",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Undercover Of The Night",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SUEDE",
+      "song": "Metal Mickey",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Confusion",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE HUMAN LEAGUE",
+      "song": "Fascination",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ORCHESTRAL MANOEUVRES IN THE DARK",
+      "song": "If You Leave",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JAPAN",
+      "song": "Ghosts",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KIM WILDE",
+      "song": "Kids In America",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GENERATION X",
+      "song": "Wild Youth",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LOVE and ROCKETS",
+      "song": "Mirror People",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RIDE",
+      "song": "Leave Them All Behind",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE VINES",
+      "song": "Get Free",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Here To Stay",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Livewire",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "Here I Go Again",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Save Me",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE RAVEONETTES",
+      "song": "Love In A Trashcan",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "That's Entertainment",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "I Still Haven't Found... (Gospel Version)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JAMES BROWN",
+      "song": "(So Tired Of Standing Still We Got To) Move On",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Burn Hollywood Burn",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "N.W.A",
+      "song": "Express Yourself",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EAGLE-EYE CHERRY featuring NENEH CHERRY",
+      "song": "Long Way Around",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Suspicious Minds",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MUNGO JERRY",
+      "song": "In The Summertime",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "That's Why God Made The Radio",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LUSH",
+      "song": "Sweetness and Light",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Hallelujah",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "P.I.L.",
+      "song": "Death Disco",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Dear God",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAZZY STAR",
+      "song": "Fade Into You",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ULTRAVOX",
+      "song": "Vienna",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ENYA",
+      "song": "Orinoco Flow",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Ain't No Right",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "One",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TYPE O NEGATIVE",
+      "song": "Cinnamon Girl",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RAINBOW",
+      "song": "Long Live Rock and Roll",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "EMERSON LAKE and PALMER",
+      "song": "Fanfare For The Common Man",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Ava Adore",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Siva",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Rhinoceros",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Cherub Rock",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Today",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Rocket",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Bullet With Butterfly Wings",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Zero",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Tonight Tonight",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Thirty Three",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "The End Is The Beginning Is The End",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Stand Inside Your Love",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Perfect",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "The Everlasting Gaze",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Untitled",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Tarantula",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "That's The Way (My Love Is)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Disarm",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BILLY CORGAN",
+      "song": "Walking Shade",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ZWAN",
+      "song": "Honestly",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ZWAN",
+      "song": "Lyric",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CATHERINE",
+      "song": "Whisper",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MELISSA AUF DER MAUR",
+      "song": "Meet Me On The Dark Side",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MELISSA AUF DER MAUR",
+      "song": "Out Of Our Minds",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Miss World",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Malibu",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Celebrity Skin",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NITZER EBB",
+      "song": "Fun To Be Had",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Sleep Now In The Fire",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Head Like A Hole",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "The Fixer",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "American Idiot",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Island In The Sun (Spike Jonze version)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Say It Ain't So",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Settle Down",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "STONEFIELD",
+      "song": "Ruby Skies",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

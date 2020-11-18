@@ -1,0 +1,435 @@
+{
+  "title": "Friday, 7 March 2014",
+  "special": null,
+  "timeslot": null,
+  "date": "2014-03-07",
+  "url": "http://www.abc.net.au/rage/archive/s3959170.htm",
+  "tracks": [
+    {
+      "artist": "THE PRESET",
+      "song": "Goodbye Future",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "We Are Explorers",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ART VS SCIENCE",
+      "song": "Create/Destroy",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DIPLO featuring ANGGER DIMAS and TRAVIS PORTER",
+      "song": "Biggie Bounce",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "NICKI MINAJ",
+      "song": "Lookin' Ass",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ANGEL HAZE and SIA",
+      "song": "Battle Cry",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Partition (Explicit)",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FKA X INC.",
+      "song": "Untitled",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "If I Could Change Your Mind",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CIRCA WAVES",
+      "song": "Stuck In My Teeth",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THUMPERS",
+      "song": "Unkinder (A Tougher Love)",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "WATERCOLOURS",
+      "song": "Soft Teeth",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DE LUX",
+      "song": "Better At Making Time",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "Love Letters",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THIEF",
+      "song": "Closer",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PEKING DUK",
+      "song": "High",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Arabella",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JACK COLWELL AND THE OWLS",
+      "song": "Far From View",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LONDON GRAMMAR",
+      "song": "Hey Now",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Delete",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CHET FAKER",
+      "song": "Talk Is Cheap",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KEVIN DREW",
+      "song": "Good Sex",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "I Need My Girl",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HARMONY",
+      "song": "Water Runs Cold",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RY",
+      "song": "Good Morning",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HORRORSHOW featuring JOYRIDE",
+      "song": "Nice Guys Finish Last",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LANCELOT featuring ANTONY and CLEOPATRA",
+      "song": "Givin' It Up",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MIAMI HORROR featuring CLEOPOLD",
+      "song": "Colours In The Sky",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SUPREME CUTS featuring CHANNY LEANEAGH",
+      "song": "Envision",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BASTILLE",
+      "song": "Flaws",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YOUNG FATHERS",
+      "song": "Get Up",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BOOTS",
+      "song": "Dust",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DROWNERS",
+      "song": "A Button On Your Blouse",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLOUSE",
+      "song": "Happy Days",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "I KNOW LEOPARD",
+      "song": "Hold This Tight",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GENTLEMEN",
+      "song": "Late Nacht",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SAINTSENECA",
+      "song": "Happy Alone",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FUTURE ISLANDS",
+      "song": "Seasons (Waiting On You)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ACID",
+      "song": "Basic Instinct",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ST VINCENT",
+      "song": "Digital Witness",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOAN AS POLICEWOMAN",
+      "song": "Holy City",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SALLY SELTMANN",
+      "song": "Catch Of The Day",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PHANTOGRAM",
+      "song": "Fall In Love",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Recover (Travelogue)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAXIMUM WOLF",
+      "song": "Orbit",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLOODY BEETROOTS, THE featuring TOMMY LEE",
+      "song": "Raw",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WILD BEASTS",
+      "song": "Wanderlust",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "VOLBEAT featuring SARAH BLACKWOOD",
+      "song": "Lonesome Rider",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Cry",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NUN",
+      "song": "Evoke The Sleep",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BATPISS",
+      "song": "Drag Your Body",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAD VISION",
+      "song": "I Got A Problem",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AUSMUTEANTS",
+      "song": "No Motivation",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "Temple",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Coming Home",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAND OF SKULLS",
+      "song": "Nightmares",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE JEZABELS",
+      "song": "Look Of Love",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SARA BAREILLES",
+      "song": "Brave",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CAFEINE",
+      "song": "New Love",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "Air Balloon",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PRINTZ BOARD",
+      "song": "Hey You",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TINIE TEMPAH featuring LABRINTH",
+      "song": "Lover Not A Fighter",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "She Looks So Perfect",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JASON DERULO",
+      "song": "Stupid Love",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAVID GUETTA featuring NICKY ROMERO",
+      "song": "Metropolis",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KATY PERRY",
+      "song": "Dark Horse",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ANGEL HAZE and SIA",
+      "song": "Battle Cry",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DUKE DUMONT featuring JAX JONES",
+      "song": "I Got U",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AVICII",
+      "song": "Addicted To You",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LANCELOT featuring ANTONY and CLEOPATRA",
+      "song": "Givin' It Up",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RUDIMENTAL featuring JOHN NEWMAN and ALEX CLARE",
+      "song": "Not Giving In",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

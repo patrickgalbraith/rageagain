@@ -1,0 +1,603 @@
+{
+  "title": "Saturday night 10 December 2016, ABC",
+  "special": "Garbage",
+  "timeslot": "night",
+  "date": "2016-12-10",
+  "url": "http://www.abc.net.au/rage/archive/s4590186.htm",
+  "tracks": [
+    {
+      "artist": "GARBAGE",
+      "song": "I Think I'm Paranoid",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Borders",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Formation",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Smack My Bitch Up",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "RIHANNA featuring CALVIN HARRIS",
+      "song": "We Found Love",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Atmosphere",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE JESUS and MARY CHAIN",
+      "song": "Sometimes Always",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Kill V. Maim",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "How??",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SKATING POLLY",
+      "song": "Ugly",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "COSMIC PSYCHOS",
+      "song": "Dead Roo",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BRODY DALLE ft. SHIRLEY MANSON",
+      "song": "Meet The Foetus",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Doll Parts",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ashes To Ashes",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "COCTEAU TWINS",
+      "song": "Iceblink Luck",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "The Perfect Kiss",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DIE ANTWOORD",
+      "song": "Banana Brain",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CLIPPING",
+      "song": "Shooter",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Jive Talkin'",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Knowing Me, Knowing You",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TORRES",
+      "song": "Strange Hellos",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WHITE MYSTERY",
+      "song": "Best Friend",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HOPE SANDOVAL _and_ THE WARM INVENTIONS ft. KURT VILE",
+      "song": "Let Me Get There",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Robots",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Real Wild Child",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Push It",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BUTTHOLE SURFERS",
+      "song": "Pepper",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Stan",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHASTITY BELT",
+      "song": "Time To Go Home",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE COATHANGERS",
+      "song": "Watch Your Back",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Friday I'm In Love",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "Spellbound",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LENE LOVICH",
+      "song": "New Toy",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "X-RAY SPEX",
+      "song": "Oh Bondage, Up Yours!",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PEACHES ft. FEIST",
+      "song": "I Mean Something",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEAP VALLY",
+      "song": "Smile More",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAUHAUS",
+      "song": "Ziggy Stardust",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Nothing Compares 2 U",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Oveour",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Blue Jeans",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEST COAST",
+      "song": "Feeling OK",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Leave A Trace",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Cruel",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Magnetized",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Empty",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARBAGE featuring BRIAN AUBERT",
+      "song": "The Chemicals",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Big Bright World",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Blood For Poppies",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Tell Me Where It Hurts",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Run Baby Run",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Sex Is Not The Enemy",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Why Do You Love Me",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Shut Your Mouth",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Breaking Up The Girl",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Cherry Lips",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Androgyny",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "The World Is Not Enough",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "You Look So Fine",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "The Trick Is To Keep Breathing",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "When I Grow Up",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Special",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "I Think I'm Paranoid",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Milk (Tricky Mix)",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Stupid Girl",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Queer",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Only Happy When It Rains",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Vow",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "SloMo",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PINHEADS",
+      "song": "Wildfire",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DUNGEN",
+      "song": "Achmed Flyger",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AUSTRA",
+      "song": "Future Politics",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HOPE SANDOVAL _and_ THE WARM INVENTIONS ft. KURT VILE",
+      "song": "Let Me Get There",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Luxurious",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BERNARD FANNING ft KASEY CHAMBERS",
+      "song": "Sooner Or Later",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "My Love Is Gone",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TKAY MAIDZA",
+      "song": "Simulation",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "Saint Lo",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE XX",
+      "song": "On Hold (Censored)",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JAMES VINCENT McMORROW",
+      "song": "Get Low",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIKHAEL PASKALEV",
+      "song": "Witness",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Play It Out",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BETTY _and_ OSWALD",
+      "song": "Stuck In The City",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "This Is Your Life",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE STYLE COUNCIL",
+      "song": "Long Hot Summer",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MONDO ROCK",
+      "song": "Summer Of 81",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEEE-LITE",
+      "song": "Picnic In The Summertime",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "POWER STATION",
+      "song": "Some Like It Hot",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "Hot In The City",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ASIA",
+      "song": "Heat Of The Moment",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DON HENLEY",
+      "song": "Boys Of Summer",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NELLY",
+      "song": "Hot In Herre",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LEN",
+      "song": "Steal My Sunshine",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BELINDA CARLISLE",
+      "song": "Summer Rain",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MUNGO JERRY",
+      "song": "In The Summertime",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DONNY BENET",
+      "song": "Working Out",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LEISURE",
+      "song": "Got It Bad",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

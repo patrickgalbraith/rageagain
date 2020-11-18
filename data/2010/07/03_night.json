@@ -1,0 +1,567 @@
+{
+  "title": "Saturday night  Saturday, 3 July 2010",
+  "special": "Karnivool",
+  "timeslot": "night",
+  "date": "2010-07-03",
+  "url": "http://www.abc.net.au/rage/archive/s2943377.htm",
+  "tracks": [
+    {
+      "artist": "NIRVANA",
+      "song": "In Bloom",
+      "label": "Universal (MCA",
+      "timeslot": "23:58:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Rooster",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PRIMUS",
+      "song": "Shake Hands With Beef",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Oblivion",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MESHUGGAH",
+      "song": "Bleed",
+      "label": "Riot",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "REFUSED",
+      "song": "New Noise",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE BRONX",
+      "song": "History's Stranglers",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "STRAPPING YOUNG LAD",
+      "song": "Relentless",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Sick Sick Sick",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "People Of The Sun",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "5 Minutes Alone",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Fell On Black Days",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE TEA PARTY",
+      "song": "Fire In The Head",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Plug In Baby",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "The Perfect Drug",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Sober",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Karnivool/Radiohead Trees",
+      "song": "Karnivool/Radiohead Trees",
+      "label": "Rage",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Fake Plastic Trees",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ELBOW",
+      "song": "Forget Myself",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STONE TEMPLE PILOTS",
+      "song": "Down",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GLASSJAW",
+      "song": "Cosmopolitan Blood Loss",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GEOFFREY GURRUMUL YUNUPINGU - LIVE",
+      "song": "Djarimirri",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BILL WITHERS",
+      "song": "Use Me",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "It's Oh So Quiet",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "All I Want Is You",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOHN FARNHAM",
+      "song": "Pressure Down",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Walking On The Moon",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Electric Blue",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Hearts A Mess",
+      "label": "Creative Vibes",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE MARS VOLTA",
+      "song": "Inertiatic esp",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Sexy M.F.",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ME'SHELL NDEGE'OCELLO",
+      "song": "If That's Your Boyfriend",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "N*E*R*D",
+      "song": "Lap Dance",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PINK FLOYD - from the video 'LIVE AT POMPEII'",
+      "song": "Careful With That Axe Eugene",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Kashmir",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KARNIVOOL",
+      "song": "All I Know",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KARNIVOOL",
+      "song": "Lifelike",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KARNIVOOL",
+      "song": "Shutterspeed",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KARNIVOOL",
+      "song": "Themata",
+      "label": "Chatterbox",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KARNIVOOL",
+      "song": "Set Fire To The Hive",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Stay",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Silhouettic",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Broken Bones",
+      "label": "MGM",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Wild Eyed Boy",
+      "label": "MGM",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "The Saddest Thing I Know",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Plans",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUGAR ARMY",
+      "song": "And Now That You're Old Enough, I Think That...",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUGAR ARMY",
+      "song": "Jigsaw",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUGAR ARMY",
+      "song": "Acute",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUGAR ARMY",
+      "song": "Tongues In Cheeks",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SNOWMAN",
+      "song": "Smoke And Mirrors",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SNOWMAN",
+      "song": "You Are A Casino",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SNOWMAN",
+      "song": "Swimming With Sharks",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SNOWMAN",
+      "song": "We Are The Plague",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SNOWMAN",
+      "song": "Daniel Was A Timebomb",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "Shark Fin Blues",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "Jezebel",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "The Minotaur",
+      "label": "MGM",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DRONES, THE - TRIPLE J TV",
+      "song": "Oh My",
+      "label": "MGM",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JEBEDIAH - LIVE ON RECOVERY",
+      "song": "Benedict",
+      "label": "Murmur",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Military Strongmen",
+      "label": "Murmur",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Harpoon",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Jerks Of Attention",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Teflon",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Animal",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "END OF FASHION",
+      "song": "Anything Goes",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "END OF FASHION",
+      "song": "Rough Diamonds",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "END OF FASHION",
+      "song": "Too Careful",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "END OF FASHION",
+      "song": "O Yeah",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Turn Up Your Stereo",
+      "label": "Modular",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Wake Up",
+      "label": "Modular",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Who Sold Her Out",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "From The Sea",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Come On Come On",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Relapse",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Baby Blue",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Summarize",
+      "label": "Eleven",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GYROSCOPE",
+      "song": "1981",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GYROSCOPE",
+      "song": "Baby, I'm Gettin' Better",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Half Full Glass Of Wine",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAREN ELSON",
+      "song": "The Ghost Who Walks",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BLACK KEYS",
+      "song": "Tighten Up",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CELADORE",
+      "song": "Distance Is A Gun",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE GIN CLUB",
+      "song": "Pennies",
+      "label": "Plus One Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HARPER SIMON",
+      "song": "Wishes And Stars",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GAYNGS",
+      "song": "Cry",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HERE WE GO MAGIC",
+      "song": "Collector",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHRIS PICKERING",
+      "song": "Absolutely Miss Lucy",
+      "label": "Other Tongues",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE LIKE",
+      "song": "He's Not A Boy",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE TOUCH",
+      "song": "Shot",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ROBYN",
+      "song": "Dancing On My Own",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Alive",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "Dog Days Are Over",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

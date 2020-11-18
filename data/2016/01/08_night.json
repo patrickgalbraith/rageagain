@@ -1,0 +1,651 @@
+{
+  "title": "Friday night 8 January 2016",
+  "special": null,
+  "timeslot": "night",
+  "date": "2016-01-08",
+  "url": "http://www.abc.net.au/rage/archive/s4385579.htm",
+  "tracks": [
+    {
+      "artist": "THE SHOES featuring BLAINE HARRISON",
+      "song": "Submarine",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "STROMAE",
+      "song": "Quand C'est?",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "NAO",
+      "song": "Bad Blood",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SETH BOGART featuring KATHLEEN HANNA",
+      "song": "Eating Makeup",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BEHAVIORS",
+      "song": "Don't Fight It",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "PEACHES",
+      "song": "Rub",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BABES",
+      "song": "I Want Love",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "PLUM",
+      "song": "TinyFeet",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BANOFFEE",
+      "song": "Body Suit",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BEATS OF REEN",
+      "song": "Slowly Rising",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "Victorious",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DAVE GAHAN _and_ SOULSAVERS",
+      "song": "All Of This And Nothing",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ANDY STRACHAN",
+      "song": "Follow The Sun",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SOUPCANS",
+      "song": "Siamese Brutality",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TRAVI$ SCOTT featuring KANYE WEST",
+      "song": "Piss On Your Grave",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "JIDENNA",
+      "song": "Long Live The Chief",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "PUSSY RIOT",
+      "song": "Refugees In",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MIIKE SNOW",
+      "song": "Heart Is Full",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CONNER YOUNGBLOOD",
+      "song": "The Badlands",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MAKENESS",
+      "song": "Rogue",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DJDS",
+      "song": "Stand Up And Speak",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DJ HAUS",
+      "song": "Higher",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ONEOHTRIX POINT NEVER",
+      "song": "Sticky Drama",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MICK JENKINS",
+      "song": "Your Love",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE INTERNET",
+      "song": "Get Away",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TINASHE featuring YOUNG THUG",
+      "song": "Party Favors",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JILL SCOTT",
+      "song": "Back Together",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MARCUS MARR and CHET FAKER",
+      "song": "The Trouble With Us",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JACK COLWELL",
+      "song": "C.O.A.T.",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ELLIOT MOSS",
+      "song": "Pattern Repeating",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "POLICA",
+      "song": "Lime Habit",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FAT WHITE FAMILY",
+      "song": "Whitest Boy On The Beach",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HINDS",
+      "song": "Garden",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ANDY CLOCKWISE ft STELLA MOZGAWA",
+      "song": "Open Relationship",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "(We Are) The Road Crew",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Killed By Death",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTORHEAD/GIRLSCHOOL",
+      "song": "Please Don't Touch",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Get Back In Line",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Eat The Rich",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MC5 featuring LEMMY - LIVE",
+      "song": "Sister Anne",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Ramones",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Electricity",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Iron Fist",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SAXON feat LEMMY, ANGRY ANDERSON and ANDI DERIS",
+      "song": "I've Got To Rock (To Stay Alive)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Heartbreaker",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "One Track Mind",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Chase Is Better Than The Catch",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "I Got Mine",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Bomber",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Rock Out",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Shine",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Life's A Bitch",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "I'm So Bad (Baby I Don't Care)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Ace Of Spades",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE AMITY AFFLICTION",
+      "song": "Shine On",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "INTRONAUT",
+      "song": "Fast Worms",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "The Threat Is Real",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TWELVE FOOT NINJA",
+      "song": "One Hand Killing",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AT THE GATES",
+      "song": "The Night Eternal",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Let's Go",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE WEEKND",
+      "song": "In The Night",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHARLES MURDOCH ft. TA-KU, WAFIA and HAK",
+      "song": "Frogs",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LUCIUS",
+      "song": "Born Again Teen",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "YOUNG MAGIC",
+      "song": "Something In The Water",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SASKWATCH",
+      "song": "Everyone's Giving Up",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CALEXICO",
+      "song": "Bullets and Rocks",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TELEMAN",
+      "song": "Fall In Time",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOHN GRANT",
+      "song": "Down Here",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MILEY CYRUS and HER DEAD PETZ",
+      "song": "BB Talk",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MYKKI BLANCO",
+      "song": "Coke White, Starlight",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AURORA",
+      "song": "Half The World Away",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "!!!",
+      "song": "Ooo",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HALCYON DRIVE",
+      "song": "Reset",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Thank God For Girls",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPITFIRELIAR",
+      "song": "Science",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BANKS",
+      "song": "Better",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHAIRLIFT",
+      "song": "Romeo",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TEI SHI",
+      "song": "Get It",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UNKNOWN MORTAL ORCHESTRA",
+      "song": "Necessary Evil",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PALMBOMEN II",
+      "song": "John Lee Roche",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DORSAL FINS",
+      "song": "Heart On The Floor",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EMMA LOUISE",
+      "song": "Underflow",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TOR MILLER",
+      "song": "Carter and Cash",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Like Soda",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BORN JOY DEAD",
+      "song": "Chains On You",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MYSTERY JETS",
+      "song": "Telomere",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE JEZABELS",
+      "song": "Come Alive",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GHOSTPOET",
+      "song": "Be Right Back, Moving House",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GOOD BOY",
+      "song": "Transparency",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LOVE LIKE HATE",
+      "song": "List",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SANTIGOLD ft. ILOVEMAKONNEN",
+      "song": "Who Be Lovin? Me",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CLUBFEET",
+      "song": "We Are Affected",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLOOD ORANGE",
+      "song": "Sandra's Smile",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PANDA BEAR",
+      "song": "Crosswords",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DARWIN DEEZ",
+      "song": "The Mess She Made",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ANNA MEREDITH",
+      "song": "R-Type",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JESS KENT",
+      "song": "Get Down",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TUXEDO",
+      "song": "The Right Time (Kaytranada Remix)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AZEALIA BANKS",
+      "song": "Count Contessa",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GORDI",
+      "song": "Can We Work It Out",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHARLES BRADLEY",
+      "song": "Changes",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KEITH RICHARDS",
+      "song": "Love Overdue",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EMPRESS OF",
+      "song": "Icon",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MINI MANSIONS",
+      "song": "Honey, I'm Home",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE CAT EMPIRE",
+      "song": "Wolves",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HILLTOP HOODS ft. JAMES CHATBURN",
+      "song": "Higher",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KRISTA POLVERE",
+      "song": "Shut Up and Ride",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

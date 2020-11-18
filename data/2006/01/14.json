@@ -1,0 +1,109 @@
+{
+  "title": "Saturday 14th January",
+  "special": "Episodes of Countdown, Recovery & Rock Arena",
+  "timeslot": null,
+  "date": "2006-01-14",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060114.htm",
+  "tracks": [
+    {
+      "artist": "COUNTDOWN",
+      "song": "March 13th, 1983",
+      "label": "ABC",
+      "timeslot": "11:54:00"
+    },
+    {
+      "artist": "COUNTDOWN",
+      "song": "May 31st, 1981",
+      "label": "ABC",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ROCK ARENA",
+      "song": "March 29th, 1986",
+      "label": "ABC",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RECOVERY",
+      "song": "March 29th, 1997",
+      "label": "ABC",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RECOVERY",
+      "song": "March 29th, 1997",
+      "label": "ABC",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SHANNON NOLL",
+      "song": "Lift",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "THE VERONICAS",
+      "song": "Everything I'm Not",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "KELLY CLARKSON",
+      "song": "Because Of You",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "KATE DeARAUGO",
+      "song": "Maybe Tonight",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Hung Up",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "Goodbye My Lover",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "THE BLACK EYED PEAS",
+      "song": "My Humps",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "SUGABABES",
+      "song": "Push The Button",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "PUSSYCAT DOLLS",
+      "song": "Stickwitu",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "LEE HARDING",
+      "song": "Wasabi",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

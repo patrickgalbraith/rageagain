@@ -1,0 +1,465 @@
+{
+  "title": "Saturday morning  Saturday, 14 May",
+  "special": "Sharon Jones from Sharon Jones & The Dap-Kings",
+  "timeslot": "morning",
+  "date": "2011-05-14",
+  "url": "http://www.abc.net.au/rage/archive/s3216349.htm",
+  "tracks": [
+    {
+      "artist": "JUSTICE CREW feat FLO RIDA",
+      "song": "Dance With Me",
+      "label": "Sony",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "USHER",
+      "song": "More",
+      "label": "Sony",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "JUNIOR CALDERA feat SOPHIE ELLIS BEXTOR",
+      "song": "Can't Fight This Feeling",
+      "label": "Homebrew",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "JAY SEAN featuring LIL WAYNE",
+      "song": "Hit The Lights",
+      "label": "Universal",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "JESSIE J featuring B.o.B",
+      "song": "Price Tag",
+      "label": "Universal",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "THE BLACK EYED PEAS",
+      "song": "Just Can't Get Enough",
+      "label": "Universal",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "KANYE WEST feat RIHANNA & KID CUDI",
+      "song": "All Of The Lights",
+      "label": "Universal",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "STAN WALKER",
+      "song": "Loud",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Planetary (Go!)",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "The Ballad of Mona Lisa",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "WE THE KINGS",
+      "song": "Check Yes Juliet",
+      "label": "Liberation",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Rolling In The Deep",
+      "label": "Remote Control",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SELENA GOMEZ & THE SCENE",
+      "song": "Who Says",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BRUNO MARS",
+      "song": "The Lazy Song",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GOOD CHARLOTTE",
+      "song": "Last Night",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LMFAO feat LAUREN BENNETT & GOONROCK",
+      "song": "Party Rock Anthem",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "WYNTER GORDON",
+      "song": "Til Death (Denzal Park Radio Edit)",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MARVIN PRIEST",
+      "song": "Own This Club",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KERI HILSON",
+      "song": "Pretty Girl Rock",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "...Baby One More Time",
+      "label": "Mushroom",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Till The World Ends",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JUMP JUMP DANCE DANCE",
+      "song": "2.0",
+      "label": "MOS",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KATY PERRY feat KANYE WEST",
+      "song": "E.T.",
+      "label": "EMI",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "WIZ KHALIFA",
+      "song": "Black And Yellow",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "FLO RIDA featuring AKON",
+      "song": "Who Dat Girl",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "NICOLE SCHERZINGER",
+      "song": "Don't Hold Your Breath",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "CHRIS BROWN featuring BENNY BENASSI",
+      "song": "Beautiful People",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "KE$HA",
+      "song": "Blow",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JESSIE J",
+      "song": "Nobody's Perfect",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE NAKED AND FAMOUS",
+      "song": "All Of This",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "YELLE",
+      "song": "Safari Disco Club",
+      "label": "Shock",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PLUTO JONZE",
+      "song": "Meet You Under Neon",
+      "label": "EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LES SAVVY FAV",
+      "song": "Sleepless In Silverlake",
+      "label": "Shock",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Say My Name",
+      "label": "Sony",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE VINES",
+      "song": "Gimme Love",
+      "label": "Sony",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Techno Fan",
+      "label": "Warner",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GUINEAFOWL",
+      "song": "Little Fingers",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Gold Digger",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "KELE",
+      "song": "Tenderoni",
+      "label": "Shock",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE GRATES",
+      "song": "Science Is Golden",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BEAR HANDS",
+      "song": "Crime Pays",
+      "label": "Other Tongues",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "You Are A Tourist",
+      "label": "Warner",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PAPA vs PRETTY",
+      "song": "One Of The Animals",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "NEIL FINN",
+      "song": "She Will Have Her Way",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PAUL SIMON",
+      "song": "Call Me Al",
+      "label": "Warner",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "TOTO COELO",
+      "song": "I Eat Cannibals",
+      "label": "Independent",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Africa",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DARWIN DEEZ",
+      "song": "DNA",
+      "label": "Inertia",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE LEISURE SOCIETY",
+      "song": "This Phantom Life",
+      "label": "Other Tongues",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ART vs SCIENCE",
+      "song": "A.I.M. Fire",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "REGINA SPEKTOR",
+      "song": "Laughing With",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "Party Hard",
+      "label": "Mercury",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Never Miss A Beat",
+      "label": "Liberator",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DRAPHT",
+      "song": "Sing It 'The Life of Riley'",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ATMOSPHERE",
+      "song": "She's Enough",
+      "label": "Shock",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "KIMBRA",
+      "song": "Cameo Lover",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "RAPHAEL SAADIQ",
+      "song": "Radio",
+      "label": "Sony",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Strict Machine",
+      "label": "Virgin",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Judas",
+      "label": "Universal",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG feat KELE",
+      "song": "Ready 2 Go",
+      "label": "MOS",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SHARON JONES & THE DAP-KINGS",
+      "song": "100 Days, 100 Nights",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Smooth Criminal",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "You Know I'm No Good",
+      "label": "Universal",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ARETHA FRANKLIN",
+      "song": "Shoop Shoop Song",
+      "label": "Festival",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE BAMBOOS featuring MEGAN WASHINGTON",
+      "song": "King Of The Rodeo",
+      "label": "Creative Vibes",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DUFFY",
+      "song": "Mercy",
+      "label": "Universal",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "When Doves Cry",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Chasing Pavements",
+      "label": "Remote Control",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JAY-Z featuring ALICIA KEYS",
+      "song": "Empire State Of Mind",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "911 (Is A Joke)",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "JAMES BROWN",
+      "song": "Papa's Got A Brand New Bag",
+      "label": "Universal",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "CHAKA KHAN",
+      "song": "I'm Every Woman",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "WARREN G",
+      "song": "What's Love Got To Do With It",
+      "label": "Universal (MCA",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE JACKSONS",
+      "song": "Blame It On The Boogie",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Satellite Of Love",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "SHARON JONES & THE DAP-KINGS",
+      "song": "I Learned The Hard Way",
+      "label": "Shock",
+      "timeslot": "10:30:00"
+    }
+  ]
+}

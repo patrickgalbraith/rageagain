@@ -1,0 +1,465 @@
+{
+  "title": "Saturday night 23 July 2016, ABC",
+  "special": "Deafheaven",
+  "timeslot": "night",
+  "date": "2016-07-23",
+  "url": "http://www.abc.net.au/rage/archive/s4505209.htm",
+  "tracks": [
+    {
+      "artist": "DEAFHEAVEN",
+      "song": "Brought To the Water",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "No Surprises",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THIRD EYE BLIND",
+      "song": "Losing A Whole Year",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WHITE LUNG",
+      "song": "Hungry",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Champagne Supernova",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MORRISSEY",
+      "song": "Suedehead",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Laura",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "Mind Games",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TAMARYN",
+      "song": "Love Fade",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIE ANTWOORD",
+      "song": "Pitbull Terrier",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "One",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Until It Sleeps",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Arise",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Starsuckers Inc.",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "March Of The Pigs",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NOTORIOUS B.I.G. feat PUFF DADDY and MASE",
+      "song": "Mo Money Mo Problems",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JAY-Z ft. KANYE WEST",
+      "song": "Ni**as In Paris",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AALIYAH",
+      "song": "Are You That Somebody",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DANNY BROWN",
+      "song": "When It Rain",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NAS",
+      "song": "Hate Me Now",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ECHO and THE BUNNYMEN",
+      "song": "The Killing Moon",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CREEPERS",
+      "song": "Take You There",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DYING FETUS",
+      "song": "From Womb To Waste",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUFFOCATION",
+      "song": "Abomination Reborn",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DEICIDE",
+      "song": "Homage To Satan",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CHRIS ISAAK",
+      "song": "Wicked Game",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SLOWDIVE",
+      "song": "Alison",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NO JOY",
+      "song": "Hare Tarot Lies",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOUCHE AMORE",
+      "song": "Harbor",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Frozen",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Human Nature",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ANTWON",
+      "song": "Living Every Dream",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Honey",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "A Forest",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Feel The Pain",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Come Undone",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALCEST",
+      "song": "Opale",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOGWAI",
+      "song": "The Lord Is Out Of Control",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Over Now",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "I'm Broken",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "5 Minutes Alone",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MORBID ANGEL",
+      "song": "Where The Slime Live",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Holy Wars",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EVERCLEAR",
+      "song": "I Will Buy You A New Life",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEAFHEAVEN",
+      "song": "Luna",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NGAIIRE",
+      "song": "House On A Rock",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAGWAR MA",
+      "song": "Come Save Me",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Freddy Crabs",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GREEN BUZZARD",
+      "song": "Slow It Down Now",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "So Sentimental",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAKE BUGG",
+      "song": "Slumville Sunrise",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "High",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Fascination Street",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Manic Baby",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE MEETING TREE",
+      "song": "Life Is Long: Slow Down",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Frontier Psychiatrist (U.K. version)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HERMITUDE",
+      "song": "Speak Of The Devil",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROLAND TINGS",
+      "song": "Tomita's Basement",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLUME and CHET FAKER",
+      "song": "Drop The Game",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DJ KHALED ft. JAY Z _and_ FUTURE",
+      "song": "I Got The Keys (censored)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MACKLEMORE _and_ RYAN LEWIS ft. XPERIENCE",
+      "song": "Brad Pitt's Cousin",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EVANGELINE",
+      "song": "My Kingdom (William Black Remix)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Elevator Operator",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANGEL OLSEN",
+      "song": "Shut Up Kiss Me",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Threat Of Joy",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Timeless",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALEX L'ESTRANGE",
+      "song": "Mr Mild",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GOON SAX",
+      "song": "Up To Anything",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GL",
+      "song": "Hallucinate",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RAE SREMMURD",
+      "song": "Look Alive",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "WILD BEASTS",
+      "song": "Big Cat",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CHVRCHES ft. HAYLEY WILLIAMS",
+      "song": "Bury It",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KLLO",
+      "song": "Walls To Build",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NAKATOMI",
+      "song": "Alive",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CLEOPOLD",
+      "song": "Not Coming Down",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

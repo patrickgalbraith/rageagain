@@ -1,0 +1,597 @@
+{
+  "title": "Saturday night  Saturday, 19 March",
+  "special": "CocoRosie",
+  "timeslot": "night",
+  "date": "2011-03-19",
+  "url": "http://www.abc.net.au/rage/archive/s3167969.htm",
+  "tracks": [
+    {
+      "artist": "CIARA",
+      "song": "Like A Boy",
+      "label": "SBME",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Work It",
+      "label": "Warner",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Obsessed",
+      "label": "Universal",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "Pass This On",
+      "label": "MOS/EMI",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "All Is Full Of Love",
+      "label": "Universal (MCA",
+      "timeslot": "23:41:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "This Is Love",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "A Little Thing Called Love",
+      "label": "WEA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "True Colors",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BONE, THUGS 'N' HARMONY featuring AKON",
+      "song": "I Tried",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BONE, THUGS 'N' HARMONY",
+      "song": "Look Into My Eyes",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NENEH CHERRY",
+      "song": "Manchild",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SNAP",
+      "song": "Rhythm Is A Dancer",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "Te Amo",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ENIGMA",
+      "song": "Gravity Of Love",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "USHER",
+      "song": "Love In This Club",
+      "label": "SBME",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LIL' KIM",
+      "song": "How Many Licks",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MILLI VANILLI",
+      "song": "Girl I'm Gonna Miss You",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SNOOP DOGG",
+      "song": "Sensual Seduction",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SEAN KINGSTON",
+      "song": "Beautiful Girls",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "R KELLY",
+      "song": "Ignition (Remix)",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "L'IL BOW WOW",
+      "song": "Bow Wow (That's My Name)",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CULTURE CLUB",
+      "song": "Karma Chameleon",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SADE",
+      "song": "Soldier Of Love",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SHAKIRA featuring WYCLEF JEAN",
+      "song": "Hips Don't Lie",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AALIYAH",
+      "song": "One In A Million",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HANSON",
+      "song": "MMM Bop",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "2 PAC",
+      "song": "Dear Mama",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "2 PAC",
+      "song": "Ghetto Gospel",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Wu-Tang Clan Ain't Nuthin'",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NINA SIMONE",
+      "song": "Revolution",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TORI AMOS",
+      "song": "Caught A Lite Sneeze",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TORI AMOS",
+      "song": "A Sorta Fairytale",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "He War",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SEAL",
+      "song": "Kiss From A Rose",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANTONY & THE JOHNSONS",
+      "song": "You Are My Sister",
+      "label": "Spunk/Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANTONY & THE JOHNSONS",
+      "song": "Hope There's Someone",
+      "label": "Spunk/Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TERENCE TRENT D'ARBY",
+      "song": "Sign Your Name",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GEORGE MICHAEL",
+      "song": "Careless Whisper",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HOUSE OF PAIN",
+      "song": "Jump Around",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRONSKI BEAT",
+      "song": "Smalltown Boy",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ART OF NOISE",
+      "song": "Moments In Love",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "I Want It That Way",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sunday",
+      "label": "Universal (MCA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DOLLY PARTON",
+      "song": "Imagine",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TOKIO HOTEL",
+      "song": "Automatic",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Vidrar Vel Til Loftarasa",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "COCOROSIE",
+      "song": "Gallows",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COCOROSIE",
+      "song": "Lemonade",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COCOROSIE",
+      "song": "Rainbowarriors",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COCOROSIE",
+      "song": "Noah's Ark",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANTONY & THE JOHNSONS",
+      "song": "Epilepsy Is Dancing",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANTONY & THE JOHNSONS",
+      "song": "Swanlights",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANTONY & THE JOHNSONS",
+      "song": "Thank You For Your Love",
+      "label": "Spunk/EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MUM",
+      "song": "They Made Frogs Smoke 'Til They Exploded",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MUM",
+      "song": "Will The Summer Make Good For All Our Sins",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MUM",
+      "song": "Sing Along",
+      "label": "Other Tongues",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVENDRA BANHART",
+      "song": "Little Yellow Spider",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVENDRA BANHART",
+      "song": "At The Hop",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVENDRA BANHART",
+      "song": "A Ribbon",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVENDRA BANHART",
+      "song": "I Feel Just Like A Child",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVENDRA BANHART",
+      "song": "Heard Somebody Say",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVENDRA BANHART",
+      "song": "Carmensita",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JOANNA NEWSOM",
+      "song": "Sprout & The Bean",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VETIVER",
+      "song": "Everyday",
+      "label": "Stomp",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "XIU XIU",
+      "song": "Boy Soprano",
+      "label": "Trifekta/Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JAMES BLAKE",
+      "song": "The Wilhelm Scream",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OWEN PALLETT",
+      "song": "Lewis Takes Off His Shirt",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BOWERBIRDS",
+      "song": "Ivy Climbing",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BOWERBIRDS",
+      "song": "In Our Talons",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE DODOS",
+      "song": "Fools",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE DODOS",
+      "song": "Fables",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PANDA BEAR",
+      "song": "Bros",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Brothersport",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Who Could Win A Rabbit",
+      "label": "Spunk",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Peacebone",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Cross Bones Style",
+      "label": "MDS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Living Proof",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Lived In Bars",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "Heartbeats",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "Silent Shout",
+      "label": "MOS/EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "We Share Our Mother's Health",
+      "label": "MOS/EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "Marble House",
+      "label": "MOS/EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "It's In Our Hands",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hunter",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Isobel",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Venus As A Boy",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LANU featuring MEGAN WASHINGTON",
+      "song": "Beautiful Trash",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RADIO STAR",
+      "song": "A Common Tale",
+      "label": "Remedy Music",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BIG SCARY",
+      "song": "Tuesday Is Rent Day",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Second Chance",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "She's Like A Comet",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DASH & WILL",
+      "song": "Animal",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LYKKE LI",
+      "song": "I Follow Rivers",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FOSTER THE PEOPLE",
+      "song": "Pumped Up Kicks",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ASA",
+      "song": "Be My Man",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BEST COAST",
+      "song": "When I'm With You",
+      "label": "Popfrenzy",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE PHOENIX FOUNDATION",
+      "song": "Buffalo",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "China",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

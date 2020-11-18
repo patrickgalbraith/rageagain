@@ -1,0 +1,525 @@
+{
+  "title": "Saturday morning 2 April 2016, ABC",
+  "special": null,
+  "timeslot": "morning",
+  "date": "2016-04-02",
+  "url": "http://www.abc.net.au/rage/archive/s4435867.htm",
+  "tracks": [
+    {
+      "artist": "BIRDY",
+      "song": "Wild Horses",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "Make Me Like You",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAMI IM",
+      "song": "Sound Of Silence",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIGALA featuring IMANI _and_ DJ FRESH",
+      "song": "Say You Do",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DJ SNAKE featuring BIPOLAR SUNSHINE",
+      "song": "Middle",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALL SAINTS",
+      "song": "One Strike",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CONRAD SEWELL",
+      "song": "Remind Me",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MIIKE SNOW",
+      "song": "Genghis Khan",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ZHU",
+      "song": "In The Morning",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HALSEY",
+      "song": "Colors",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAMANTHA JADE",
+      "song": "Always",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALESSIA CARA",
+      "song": "Wild Things",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ELLE KING",
+      "song": "Ex's and Oh's",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JONAS BLUE featuring DAKOTA",
+      "song": "Fast Car",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DISTURBED",
+      "song": "The Sound Of Silence",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ZARA LARSSON",
+      "song": "Lush Life",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER",
+      "song": "Love Yourself",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "TINIE TEMPAH ft. ZARA LARSSON",
+      "song": "Girls Like",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "YO PRESTON ft. KELLY KIARA",
+      "song": "Love Yourself Vs **** Yourself",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "THE CHAINSMOKERS ft. ROZES",
+      "song": "Roses",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "RIHANNA ft. DRAKE",
+      "song": "Work",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ZAYN",
+      "song": "Pillowtalk",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KIIARA",
+      "song": "Gold",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MEGHAN TRAINOR",
+      "song": "No",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Cheap Thrills",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "CHARLIE PUTH",
+      "song": "One Call Away",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "DAYA",
+      "song": "Hide Away",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "TWENTY ONE PILOTS",
+      "song": "Stressed Out",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "HILLTOP HOODS ft. MONTAIGNE and TOM THUM",
+      "song": "1955",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "FIFTH HARMONY ft. TY DOLLA $IGN",
+      "song": "Work From Home",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ALAN WALKER",
+      "song": "Faded",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LUKAS GRAHAM",
+      "song": "7 Years",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "MR OIZO featuring CHARLI XCX",
+      "song": "Hand In The Fire",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "AUSTRALIA",
+      "song": "Love Is Better",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM featuring SKY FERREIRA",
+      "song": "Where The Light Gets In",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "ANOHNI",
+      "song": "Drone Bomb Me",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "RATATAT",
+      "song": "Supreme",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LUH",
+      "song": "I_and_I",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "In God's House",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "The Community Of Hope",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "NADA SURF",
+      "song": "Rushing",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Outcast At Last",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Jazz (We've Got) Buggin' Out",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Find A Way",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "1nce Again",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Check The Rhime",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Electric Relaxation",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Award Tour",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Bonita Applebum",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Scenario",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Stressed Out",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "I Left My Wallet In El Segundo",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Oh My God",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Can I Kick It?",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "FIDLAR",
+      "song": "Why Generation",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "VIOLENT FEMMES",
+      "song": "Memory",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ALEX LAHEY",
+      "song": "You Don't Think You Like People Like Me",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "CHAIRLIFT",
+      "song": "Crying In Public",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "PALEHOUND",
+      "song": "Molly",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "RAINBOW CHAN",
+      "song": "Nest",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Doing It To Death",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "In The Moment",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "OLYMPIA",
+      "song": "Smoke Signals",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "GREEN BUZZARD",
+      "song": "(I Don't Wanna) Break Your Heart",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE JUNGLE GIANTS",
+      "song": "Creepy Cool",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "FOXTROTT",
+      "song": "Shaky Hands",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BAIO",
+      "song": "The Names",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SPARROWS",
+      "song": "On Your Own",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Get Out",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "PARQUET COURTS",
+      "song": "Berlin Got Blurry",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MAN and THE ECHO",
+      "song": "As Vile As You Want",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ELEANOR FRIEDBERGER",
+      "song": "Sweetest Girl",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SON LUX",
+      "song": "Undone",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ARIEL PINK",
+      "song": "I Need A Minute",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "KRISMA",
+      "song": "Nothing To Do With The Dog",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE FLYING LIZARDS",
+      "song": "Money (That's What I Want)",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "JOE JACKSON",
+      "song": "Steppin' Out",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "TOM PETTY and THE HEARTBREAKERS",
+      "song": "Don't Come Around Here",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "CRASH TEST DUMMIES",
+      "song": "Mmm Mmm Mmm",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Set The Controls For The Heart Of The Sun",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "CORNELIUS",
+      "song": "Beep It",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "YELLOW MAGIC ORCHESTRA",
+      "song": "Technopolis",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ELECTRIC LIGHT ORCHESTRA",
+      "song": "Here Is The News",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "M",
+      "song": "Pop Muzik",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ARIEL PINK",
+      "song": "Dayzed Inn Daydreams",
+      "label": null,
+      "timeslot": "11:00:00"
+    }
+  ]
+}

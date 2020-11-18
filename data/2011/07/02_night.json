@@ -1,0 +1,477 @@
+{
+  "title": "Saturday night  Saturday, 2 July",
+  "special": "Bat For Lashes",
+  "timeslot": "night",
+  "date": "2011-07-02",
+  "url": "http://www.abc.net.au/rage/archive/s3258907.htm",
+  "tracks": [
+    {
+      "artist": "JAMES BLAKE",
+      "song": "The Wilhelm Scream",
+      "label": "Universal",
+      "timeslot": "12:52:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "My Girls",
+      "label": "EMI",
+      "timeslot": "12:52:00"
+    },
+    {
+      "artist": "UNKLE",
+      "song": "Rabbit In Your Headlights",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Lotus Flower",
+      "label": "Remote Control",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "The Suburbs",
+      "label": "Spunk/EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Walk In The Park",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Tunic (Song For Karen)",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Miss World",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Stagger Lee",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Someone Great",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Glosoli",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Mint Car",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "To The End",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BON IVER",
+      "song": "The Wolves (Act I & II)",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SLEIGH BELLS",
+      "song": "Infinity Guitars",
+      "label": "Liberator",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Rolling In The Deep",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "In Bloom",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FEVER RAY",
+      "song": "When I Grow Up",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEVENDRA BANHART",
+      "song": "I Feel Just Like A Child",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "50 Foot Queenie",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANNA CALVI",
+      "song": "Jezebel",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARAB STRAP",
+      "song": "Cherubs",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LITTLE DRAGON",
+      "song": "Twice",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOANNA NEWSOM",
+      "song": "Sprout & The Bean",
+      "label": "Spunk/Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WARPAINT",
+      "song": "Undertow",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AIR",
+      "song": "Playground Love",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Cross Bones Style",
+      "label": "MDS",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BONNIE PRINCE BILLY",
+      "song": "Cursed Sleep",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE DIRTY THREE featuring CHAN MARSHALL",
+      "song": "Great Waves",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Windowlicker",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Get Ur Freak On",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "My Delirium",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Love At First Sight",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Sign O' The Times",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Papa Don't Preach",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARRESTED DEVELOPMENT",
+      "song": "Mr Wendal",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BILLY OCEAN",
+      "song": "When The Going Gets Tough, The Tough Get Going",
+      "label": "Liberation",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHAKA KHAN",
+      "song": "I Feel For You",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PAUL SIMON",
+      "song": "Call Me Al",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "The Living Daylights",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BANANARAMA",
+      "song": "Cruel Summer",
+      "label": "Liberation",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DES'REE",
+      "song": "Feel So High",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICIA KEYS",
+      "song": "You Don't Know My Name",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Prescilla",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Daniel",
+      "label": "Spunk",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Pearl's Dream",
+      "label": "Spunk",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Sleep Alone",
+      "label": "Spunk",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Wuthering Heights",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Breathing",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "The Sensual World",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Hammer Horror",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Deeper Understanding",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MY BRIGHTEST DIAMOND",
+      "song": "Dragonfly",
+      "label": "Spunk",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "I BLAME COCO featuring ROBYN",
+      "song": "Caesar",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Joga",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Bachelorette",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Human Behaviour",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Triumph Of A Heart",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LYKKE LI",
+      "song": "I'm Good, I'm Gone",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LYKKE LI",
+      "song": "Get Some",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LYKKE LI",
+      "song": "I Follow Rivers",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MARINA AND THE DIAMONDS",
+      "song": "Mowgli's Road",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MARINA AND THE DIAMONDS",
+      "song": "Hollywood",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MARINA AND THE DIAMONDS",
+      "song": "Shampain",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "Drumming Song",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "Heavy In Your Arms",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "You've Got The Love",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "Dog Days Are Over",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SNEAKY SOUND SYSTEM",
+      "song": "We Love",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LITTLE BOOTS",
+      "song": "New In Town",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROBYN",
+      "song": "Hang With Me",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LUCY'S CROWN",
+      "song": "Skinn",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WILEY",
+      "song": "Numbers In Action",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Power",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALEXANDER",
+      "song": "A Million Years",
+      "label": "Vagrant",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JINJA SAFARI",
+      "song": "Hiccups",
+      "label": "Other Tongues",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LYRICS BORN featuring SAM SPARRO",
+      "song": "Coulda Woulda Shoulda",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE GRATES",
+      "song": "Turn Me On",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

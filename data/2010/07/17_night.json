@@ -1,0 +1,627 @@
+{
+  "title": "Saturday night  Saturday, 17 July",
+  "special": "Mike 'Naboo' Fielding",
+  "timeslot": "night",
+  "date": "2010-07-17",
+  "url": "http://www.abc.net.au/rage/archive/s2956048.htm",
+  "tracks": [
+    {
+      "artist": "THE STROKES",
+      "song": "Last Nite",
+      "label": "BMG",
+      "timeslot": "23:59:00"
+    },
+    {
+      "artist": "SUPERGRASS",
+      "song": "Alright",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "My Iron Lung",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "Stop Me If You Think You've Heard This One Before",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Live Forever",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "Love Spreads",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BRONSKI BEAT",
+      "song": "Smalltown Boy",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "STEVE MILLER BAND",
+      "song": "Abracadabra",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LYNARD SKYNARD",
+      "song": "Sweet Home Alabama",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CHUCK BERRY",
+      "song": "Johnny B Goode",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Radio Ga Ga",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Bad Romance",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "I'm Bored",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Golden Brown",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Africa",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Miss You",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES - LIVE",
+      "song": "Sympathy For The Devil [from Rock & Roll Circus]",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Tusk",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOM PETTY",
+      "song": "I Won't Back Down",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JEFF BUCKLEY",
+      "song": "Grace",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHRIS DE BURGH",
+      "song": "Lady In Red",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PINK",
+      "song": "Please Don't Leave Me",
+      "label": "SBME",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Unfinished Sympathy",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Out Of Space",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLACK BOX",
+      "song": "Ride On Time",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CANDI STATON",
+      "song": "Young Hearts Run Free",
+      "label": "MDS",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Can't Always Get What You Want",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HAR MAR SUPERSTAR",
+      "song": "EZ Pass",
+      "label": "Spunk/Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OL' DIRTY BASTARD",
+      "song": "Got Your Money",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Gravel Pit",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SNOOP DOGGY DOGG",
+      "song": "Snoop's Upside Ya Head",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NOISETTES",
+      "song": "Don't Upset the Rhythm",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RUI DA SILVA",
+      "song": "Touch Me",
+      "label": "Central Station",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BLACK CROWES",
+      "song": "Remedy",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE SEAHORSES",
+      "song": "Love Is the Law",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Killing In The Name",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Chop Suey",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Fluorescent Adolescent",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Crying Lightning",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Cornerstone",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "The Age Of The Understatement",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "Standing Next To Me",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "My Mistakes Were Made For You",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Stumble And Fall",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Rip It Up",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Golden Touch",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Somewhere Else",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "In The Morning",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "America",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Hostage Of Love",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Wire To Wire",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Sheena Is A Parasite",
+      "label": "SpeaknSpell",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Gloves",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "She Is The New Thing",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Who Can Say",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Banquet",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "So Here We Are",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Two More Years",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "The Prayer",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Hunting For Witches",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Mercury",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "One Month Off",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Fried My Little Brains",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "The Good Ones",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Love Is A Deserter",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "U.R.A. Fever",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Last Day Of Magic",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Tape Song",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Black Balloon",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Up The Bracket",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Time For Heroes",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Don't Look Back Into The Sun",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Can't Stand Me Now",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "Fuck Forever",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "Albion",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WHITE LIES",
+      "song": "Unfinished Business",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WHITE LIES",
+      "song": "To Lose My Life",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WHITE LIES",
+      "song": "Death (Crystal Castles Remix)",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Take Me Out",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Matinee",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Walk Away",
+      "label": "SBME",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Moving To New York",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Kill The Director",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WE ARE SCIENTISTS",
+      "song": "Impatience",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WE ARE SCIENTISTS",
+      "song": "After Hours",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WE ARE SCIENTISTS",
+      "song": "Chick Lit",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WE ARE SCIENTISTS",
+      "song": "Rules Don't Stop",
+      "label": "Liberator",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Cassius",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "This Orient",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Balloons",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "I Predict A Riot",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Everyday I Love You Less And Less",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Everything Is Average Nowadays",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Never Miss A Beat",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MYSTERY JETS",
+      "song": "You Can't Fool Me Dennis",
+      "label": "SpeaknSpell",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MYSTERY JETS",
+      "song": "Two Doors Down",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MYSTERY JETS featuring LAURA MARLING",
+      "song": "Young Love",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WE ARE SCIENTISTS",
+      "song": "Nice Guys",
+      "label": "Liberator",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Let's Dance To Joy Division",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Talons",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EDITORS",
+      "song": "An End Has A Start",
+      "label": "Red Label",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "No You Girls",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KELE",
+      "song": "Tenderoni",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

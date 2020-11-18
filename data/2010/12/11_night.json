@@ -1,0 +1,531 @@
+{
+  "title": "Saturday night  Saturday, 11 December",
+  "special": "Tony Mott",
+  "timeslot": "night",
+  "date": "2010-12-11",
+  "url": "http://www.abc.net.au/rage/archive/s3090196.htm",
+  "tracks": [
+    {
+      "artist": "IAN HUNTER",
+      "song": "All The Young Dudes",
+      "label": "Independent",
+      "timeslot": "12:17:00"
+    },
+    {
+      "artist": "THE BUZZCOCKS",
+      "song": "Ever Fallen In Love",
+      "label": "BMG",
+      "timeslot": "12:17:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Let's Go To Bed",
+      "label": "Warner",
+      "timeslot": "12:17:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "That's Entertainment",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Flame Trees",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "Take A Long Line",
+      "label": "Albert Productions",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DO RE MI",
+      "song": "Man Overboard",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Into My Arms",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "One",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Bohemian Rhapsody",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CONCRETE BLONDE",
+      "song": "Everybody Knows",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Union City Blue",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Losing My Religion",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MATTHEW SWEET",
+      "song": "Girlfriend",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "I Bet You Look Good On The Dancefloor",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "Don't Dream It's Over",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MENTAL AS ANYTHING",
+      "song": "If You Leave Me, Can I Come Too?",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "It Must Be Love",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "Girlfriend In A Coma",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LOU REED - LIVE",
+      "song": "Walk On The Wild Side",
+      "label": "Universal (MCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "DC",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BIG AUDIO DYNAMITE",
+      "song": "E=Mc2",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FLASH & THE PAN",
+      "song": "Down Among The Dead Men",
+      "label": "Albert Productions",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Raspberry Beret",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BETTY BOO",
+      "song": "Doin' The Do",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Pleasure & Pain",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EURYTHMICS",
+      "song": "Here Comes The Rain Again",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CRUEL SEA",
+      "song": "Better Get A Lawyer",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CULT",
+      "song": "Love Removal Machine",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "River Of Tears",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DIRTY THREE",
+      "song": "I Remember A Time When Once You Used To Love Me",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "U.S. Forces",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DRAGON",
+      "song": "Still In Love With You",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "I'll Make You Happy",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BILLY BRAGG",
+      "song": "Levi Stubbs' Tears",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Jean Genie",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Send His Love To Me",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Been Caught Stealing",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ADALITA",
+      "song": "Double Dare",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Tomorrow",
+      "label": "Murmur",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Can't Always Get What You Want",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Sweet Child O' Mine",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Only Women Bleed",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FREE",
+      "song": "All Right Now",
+      "label": "Universal (MCA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Crosstown Traffic",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SARAH MCLACHLAN - LIVE",
+      "song": "Angel",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MARIANNE FAITHFULL",
+      "song": "Ballad of Lucy Jordan",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KASEY CHAMBERS",
+      "song": "Runaway Train",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE",
+      "song": "When You're Gone",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MELANIE HORSNELL",
+      "song": "I Just Want Some Love",
+      "label": "MGM",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DUFFY",
+      "song": "Warwick Avenue",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Rehab",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YOU AM I",
+      "song": "Cathy's Clown",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEASTS OF BOURBON - LIVE",
+      "song": "Chase The Dragon/Driva Man/Let's Get Funky",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TEX, DON & CHARLIE",
+      "song": "Redheads, Goldcards & Long Black Limousines",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANARBOR",
+      "song": "Gypsy Woman",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WAVVES",
+      "song": "Post Acid",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GARETH LIDDIARD",
+      "song": "Blondin Makes An Omelette",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KAREN ELSON",
+      "song": "The Truth Is In The Dirt",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ZOLA JESUS",
+      "song": "Sea Talk",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DELTA SPIRIT",
+      "song": "Bushwick Blues",
+      "label": "Dew Process/UMA",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Some Kind Of Nothingness",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE TONGUE featuring JOYRIDE",
+      "song": "Crazy",
+      "label": "Elefant Traks",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EDWYN COLLINS",
+      "song": "Losing Sleep",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DIGITALISM",
+      "song": "Blitz",
+      "label": "MOS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MAILER DAEMON & LINCOLN DAVIS",
+      "song": "Eli",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DIALECTRIX",
+      "song": "Pieces Of A Puzzle",
+      "label": "Obese Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CANYONS",
+      "song": "My Rescue",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SPACECADET LULLABIES",
+      "song": "Tali Meets Mr Ricketts",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE RETREAT",
+      "song": "After All, Tomorrow's A New Day",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Meditation Song",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SCOTT SPARK",
+      "song": "Fail Like You Mean It",
+      "label": "Other Tongues",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMMA DEAN",
+      "song": "Sincerely Fearful",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE OYSTER MURDERS",
+      "song": "Lovers Who Drink The Sea",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DELOREAN",
+      "song": "Stay Close",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FELICITY GROOM",
+      "song": "Finders & Keepers",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HUNGRY KIDS OF HUNGARY",
+      "song": "Coming Around",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ADALITA",
+      "song": "Hot Air",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEERHUNTER",
+      "song": "Helicopter",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE JEZABELS",
+      "song": "Mace Spray",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE BEES",
+      "song": "I Really Need Love",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "The Hardest Part",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MARK RONSON & THE BUSINESS INTL featuring BOY GEORGE",
+      "song": "Somebody To Love Me",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JANELLE MONAE",
+      "song": "Cold War",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "Lung Sum",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EVIL EDDIE",
+      "song": "Queensland",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Saturday night 25 July 2015",
+  "special": "Northlane",
+  "timeslot": "night",
+  "date": "2015-07-25",
+  "url": "http://www.abc.net.au/rage/archive/s4282948.htm",
+  "tracks": [
+    {
+      "artist": "NORTHLANE",
+      "song": "Impulse",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LIMP BIZKIT",
+      "song": "My Generation",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "I'm Broken",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Aerials",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "In The End",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "Pardon Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "COG",
+      "song": "Run",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Before I Forget",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "My Plague",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LIMP BIZKIT",
+      "song": "Take A Look Around",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Parabola",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MESHUGGAH",
+      "song": "I Am Colossus",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Seasons In The Abyss",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Smack My Bitch Up",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PENDULUM",
+      "song": "Watercolour",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ZHU",
+      "song": "Faded",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEADMAU5 featuring CHRIS JAMES",
+      "song": "The Veldt",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Thriller",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOMFUNK MCS",
+      "song": "Freestyler",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "360 featuring DANIEL JOHNS",
+      "song": "Impossible",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Across The Night",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Lucidity",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Stand Inside Your Love",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRUNO MARS",
+      "song": "Treasure",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JAGGED EDGE",
+      "song": "Let's Get Married",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KIMBRA",
+      "song": "Settle Down",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Hearts A Mess",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PURITY RING",
+      "song": "Belispeak",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Pyramid Song",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PANDA BEAR",
+      "song": "Boys Latin",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Under The Bridge",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EFTERKLANG",
+      "song": "Apples",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "The Plan",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Fight For Your Right (To Party)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Technologic",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEADMAU5",
+      "song": "Sofi Needs A Ladder",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MODESTEP",
+      "song": "To The Stars",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Cassius",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARCHITECTS",
+      "song": "These Colours Don't Run",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Sleep Now In The Fire",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Roots Bloody Roots",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MUDVAYNE",
+      "song": "Dig",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MISERY SIGNALS",
+      "song": "The Failsafe",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KING PARROT",
+      "song": "Shit On The Liver",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Oblivion",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "STRAY FROM THE PATH",
+      "song": "Badge and A Bullet",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UNDEROATH",
+      "song": "Writing On The Walls",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UNDEROATH",
+      "song": "In Division",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE NEIGHBOURHOOD",
+      "song": "Afraid",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KARNIVOOL",
+      "song": "Themata",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Bulls On Parade",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MUMFORD and SONS",
+      "song": "Hopeless Wanderer",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Money",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Morning Glory",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MARK RONSON featuring BRUNO MARS",
+      "song": "Uptown Funk",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Ms Jackson",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NORTHLANE",
+      "song": "ROT",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NORTHLANE",
+      "song": "Obelisk",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NORTHLANE",
+      "song": "Impulse",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OBITUARY",
+      "song": "Violence",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HIGH TENSION",
+      "song": "Bully",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEFEATER",
+      "song": "Spared In Hell",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE ARMED",
+      "song": "Paradise Day",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Asleep In The Deep",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Song For Someone",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PETITE NOIR",
+      "song": "Down",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GENER8ION + M.I.A.",
+      "song": "The New International Sound Pt. II",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ON AN ON",
+      "song": "It's Not Over",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FAVORED NATIONS",
+      "song": "Always",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RAURY",
+      "song": "Devil's Whisper",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BRIGGS",
+      "song": "The Children Came Back",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "B2M (BATHURST TO MELVILLE)",
+      "song": "Parlingarri",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EAST JOURNEY ft. YOTHU YINDI",
+      "song": "Song Of Arnhem Land (Salas/Moore Mix)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAN SULTAN",
+      "song": "Dirty Ground",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RADICAL SON",
+      "song": "Human Behaviour",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BRIGGS",
+      "song": "Bad Apples",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SON LUX",
+      "song": "You Don't Know Me",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DUCKTAILS",
+      "song": "Surreal Exposure",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "R.W. GRACE",
+      "song": "Shell",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AUSTRALIA",
+      "song": "Who R U?",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RETIREE",
+      "song": "This Place",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DELOREAN",
+      "song": "Crystal",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SHURA",
+      "song": "White Light",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALAGOAS",
+      "song": "Ghosts",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MT WARNING",
+      "song": "When It All Bleeds Out",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RATATAT",
+      "song": "Abrasive",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COIN BANKS ft. APANI B, ATOM, LILI K. _and_ THE RUBY H",
+      "song": "Cursive",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE VACCINES",
+      "song": "20/20",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DEPARTMENT",
+      "song": "One and One",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HOCKEY DAD",
+      "song": "Can't Have Them",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LURCH _and_ CHIEF",
+      "song": "Echo",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DRENGE",
+      "song": "Running Wild",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Be Your Shadow",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "title": "Saturday night  Saturday, 29 May",
+  "special": "Diplo",
+  "timeslot": "night",
+  "date": "2010-05-29",
+  "url": "http://www.abc.net.au/rage/archive/s2912207.htm",
+  "tracks": [
+    {
+      "artist": "SANTOGOLD",
+      "song": "L.E.S. Artistes",
+      "label": "Inertia",
+      "timeslot": "23:58:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "I've Seen That Face Before (Libertango)",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Y Control",
+      "label": "Modular",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Baby's Got A Temper",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Protection",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "My Girls",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "VITALIC",
+      "song": "Poney Part 1",
+      "label": "Creative Vibes",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Da Funk",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Midnight Madness",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Paper Planes",
+      "label": "Remote Control",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MUSICAL YOUTH",
+      "song": "Pass The Dutchie",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TONE LOC",
+      "song": "Wild Thing",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SOULJA BOY featuring ARAB",
+      "song": "Yahhh!/Report Card",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "One Minute Man",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AMERIE",
+      "song": "Take Control",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "B.O.B.",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ROOTS featuring MUSIQ",
+      "song": "Break You Off",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Protect Ya Neck (The Jump Off)",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MIKE JONES featuring SLIM THUG & PAUL WALL",
+      "song": "Still Tippin'",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE PHARCYDE",
+      "song": "4 Better Or 4 Worse",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JUVENILE",
+      "song": "Slow Motion",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BRONSKI BEAT",
+      "song": "Smalltown Boy",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Dear God",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Nothing Compares 2 U",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOM TOM CLUB",
+      "song": "Suboceana (Boom Boom Chi Boom Boom)",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "How Soon Is Now",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Undone: The Sweater Song",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PAUL SIMON",
+      "song": "Call Me Al",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Army Dreamers",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "The Streets Of Philadelphia",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAJOR LAZER featuring SANTIGOLD & MR LEXX",
+      "song": "Hold the Line",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIPLO featuring PANTERA OS DANADHINOS",
+      "song": "Percao",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Galang",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Bucky Done Gun",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Boyz",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Jimmy",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BURAKA SOM SISTEMA featuring DJ ZNOBIA, M.I.A., SABOROSA & PUTO PRATA",
+      "song": "Sound Of Kuduro",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BURAKA SOM SISTEMA featuring PETTY",
+      "song": "Yah!",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SAMIM",
+      "song": "Heater",
+      "label": "MOS/EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BONDE DO ROLE",
+      "song": "Solta O Frango",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BONDE DO ROLE",
+      "song": "Office Boy",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BONDE DO ROLE",
+      "song": "Marina Gasolina",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CSS (CANSEI DE SER SEXY)",
+      "song": "Let's Make Love & Listen To Death From Above",
+      "label": "Stomp",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CSS (CANSEI DE SER SEXY)",
+      "song": "Alala",
+      "label": "Stomp",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CSS (CANSEI DE SER SEXY)",
+      "song": "Off The Hook",
+      "label": "Stomp",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CSS (CANSEI DE SER SEXY)",
+      "song": "Rat Is Dead",
+      "label": "Stomp",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CSS (CANSEI DE SER SEXY)",
+      "song": "Move",
+      "label": "Stomp",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPANK ROCK",
+      "song": "Sweet Talk",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPANK ROCK",
+      "song": "Rick Rubin",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMANDA BLANK",
+      "song": "Might Like You Better",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "N.A.S.A.",
+      "song": "Money",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring KANYE WEST, SANTOGOLD & LYKKE LI",
+      "song": "Gifted",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring RZA & BARBIE HATCH",
+      "song": "Way Down",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "N.A.S.A featuring SIZZLA, AMANDA BLANK & LOVEFOXXX",
+      "song": "A Volta",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring SPANK ROCK, M.I.A, SANTIGOLD & NICK ZINNER",
+      "song": "Whachadoin?",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring KRS-ONE, FATLIP & SLIM KID TRE",
+      "song": "Hip Hop",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring TOM WAITS & KOOL KEITH",
+      "song": "Spacious Thoughts",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A featuring DAVID BYRNE, CHALI 2NA, GIFT OF",
+      "song": "The People Tree",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A featuring KOOL KOJAK + DJ BABAO",
+      "song": "O Pato",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LOW BUDGET",
+      "song": "Tailor Made",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE LAST KINECTION",
+      "song": "Balooraman",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLAUDE VON STROKE",
+      "song": "Deep Throat",
+      "label": "MOS/EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CROOKERS featuring KELIS",
+      "song": "No Security",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CROOKERS featuring MIIKE SNOW",
+      "song": "Remedy",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIIKE SNOW",
+      "song": "Animal",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Young Folks",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Let's Call It Off",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Objects Of My Affection",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Lay It Down",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Nothing To Worry About",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "It Don't Move Me",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "Acceptable In The 80's",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "The Girls",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "Merrymaking At My Place",
+      "label": "Red Label",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "I'm Not Alone",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "Ready For The Weekend",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "Flashback",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "You Used To Hold Me",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Playboy",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Over & Over",
+      "label": "MOS/EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Boy From School",
+      "label": "MOS/EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Colours",
+      "label": "MOS/EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "One Pure Thought",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "One Life Stand",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "I Feel Better",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DECLAN AND THE ANTICS",
+      "song": "Born For The Nightlife",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WE HAVE BAND",
+      "song": "Divisive",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VIA TANIA",
+      "song": "Fields",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PRINCESS ONE POINT FIVE",
+      "song": "Today",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SEABELLIES",
+      "song": "Young Cubs",
+      "label": "Albert Productions",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE SPIRITS",
+      "song": "The Other Half",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DOVES",
+      "song": "Andalucia",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BOAT PEOPLE",
+      "song": "Soporific",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FIRE! SANTA ROSA, FIRE!",
+      "song": "Little Cowboys, Bad Hombres",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "This Is What I Said",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CELADORE",
+      "song": "Distance Is A Gun",
+      "label": "Popboomerang",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BOTANICS",
+      "song": "What The Deal Is",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Rabbit Song",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YEASAYER",
+      "song": "One",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Clap Your Hands",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

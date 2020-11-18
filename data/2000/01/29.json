@@ -1,0 +1,395 @@
+{
+  "title": "Saturday 29th January",
+  "special": "From The Vault videos\nfollowed by Countdown episodes from the 70's & 80's",
+  "timeslot": null,
+  "date": "2000-01-29",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000129.htm",
+  "tracks": [
+    {
+      "artist": "The Kinks",
+      "song": "Mr. Pleasant",
+      "label": "Festival",
+      "timeslot": "11:40:00"
+    },
+    {
+      "artist": "Slade",
+      "song": "Get Down & Get With It",
+      "label": "Polydor",
+      "timeslot": "11:40:00"
+    },
+    {
+      "artist": "Gary Glitter",
+      "song": "Hello, Hello I'm Back Again (Good To Be Back)",
+      "label": "Polydor",
+      "timeslot": "11:40:00"
+    },
+    {
+      "artist": "David Bowie",
+      "song": "Suffragette City",
+      "label": "EMI",
+      "timeslot": "11:40:00"
+    },
+    {
+      "artist": "Canned Heat",
+      "song": "On The Road Again",
+      "label": "Warner",
+      "timeslot": "11:40:00"
+    },
+    {
+      "artist": "Free",
+      "song": "All Right Now",
+      "label": "Universal (MCA)",
+      "timeslot": "11:40:00"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "song": "Rock And Roll",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Billy Thorpe & The Aztecs",
+      "song": "Mama",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Suzi Quatro",
+      "song": "Devil Gate Drive/Can The Can/48 Crash",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "The Runaways",
+      "song": "Cherry Bomb",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Blondie",
+      "song": "Denis Denis",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Countdown",
+      "song": "May 12th, 1985",
+      "label": null,
+      "timeslot": "03:05:00"
+    },
+    {
+      "artist": "Ilanda",
+      "song": "Tasty",
+      "label": "Shock",
+      "timeslot": "04:00:00",
+      "countdown": 49
+    },
+    {
+      "artist": "Moby",
+      "song": "Why Does My Heart Feel So Bad?",
+      "label": "Mushroom",
+      "timeslot": "04:00:00",
+      "countdown": 47
+    },
+    {
+      "artist": "Human Nature",
+      "song": "Eternal Flame",
+      "label": "Sony",
+      "timeslot": "04:00:00",
+      "countdown": 46
+    },
+    {
+      "artist": "TLC",
+      "song": "Dear Lie",
+      "label": "BMG",
+      "timeslot": "04:00:00",
+      "countdown": 45
+    },
+    {
+      "artist": "Blink 182",
+      "song": ". All The Small Things",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "Metallica with San Francisco Symphony",
+      "song": "Nothing Else Matters",
+      "label": "Universal (MCA)",
+      "timeslot": "04:00:00",
+      "countdown": 43
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "The Great Beyond",
+      "label": "Warner",
+      "timeslot": "04:00:00",
+      "countdown": 42
+    },
+    {
+      "artist": "Marc Anthony",
+      "song": "I Need To Know",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 41
+    },
+    {
+      "artist": "Britney Spears",
+      "song": "(You Drive Me) Crazy",
+      "label": "Jive/Zomba",
+      "timeslot": "04:30:00",
+      "countdown": 40
+    },
+    {
+      "artist": "Paul Johnson",
+      "song": "Get Get Down",
+      "label": "Central Station",
+      "timeslot": "04:30:00",
+      "countdown": 39
+    },
+    {
+      "artist": "Deadstar",
+      "song": "Deeper Water",
+      "label": "Mushroom",
+      "timeslot": "04:30:00",
+      "countdown": 38
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "song": "The Rhythm Divine",
+      "label": "Universal (MCA)",
+      "timeslot": "04:30:00",
+      "countdown": 37
+    },
+    {
+      "artist": "Mariah Carey",
+      "song": "Heartbreaker",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 36
+    },
+    {
+      "artist": "Taxiride",
+      "song": "Everywhere You Go",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 34
+    },
+    {
+      "artist": "98 Degrees",
+      "song": "I Do (Cherish You)",
+      "label": "Universal (MCA)",
+      "timeslot": "04:30:00",
+      "countdown": 33
+    },
+    {
+      "artist": "William Orbit",
+      "song": "Barber's Adagio For Strings",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 32
+    },
+    {
+      "artist": "Tom Jones & The Cardigans",
+      "song": "Burning Down The House",
+      "label": "Mushroom",
+      "timeslot": "05:00:00",
+      "countdown": 30
+    },
+    {
+      "artist": "Savage Garden",
+      "song": "I Knew I Loved You",
+      "label": "Roadshow",
+      "timeslot": "05:00:00",
+      "countdown": 29
+    },
+    {
+      "artist": "S Club 7",
+      "song": "Bring It All Back",
+      "label": "Universal (MCA)",
+      "timeslot": "05:00:00",
+      "countdown": 28
+    },
+    {
+      "artist": "Aleesha Rome",
+      "song": "Search My Heaven",
+      "label": "EMI",
+      "timeslot": "05:00:00",
+      "countdown": 27
+    },
+    {
+      "artist": "Celine Dion",
+      "song": "That's The Way It Is",
+      "label": "Sony",
+      "timeslot": "05:00:00",
+      "countdown": 26
+    },
+    {
+      "artist": "Live",
+      "song": "The Dolphin's Cry",
+      "label": "Universal (MCA)",
+      "timeslot": "05:00:00",
+      "countdown": 25
+    },
+    {
+      "artist": "ATB",
+      "song": "Don't Stop",
+      "label": "Jive/Zomba",
+      "timeslot": "05:30:00",
+      "countdown": 24
+    },
+    {
+      "artist": "Tina Cousins",
+      "song": "Forever",
+      "label": "Jive/Zomba",
+      "timeslot": "05:30:00",
+      "countdown": 23
+    },
+    {
+      "artist": "Blessid Union Of Souls",
+      "song": "Hey Leonardo (She Likes Me For Me)",
+      "label": "V2",
+      "timeslot": "05:30:00",
+      "countdown": 22
+    },
+    {
+      "artist": "Steps",
+      "song": "Say You'll Be Mine",
+      "label": "Jive/Zomba",
+      "timeslot": "05:30:00",
+      "countdown": 21
+    },
+    {
+      "artist": "Savage Garden",
+      "song": "Affirmation",
+      "label": "Roadshow",
+      "timeslot": "05:30:00",
+      "countdown": 20
+    },
+    {
+      "artist": "S2S",
+      "song": "Sister",
+      "label": "Mushroom",
+      "timeslot": "05:30:00",
+      "countdown": 19
+    },
+    {
+      "artist": "Cliff Richard",
+      "song": "The Millennium Prayer",
+      "label": "Festival",
+      "timeslot": "05:30:00",
+      "countdown": 18
+    },
+    {
+      "artist": "Santana featuring Rob Thomas",
+      "song": "Smooth",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 17
+    },
+    {
+      "artist": "Groove Armada",
+      "song": "I See You Baby",
+      "label": "Jive/Zomba",
+      "timeslot": "06:00:00",
+      "countdown": 16
+    },
+    {
+      "artist": "Vanessa Amorosi",
+      "song": "Absolutely Everybody",
+      "label": "Transistor",
+      "timeslot": "06:00:00",
+      "countdown": 15
+    },
+    {
+      "artist": "Five",
+      "song": "Keep On Movin'",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 14
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "song": "Waiting For Tonight",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 13
+    },
+    {
+      "artist": "Tina Cousins",
+      "song": "Pray",
+      "label": "Jive/Zomba",
+      "timeslot": "06:00:00",
+      "countdown": 12
+    },
+    {
+      "artist": "Will Smith",
+      "song": "Will2K",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 11
+    },
+    {
+      "artist": "S Club 7",
+      "song": "S Club Party",
+      "label": "Universal (MCA)",
+      "timeslot": "06:00:00",
+      "countdown": 10
+    },
+    {
+      "artist": "Christina Aguilera",
+      "song": "What A Girl Wants",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 9
+    },
+    {
+      "artist": "Alice Deejay",
+      "song": "Better Off Alone",
+      "label": "Jive/Zomba",
+      "timeslot": "06:30:00",
+      "countdown": 7
+    },
+    {
+      "artist": "M2M",
+      "song": "Don't Say You Love Me",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 6
+    },
+    {
+      "artist": "Madison Avenue",
+      "song": "Don't Call Me Baby",
+      "label": "Virgin",
+      "timeslot": "06:30:00",
+      "countdown": 5
+    },
+    {
+      "artist": "Eiffel 65",
+      "song": "Blue",
+      "label": "Central Station",
+      "timeslot": "06:30:00",
+      "countdown": 4
+    },
+    {
+      "artist": "Len",
+      "song": "Steal My Sunshine",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 3
+    },
+    {
+      "artist": "Macy Gray",
+      "song": "I Try",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 2
+    },
+    {
+      "artist": "Killing Heidi",
+      "song": "Mascara",
+      "label": "Roadshow",
+      "timeslot": "06:30:00",
+      "countdown": 1
+    }
+  ]
+}

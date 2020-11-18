@@ -1,0 +1,483 @@
+{
+  "title": "Saturday morning  Saturday, 23 January",
+  "special": "rage goes retro!",
+  "timeslot": "morning",
+  "date": "2010-01-23",
+  "url": "http://www.abc.net.au/rage/archive/s2798826.htm",
+  "tracks": [
+    {
+      "artist": "ADAM LAMBERT",
+      "song": "What Do You Want From Me",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HAYLEY WARNER",
+      "song": "Good Day",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "VANESSA AMOROSI",
+      "song": "Hazardous",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CASSIE DAVIS",
+      "song": "No More",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Let Me Be Me",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAY SEAN featuring SEAN PAUL & LIL' JON",
+      "song": "Do You Remember",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MARY J BLIGE",
+      "song": "I Am",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "STAN WALKER",
+      "song": "Black Box",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE SCRIPT",
+      "song": "Talk You Down",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OWL CITY",
+      "song": "Fireflies",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NEWTON FAULKNER",
+      "song": "Over And Out",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ROGUE TRADERS",
+      "song": "Love Is A War",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ORIANTHI",
+      "song": "According To You",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MICHAEL BUBLE",
+      "song": "Haven't Met You Yet",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "IYAZ",
+      "song": "Replay",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JAY-Z featuring ALICIA KEYS",
+      "song": "Empire State Of Mind",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TIMBALAND featuring NELLY FURTADO & SOSHY",
+      "song": "Morning After Dark",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LA ROUX",
+      "song": "Bulletproof",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "GABRIELLA CILMI",
+      "song": "Woman On A Mission",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "THE TEMPER TRAP",
+      "song": "Sweet Disposition",
+      "label": "Liberation",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ALICIA KEYS",
+      "song": "Doesn't Mean Anything",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Meet Me Halfway",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "DEMI LOVATO",
+      "song": "Remember December",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "Bigger",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MUMFORD & SONS",
+      "song": "Little Lion Man",
+      "label": "Dew Process/UMA",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LIFEHOUSE",
+      "song": "Halfway Gone",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SELENA GOMEZ AND THE SCENE",
+      "song": "Naturally",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LIL' JON featuring KEE",
+      "song": "Give It All U Got",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "GUY SEBASTIAN & JORDIN SPARKS",
+      "song": "Art Of Love",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "CHRIS BROWN",
+      "song": "Crawl",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JAY SEAN featuring LIL' WAYNE",
+      "song": "Down",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JASON DERULO",
+      "song": "Whatcha Say",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring TOM WAITS & KOOL KEITH",
+      "song": "Spacious Thoughts",
+      "label": "Shock",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "HILLTOP HOODS featuring TRIALS",
+      "song": "The Light You Burned",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "DIZZEE RASCAL",
+      "song": "Fix Up Look Sharp",
+      "label": "Remote Control",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GROOVE ARMADA",
+      "song": "Superstylin'",
+      "label": "Jive/Zomba",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Cousins",
+      "label": "Remote Control",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SALLY SELTMANN",
+      "song": "Harmony To My Heartbeat",
+      "label": "Independent",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GIRLS",
+      "song": "Laura",
+      "label": "Inertia",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "MERCURY WHITE",
+      "song": "Sticks and Stones",
+      "label": "Remedy Music",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Mysterious Ways",
+      "label": "Mercury",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "You've Got The Love",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "And The Boys",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Ready, Able",
+      "label": "Inertia",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "RUFUS WAINWRIGHT",
+      "song": "Across The Universe",
+      "label": "Jive/Zomba",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "OK GO",
+      "song": "WTF?",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "TWO DOOR CINEMA CLUB",
+      "song": "I Can Talk",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PLACEBO",
+      "song": "Bright Lights",
+      "label": "Shock",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE BRAVERY",
+      "song": "Slow Poison",
+      "label": "Universal",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JULIAN CASABLANCAS",
+      "song": "11th Dimension",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "The Resistance",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Babooshka",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PASSION PIT",
+      "song": "Little Secrets",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "WAVE MACHINES",
+      "song": "I Go I Go I Go",
+      "label": "Shock",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "One Life Stand",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "WHAM",
+      "song": "Wake Me Up Before You Go-Go",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "You've Changed",
+      "label": "Inertia",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "HOCKEY",
+      "song": "Learn To Lose",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "HUNGRY KIDS OF HUNGARY",
+      "song": "Let You Down",
+      "label": "MGM",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "F*** You",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "INFUSION",
+      "song": "Try It On",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "YEASAYER",
+      "song": "Ambling Alp",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "Flashback",
+      "label": "Sony",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SKYHOOKS",
+      "song": "Horror Movie",
+      "label": "Mushroom",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "WILD CHERRY",
+      "song": "Play That Funky Music",
+      "label": "Epic",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Sweet Emotion",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ROBERT PALMER",
+      "song": "Bad Case Of Lovin' You",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BOZ SCAGGS",
+      "song": "What Can I Say",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MARY HOPKIN",
+      "song": "Those Were The Days",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Every Breath You Take",
+      "label": "Polydor",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ALL SAINTS",
+      "song": "Pure Shores",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "UNDERWORLD",
+      "song": "Born Slippy",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE SIMPSONS",
+      "song": "Do The Bartman",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "SONIA DADA",
+      "song": "You Don't Treat Me No Good",
+      "label": "Festival",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Happy Now",
+      "label": "Universal (MCA",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Hound Dog/All Shook Up",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE RITCHIE FAMILY",
+      "song": "Life Is Music",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "SHIRLEY BASSEY",
+      "song": "Something",
+      "label": "Fest/Mush",
+      "timeslot": "10:30:00"
+    }
+  ]
+}

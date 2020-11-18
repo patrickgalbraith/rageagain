@@ -1,0 +1,675 @@
+{
+  "title": "Saturday night  Saturday, 12 September",
+  "special": "Sia Guest Programs rage",
+  "timeslot": "night",
+  "date": "2009-09-12",
+  "url": "http://www.abc.net.au/rage/archive/s2683010.htm",
+  "tracks": [
+    {
+      "artist": "TEARS FOR FEARS",
+      "song": "Everybody Wants To Rule The World",
+      "label": "Polydor",
+      "timeslot": "11:22:00"
+    },
+    {
+      "artist": "THE BANGLES",
+      "song": "Walk Like An Egyptian",
+      "label": "Fest/Mush",
+      "timeslot": "11:22:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Cherish",
+      "label": "Warner",
+      "timeslot": "11:22:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Wings Of A Dove",
+      "label": "Virgin",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Our House",
+      "label": "Virgin",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "The Fear",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Xanadu",
+      "label": "Festival",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Rio",
+      "label": "EMI",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Let's Go Crazy",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MEL & KIM",
+      "song": "Respectable",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Single Ladies (Put A Ring On It)",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE PIPETTES",
+      "song": "Your Kisses Are Wasted On Me",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Beat It",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CHRISTINA AGUILERA",
+      "song": "Genie In A Bottle",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "K.D. LANG",
+      "song": "Constant Craving",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Toxic",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Tears Dry On Their Own",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Daniel",
+      "label": "Spunk",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MEN AT WORK",
+      "song": "Who Can It Be Now",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TOM TOM CLUB",
+      "song": "Genius Of Love",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE BOOMTOWN RATS",
+      "song": "I Don't Like Mondays",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "A & E",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "VENGABOYS",
+      "song": "Boom, Boom, Boom, Boom!",
+      "label": "Central Station",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TONI BASIL",
+      "song": "Mickey",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JEFF BUCKLEY",
+      "song": "The Last Goodbye",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JEFF BUCKLEY - In Concert",
+      "song": "Hallelujah",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Nothing Compares 2 U",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Breathe Me",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Soon We'll Be Found",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Buttons",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SIA - Live",
+      "song": "The Girl You Lost",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Taken For Granted",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ZERO 7",
+      "song": "I Have Seen",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ZERO 7",
+      "song": "In The Waiting Line",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ZERO 7",
+      "song": "Destiny",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ZERO 7",
+      "song": "Distractions",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ZERO 7",
+      "song": "Home",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ZERO 7",
+      "song": "Throw It All Away",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "Smile",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "LDN",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "Not Fair",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EMILIANA TORRINI",
+      "song": "Jungle Drum",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EMILIANA TORRINI",
+      "song": "Big Jumps",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EMILIANA TORRINI",
+      "song": "Heartstopper",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hyperballad",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Big Time Sensuality",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Isobel",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "What's A Girl To Do",
+      "label": "Spunk",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Pearl's Dream",
+      "label": "Spunk",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Prescilla",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TORI AMOS",
+      "song": "Cornflake Girl",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TORI AMOS",
+      "song": "Talula",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TORI AMOS",
+      "song": "Professional Widow (Remix)",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LAURA MARLING",
+      "song": "Ghosts",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LAURA MARLING",
+      "song": "The Needle And The Damage Done",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LAURA MARLING",
+      "song": "New Romantic",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALANIS MORISSETTE",
+      "song": "Hand In My Pocket",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALANIS MORISSETTE",
+      "song": "You Oughta Know",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALANIS MORISSETTE",
+      "song": "Ironic",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NELLY FURTADO",
+      "song": "I'm Like A Bird",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NELLY FURTADO",
+      "song": "Turn Off The Light",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NELLY FURTADO",
+      "song": "Maneater",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Steer",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "The Special Two",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "The Sound Of White",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "This Is Love",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Down By The Water",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Send His Love To Me",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BERTIE BLACKMAN",
+      "song": "Fast Bitch",
+      "label": "Shiny",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BERTIE BLACKMAN",
+      "song": "Heart",
+      "label": "MGM",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BERTIE BLACKMAN",
+      "song": "Thump",
+      "label": "MGM",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "REGINA SPEKTOR",
+      "song": "On The Radio",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "REGINA SPEKTOR - triple j tv Like A Version",
+      "song": "Real Love",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "REGINA SPEKTOR",
+      "song": "Fidelity",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Cross Bones Style",
+      "label": "MDS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "He War",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Living Proof",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Doo Wop (That Thing)",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Everything Is Everything",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Just Like Water",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Criminal",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Sleep To Dream",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Fast As You Can",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Paper Planes",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Boyz",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Jimmy",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Paris Is Burning",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Dusk Till Dawn",
+      "label": "Modular",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "My Delirium",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "I Saw Her Standing There",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "Roll Over Beethoven",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "You're Gonna Lose That Girl",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "Penny Lane",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "Revolution",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "One After 909",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KID CONFUCIUS",
+      "song": "Big Black Cloud",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "We Won't Run",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "The Fixer",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BOB EVANS",
+      "song": "Hand Me Downs",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Crying Lightning",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MIIKE SNOW",
+      "song": "Animal",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHALI 2NA featuring TALIB KWELI",
+      "song": "Lock S*** Down",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DATAROCK",
+      "song": "True Stories",
+      "label": "Etc Etc",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ART vs SCIENCE",
+      "song": "Parlez Vous Francais?",
+      "label": "MGM",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PASSION PIT",
+      "song": "To Kingdom Come",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DEEP SEA ARCADE",
+      "song": "Don't Be Sorry",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GOSSIP",
+      "song": "Love Long Distance",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FRIENDLY FIRES",
+      "song": "Kiss Of Life",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Without You",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE MIDDLE EAST",
+      "song": "Blood",
+      "label": "Spunk",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

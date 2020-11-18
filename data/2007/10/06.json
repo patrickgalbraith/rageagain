@@ -1,0 +1,615 @@
+{
+  "title": "Saturday, 6 October",
+  "special": "Maximo Park",
+  "timeslot": null,
+  "date": "2007-10-06",
+  "url": "http://www.abc.net.au/rage/archive/s2051895.htm",
+  "tracks": [
+    {
+      "artist": "THE GO-BETWEENS",
+      "song": "Head Full Of Steam",
+      "label": "Universal (MCA",
+      "timeslot": "12:07:00"
+    },
+    {
+      "artist": "ORANGE JUICE",
+      "song": "What Presence",
+      "label": "Independent",
+      "timeslot": "12:07:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "Panic",
+      "label": "EMI",
+      "timeslot": "12:07:00"
+    },
+    {
+      "artist": "THE SUNDAYS",
+      "song": "Can't Be Sure",
+      "label": "Festival",
+      "timeslot": "12:07:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "I Had A Dream Joe",
+      "label": "Mushroom",
+      "timeslot": "12:07:00"
+    },
+    {
+      "artist": "THE THE - Live",
+      "song": "I've Been Waiting For Tomorrow (All Of My Life)",
+      "label": "Sony",
+      "timeslot": "12:07:00"
+    },
+    {
+      "artist": "THE FALL",
+      "song": "Victoria",
+      "label": "Festival",
+      "timeslot": "12:07:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Bull In The Heather",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sunday",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Feel The Pain",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Hard To Explain",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "South Central Rain",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "1979",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Lived In Bars",
+      "label": "Remote Control",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IRON & WINE",
+      "song": "Naked As We Came",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BONNIE 'PRINCE' BILLY",
+      "song": "Cursed Sleep",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ERIC MATTHEWS",
+      "song": "Fanfare",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Cloudbusting",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE EURYTHMICS",
+      "song": "Never Gonna Cry Again",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PREFAB SPROUT",
+      "song": "When Love Breaks Down",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BRONSKI BEAT",
+      "song": "Small Town Boy",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Good Fortune",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Down In A Hole",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Lithium",
+      "label": "Universal (MCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Even Flow",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "I'm Broken",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CAPTAIN BEEFHEART",
+      "song": "Ice Cream For Crow",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Tangled Up In Blue",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Start Me Up",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Fell In Love With A Girl",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Mistaken for Strangers",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Out Of Time",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FIELD MUSIC",
+      "song": "In Context",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CIBO MATTO",
+      "song": "Know Your Chicken",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "This Must Be The Place (Naive Melody)",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "The Day My Baby Gave Me A Surprize",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "COCTEAU TWINS",
+      "song": "Heaven Or Las Vegas",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "Swallow",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TORTOISE",
+      "song": "Seneca",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MR. OIZO",
+      "song": "Analog Worms Attack",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "On",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLACKSTREET",
+      "song": "No Diggity",
+      "label": "Universal (MCA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "C.R.E.A.M.",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DIZZEE RASCAL",
+      "song": "Sirens",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAXIMO PARK",
+      "song": "Girls Who Play Guitars",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAXIMO PARK",
+      "song": "Our Velocity",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAXIMO PARK",
+      "song": "I Want You To Stay",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAXIMO PARK",
+      "song": "Apply Some Pressure",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAXIMO PARK",
+      "song": "The Coast Is Always Changing",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Skip To The End",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Area",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Decent Days & Nights",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Hounds Of Love",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FIELD MUSIC",
+      "song": "If Only The Moon Were Up",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FIELD MUSIC",
+      "song": "You're Not Supposed To",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE RAKES",
+      "song": "The World Was A Mess But His Hair Was Perfect",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE RAKES",
+      "song": "We Danced Together",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE RAKES",
+      "song": "22 Grand Job",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE ZUTONS",
+      "song": "Pressure Point",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE ZUTONS",
+      "song": "Why Won't You Give Me Your Love",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE ZUTONS",
+      "song": "Valerie",
+      "label": "SBME",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HARD-FI",
+      "song": "Hard To Beat",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HARD-FI",
+      "song": "Cash Machine",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HARD-FI",
+      "song": "Living For The Weekend",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HARD-FI",
+      "song": "Suburban Knights",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE MAGIC NUMBERS",
+      "song": "Take a Chance",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE MAGIC NUMBERS",
+      "song": "Love Me Like You",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE MAGIC NUMBERS",
+      "song": "Forever Lost",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE MAGIC NUMBERS",
+      "song": "This Is A Song",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE VIEW",
+      "song": "Wasted Little DJs",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE VIEW",
+      "song": "Same Jeans",
+      "label": "Red Label",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Leave Before The Lights Come On",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Fluorescent Adolescent",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Brianstorm",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Fake Tales Of San Francisco",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "View From The Afternoon",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "When The Sun Goes Down",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "I Bet You Look Good On The Dancefloor",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE MESS HALL",
+      "song": "Keep Walking",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "Tipped Hat",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VOXTROT",
+      "song": "Firecracker",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NINE BLACK ALPS",
+      "song": "Burn Faster",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE WAHAS",
+      "song": "New Suit",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WHISKEY GO GO'S",
+      "song": "Rodeo",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CHECKS",
+      "song": "What You Heard",
+      "label": "Red Label",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SILENTS",
+      "song": "23",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "Delivery",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WONS PHREELY",
+      "song": "Rules Of Nature",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE PANICS",
+      "song": "Don't Fight It",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Whistle For The Choir",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RUFUS WAINWRIGHT",
+      "song": "Rules & Regulations",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LOU RHODES",
+      "song": "The Rain",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Amazing Things",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MENOMENA",
+      "song": "Rotten Hell",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SHOUT OUT LOUDS",
+      "song": "Impossible",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PLUG-IN CITY",
+      "song": "Broke On A Wheel",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FAKER",
+      "song": "This Heart Attack",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE POLYPHONIC SPREE",
+      "song": "Running Away",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE GO! TEAM",
+      "song": "Doing It Right",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CAJUN DANCE PARTY",
+      "song": "Amylase",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EDITORS",
+      "song": "An End Has A Start",
+      "label": "Red Label",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

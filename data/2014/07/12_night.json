@@ -1,0 +1,669 @@
+{
+  "title": "Saturday night 12 July 2014",
+  "special": "Aborted",
+  "timeslot": "night",
+  "date": "2014-07-12",
+  "url": "http://www.abc.net.au/rage/archive/s4044331.htm",
+  "tracks": [
+    {
+      "artist": "ABORTED",
+      "song": "Meticulous Invagination",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BIOHAZARD",
+      "song": "Punishment",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "LIMP BIZKIT",
+      "song": "Rollin'",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Be Quick Or Be Dead",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BON JOVI",
+      "song": "Wanted Dead Or Alive",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Photograph",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Poison",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CYPRESS HILL",
+      "song": "I Ain't Goin' Out Like That",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "FEAR FACTORY",
+      "song": "Linchpin",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Fight For Your Right (To Party)",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Superstition",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DILLINGER ESCAPE PLAN",
+      "song": "Panasonic Youth",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HATESPHERE",
+      "song": "The Sickness Within",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MESHUGGAH",
+      "song": "Bleed",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE HAUNTED",
+      "song": "All Against All",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE HAUNTED",
+      "song": "No Compromise",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Alas, The Lord Is Upon Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DECAPITATED",
+      "song": "Day 69",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MISERY INDEX",
+      "song": "Traitors",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MACHINE HEAD",
+      "song": "Davidian",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MACHINE HEAD - LIVE",
+      "song": "Seasons Wither",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Here To Stay",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Freak On A Leash",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MORBID ANGEL",
+      "song": "God Of Emptiness",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Make Them Suffer",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DYING FETUS",
+      "song": "Shepherd's Commandments",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Arise",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "The Memory Remains",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MR BUNGLE",
+      "song": "Quote Unquote",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Gravel Pit",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "You Rock My World",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Billie Jean",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "Everybody (Backstreet's Back)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KRIS KROSS",
+      "song": "Jump",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ZZ TOP",
+      "song": "Sharp Dressed Man",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "STEVIE RAY VAUGHAN",
+      "song": "Cold Shot",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Fell On Black Days",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "Hurricane",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AVENGED SEVENFOLD",
+      "song": "Unholy Confessions",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "New Born",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Dead Star",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "I Feel You",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YNGWIE MALMSTEEN",
+      "song": "I'll See The Light Tonight",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LAMB OF GOD",
+      "song": "As The Palaces Burn",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Duality",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Firestarter",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "VANILLA ICE",
+      "song": "Ice Ice Baby",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ABORTED",
+      "song": "The Extirpation Agenda",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ABORTED",
+      "song": "Origin Of Disease",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ABORTED",
+      "song": "The Chondrin Enigma",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ABORTED",
+      "song": "Meticulous Invagination",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OVERKILL",
+      "song": "Armorist",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TANKARD",
+      "song": "Fooled By Your Guts",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOUND FOR RUIN",
+      "song": "From Victim To Villain",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THRONE",
+      "song": "Tharsis Sleep",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUICIDE SILENCE",
+      "song": "You Can't Stop Me",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PENNYWISE",
+      "song": "Violence Never Ending",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CODE ORANGE",
+      "song": "I Am King",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FKA TWIGS",
+      "song": "Two Weeks",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DYE featuring EGYPTIAN LOVER",
+      "song": "She's Bad",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NATUREBOY and GMC",
+      "song": "Daydream",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MELLOWHYPE",
+      "song": "Nowadays",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE-DREAM",
+      "song": "Black",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THUNDAMENTALS",
+      "song": "Quit Your Job",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "REMI",
+      "song": "Tyson",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Just For You",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CAZZETTE featuring THE HIGH",
+      "song": "Sleepless",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EELS",
+      "song": "Lockdown Hurricane",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Stranger",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TWIN PEAKS",
+      "song": "Flavor",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHILD OF LOV, THE featuring DAMON ALBARN",
+      "song": "One Day",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AUSTRA",
+      "song": "Habitat",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RIFF RAFF",
+      "song": "Introducing The Icon",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SILLY JOEL AND THE CANDYMEN",
+      "song": "Dr Seuss",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ROOTS, THE featuring PATTY CRASH",
+      "song": "Never",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CLIPPING",
+      "song": "Body and Blood",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANGUS and JULIA STONE",
+      "song": "Heart Beats Slow",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KITTY",
+      "song": "Marijuana",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RYAN HEMSWORTH featuring TINASHE",
+      "song": "One For Me",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOW TO DRESS WELL",
+      "song": "Childhood Faith In Love",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SUFJAN STEVENS",
+      "song": "Year Of The Tiger",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SHORTS",
+      "song": "Berlin 1971",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "URL Badman",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Meet Me In A House Of Love",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOLIDAYS ON ICE",
+      "song": "The Long Way Around",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHARLES BRADLEY",
+      "song": "Where Do We Go From Here",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OFEI",
+      "song": "Wow",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TOM TRAGO",
+      "song": "The Elite",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "K LEIMER",
+      "song": "Lonely Boy",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GL",
+      "song": "Won't You See",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LITTLE DRAGON",
+      "song": "Pretty Girls",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE JEZABELS",
+      "song": "Time To Dance",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "STEP-PANTHER",
+      "song": "Nowhere",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "REDSPENCER",
+      "song": "Tell",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BERTIE BLACKMAN",
+      "song": "Run For Your Life",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VERUCA SALT",
+      "song": "It's Holy",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PENNYWISE",
+      "song": "Violence Never Ending",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Snap Out Of It",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "Show Me A Miracle",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE INTERNET",
+      "song": "Shadow Dance",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ZEDS DEAD featuring TWIN SHADOW",
+      "song": "Lost You",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FAVORED NATIONS",
+      "song": "Amazon",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FLYYING COLOURS",
+      "song": "Not Today",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RECYCLE CULTURE",
+      "song": "Back To The World",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WYE OAK",
+      "song": "The Tower",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LIARS",
+      "song": "Pro Anti Anti",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SANTIGOLD",
+      "song": "Kicking Down Doors",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HTRK",
+      "song": "Chinatown Style",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "COLD SPECKS",
+      "song": "Absisto",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "title": "Saturday, 5 May",
+  "special": "Peter Bjorn & John guest program",
+  "timeslot": null,
+  "date": "2007-05-05",
+  "url": "http://www.abc.net.au/rage/archive/s1993303.htm",
+  "tracks": [
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Radio Radio",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Train In Vain",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Lust For Life",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE POGUES featuring KIRSTY MacCOLL",
+      "song": "Fairytale Of New York",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LEONARD COHEN",
+      "song": "First We Take Manhattan",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BILL WITHERS",
+      "song": "Ain't No Sunshine",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JENNY WILSON",
+      "song": "Let My Shoes Lead Me Forward",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "EL PERRO DEL MAR",
+      "song": "God Knows",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CONCRETES",
+      "song": "The Chosen One",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Around The World",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Where's Your Head At?",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AIR",
+      "song": "Cherry Blossom Girl",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Krafty",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Block Rockin' Beats",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "99 Problems",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE HOUSEMARTINS",
+      "song": "Happy Hour",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CAMERA OBSCURA",
+      "song": "Lloyd, I'm Ready To Be Heartbroken",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BANGLES",
+      "song": "Manic Monday",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE EURYTHMICS",
+      "song": "Sweet Dreams",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Just Can't Get Enough",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Pictures Of You",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Transmission",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "Fools Gold",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TEENAGE FANCLUB",
+      "song": "Star Sign",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BUZZCOCKS",
+      "song": "Ever Fallen In Love",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PAUL McCARTNEY",
+      "song": "Coming Up",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TRAVELING WILBURYS",
+      "song": "Handle Me With Care",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE RONETTES",
+      "song": "Be My Baby",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "Friday On My Mind",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE GO-BETWEENS",
+      "song": "Spring Rain",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "The Great Divide",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "The Streets Of Philadelphia",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEACHWOOD SPARKS",
+      "song": "By Your Side",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "M. WARD - Live",
+      "song": "Let's Dance",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BYRDS",
+      "song": "Feel A Whole Lot Better",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE LEMONHEADS",
+      "song": "If I Could Talk I'd Tell You",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YO LA TENGO",
+      "song": "Sugar Cube",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE SHINS",
+      "song": "Know Your Onion",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Modern Dance",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Sweet Jane",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CHILLS",
+      "song": "Heavenly Pop Hit",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PET SHOP BOYS",
+      "song": "It's A Sin",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EMF",
+      "song": "Unbelievable",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALAN VEGA",
+      "song": "Wipeout Beat",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "E.L.O.",
+      "song": "Mister Blue Sky",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Stayin' Alive",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Young Folks",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Let's Call It Off",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Objects Of My Affection",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOSE GONZALEZ",
+      "song": "Heartbeats",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOSE GONZALEZ",
+      "song": "Hand On Your Heart",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CONCRETES",
+      "song": "You Can't Hurry Love",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANE BRUN featuring RON SEXSMITH",
+      "song": "Song 6",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FRIDA HYVONEN",
+      "song": "I Drive My Friend",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LONEY, DEAR",
+      "song": "I Am John",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JENS LEKMAN",
+      "song": "You Are The Light",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "You Take My Breath Away",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "Silent Shout",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JENNY WILSON",
+      "song": "A Hesitating Cloud Of Despair",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JENNY WILSON",
+      "song": "Summertime The Roughest Time",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LOVE IS ALL",
+      "song": "Make Out, Fall Out, Make Up",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LOVE IS ALL",
+      "song": "Busy Doing Nothing",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE CARDIGANS",
+      "song": "I Need Some Fine Wine And You,You Need To Be Nicer",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE CARDIGANS",
+      "song": "Erase/Rewind",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE CARDIGANS",
+      "song": "My Favourite Game",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SHOUT OUT LOUDS",
+      "song": "Please Please Please",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SHOUT OUT LOUDS",
+      "song": "The Comeback",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SHOUT OUT LOUDS",
+      "song": "Very Loud",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ENVELOPES",
+      "song": "Sister In Love",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SOUNDS",
+      "song": "Song With A Mission",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CAESARS",
+      "song": "Jerk It Out",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE HIVES",
+      "song": "Die, All Right",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE HIVES",
+      "song": "Main Offender",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE (INTERNATIONAL) NOISE CONSPIRACY",
+      "song": "Smash It Up",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE (INTERNATIONAL) NOISE CONSPIRACY",
+      "song": "Capitalism Stole My Virginity",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOUNDTRACK OF OUR LIVES",
+      "song": "Sister Surround",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE HELLACOPTERS",
+      "song": "The Devil Stole The Beat From The Lord",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DIVISION OF LAURA LEE",
+      "song": "Does Compute",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NIKOLA SARCEVIC",
+      "song": "Soul For Sale",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CLUTCH",
+      "song": "Electric Worry",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLACK REBEL MOTORCYCLE CLUB",
+      "song": "Weapon Of Choice",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "POP LEVI",
+      "song": "Sugar Assault Me Now",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BRITISH INDIA",
+      "song": "Tie Up My Hands",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TOKYO POLICE CLUB",
+      "song": "Cheer It On",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BIT BY BATS",
+      "song": "One Six One",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "YOURCODENAMEISMILO",
+      "song": "Understand",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "The Bird And The Worm",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PERRY FARRELL'S SATELLITE PARTY",
+      "song": "Wish Upon A Dog Star",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Invincible",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "I WAS A CUB SCOUT",
+      "song": "I Hate Night Clubs",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JACK PENATE",
+      "song": "Spit At Stars",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "My Moon My Man",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "You Know I'm No Good",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "REGINA SPEKTOR",
+      "song": "Better",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE FORMAT",
+      "song": "She Doesn't Get It",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BEES",
+      "song": "Who Cares What The Question Is?",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Flathead",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WHISKEY GO GO'S",
+      "song": "True Love",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "On Call",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GRUFF RHYS",
+      "song": "Candylion",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SNOW PATROL",
+      "song": "Signal Fire",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "IAIN ARCHER",
+      "song": "When It Kicks In",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WHITE ROSE MOVEMENT",
+      "song": "Love Is A Number",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Read My Mind",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

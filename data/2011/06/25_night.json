@@ -1,0 +1,417 @@
+{
+  "title": "Saturday night  Saturday, 25 June",
+  "special": "Two Door Cinema Club",
+  "timeslot": "night",
+  "date": "2011-06-25",
+  "url": "http://www.abc.net.au/rage/archive/s3252946.htm",
+  "tracks": [
+    {
+      "artist": "METRONOMY",
+      "song": "A Thing For Me",
+      "label": "Warner",
+      "timeslot": "01:52:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "It'5",
+      "label": "Remote Control",
+      "timeslot": "01:52:00"
+    },
+    {
+      "artist": "YELLE",
+      "song": "A Cause Des Garcons",
+      "label": "EMI",
+      "timeslot": "01:52:00"
+    },
+    {
+      "artist": "DIGITALISM",
+      "song": "Zdarlight",
+      "label": "MOS",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Two More Years",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAND OF HORSES",
+      "song": "The Funeral",
+      "label": "Stomp",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Conversation 16",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ELBOW",
+      "song": "Grounds For Divorce",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ARCADE FIRE - LIVE",
+      "song": "No Cars Go",
+      "label": "Spunk",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "I'm A Cuckoo",
+      "label": "Spunk/Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHNNY FLYNN",
+      "song": "Kentucky Pill",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GREAT LAKE SWIMMERS",
+      "song": "Pulling On A Line",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Head Rolls Off",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "The New Year",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PLACEBO",
+      "song": "Taste In Men",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JAY-Z, RIHANNA & KANYE WEST",
+      "song": "Run This Town",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TAIO CRUZ",
+      "song": "Dynamite",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Diva",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WHITNEY HOUSTON",
+      "song": "I Wanna Dance With Somebody (Who Loves Me)",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JACKSON 5",
+      "song": "ABC",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MEW",
+      "song": "Introducing Palace Players",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "M83",
+      "song": "Graveyard Girl",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DELPHIC",
+      "song": "This Momentary",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AT THE DRIVE-IN",
+      "song": "Invalid Litter Dept.",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Everything In Its Right Place",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Svefn-G-Englar",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Juicebox",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Cassius",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE BRONX",
+      "song": "History's Stranglers",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DARUDE",
+      "song": "Sandstorm",
+      "label": "Central Station",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IDLEWILD",
+      "song": "Roseability",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BIFFY CLYRO",
+      "song": "My Recovery Injection",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Africa",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Revolution 909",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Robot Rock",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GRAND ARCHIVES",
+      "song": "Miniature Birds",
+      "label": "Stomp",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TWO DOOR CINEMA CLUB",
+      "song": "I Can Talk",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TWO DOOR CINEMA CLUB",
+      "song": "Undercover Martyn",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TWO DOOR CINEMA CLUB",
+      "song": "Something Good Can Work",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TWO DOOR CINEMA CLUB",
+      "song": "Come Back Home",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TWO DOOR CINEMA CLUB",
+      "song": "What You Know",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TWO DOOR CINEMA CLUB - triple j Like A Version",
+      "song": "Cecilia",
+      "label": "ABC",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LITTLE JOHN",
+      "song": "Put Your Hands On Me",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE GOOD SHIP",
+      "song": "Bury Me",
+      "label": "Vitamin Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DANCING HEALS",
+      "song": "Diamonds",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CULTS",
+      "song": "Abducted",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Deeper Understanding",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AUSTRA",
+      "song": "Lose It",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STANTON WARRIORS",
+      "song": "Turn Me Up Some",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE IMMIGRANT",
+      "song": "Summer Of Love (She Said)",
+      "label": "OneLove",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Make Some Noise",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CALVIN HARRIS featuring KELIS",
+      "song": "Bounce",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BATTLES feat MATIAS AGUAYO",
+      "song": "Ice Cream",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EMMA DEAN",
+      "song": "Something They Can Hold",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "The Day",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "REDINK",
+      "song": "What My Friends Say",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FRENCH HORN REBELLION",
+      "song": "This Moment",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BENNY BENASSI feat GARY GO",
+      "song": "Cinema",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RAPHAEL SAADIQ",
+      "song": "Radio",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LADI6",
+      "song": "Like Water",
+      "label": "Question Music",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHILDREN COLLIDE",
+      "song": "Loveless",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "Mary",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Don't Sit Down",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DANANANANAYKROYD",
+      "song": "Muscle Memory",
+      "label": "Dew Process/UMA",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WILEY",
+      "song": "Numbers In Action",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "Escapee",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Techno Fan",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Power",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

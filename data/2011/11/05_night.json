@@ -1,0 +1,525 @@
+{
+  "title": "Saturday night  Saturday, 5 November",
+  "special": "Boy & Bear",
+  "timeslot": "night",
+  "date": "2011-11-05",
+  "url": "http://www.abc.net.au/rage/archive/s3356514.htm",
+  "tracks": [
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Two Weeks",
+      "label": "Inertia",
+      "timeslot": "12:21:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "Soul Meets Body",
+      "label": "Warner",
+      "timeslot": "12:21:00"
+    },
+    {
+      "artist": "FLEET FOXES",
+      "song": "Mykonos",
+      "label": "Stomp",
+      "timeslot": "12:21:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Viorar Vel Til Loftarasa",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "STING",
+      "song": "If You Love Someone Set Them Free",
+      "label": "A&M Records",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TEARS FOR FEARS",
+      "song": "Everybody Wants To Rule The World",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MARK RONSON & THE BUSINESS INTL featuring BOY GEO",
+      "song": "Somebody To Love Me",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE ACORN",
+      "song": "Flood (Part 1)",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EDWARD SHARPE & THE MAGNETIC ZEROS",
+      "song": "Home",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HUSKY",
+      "song": "History's Door",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE PRESIDENTS OF THE USA",
+      "song": "Lump",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Learn To Fly",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Don't Look Back In Anger",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "COUNTING CROWS",
+      "song": "Mr Jones",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JUNIP",
+      "song": "Always",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Always Worth It",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Just A Boy",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FUCKED UP",
+      "song": "Queen of Hearts",
+      "label": "Remote Control",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Helicopter",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE MARS VOLTA",
+      "song": "Goliath",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROLO TOMASSI",
+      "song": "Party Wounds",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Keine Lust",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DECEMBERISTS",
+      "song": "Sixteen Military Wives",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "COLD WAR KIDS",
+      "song": "Hospital Beds",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Violet Hill",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Dreams",
+      "label": "WEA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LAURA MARLING",
+      "song": "Rambling Man",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CITY AND COLOUR",
+      "song": "Sleeping Sickness",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Drunk Girls",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "The Suburbs",
+      "label": "Spunk/EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LOCAL NATIVES",
+      "song": "Airplanes",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PAPA VS PRETTY",
+      "song": "Heavy Harm",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Stylo",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "Make You Happy",
+      "label": "Ivy League",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "REGINA SPEKTOR",
+      "song": "Folding Chair",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE JEZABELS",
+      "song": "Hurt Me",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Walk In The Park",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PATRICK WATSON",
+      "song": "The Great Escape",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOSE GONZALEZ",
+      "song": "Hand On Your Heart",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RYAN ADAMS",
+      "song": "Two",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FIONN REGAN",
+      "song": "Put A Penny In The Slot",
+      "label": "SpeaknSpell",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DAMIEN RICE",
+      "song": "Cannon Ball",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GOMEZ",
+      "song": "Get Myself Arrested",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "How To Make Gravy",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Heart-Shaped Box",
+      "label": "Universal (MCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Jeremy",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Down In A Hole",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Into My Arms",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Africa",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "I Want To Break Free",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Jump",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Atlantic City",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JEFFERSON AIRPLANE",
+      "song": "Uncle Sam Blues",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Under My Thumb",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Freak",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "YOU AM I",
+      "song": "Berlin Chair",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Working Against Me",
+      "label": "Murmur",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "POWDERFINGER",
+      "song": "The Day You Come",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Rabbit Song",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Blood To Gold",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Feeding Line",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Milk & Sticks",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Part Time Believer",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JINJA SAFARI",
+      "song": "Forest Eyes",
+      "label": "Other Tongues",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Gold Canary",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OWL EYES",
+      "song": "Raiders",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LOON LAKE",
+      "song": "In The Summer",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BALL PARK MUSIC",
+      "song": "Rich People Are Stupid",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE PANICS",
+      "song": "Don't Fight It",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "Rich Kids",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HUNGRY KIDS OF HUNGARY",
+      "song": "Let You Down",
+      "label": "MGM",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EMMA-LOUISE",
+      "song": "Jungle",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE MIDDLE EAST",
+      "song": "Blood",
+      "label": "Spunk",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ANDY BULL",
+      "song": "Phantom Pains",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LITTLE RED",
+      "song": "Slow Motion",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE JOHN STEEL SINGERS",
+      "song": "Overpass",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BIG SCARY",
+      "song": "Tuesday Is Rent Day",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE HOLIDAYS",
+      "song": "Moonlight Hours",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BUSBY MAROU",
+      "song": "Biding My Time",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YVES KLEIN BLUE",
+      "song": "Make Up Your Mind",
+      "label": "Dew Process/UMA",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LAST DINOSAURS",
+      "song": "Time And Place",
+      "label": "Dew Process/UMA",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Girls Do Cry",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ERNEST ELLIS",
+      "song": "Loveless",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JONATHAN BOULET",
+      "song": "North To South East To You",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

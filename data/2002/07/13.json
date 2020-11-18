@@ -1,0 +1,741 @@
+{
+  "title": "Saturday 13th July",
+  "special": "Tenacious D guest program",
+  "timeslot": null,
+  "date": "2002-07-13",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020713.htm",
+  "tracks": [
+    {
+      "artist": "SPINAL TAP",
+      "song": "The Majesty Of Rock",
+      "label": "BMG",
+      "timeslot": "11:52:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Bohemian Rhapsody",
+      "label": "EMI",
+      "timeslot": "11:52:00"
+    },
+    {
+      "artist": "BILLY SQUIER",
+      "song": "The Stroke",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "White Wedding",
+      "label": "Fest/Mush",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "URGE OVERKILL",
+      "song": "Positive Bleeding",
+      "label": "Universal (MCA)",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Breakout",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Big Me",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PORNO FOR PYROS",
+      "song": "Pets",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Paranoid Android",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "Shaped Box - NIRVANA",
+      "song": "Heart",
+      "label": "Universal (MCA)",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Down In A Hole",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Under The Bridge",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Today",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PAVEMENT",
+      "song": "Cut Your Hair",
+      "label": "Fellaheen",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CAKE",
+      "song": "Short Skirt/Long Jacket (Naked Cowboy version)",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WESLEY WILLIS",
+      "song": "Alanis Morissette",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Devil's Haircut",
+      "label": "Universal (MCA)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Fell In Love With A Girl",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BUTTHOLE SURFERS",
+      "song": "Who Was In My Room Last Night?",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Freak On A Leash",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Falling Away From Me",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Clint Eastwood",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Music",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Beautiful Stranger",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "7",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Get Ur Freak On",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOUSE OF PAIN",
+      "song": "Jump Around",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Intergalactic",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Undone: The Sweater Song",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "The STROKES",
+      "song": "Last Nite",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Body Movin'",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Girl U Want",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CARS",
+      "song": "Just What I Needed",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHEAP TRICK",
+      "song": "If You Want My Love",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "I Love It Loud",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE HIVES",
+      "song": "Hate To Say I Told You So",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Brown Sugar",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Suffragette City",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE STROKES - Live",
+      "song": "New York City Cops",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Hotel Yorba",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Cross Bones Style",
+      "label": "MDS",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Everything In Its Right Place",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Just",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Time Of Your Life (Good Riddance)",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "People Are Strange",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Hey Joe",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Whole Lotta Rosie",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Photograph",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "The Unforgiven",
+      "label": "Mercury",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Number Of The Beast",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BUCKCHERRY",
+      "song": "Lit Up",
+      "label": "Universal (MCA)",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Stacked Actors",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Tribute",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Wonderboy",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Learn To Fly",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "The One",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOODHOUND GANG",
+      "song": "Why's Everybody Always Pickin' On Me",
+      "label": "Universal (MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SCATTERBRAIN",
+      "song": "Don't Call Me Dude",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TISM",
+      "song": "Greg, The Stop Sign!!",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "It's All About The Pentiums",
+      "label": "Jive/Zomba",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "Josie (Everything's Gonna Be Fine)",
+      "label": "MDS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JON SPENCER BLUES EXPLOSION",
+      "song": "Talk About The Blues",
+      "label": "Au-Go-Go",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Where It's At",
+      "label": "Universal (MCA)",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Buddy Holly",
+      "label": "Universal (MCA)",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "The CALLING",
+      "song": "Wherever You Will Go",
+      "label": "BMG",
+      "timeslot": "04:00:00",
+      "countdown": 50
+    },
+    {
+      "artist": "JA RULE",
+      "song": "Always On Time",
+      "label": "Universal",
+      "timeslot": "04:00:00",
+      "countdown": 48
+    },
+    {
+      "artist": "DEFAULT",
+      "song": "Wasting My Time",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00",
+      "countdown": 46
+    },
+    {
+      "artist": "SHAKAYA",
+      "song": "Sublime",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 45
+    },
+    {
+      "artist": "NAUGHTY BY NATURE",
+      "song": "Feels Good (Kelly G Mix)",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00",
+      "countdown": 44
+    },
+    {
+      "artist": "MICHELLE BRANCH",
+      "song": "All You Wanted",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 43
+    },
+    {
+      "artist": "LASGO",
+      "song": "Something",
+      "label": "Central Station",
+      "timeslot": "04:30:00",
+      "countdown": 42
+    },
+    {
+      "artist": "ROCKMELONS featuring JEREMY",
+      "song": "All I Want Is You",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00",
+      "countdown": 41
+    },
+    {
+      "artist": "MARY J. BLIGE",
+      "song": "No More Drama",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 40
+    },
+    {
+      "artist": "MOTOR ACE",
+      "song": "Carry On",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00",
+      "countdown": 39
+    },
+    {
+      "artist": "112",
+      "song": "Peaches & Cream",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 38
+    },
+    {
+      "artist": "SCOTT CAIN",
+      "song": "I'm Moving On",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 37
+    },
+    {
+      "artist": "ALI G & SHAGGY",
+      "song": "Me Julie",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 36
+    },
+    {
+      "artist": "THE WHITLAMS",
+      "song": "Fall For You",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 35
+    },
+    {
+      "artist": "BLUE",
+      "song": "Fly By II",
+      "label": "Virgin",
+      "timeslot": "05:00:00",
+      "countdown": 34
+    },
+    {
+      "artist": "ALEX LLOYD",
+      "song": "Everybody's Laughing",
+      "label": "EMI",
+      "timeslot": "05:00:00",
+      "countdown": 33
+    },
+    {
+      "artist": "HANNAH",
+      "song": "No Relief",
+      "label": "Independent",
+      "timeslot": "05:00:00",
+      "countdown": 32
+    },
+    {
+      "artist": "TOYA",
+      "song": "No Matta What",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 31
+    },
+    {
+      "artist": "DJ OTZI vs. HERMES HOUSE BAND",
+      "song": "Life Is Life",
+      "label": "Shock",
+      "timeslot": "05:30:00",
+      "countdown": 30
+    },
+    {
+      "artist": "ALICIA KEYS",
+      "song": "How Come You Don't Call Me",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 29
+    },
+    {
+      "artist": "LIBERTY X",
+      "song": "Just A Little",
+      "label": "Jive/Zomba",
+      "timeslot": "05:30:00",
+      "countdown": 28
+    },
+    {
+      "artist": "ANGIE STONE",
+      "song": "Wish I Didn't Miss You (Remix)",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 27
+    },
+    {
+      "artist": "ENRIQUE IGLESIAS",
+      "song": "Escape",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 26
+    },
+    {
+      "artist": "BACHELOR GIRL",
+      "song": "I'm Just A Girl",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 25
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Nasty Girls (Remix)",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 24
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Love At First Sight",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00",
+      "countdown": 23
+    },
+    {
+      "artist": "*NSYNC featuring NELLY",
+      "song": "Girlfriend (Beauty Pass remix)",
+      "label": "Jive/Zomba",
+      "timeslot": "06:00:00",
+      "countdown": 22
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Hella Good",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 21
+    },
+    {
+      "artist": "DISCO MONTEGO featuring KATIE UNDERWOOD",
+      "song": "Beautiful",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 20
+    },
+    {
+      "artist": "FAT JOE featuring ASHANTI",
+      "song": "What's Luv",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 19
+    },
+    {
+      "artist": "WILL SMITH",
+      "song": "Black Suits Comin'",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 18
+    },
+    {
+      "artist": "CHAD KROEGER featuring JOSEY SCOTT",
+      "song": "Hero",
+      "label": "Roadrunner",
+      "timeslot": "06:00:00",
+      "countdown": 17
+    },
+    {
+      "artist": "DJ SAMMY",
+      "song": "Heaven",
+      "label": "Central Station",
+      "timeslot": "06:00:00",
+      "countdown": 16
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "I Love Rock & Roll",
+      "label": "Jive/Zomba",
+      "timeslot": "06:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "SOPHIE ELLIS BEXTOR",
+      "song": "Get Over You",
+      "label": "Universal",
+      "timeslot": "06:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "TAXIRIDE",
+      "song": "Creepin' Up Slowly",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Tribute",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "CHRISTINA MILIAN",
+      "song": "When You Look At Me",
+      "label": "Universal",
+      "timeslot": "06:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "By The Way",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "RONAN KEATING",
+      "song": "If Tomorrow Never Comes",
+      "label": "Universal",
+      "timeslot": "06:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "VANESSA CARLTON",
+      "song": "A Thousand Miles",
+      "label": "Universal",
+      "timeslot": "06:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "SHAKIRA",
+      "song": "Underneath Your Clothes",
+      "label": "Sony",
+      "timeslot": "07:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "ASHANTI",
+      "song": "Foolish",
+      "label": "Universal",
+      "timeslot": "07:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "Part 1 - P. DIDDY & USHER featuring LOON",
+      "song": "I Need A Girl",
+      "label": "BMG",
+      "timeslot": "07:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "NELLY",
+      "song": "Hot In Herre",
+      "label": "Universal",
+      "timeslot": "07:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "HOLLY VALANCE",
+      "song": "Kiss Kiss",
+      "label": "Universal",
+      "timeslot": "07:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Without Me",
+      "label": "Universal",
+      "timeslot": "07:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "ELVIS vs. JXL",
+      "song": "A Little Less Conversation",
+      "label": "BMG",
+      "timeslot": "07:00:00",
+      "countdown": 1
+    }
+  ]
+}

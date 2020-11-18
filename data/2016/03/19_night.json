@@ -1,0 +1,639 @@
+{
+  "title": "Saturday night 19 March 2016, ABC",
+  "special": "Neon Indian",
+  "timeslot": "night",
+  "date": "2016-03-19",
+  "url": "http://www.abc.net.au/rage/archive/s4427898.htm",
+  "tracks": [
+    {
+      "artist": "NEON INDIAN",
+      "song": "Polish Girl",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "YELLOW MAGIC ORCHESTRA",
+      "song": "Computer Games",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DETROIT GRAND PUBAHS",
+      "song": "Sandwiches",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GEORGE CLINTON",
+      "song": "Atomic Dog",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE REELS",
+      "song": "I Don't Love You Any More",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ROBERT PALMER",
+      "song": "Johnny And Mary",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PREFAB SPROUT",
+      "song": "The King Of Rock 'N' Roll",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "YELLO",
+      "song": "I Love You",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CABARET VOLTAIRE",
+      "song": "Just Fascination",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SEVERED HEADS",
+      "song": "Hot With Fleas",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SEVERED HEADS - LIVE ON ROCK ARENA",
+      "song": "Petrol",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HAIRCUT 100",
+      "song": "Love Plus One",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE TH",
+      "song": "This Is The Day",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "More Than This",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLOOD ORANGE featuring SAMANTHA URBANI",
+      "song": "You're Not Good Enough",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THUNDERCAT",
+      "song": "Them Changes",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GENEVA JACUZZI",
+      "song": "Love Caboose",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RYUICHI SAKAMOTO and IGGY POP",
+      "song": "Risky",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MISSING PERSONS",
+      "song": "Destination Unknown",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Love Is The Drug",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EMPRESS OF",
+      "song": "How Do You Do It",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RYUICHI SAKAMOTO",
+      "song": "Love and Hate",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "UNKNOWN MORTAL ORCHESTRA",
+      "song": "Multi-Love",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PETER GODWIN",
+      "song": "Images Of Heaven",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SILICON TEENS",
+      "song": "Memphis Tennessee",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FLASH and THE PAN",
+      "song": "Waiting For A Train",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CAPTAIN SENSIBLE",
+      "song": "Wot?",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BALTIMORA",
+      "song": "Tarzan Boy",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RIGHEIRA",
+      "song": "Vamos A La Playa",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Since I Left You",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YUKIHIRO TAKAHASHI",
+      "song": "Walking To The Beat",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "INNER CITY",
+      "song": "Big Fun",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FRONT 242",
+      "song": "Headhunter",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ORANGE JUICE",
+      "song": "Rip It Up",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOT CHOCOLATE",
+      "song": "Emma",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SLY and ROBBIE",
+      "song": "Boops (Here To Go)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPACE",
+      "song": "Magic Fly",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SHOWER SCENE FROM PSYCHO",
+      "song": "Lost In Spaces",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SANDII and THE SUNSETS",
+      "song": "Sticky Music",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UB40",
+      "song": "Don't Break My Heart",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DROOL",
+      "song": "End Girl",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PERE UBU",
+      "song": "Love Love Love",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JEAN MICHEL JARRE",
+      "song": "Zoolook",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOVEMENT",
+      "song": "Us",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GODLEY and CREME",
+      "song": "Cry",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ART OF NOISE",
+      "song": "Moments In Love",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BRYAN FERRY",
+      "song": "Slave To Love",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ELECTRONIC",
+      "song": "Getting Away With It",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE SIMPSONS",
+      "song": "Do The Bartman",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WOMACK and WOMACK",
+      "song": "Teardrops",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NEON INDIAN",
+      "song": "Slumlord Rising",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NEON INDIAN",
+      "song": "Polish Girl",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Freak",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Get Out",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SON LUX",
+      "song": "Undone",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "VINCE STAPLES",
+      "song": "Lift Me Up",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "God Is Gangsta",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BAIO",
+      "song": "The Names",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "POINT POINT",
+      "song": "Life In Grey",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HIGHASAKITE",
+      "song": "Someone Who'll Get It",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPARROWS",
+      "song": "On Your Own",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MAJOR LAZER ft. NYLA and FUSE ODG",
+      "song": "Light It Up (Remix)",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JESSE JAMES SOLOMON",
+      "song": "YPT",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FLATBUSH ZOMBIES",
+      "song": "Bounce",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RY",
+      "song": "Ordinary Record",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SHANE NICHOLSON",
+      "song": "Weight Of The World",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WALKEN",
+      "song": "Eagle Eye",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FOUNTAINEER",
+      "song": "Still Life",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RAINBOW CHAN",
+      "song": "Nest",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WHITE LUNG",
+      "song": "Hungry",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHARLIE HILTON",
+      "song": "Something For Us All",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Golden Gal",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LITTLE GREEN CARS",
+      "song": "Easier Day",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Blood On My Leather",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPRING KING",
+      "song": "Rectifier",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GREEN BUZZARD",
+      "song": "(I Don't Wanna) Break Your Heart",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Viceroy",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "METZ",
+      "song": "Eraser",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Some People (Have All The Fun)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Hold Back The Night (Live on Countdown, 1981)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON ENGLISH and HOLLYWOOD SEVEN",
+      "song": "I'm A Survivor",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Carmilla",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Hot Town",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Nights In Paradise (Live On Countdown, 1978)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Rehearsal for 'The Bacchoi' (GTK, 1974)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Emotion",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Lay It All Down (Live on The Real Thing, 1977)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Words Are Not Enough",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Straight From The Heart (Live on Countdown, 1981)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "1979 COUNTDOWN ROCK AWARDS",
+      "song": "April 13th, 1980",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "The Shining (Live on Countdown, 1981)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JON ENGLISH and MARCIA HINES",
+      "song": "Jokers And Queens (Live on Countdown, 1982)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JON ENGLISH",
+      "song": "Hollywood 7",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GARY YOUNG WITH DADDY COOL",
+      "song": "Rock 'N' Roll Lady",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DADDY COOL",
+      "song": "This Day Tonight, December 1971",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DADDY COOL",
+      "song": "Zoom Zoom Zoom (Live at Ridgetop Pop Festival, 1974)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ROSS HANNAFORD and LARGEST LIVING THINGS",
+      "song": "The Man Is Driven (Live on Hessie's Shed, 1998)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ROSS HANNAFORD and PAUL MADIGAN",
+      "song": "J.A.G. (Live on Rock Arena, 1988)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MARK GILLESPIE",
+      "song": "Small Mercies (Live on Countdown, 1980)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DADDY COOL - LIVE GTK",
+      "song": "Shake, Rattle and Roll",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DADDY COOL",
+      "song": "Bom Bom",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MIGHTY KONG",
+      "song": "Beezlebub Boogie - live on GTK",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DADDY COOL",
+      "song": "Live at The Big Rock Concert, 1975",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DADDY COOL - LIVE",
+      "song": "Come Back Again",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DADDY COOL",
+      "song": "Eagle Rock",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

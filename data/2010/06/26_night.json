@@ -1,0 +1,603 @@
+{
+  "title": "Saturday night  Saturday, 26 June",
+  "special": "Meat Loaf",
+  "timeslot": "night",
+  "date": "2010-06-26",
+  "url": "http://www.abc.net.au/rage/archive/s2937360.htm",
+  "tracks": [
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Jailhouse Rock",
+      "label": "BMG",
+      "timeslot": "23:58:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Walking The Dog",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Life On Mars",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BON JOVI",
+      "song": "She Don't Know Me",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Tribute",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Country Girl",
+      "label": "SBME",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Falling To Pieces",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TRANSPLANTS",
+      "song": "Diamonds & Guns",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE REVEREND HORTON HEAT",
+      "song": "One Time For Me",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "I Want You So Hard (Boy's Bad News)",
+      "label": "SBME",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "VELVET REVOLVER",
+      "song": "Fall To Pieces",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Time Of Your Life (Good Riddance)",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLIND MELON",
+      "song": "Change",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TRAIN",
+      "song": "Drops Of Jupiter",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Low",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RISE AGAINST",
+      "song": "Savior",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GOOD CHARLOTTE",
+      "song": "Keep Your Hands Off My Girl",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JACK'S MANNEQUIN",
+      "song": "The Resolution",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SWITCHFOOT",
+      "song": "Meant To Live",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE GASLIGHT ANTHEM",
+      "song": "The '59 Sound",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Tangled Up In Blue",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE RIGHTEOUS BROTHERS",
+      "song": "Unchained Melody",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Superstition",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Paparazzi",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Plug In Baby",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BIG PINK",
+      "song": "Dominos",
+      "label": "Remote Control",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WHAM",
+      "song": "Everything She Wants",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Chop Suey",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ANTHRAX & PUBLIC ENEMY",
+      "song": "Bring Tha Noise",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AUDIOSLAVE",
+      "song": "Cochise",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Time Bomb",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BLACKOUT",
+      "song": "Save Our Selves (The Warning)",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "Los Angeloser",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "You Took The Words Right Out Of My Mouth",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "Nowhere Fast",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "Couldn't Have Said It Better",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "Man Of Steel",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "Paradise By The Dashboard Light",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "It's All Coming Back To Me Now",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "Guilty Of Love",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "Lay Down Your Love",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "Here I Go Again",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "POISON",
+      "song": "Every Rose Has Its Thorn",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Get Your Hands Off My Woman",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Growing On Me",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "I Believe In A Thing Called Love",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Christmas Time (Don't Let The Bells End)",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Love Is Only A Feeling",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "One Way Ticket",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Is It Just Me?",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Girlfriend",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Love On The Rocks With No Ice",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Rock 'N' Roll All Nite",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Shout It Out Loud",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Hard Luck Woman",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "I Was Made For Loving You",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Sure Know Something",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Shandi",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "World Without Heroes",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "I'm Eighteen",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "School's Out",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Elected",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Only Women Bleed",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Department Of Youth",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "You And Me",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Clones (We're All)",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Sweet Emotion",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Dude (Looks Like A Lady)",
+      "label": "CBS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Love In An Elevator",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Janie's Got A Gun",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WARRANT",
+      "song": "Cherry Pie",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRANK ZAPPA",
+      "song": "You Are What You Is",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THEM",
+      "song": "Baby Please Don't Go",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BONNIE TYLER",
+      "song": "Holding Out For A Hero",
+      "label": "CBS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JOAN JETT & THE BLACKHEARTS",
+      "song": "I Love Rock & Roll",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "We Are The Champions",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHEAP TRICK",
+      "song": "If You Want My Love",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROCKY HORROR PICTURE SHOW",
+      "song": "Time Warp",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DOS HELL",
+      "song": "Pretty Girls",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLUE KING BROWN",
+      "song": "Woman's Revolution",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMMA DONOVAN",
+      "song": "Changes",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BASICS",
+      "song": "Wait For You",
+      "label": "Albert Productions",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FIELD MUSIC",
+      "song": "Let's Write A Book",
+      "label": "Spunk",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BIG SCARY",
+      "song": "Autumn",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VIA TANIA",
+      "song": "Fields",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WONS PHREELY",
+      "song": "The World Has A Bank Account",
+      "label": "Ivy League",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Rabbit Song",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CARNATION",
+      "song": "Gone",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE SCHOOL",
+      "song": "Is He Really Coming Home?",
+      "label": "Popfrenzy",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BORN RUFFIANS",
+      "song": "What To Say",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE DRUMS",
+      "song": "Forever & Ever Amen",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BRENDAN MACLEAN",
+      "song": "Practically Wasted",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NEW YOUNG PONY CLUB",
+      "song": "We Want To",
+      "label": "Liberator",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Clap Your Hands",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "Rich Kids",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAMIE LIDELL",
+      "song": "The Ring",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CORDRAZINE",
+      "song": "Sunshine",
+      "label": "Rubber",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DARREN HANLON",
+      "song": "All These Things",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

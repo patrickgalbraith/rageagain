@@ -1,0 +1,555 @@
+{
+  "title": "Friday night 26 June 2015",
+  "special": null,
+  "timeslot": "night",
+  "date": "2015-06-26",
+  "url": "http://www.abc.net.au/rage/archive/s4262781.htm",
+  "tracks": [
+    {
+      "artist": "FOALS",
+      "song": "What Went Down",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "VERUCA SALT",
+      "song": "Laughing In The Sugar Bowl",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SLAVES",
+      "song": "Cheer Up London",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DROOL",
+      "song": "End Girl",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Cruel",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BRAIDS",
+      "song": "Miniskirt",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FOXTROTT",
+      "song": "Driven",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SEX ON TOAST",
+      "song": "Oh Loretta!",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEIRUT",
+      "song": "No No No",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DARWIN DEEZ",
+      "song": "Kill Your Attitude",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE TIM ROGERS and BAMBOOS",
+      "song": "Easy",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FATHER JOHN MISTY",
+      "song": "I Love You, Honeybear",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLACK ENGLISH",
+      "song": "Another Life",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EDITORS",
+      "song": "No Harm",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TOTALLY MILD",
+      "song": "Move On",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ELIZABETH ROSE",
+      "song": "Division",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "B WISE",
+      "song": "Prince Akeem",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BARO",
+      "song": "See Less",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VIC MENSA featuring KANYE WEST",
+      "song": "U Mad",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SONREAL",
+      "song": "For The Town",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ART DEPARTMENT",
+      "song": "Walls",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OPIUO",
+      "song": "Quack Fat",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MARLON WILLIAMS",
+      "song": "Strange Things",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VERTICOLI",
+      "song": "Happiness",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Dreamland",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FIDLAR",
+      "song": "40oz. On Repeat",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BULLY",
+      "song": "Trying",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LAST DINOSAURS",
+      "song": "Evie",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MIKAL CRONIN",
+      "song": "Say",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HARD ROCK SOFA and SKIDKA",
+      "song": "Arms Around Me",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALISON WONDERLAND",
+      "song": "Run",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DJ HAUS",
+      "song": "I Can Feel It",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PANAMA",
+      "song": "Jungle",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FFS",
+      "song": "Piss Off",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JON SPENCER BLUES EXPLOSION",
+      "song": "Tales of the Old New York: The Rock Box",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE FJORDS",
+      "song": "All In",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HOLLY HERNDON",
+      "song": "Morning Sun",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SASHA SIEM",
+      "song": "See-Through",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOEY BADA$$",
+      "song": "Paper Trail$",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NEKROGOBLIKON",
+      "song": "We Need A Gimmick",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Vice Grip",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NORTHLANE",
+      "song": "Obelisk",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KING PARROT",
+      "song": "Home Is Where The Gutter Is",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HIGH TENSION",
+      "song": "Killed By Life",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HELLIONS",
+      "song": "Nottingham",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LUDACRIS",
+      "song": "Grass Is Greener",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE WEEKND",
+      "song": "The Hills",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LION BABE",
+      "song": "Don't Break My Heart",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OMAR SOULEYMAN",
+      "song": "Bahdeni Nami",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EAST JOURNEY ft. YOTHU YINDI",
+      "song": "Song Of Arnhem Land (Salas/Moore Mix)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DREAM KOALA",
+      "song": "Earth",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GWILYM GOLD",
+      "song": "Triumph",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JULIAN CASABLANCAS _and_ THE VOIDZ",
+      "song": "Human Sadness",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MICK JENKINS",
+      "song": "P?s _and_ Q?s",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ANGUS _and_ JULIA STONE",
+      "song": "From The Stalls",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TIM GUY",
+      "song": "St Petersburg",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAESTRO",
+      "song": "Darlin' Celsa",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KNOR",
+      "song": "It's Happening",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BORN LION",
+      "song": "Break The Curse",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RETIREE",
+      "song": "Heard You're Doing Well",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DARTS",
+      "song": "Dead",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TWO SHEDS",
+      "song": "You Get To Me",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HEDGE FUND",
+      "song": "Look Who's Back",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE NEW PORNOGRAPHERS",
+      "song": "Champions Of Red Wine",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WIVES",
+      "song": "To Sin",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RAVIN",
+      "song": "Life Don't Shine",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GANG OF YOUTHS",
+      "song": "Radioface",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "POW POW KIDS",
+      "song": "Pow Pow Theme",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LIL B",
+      "song": "Soul Food",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HALSEY",
+      "song": "Ghost",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ZEDD featuring JON BELLION",
+      "song": "Beautiful Now",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TAZER X TINK",
+      "song": "Wet Dollars",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HERMITUDE ft. MATAYA _and_ YOUNG TAPZ",
+      "song": "The Buzz",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GOLDROOM feat GEORGE MAPLE",
+      "song": "Embrace",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALPINE",
+      "song": "Damn Baby",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Ong Ong",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PALMS",
+      "song": "Bad Apple",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HAYDEN JAMES",
+      "song": "Something About You",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TUKA",
+      "song": "Tattoo",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DUCKTAILS",
+      "song": "Headbanging In The Mirror",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOULLINEX",
+      "song": "Elsewhere",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GREEN BUZZARD",
+      "song": "Zoo Fly",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TUXEDO",
+      "song": "R U Ready",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FLUME featuring ANDREW WYATT",
+      "song": "Some Minds",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KODALINE",
+      "song": "Ready",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Mercy",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EVES THE BEHAVIOR",
+      "song": "Electrical",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALL WE ARE",
+      "song": "Honey",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NICOLAS GODIN",
+      "song": "Orca",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FTSE",
+      "song": "Blood On My Hands",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CRAFT SPELLS",
+      "song": "Twirl",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

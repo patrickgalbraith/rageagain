@@ -1,0 +1,689 @@
+{
+  "title": "Saturday 19th June",
+  "special": "Multi-coloured rage Special (songs with colours in their titles)",
+  "timeslot": null,
+  "date": "2004-06-19",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040619.htm",
+  "tracks": [
+    {
+      "artist": "ICE-T",
+      "song": "Colors",
+      "label": "Warner",
+      "timeslot": "11:27:00"
+    },
+    {
+      "artist": "RONI SIZE/REPRAZENT",
+      "song": "Brown Paper Bag",
+      "label": "Mercury",
+      "timeslot": "11:27:00"
+    },
+    {
+      "artist": "JURASSIC 5",
+      "song": "What's Golden",
+      "label": "Universal",
+      "timeslot": "11:27:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Honey",
+      "label": "Fest/Mush",
+      "timeslot": "11:27:00"
+    },
+    {
+      "artist": "GROOVE ARMADA",
+      "song": "Purple Haze",
+      "label": "Jive/Zomba",
+      "timeslot": "11:27:00"
+    },
+    {
+      "artist": "TRICKY",
+      "song": "Black Steel",
+      "label": "Mercury",
+      "timeslot": "11:27:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Lemon",
+      "label": "Mercury",
+      "timeslot": "11:27:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "Fools Gold",
+      "label": "Universal (MCA)",
+      "timeslot": "11:27:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS featuring THE FLAMING LIPS",
+      "song": "The Golden Path",
+      "label": "Virgin",
+      "timeslot": "11:27:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "Yoshimi Battles The Pink Robots",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "True Colors",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Yellow",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR - Live in Melbourne Park",
+      "song": "Paint Pastel Princess",
+      "label": "Murmur",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Blue",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Orange Crush",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PSYCHEDELIC FURS",
+      "song": "Pretty In Pink",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "I See Red",
+      "label": "Fest/Mush",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Redhead",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PEARL JAM - Live at The Garden",
+      "song": "Spin The Black Circle",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GRINSPOON",
+      "song": "Black Friday",
+      "label": "Universal (MCA)",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Back In Black",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Black Betty",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "Red Morning Light",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EVERLAST",
+      "song": "Black Jesus",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "15 Feet Of Pure White Snow",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ASH",
+      "song": "Goldfinger",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "UNWRITTEN LAW",
+      "song": "Seein' Red",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Ruby Wednesday",
+      "label": "Modular",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE OFFSPRING",
+      "song": "Pretty Fly (For A White Guy)",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GOLDFINGER",
+      "song": "99 Red Balloons",
+      "label": "Jive/Zomba",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Ruby Soho",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Silver Rocket",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Violet",
+      "label": "Universal (MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BABES IN TOYLAND",
+      "song": "Bruise Violet",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "A Certain Shade Of Green",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "Girls Not Grey",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "Coma White",
+      "label": "Universal (MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KISS with MELBOURNE SYMPHONY ORCHESTRA",
+      "song": "Black Diamond",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METALLICA - Live",
+      "song": "Fade To Black",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Green Machine",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Purple Haze",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEEP PURPLE",
+      "song": "Black Night",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Black Math",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PINK GREASE",
+      "song": "The Pink G.R.Ease",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MORPHINE",
+      "song": "Honey White",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Brown Sugar",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Golden Years",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRINCE (T.A.F.K.A.P.)",
+      "song": "Gold",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "D'ANGELO",
+      "song": "Brown Sugar",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "INDIA.ARIE",
+      "song": "Brown Skin",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Red Blooded Woman",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEEPEST BLUE",
+      "song": "Deepest Blue",
+      "label": "MOS/EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AIR",
+      "song": "Cherry Blossom Girl",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Black Cherry",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MOLOKO",
+      "song": "Indigo",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Cherry Lips",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOSS HOG",
+      "song": "Whiteout",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Red Alert",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "D-12",
+      "song": "Purple Pills",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "Black Bugs",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EIFFEL 65",
+      "song": "Blue",
+      "label": "Central Station",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ENDORPHIN",
+      "song": "Blue Moon",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VISAGE",
+      "song": "Fade To Grey",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BUFFALO TOM",
+      "song": "Tangerine",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YOU AM I",
+      "song": "Purple Sneakers",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PAVEMENT",
+      "song": "Gold Soundz",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GOODSHIRT",
+      "song": "Green",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AMMONIA",
+      "song": "Monochrome",
+      "label": "Murmur",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Black & White",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE CRUEL SEA",
+      "song": "Black Stick",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JON SPENCER BLUES EXPLOSION",
+      "song": "Magical Colors",
+      "label": "Au-Go-Go",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHRIS ISAAK",
+      "song": "Blue Hotel",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "The Orange Blossom Special",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Tangled Up In Blue",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE TRIFFIDS",
+      "song": "Spanish Blue",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GALAXIE 500",
+      "song": "Blue Thunder",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GORKY'S ZYGOTIC MYNCI",
+      "song": "Stood On Gold",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "Strawberry Fields",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Golden Brown",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RON SEXSMITH featuring CHRIS MARTIN",
+      "song": "Gold In Them Hills",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELBOW",
+      "song": "Red",
+      "label": "V2",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JANET JACKSON",
+      "song": "Black Cat",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Raspberry Beret",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Cream",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL McCARTNEY & STEVIE WONDER",
+      "song": "Ebony & Ivory",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BEN HARPER",
+      "song": "Brown Eyed Blues",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "URBAN DANCE SQUAD",
+      "song": "Deeper Shade Of Soul",
+      "label": "Universal (MCA)",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JACK JOHNSON & G LOVE",
+      "song": "Rainbow",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EVEN",
+      "song": "Black Umbrella",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Something Borrowed, Something Blue",
+      "label": "Modular",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Baby Blue",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALEX LLOYD",
+      "song": "Green",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ANGIE HART",
+      "song": "Blue",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DIDO",
+      "song": "White Flag",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KASEY CHAMBERS",
+      "song": "True Colours",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAMELIA",
+      "song": "Thank You",
+      "label": "EMI",
+      "timeslot": "05:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "D-12",
+      "song": "My Band",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "ROB MILLS",
+      "song": "Ms. Vanity",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "JESSICA SIMPSON",
+      "song": "With You",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "STARSAILOR",
+      "song": "Four To The Floor",
+      "label": "EMI",
+      "timeslot": "05:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "Perfect",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "CHINGY",
+      "song": "One Call Away",
+      "label": "EMI",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "HOOBASTANK",
+      "song": "The Reason",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Roses",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "KELIS",
+      "song": "Trick Me",
+      "label": "Virgin",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "ANASTACIA",
+      "song": "Left Outside Alone",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Black Betty",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "MARIO WINANS featuring P. DIDDY",
+      "song": "I Don't Wanna Know",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "FRANKEE",
+      "song": "F.U.R.B.",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

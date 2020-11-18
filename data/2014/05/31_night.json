@@ -1,0 +1,735 @@
+{
+  "title": "Saturday night  Saturday, 31 May 2014",
+  "special": "Primitive Calculators",
+  "timeslot": "night",
+  "date": "2014-05-31",
+  "url": "http://www.abc.net.au/rage/archive/s4015933.htm",
+  "tracks": [
+    {
+      "artist": "PRIMITIVE CALCULATORS",
+      "song": "Pumping Ugly Muscle",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Death Walking Terror",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MADE AUSTRIA",
+      "song": "The Hard Way",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "PETEY and JAYDEE",
+      "song": "Deck The Halls",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "No Place To Hide",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "LIVING COLOUR",
+      "song": "Cult Of Personality",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SCRIBE",
+      "song": "Not Many (The Remix)",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "Sorry",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CHAIN - LIVE GTK",
+      "song": "Judgement",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "COLOURED BALLS",
+      "song": "Working Man's Boogie",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ERIC BURDON and THE ANIMALS",
+      "song": "When I Was Young",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JOHNNY O'KEEFE",
+      "song": "Shout",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SPECTRUM",
+      "song": "I'll Be Gone",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CANDI STATON",
+      "song": "Young Hearts Run Free",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ARETHA FRANKLIN",
+      "song": "Respect",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ETTA JAMES",
+      "song": "Baby, What You Want Me To Do",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "N.W.A",
+      "song": "Express Yourself",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GRANDMASTER FLASH and THE FURIOUS FIVE",
+      "song": "The Message",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Setting Sun",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GILLIAN WELCH",
+      "song": "Revelator",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Nothing Compares 2 U",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Stan",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GREAT REVOLUTION",
+      "song": "Feedback Jack",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE",
+      "song": "Girlfriend",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Enter Sandman",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PUSSY RIOT",
+      "song": "Putin Lights Up The Fires",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Star Spangled Banner",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Kashmir",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Dirty Deeds Done Dirt Cheap",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Ben",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Spics and Specks",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "In The Flesh",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PATTI SMITH",
+      "song": "Summer Cannibals",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DNA",
+      "song": "Venom",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YOUNG GODS",
+      "song": "Rue Des Tempetes",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN AND THE E-STREET BAND",
+      "song": "Born To Run",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BURNING SPEAR",
+      "song": "As It Is",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JIMMY LITTLE",
+      "song": "Yorta Yorta Man",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "Power To The People",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLACK BOX",
+      "song": "Ride On Time",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AIR SUPPLY",
+      "song": "Lost In Love, Every Woman In The World, All Out Of Love Medley",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KD LANG and ROY ORBISON",
+      "song": "Crying",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LOUIS ARMSTRONG",
+      "song": "What A Wonderful World",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PILOT",
+      "song": "January",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Sign O' The Times",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FLASH and THE PAN",
+      "song": "Midnight Man",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WYCLEF JEAN",
+      "song": "Gone 'Til November",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NO FIXED ADDRESS",
+      "song": "From My Eyes",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GEORGE HARRISON - AT CONCERT FOR BANGLEDESH",
+      "song": "Something",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES - LIVE",
+      "song": "Knocking On Heavens Door",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SAINTS - LIVE AT PADDINGTON TOWN HALL (1977)",
+      "song": "Run Down",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Rock 'N' Roll High School",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WILD CHERRIES",
+      "song": "G.O.D.",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE MASTER'S APPRENTICES",
+      "song": "Because I Love You",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GERRY AND THE PACEMAKERS",
+      "song": "Ferry Across The Mersey",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Strict Machine",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JOE COCKER",
+      "song": "The Letter",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JAMES BROWN - LIVE AT CHASTAIN PARK",
+      "song": "It's Too Funky In Here",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "STEVIE WONDER - LIVE",
+      "song": "Superstition",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Suspicious Minds (Live)",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Dancing Queen",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MATTHEW SWEET",
+      "song": "Girlfriend",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "2,000 Light Years From Home",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BILLY THORPE and THE AZTECS",
+      "song": "Mama",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SWEET",
+      "song": "Ballroom Blitz",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PRIMITIVE CALCULATORS",
+      "song": "Dead",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PRIMITIVE CALCULATORS",
+      "song": "Why",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PRIMITIVE CALCULATORS",
+      "song": "I Can't Stop It",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PRIMITIVE CALCULATORS",
+      "song": "Pumping Ugly Muscle",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MAC DE MARCO",
+      "song": "Passing Out Pieces",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SCHOOLBOY Q",
+      "song": "Hoover Street",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LE1F",
+      "song": "Sup",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DIE ANTWOORD",
+      "song": "Pitbull Terrier",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CYHI THE PRYNCE",
+      "song": "Mandela",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TINY RUINS",
+      "song": "Carriages",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VINTERSORG",
+      "song": "L?gornas Rov",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EQUILIBRIUM",
+      "song": "Wirtshaus Gaudi",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EVERY TIME I DIE",
+      "song": "Thirst",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALLEGAEON",
+      "song": "1.618",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLOODS",
+      "song": "I Want It",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOWLING BELLS",
+      "song": "Your Love",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DANTE",
+      "song": "Whitney",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SASKWATCH",
+      "song": "A Love Divine",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PANDREAS",
+      "song": "Beluga",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JOKERS OF THE SCENE",
+      "song": "Channels For Success",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHAIM",
+      "song": "Blue Shadow",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KIDKANEVIL featuring PHASMA",
+      "song": "Inakunaru",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ED SCHRADER'S MUSIC BEAT",
+      "song": "Laughing",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DELTRON 3030 featuring JAMIE CULLUM",
+      "song": "Do You Remember",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HAUSCHKA",
+      "song": "Adgam",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WIREHEADS",
+      "song": "Five Grand",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Chandelier",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NORTHEAST PARTY HOUSE",
+      "song": "The Haunted",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NAOMI PILGRIM",
+      "song": "House of Dreams",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LA ROUX",
+      "song": "Let Me Down Gently",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "R?YKSOPP _and_ ROBYN",
+      "song": "Sayit",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Unicorn",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TUNE-YARDS",
+      "song": "Water Fountain",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAMON ALBARN",
+      "song": "Mr Tembo",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DRU CHEN",
+      "song": "Turnaround",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CLAP YOUR HANDS SAY YEAH",
+      "song": "As Always",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BOBMO feat SHAUN J WRIGHT",
+      "song": "When I Look",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KWABS",
+      "song": "Pray For Love",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FLYING LOTUS",
+      "song": "Phantasm",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "VELOCIRAPTOR",
+      "song": "Ramona",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DJ DODGER STADIUM",
+      "song": "Love Songs",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALEXIS TAYLOR",
+      "song": "Without A Crutch (2)",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Reflective Skull",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "CASSIUS SELECT",
+      "song": "Judge/Lock",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "We Exist",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "CLIPPING featuring COCC PISTOL CREE",
+      "song": "Work Work",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BLACK BANANAS",
+      "song": "Physical Emotions",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "HANDBRAEKES",
+      "song": "Bravo",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "TRENTEM?LLER featuring SUNE ROSE WAGNER",
+      "song": "Deceive",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LANCELOT featuring NGAIIRE",
+      "song": "Ain't Nothin' Goin' on But the Rent",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "TURKISH PRISON",
+      "song": "Ancient City",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "FISHING feat JONAS NICHOLLS",
+      "song": "Your Mouth",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE ROOTS",
+      "song": "Understand",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE ACID",
+      "song": "Fame",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BEN KHAN",
+      "song": "Youth",
+      "label": null,
+      "timeslot": "07:30:00"
+    }
+  ]
+}

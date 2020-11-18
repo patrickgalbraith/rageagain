@@ -1,0 +1,465 @@
+{
+  "title": "Saturday morning  Saturday, 4 September",
+  "special": "Xavier Rudd",
+  "timeslot": "morning",
+  "date": "2010-09-04",
+  "url": "http://www.abc.net.au/rage/archive/s3002252.htm",
+  "tracks": [
+    {
+      "artist": "JUSTICE CREW",
+      "song": "And Then We Dance",
+      "label": "Sony",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "FLO RIDA featuring DAVID GUETTA",
+      "song": "Club Can't Handle Me",
+      "label": "Warner",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "SCOUTING FOR GIRLS",
+      "song": "Famous",
+      "label": "Sony",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "TRAIN",
+      "song": "If It's Love",
+      "label": "Sony",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "UNCLE KRACKER",
+      "song": "Smile",
+      "label": "Warner",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "CODY SIMPSON featuring FLO RIDA",
+      "song": "iYiYi",
+      "label": "Warner",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "JOHN BUTLER TRIO",
+      "song": "Revolution",
+      "label": "KAOS",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "MICHAEL PAYNTER",
+      "song": "Love The Fall",
+      "label": "Sony",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "HAYLEY WARNER",
+      "song": "Hands Off",
+      "label": "Sony",
+      "timeslot": "06:02:00"
+    },
+    {
+      "artist": "ART vs SCIENCE",
+      "song": "Magic Fountain",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ADAM LAMBERT",
+      "song": "If I Had You",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "USHER featuring PITBULL",
+      "song": "DJ Got Us Fallin In Love",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "OU EST LE SWIMMING POOL",
+      "song": "Dance The Way I Feel",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE POTBELLEEZ",
+      "song": "Hello",
+      "label": "Vicious",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KATY PERRY featuring SNOOP DOGG",
+      "song": "California Gurls",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Plans",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Mine",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THIRSTY MERC",
+      "song": "Tommy & Krista",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "PLAIN WHITE T'S",
+      "song": "Rhythm Of Love",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "B.O.B featuring HAYLEY WILLIAMS",
+      "song": "Airplanes",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "STAN WALKER",
+      "song": "Choose You",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MIKE POSNER",
+      "song": "Cooler Than Me",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ZOE BADWI",
+      "song": "Freefallin",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ENRIQUE IGLESIAS featuring PITBULL",
+      "song": "I Like It",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KE$HA",
+      "song": "Take It Off",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "Closer To The Edge",
+      "label": "EMI",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SECONDHAND SERENADE",
+      "song": "Something More",
+      "label": "Liberation",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE SCRIPT",
+      "song": "For The First Time",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JOHN LEGEND & THE ROOTS",
+      "song": "Wake Up Everybody",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "TRAVIE McCOY featuring BRUNO MARS",
+      "song": "Billionaire",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SARAH HARMER",
+      "song": "Captive",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SARA BAREILLES",
+      "song": "King Of Anything",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE VERSUS",
+      "song": "Want Everything",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BLUE KING BROWN",
+      "song": "Never Fade Away",
+      "label": "Independent",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "ELIZA DOOLITTLE",
+      "song": "Pack Up",
+      "label": "EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE MIXTURES",
+      "song": "In The Summertime",
+      "label": "Independent",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "Ready To Start",
+      "label": "EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "I BLAME COCO featuring ROBYN",
+      "song": "Caesar",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "JINJA SAFARI",
+      "song": "Peter Pan",
+      "label": "Other Tongues",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "JONSI",
+      "song": "Animal Arithmetic",
+      "label": "EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "OLD MAN RIVER",
+      "song": "Norway (I Like It Like That)",
+      "label": "EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE PANICS",
+      "song": "Don't Fight It",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE HOOSIERS",
+      "song": "Choices",
+      "label": "Sony",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE COUNT & SINDEN featuring THE MYSTERY JETS",
+      "song": "After Dark",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "FREELANCE WHALES",
+      "song": "Generator Second Floor",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Hold On",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "FLYING LOTUS featuring THUNDERCAT",
+      "song": "Mmmhmm",
+      "label": "Warp",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Another World",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "MC HAMMER",
+      "song": "U Can't Touch This",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Bootylicious",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "What You Need",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "RICHARD IN YOUR MIND",
+      "song": "Candelabra",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MARK RONSON & THE BUSINESS INTL",
+      "song": "The Bike Song",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DARWIN DEEZ",
+      "song": "Up In The Clouds",
+      "label": "Inertia",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH & THE NEW SLANG",
+      "song": "Modern Day Addiction",
+      "label": "Universal",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BUCK 65",
+      "song": "Wicked And Weird",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "Golden Skans",
+      "label": "Universal",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "KELE",
+      "song": "Everything You Wanted",
+      "label": "Shock",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SPIT SYNDICATE",
+      "song": "Starry-Eyed",
+      "label": "Obese Records",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Atomic",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SCISSOR SISTERS",
+      "song": "Any Which Way",
+      "label": "Universal",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "ROBYN",
+      "song": "Hang With Me",
+      "label": "Universal",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MIAMI HORROR featuring KIMBRA",
+      "song": "I Look To You",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BAG RAIDERS",
+      "song": "Way Back Home",
+      "label": "KAOS",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "XAVIER RUDD",
+      "song": "Better People",
+      "label": "Universal",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "PAUL KELLY - LIVE IN CONCERT",
+      "song": "From Little Things Big Things Grow",
+      "label": "Mushroom",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Time After Time",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CONCRETE BLONDE",
+      "song": "Joey",
+      "label": "Mushroom",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ARETHA FRANKLIN",
+      "song": "Respect",
+      "label": "Festival",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ANE BRUN featuring RON SEXSMITH",
+      "song": "Song 6",
+      "label": "Shock",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Army Of Me",
+      "label": "Polydor",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "AGAINST ME!",
+      "song": "White People For Peace",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BOB MARLEY",
+      "song": "No Woman No Cry",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BEN HARPER",
+      "song": "Steal My Kisses",
+      "label": "Virgin",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "COUNTING CROWS",
+      "song": "Mr Jones",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "XAVIER RUDD",
+      "song": "Time To Smile",
+      "label": "Universal",
+      "timeslot": "10:30:00"
+    }
+  ]
+}

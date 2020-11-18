@@ -1,0 +1,561 @@
+{
+  "title": "Saturday night  Saturday, 24 July",
+  "special": "Z-Trip",
+  "timeslot": "night",
+  "date": "2010-07-24",
+  "url": "http://www.abc.net.au/rage/archive/s2962636.htm",
+  "tracks": [
+    {
+      "artist": "RUN DMC & AEROSMITH",
+      "song": "Walk This Way",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE GIFT OF GAB (QUANNUM)",
+      "song": "Rat Race",
+      "label": "Jam Recordings",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLACKALICIOUS",
+      "song": "Make You Feel That Way",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "99 Problems",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Weapon Of Choice",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Hey Ya",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JAMIROQUAI",
+      "song": "Virtual Insanity",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "N.A.S.A.",
+      "song": "Money",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SNOOP DOGG featuring PHARRELL",
+      "song": "Drop It Like It's Hot",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LUDACRIS",
+      "song": "Stand Up",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JURASSIC 5",
+      "song": "What's Golden",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LL COOL J",
+      "song": "The Boomin' System",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "3RD BASS",
+      "song": "The Gas Face",
+      "label": "SBME",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BIZ MARKIE",
+      "song": "Just A Friend",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FATLIP",
+      "song": "What's Up Fatlip?",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THREE 6 MAFIA",
+      "song": "Stay Fly",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Gimme Some Mo'",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SOULWAX",
+      "song": "E-Talking",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "My Name Is",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "2 PAC featuring DR DRE",
+      "song": "California Love",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLACKSTREET",
+      "song": "No Diggity",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Jump",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "I Was Made For Loving You",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Hungry Like The Wolf",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "True Faith",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Fell In Love With A Girl",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DEAD WEATHER",
+      "song": "Treat Me Like Your Mother",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UNKLE",
+      "song": "Rabbit In Your Headlights",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "House Of Cards",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Vidrar Vel Til Loftarasa",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DJ SHADOW",
+      "song": "6 Days",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Let Forever Be",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Star Guitar",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE MARK OF CAIN",
+      "song": "Familiar Territory",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Jeremy",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Stinkfist",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Head Like A Hole",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Z-TRIP featuring LYRICS BORN & SOUP",
+      "song": "The Get Down/Listen To The DJ",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "N.A.S.A. feat DAVID BYRNE, CHALI 2NA, GIFT OF GAB & Z-TRIP",
+      "song": "The People Tree",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring KANYE WEST, SANTOGOLD & LYKKE LI",
+      "song": "Gifted",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring KOOL KOJAK + DJ BABAO",
+      "song": "O Pato",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring KRS-ONE, FATLIP & SLIM KID TRE",
+      "song": "Hip Hop",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring RZA & BARBIE HATCH",
+      "song": "Way Down",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring SIZZLA, AMANDA BLANK & LOVEFOXXX",
+      "song": "A Volta",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring SPANK ROCK, M.I.A, SANTIGOLD & NICK ZINNER",
+      "song": "Whachadoin?",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "N.A.S.A. featuring TOM WAITS & KOOL KEITH",
+      "song": "Spacious Thoughts",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DJ SOUP",
+      "song": "This Is The House",
+      "label": "Creative Vibes",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DJ SOUP - LIVE ON RECOVERY",
+      "song": "Don't Be No Foowl",
+      "label": "Creative Vibes",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUN DMC",
+      "song": "Mary Mary",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUN DMC",
+      "song": "It's Tricky",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUN DMC",
+      "song": "Rock Show",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUN DMC featuring JAGGED EDGE",
+      "song": "Let's Stay Together",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUN DMC",
+      "song": "What's It All About",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUN DMC",
+      "song": "Run's House",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUN DMC featuring PETE ROCK & C L SMOOTH",
+      "song": "Down With The King",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUN DMC vs JASON NEVINS",
+      "song": "It's Like That",
+      "label": "MDS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MSTRKRFT",
+      "song": "Work On You",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MSTRKRFT",
+      "song": "Easy Love",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MSTRKRFT featuring JOHN LEGEND",
+      "song": "Heartbreaker",
+      "label": "Etc Etc",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MSTRKRFT featuring N.O.R.E & ISIS",
+      "song": "Bounce",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOULWAX",
+      "song": "Conversation Intercom",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOULWAX",
+      "song": "Much Against Everyone's Advice",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOULWAX",
+      "song": "Any Minute Now",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOULWAX",
+      "song": "NY Excuse",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIX MASTER MIKE",
+      "song": "Suprize Packidge",
+      "label": "MDS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FENECH SOLER",
+      "song": "Stop And Stare",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Wait For Me",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VOLTERA",
+      "song": "Knees",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CITY RIOTS",
+      "song": "She Never Wants To Dance",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE RED",
+      "song": "Rock It",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KELE",
+      "song": "Tenderoni",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "On Melancholy Hill",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BARB",
+      "song": "Leo",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Plans",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LIGHTSPEED CHAMPION",
+      "song": "Madame Van Damme",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "I Can Do That",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "It's Working",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WE ARE SCIENTISTS",
+      "song": "Nice Guys",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FAMILJEN",
+      "song": "Nar Planeterna Stannat",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BASICS",
+      "song": "Wait For You",
+      "label": "Albert Productions",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EDWARD SHARPE & THE MAGNETIC ZEROS",
+      "song": "Home",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MY FICTION",
+      "song": "Every June",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GYPSY & THE CAT",
+      "song": "Time To Wander",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SALLY SELTMANN",
+      "song": "Dream About Changing",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DARREN HANLON",
+      "song": "All These Things",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "Sunday Best",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KLAXONS",
+      "song": "Echoes",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

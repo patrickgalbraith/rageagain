@@ -1,0 +1,531 @@
+{
+  "title": "Friday night 16 September 2016, ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2016-09-16",
+  "url": "http://www.abc.net.au/rage/archive/s4540485.htm",
+  "tracks": [
+    {
+      "artist": "KANYE WEST",
+      "song": "Fade",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DJ KHALED ft. NAS",
+      "song": "Nas Album Done",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DIE ANTWOORD",
+      "song": "Banana Brain",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DJ SHADOW ft. RUN THE JEWELS",
+      "song": "Nobody Speak",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "VENUS II",
+      "song": "I Want U 4 Myself",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TRENTM?LLER",
+      "song": "Redefine",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Over You",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HARTS",
+      "song": "Power",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DECLAN McKENNA",
+      "song": "Isombard",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ANGEL OLSEN",
+      "song": "Sister",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE LEMON TWIGS",
+      "song": "These Words",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "OLYMPIA",
+      "song": "Self Talk",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AMBER ARCADES",
+      "song": "Turning Light",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SANTIGOLD",
+      "song": "Banshee",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MICK JENKINS ft. BADBADNOTGOOD",
+      "song": "Drowning",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TIGERILLA ft. GILL BATES",
+      "song": "Tulips",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FRANK OCEAN",
+      "song": "Nikes",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Subways",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STILL WORKS",
+      "song": "Half Full",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TV HAZE",
+      "song": "Laundry Day",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VELOCIRAPTOR",
+      "song": "Dollarmite",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE LULU RAES",
+      "song": "Change My Tune",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SUSS CUNTS",
+      "song": "Anaemic Boyfriend",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SLAVES",
+      "song": "Spit It Out",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEACH SLANG",
+      "song": "Atom Bomb",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "I Know A Girl",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KATY STEELE",
+      "song": "Where's The Laughter",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JAPANESE WALLPAPER",
+      "song": "Cocoon",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MIIKE SNOW",
+      "song": "Trigger",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DUSKY ft. WILEY",
+      "song": "Sort It Out Sharon",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROB $TONE ft. DAVIS _and_ SPOOKS",
+      "song": "Chill Bill",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DRAPHT ft. DUNE RATS",
+      "song": "Mexico",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEL",
+      "song": "Melancholia",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SOHN",
+      "song": "Signal",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE _and_ THE BAD SEEDS",
+      "song": "Jesus Alone",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FRIENDSHIPS",
+      "song": "The Roof",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UNITY FLOORS",
+      "song": "Give And Take",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DRELLER",
+      "song": "A Signal That Comes Back",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GOLD CLASS",
+      "song": "Kids On Fire",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MERCHANDISE",
+      "song": "Lonesome Sound",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BABAGANOUJ",
+      "song": "Sorry",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE DELTA RIGGS",
+      "song": "Never Seen This Before",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RED FANG",
+      "song": "Shadows",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GIRAFFE TONGUE ORCHESTRA",
+      "song": "Cucifixion",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Hardwired",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ORSOME WELLES",
+      "song": "Build A World",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUPERHEIST",
+      "song": "Hands Up High",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ANTHRAX",
+      "song": "Monster At The End",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Insane",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TWILIGHT FORCE",
+      "song": "Powerwind",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PRIDELANDS",
+      "song": "Coalesce",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "3TEETH",
+      "song": "Atrophy",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHERRY GLAZERR",
+      "song": "Told You I'd Be With The Guys",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEN",
+      "song": "Poltergeist",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FAN GIRL",
+      "song": "Disappear",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AGAINST ME!",
+      "song": "Crash",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DORSAL FINS",
+      "song": "Sedated",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOLLY",
+      "song": "Bagu Bagu",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DAN CROLL",
+      "song": "Swim",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEON INDIAN",
+      "song": "Annie",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANDY CLOCKWISE",
+      "song": "The Best",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE PANICS",
+      "song": "Weatherman",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELIZABETH ROSE",
+      "song": "In 3's",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YOLANDA BE COOL",
+      "song": "Je Suis Music",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TOVE LO",
+      "song": "Cool Girl",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE MONEY WAR",
+      "song": "Give It Time",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PLEASURE SYMBOLS",
+      "song": "Underneath Your Skin",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RAT _and_ CO",
+      "song": "Spring II",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WHAT SO NOT",
+      "song": "Divide And Conquer",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WOODES",
+      "song": "The Thaw",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOLY HOLY",
+      "song": "Darwinism",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "USHER",
+      "song": "Rivals",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MARK PRITCHARD ft. THOM YORKE",
+      "song": "Beautiful People",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "A Head Full Of Dreams",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE TEMPER TRAP",
+      "song": "Lost",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE DELTA RIGGS",
+      "song": "Never Seen This Before",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DOPE LEMON",
+      "song": "Coyote",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SANS PARENTS",
+      "song": "Dead End",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SOFT HAIR",
+      "song": "Lying has To Stop",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WEYES BLOOD",
+      "song": "Seven Words",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BADBADNOTGOOD",
+      "song": "Chompy's Paradise",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "URTHBOY",
+      "song": "Little Girl's Dad",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LANU ft. MELANIE PAIN",
+      "song": "Fly Away",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARMAND VAN HELDEN",
+      "song": "Wings",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BOYS FOREVER",
+      "song": "Underground",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE PARROTS",
+      "song": "Let's Do It Again",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "A DAY TO REMEMBER",
+      "song": "Naivety",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

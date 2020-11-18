@@ -1,0 +1,585 @@
+{
+  "title": "Friday night 4 September 2015",
+  "special": null,
+  "timeslot": "night",
+  "date": "2015-09-04",
+  "url": "http://www.abc.net.au/rage/archive/s4306353.htm",
+  "tracks": [
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "For Free? (Interlude)",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "WOLF ALICE",
+      "song": "You're A Germ",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BABES",
+      "song": "Life Come Into Me",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE PHOENIX FOUNDATION",
+      "song": "Mountain",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MICK JENKINS",
+      "song": "Get Up Get Down",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEAT CONNECTION",
+      "song": "So Good",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "COSMIC RAYS",
+      "song": "Do Nothing Twist",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SLIM TWIG",
+      "song": "Fadeout Killer",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HINDS",
+      "song": "Chili Town",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PEACHES featuring KIM GORDON",
+      "song": "Close Up",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SISTER JANE",
+      "song": "You Can Have Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BACHELOR PAD",
+      "song": "Ever Get The Feeling",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE ARCS",
+      "song": "Put A Flower In Your Pocket",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "High By The Beach",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WAVE RACER featuring BABY",
+      "song": "Flash Drive",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE LULU RAES",
+      "song": "Burnout",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MAC MILLER",
+      "song": "100 Grandkids",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WEEZER featuring BETHANY COSENTINO",
+      "song": "Go Away",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BROADWAY SOUNDS",
+      "song": "Shonky Man",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE PINHEADS",
+      "song": "If I Have To Wait",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CACTUS CHANNEL",
+      "song": "Cobaw",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JACK COLWELL",
+      "song": "Don't Cry Those Tears",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BASENJI featuring SCENIC",
+      "song": "Petals",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LOW LUX",
+      "song": "Ruin",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DANIEL JOHNS",
+      "song": "Going On 16",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Sometimes I Feel So Deserted",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CARMADA featuring MARIBELLE",
+      "song": "On Fire",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AIRLING",
+      "song": "Stallin'",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HIATUS KAIYOTE",
+      "song": "Breathing Underwater",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE GARDEN",
+      "song": "All Smiles Over Here :)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "UPSKIRTS",
+      "song": "Open Yourself to the Sky",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EXEK",
+      "song": "The Theme From Judge Judy",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "COSMIC PSYCHOS",
+      "song": "Check Your Bum For Grubs",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AUTRE NE VEUT",
+      "song": "World War pt. 2",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SILICON",
+      "song": "Burning Sugar",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KOI CHILD",
+      "song": "Black Panda",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "A$AP ROCKY ft. JOE FOX and KANYE WEST",
+      "song": "Jukebox Joints",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FKA TWIGS",
+      "song": "In Time",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SUI ZHEN",
+      "song": "Take It All Back",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JONI IN THE MOON",
+      "song": "War And Porn",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHIEFS featuring BEAYZ",
+      "song": "Demon",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Crushed",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ENTER SHIKARI",
+      "song": "There's A Price On Your Head",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PUSCIFER",
+      "song": "Grand Canyon",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Speed Of Light",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AUGUST BURNS RED",
+      "song": "Identity",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Blind Leading The Blind",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEAD LETTER CIRCUS",
+      "song": "In Plain Sight",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EVERYTHING EVERYTHING",
+      "song": "Spring / Sun / Winter / Dread",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HOOTON TENNIS CLUB",
+      "song": "P.O.W.E.R.F.U.L. P.I.E.R.R.E.",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Last Of Our Kind",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "I KNOW LEOPARD",
+      "song": "Close My Eyes",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EZRA FURMAN",
+      "song": "Lousy Connection",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MOTION CITY SOUNDTRACK",
+      "song": "Lose Control",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLOWERTRUCK",
+      "song": "Sunshower",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RUFUS",
+      "song": "You Were Right",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "YOU BEAUTY",
+      "song": "Illywhacka",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JAALA",
+      "song": "Hard Hold",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PALMS",
+      "song": "Beatdown",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ART VS SCIENCE",
+      "song": "In This Together",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WAZA",
+      "song": "Tell Me How",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DJ QUIK",
+      "song": "Puffin The Dragon",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LEFTFIELD ft. SLEAFORD MODS",
+      "song": "Head and Shoulders",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Leave A Trace",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLIME",
+      "song": "Hot Dog",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOLLOW STATES",
+      "song": "Damage I've Done",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUMMER CAMP",
+      "song": "You're Gone",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE WORLD IS A BEAUTIFUL PLACE and I AM NO LONGER",
+      "song": "January 10th, 2014",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUPER BEST FRIENDS",
+      "song": "All My Friends Are Leaving Town",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MERCURY REV",
+      "song": "Are You Ready?",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "Hoops",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEAF WISH",
+      "song": "On",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHRISTIAN RICH ft. SINEAD HARNETT, GOLDLINK _and_ SECA",
+      "song": "Compromise",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GANG OF YOUTHS",
+      "song": "Magnolia",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MATTHEW E. WHITE",
+      "song": "Vision",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ELBOW",
+      "song": "Lost Worker Bee",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WET",
+      "song": "You're The Best",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FRIDA",
+      "song": "Slowly",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "YOUTH LAGOON",
+      "song": "Highway Patrol Stun Gun",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PACES",
+      "song": "Bamboo",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OF MONSTERS AND MEN",
+      "song": "Empire",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Let It Happen",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PETITE NOIR",
+      "song": "Best",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Started Right",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Nobody Really Cares If You Don't Go To The Party",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALI BARTER",
+      "song": "Hypercolour",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE STIFFYS",
+      "song": "King Of The Internet",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE DRUMS",
+      "song": "There Is Nothing Left",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEERHUNTER",
+      "song": "Snakeskin",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DJDS",
+      "song": "You Don't Have To Be Alone",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BEIRUT",
+      "song": "Gibraltar",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROYAL HEADACHE",
+      "song": "Carolina",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOANNA NEWSOM",
+      "song": "Sapokanikan",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SMITH STREET BAND, THE ft. LUCY WILSON",
+      "song": "I Scare Myself Sometimes",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MONKEY SAFARI",
+      "song": "Cranes",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SZYMON",
+      "song": "Medusa",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "title": "Saturday morning  Saturday, 13 March",
+  "special": "A-Trak",
+  "timeslot": "morning",
+  "date": "2010-03-13",
+  "url": "http://www.abc.net.au/rage/archive/s2844001.htm",
+  "tracks": [
+    {
+      "artist": "AVRIL LAVIGNE",
+      "song": "Alice",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AGNES",
+      "song": "I Need You Now",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SELENA GOMEZ AND THE SCENE",
+      "song": "Naturally",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HELPING HAITI",
+      "song": "Everybody Hurts",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OWL CITY",
+      "song": "Fireflies",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KISSCHASY",
+      "song": "Dinosaur",
+      "label": "Eleven",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ERIKA",
+      "song": "Kingdom",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PARAMORE",
+      "song": "The Only Exception",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "When I Look At You",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "STAN WALKER",
+      "song": "Black Box",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JAY SEAN featuring SEAN PAUL & LIL' JON",
+      "song": "Do You Remember",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TIMBALAND & KATY PERRY",
+      "song": "If We Ever Meet Again",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "AKON featuring KERI HILSON",
+      "song": "Oh Africa",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PASSION PIT",
+      "song": "Little Secrets",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Undisclosed Desires",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JEDWARD featuring VANILLA ICE",
+      "song": "Under Pressure (Ice Ice Baby)",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PITBULL featuring AKON",
+      "song": "Shut It Down",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "CHRIS BROWN",
+      "song": "Crawl",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "Rude Boy",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JAY-Z featuring ALICIA KEYS",
+      "song": "Empire State Of Mind",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "EVERMORE",
+      "song": "Underground",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MUMFORD AND SONS",
+      "song": "The Cave",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "TRAIN",
+      "song": "Hey, Soul Sister",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MICHAEL BUBLE",
+      "song": "Haven't Met You Yet",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "CHERYL COLE featuring WILL.I.AM",
+      "song": "3 Words",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "KE$HA featuring 3OH!3",
+      "song": "Blah Blah Blah",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Rock That Body",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JASON DERULO",
+      "song": "In My Head",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SEAN PAUL featuring KERI HILSON",
+      "song": "Hold My Hand (I'll Be There)",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "IYAZ",
+      "song": "Replay",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JUSTIN BIEBER featuring LUDACRIS",
+      "song": "Baby",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "I Hope You're Happy",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BRITISH INDIA",
+      "song": "Beneath The Satellites",
+      "label": "Shock",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SURFER BLOOD",
+      "song": "Swim",
+      "label": "EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Androgyny",
+      "label": "Fest/Mush",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Baby One More Time",
+      "label": "Mushroom",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SHE & HIM",
+      "song": "In The Sun",
+      "label": "Spunk/EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "ZEE AVI",
+      "song": "Bitter Heart",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SUCKERS",
+      "song": "Easy Chairs",
+      "label": "Spunk/EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE HOLIDAYS",
+      "song": "Moonlight Hours",
+      "label": "Liberation",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "CUT OFF YOUR HANDS",
+      "song": "Still Fond",
+      "label": "SpeaknSpell",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BLOOD RED SHOES",
+      "song": "Light It Up",
+      "label": "Shock",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "Fast Fuse",
+      "label": "Sony",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "How To Tame Lions",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "DELPHIC",
+      "song": "Halycon",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "JONATHAN BOULET",
+      "song": "North To South East To You",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "TEGAN & SARA",
+      "song": "Alligator",
+      "label": "Warner",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "LA ROUX",
+      "song": "I'm Not Your Toy",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Rocket",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Ooh La La",
+      "label": "Virgin",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "NEW YOUNG PONY CLUB",
+      "song": "Chaos",
+      "label": "Liberator",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JUMP JUMP DANCE DANCE",
+      "song": "Show Me The Night",
+      "label": "Etc Etc",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "21 Guns",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JARVIS COCKER",
+      "song": "Further Complications",
+      "label": "Remote Control",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "FRIGHTENED RABBIT",
+      "song": "Nothing Like You",
+      "label": "Inertia",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE SHINY BRIGHTS",
+      "song": "Take No More",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DEEP SEA ARCADE",
+      "song": "Lonely In Your Arms",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "OMAR MUSA",
+      "song": "Hemingway",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Stylo",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Skeleton",
+      "label": "Universal",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE XX",
+      "song": "VCR",
+      "label": "Universal",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Miniature Alas",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "LISA MITCHELL",
+      "song": "Oh! Hark!",
+      "label": "Warner",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE TEMPER TRAP",
+      "song": "Love Lost",
+      "label": "Liberation",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DUCK SAUCE",
+      "song": "Anyway",
+      "label": "Etc Etc",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "KANYE WEST featuring ADAM LEVINE",
+      "song": "Heard 'Em Say",
+      "label": "Universal",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DJ JAZZY JEFF & THE FRESH PRINCE",
+      "song": "Parents Just Don't Understand",
+      "label": "BMG",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THOMAS DOLBY",
+      "song": "She Blinded Me With Science",
+      "label": "EMI",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Subterranean Homesick Blues",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Money For Nothing",
+      "label": "Polydor",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Three MC's & One DJ",
+      "label": "EMI",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SANTOGOLD",
+      "song": "L.E.S. Artistes",
+      "label": "Inertia",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Da Funk",
+      "label": "Virgin",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE POINTER SISTERS",
+      "song": "Automatic",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ARMAND VAN HELDEN",
+      "song": "I Want Your Soul",
+      "label": "Liberation",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ALAN BRAXE & FRED FALKE",
+      "song": "Rubicon",
+      "label": "Virgin",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ART OF NOISE featuring TOM JONES",
+      "song": "Kiss",
+      "label": "Polydor",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "KID SISTER featuring KANYE WEST",
+      "song": "Pro Nails",
+      "label": "Inertia",
+      "timeslot": "10:30:00"
+    }
+  ]
+}

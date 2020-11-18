@@ -1,0 +1,675 @@
+{
+  "title": "Saturday night  Saturday, 8 June",
+  "special": "Something For Kate",
+  "timeslot": "night",
+  "date": "2013-06-08",
+  "url": "http://www.abc.net.au/rage/archive/s3776918.htm",
+  "tracks": [
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Three Dimensions",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE AFGHAN WHIGS",
+      "song": "Honky's Ladder",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Last Day Of Magic",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE JESUS LIZARD",
+      "song": "Puss",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SUPERCHUNK",
+      "song": "The First Part",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "EDDY CURRENT SUPPRESSION RING",
+      "song": "Get Up Morning",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "REDD KROSS",
+      "song": "Jimmy's Fantasy",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "HOT SNAKES",
+      "song": "Braintrust",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "100%",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MAX Q",
+      "song": "Way Of The World",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "X",
+      "song": "Dream Baby",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Burning Down The House",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Daniel",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "The Suburbs",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Mistaken for Strangers",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Everybody Hurts",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Orange Crush",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "WILCO",
+      "song": "Dawned On Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TEENAGE FANCLUB",
+      "song": "Star Sign",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "Yoshimi Battles The Pink Robots",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "When Doves Cry",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "China Girl",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "In Between Days",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LOW",
+      "song": "Try To Sleep",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "O'Sailor",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE JEZABELS",
+      "song": "Hurt Me",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "OKKERVIL RIVER",
+      "song": "Lost Coastlines",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE VANDAS",
+      "song": "Go Getter",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Gypsy",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CONCRETE BLONDE",
+      "song": "Joey",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Goin' Out West",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BUFF MEDWAYS",
+      "song": "Sally Sensation",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAN SARTAIN",
+      "song": "Flight Of The Finch",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Like A Rolling Stone",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BYRDS",
+      "song": "Feel A Whole Lot Better",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "I Awake",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ST. VINCENT",
+      "song": "Cheerleader",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRIGHT EYES",
+      "song": "Four Winds",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PAVEMENT",
+      "song": "Gold Soundz",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE WALKMEN",
+      "song": "The Rat",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GUIDED BY VOICES",
+      "song": "Motor Away/Auditorium",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KING KHAN AND THE SHRINES",
+      "song": "Land Of The Freak",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OFF!",
+      "song": "Wrong",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE NATION BLUE",
+      "song": "Damnation",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LOW",
+      "song": "Breaker",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KASHMIR",
+      "song": "Kalifornia",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GOD - LIVE ON THE FACTORY",
+      "song": "My Pal",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SEBADOH",
+      "song": "Rebound",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOEL SILBERSHER",
+      "song": "Flappin' On A Hook",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHNNY THUNDERS",
+      "song": "Hurt Me",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BUILT TO SPILL",
+      "song": "You Were Right",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Seasons In The Abyss",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "Jezebel",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLUE OYSTER CULT",
+      "song": "Don't Fear The Reaper",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Aces High",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CARCASS",
+      "song": "Incarnated Solvent Abuse",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MINDSNARE",
+      "song": "The Fall Back",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MUDHONEY",
+      "song": "This Gift",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BIG BLACK - LIVE",
+      "song": "Jordan Minnesota",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "The River",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Star-Crossed Citizens",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Miracle Cure",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Captain (Million Miles)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Just A Picture",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Prick",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Subject To Change",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Working Against Me",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Roll Credit",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Electricity",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Dean Martin",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Hallways",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Whatever You Want",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "The Astronaut",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Monsters",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Twenty Years",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Say Something",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Deja Vu",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Song For A Sleepwalker",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE - LIVE",
+      "song": "Best Weapon",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Moving Right Along",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Cigarettes And Suitcases",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Oh Kamikaze",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "California",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "The Futurist",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Survival Expert",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL DEMPSEY",
+      "song": "Ramona Was A Waitress",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL DEMPSEY",
+      "song": "Bats",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL DEMPSEY",
+      "song": "Out The Airlock",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL DEMPSEY",
+      "song": "Fast Friends",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Jerks Of Attention",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "YOU AM I",
+      "song": "Rumble",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE WHITLAMS",
+      "song": "Chunky Chunky Air Guitar",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CUSTARD",
+      "song": "Anatomically Correct",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE WHITLAMS",
+      "song": "No Aphrodisiac",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "POWDERFINGER",
+      "song": "The Day You Come",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Down Again",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Gravity",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "Kong Foo Sing",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "Polyester Girl",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BIG HEAVY STUFF",
+      "song": "May",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GYROSCOPE",
+      "song": "Take This For Granted",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Plastic Loveless Letter",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "YOU AM I",
+      "song": "Tuesday",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AUGIE MARCH",
+      "song": "One Crowded Hour",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ESC",
+      "song": "Atomic Shadow",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALPINE",
+      "song": "Seeing Red",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BEACHES",
+      "song": "Send Them Away",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAGWAR MA",
+      "song": "Man I Need",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SHE and HIM",
+      "song": "I Could've Been Your Girl",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JANELLE MONAE featuring ERYKAH BADU",
+      "song": "Q.U.E.E.N.",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Fall",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

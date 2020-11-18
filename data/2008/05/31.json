@@ -1,0 +1,633 @@
+{
+  "title": "Saturday, 31 May",
+  "special": "Cut Copy",
+  "timeslot": null,
+  "date": "2008-05-31",
+  "url": "http://www.abc.net.au/rage/archive/s2260258.htm",
+  "tracks": [
+    {
+      "artist": "THE JAMS",
+      "song": "It's Grim Up North",
+      "label": "Independent",
+      "timeslot": "23:55:00"
+    },
+    {
+      "artist": "SEVERED HEADS",
+      "song": "All Saints Day",
+      "label": "Sony",
+      "timeslot": "23:55:00"
+    },
+    {
+      "artist": "BRIAN ENO",
+      "song": "Ali Click",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ROBERT PALMER",
+      "song": "Johnny And Mary",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JEAN MICHEL JARRE",
+      "song": "Equinoxe V",
+      "label": "Not Specified",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SEBASTIEN TELLIER",
+      "song": "La Ritournelle",
+      "label": "Inertia",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ALAN BRAXE & FRED FALKE",
+      "song": "Rubicon",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "You Take My Breath Away",
+      "label": "MOS/EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CORNELIUS",
+      "song": "Drop",
+      "label": "Fest/Mush",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CASSIUS",
+      "song": "La Mouche",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "C.R.E.A.M.",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Since I Left You",
+      "label": "Modular",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "If I Ever Feel Better",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "Consolation Prizes",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "M83",
+      "song": "Don't Save Us From The Flames",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PANDA BEAR",
+      "song": "Bros",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "E.L.O.",
+      "song": "Here Is The News",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "This Must Be The Place (Naive Melody)",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "That's Entertainment",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ONLY ONES",
+      "song": "Another Girl, Another Planet",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SHOCKING PINKS",
+      "song": "End Of The World",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "God Lead Your Soul",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TV ON THE RADIO - Live",
+      "song": "Wolf Like Me",
+      "label": "Remote Control",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KEVIN SHIELDS",
+      "song": "City Girls",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YO LA TENGO",
+      "song": "Sugar Cube",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PAVEMENT",
+      "song": "Cut Your Hair",
+      "label": "Fellaheen",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE LEMONHEADS",
+      "song": "It's A Shame About Ray",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCHERS OF LOAF",
+      "song": "Web In Front",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Say It Ain't So",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THURSTON MOORE",
+      "song": "Ono Soul",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TEENAGE FANCLUB",
+      "song": "Star Sign",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MORRISSEY",
+      "song": "We Hate It When Our Friends Become Successful",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THESE IMMORTAL SOULS",
+      "song": "Marry Me",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE GO-BETWEENS",
+      "song": "Cattle And Cane",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CAT STEVENS",
+      "song": "Father & Son",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BONNIE PRINCE BILLY",
+      "song": "Agnes, Queen Of Sorrow",
+      "label": "Spunk/Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Harvest Moon",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AMERICA",
+      "song": "Horse With No Name",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BILLY BRAGG",
+      "song": "A New England",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MALCOLM McLAREN",
+      "song": "Duck For The Oyster",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "P.I.L.",
+      "song": "This Is Not A Love Song",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Hearts On Fire",
+      "label": "Modular",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Lights & Music",
+      "label": "Modular",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CUT COPY - Live",
+      "song": "Hearts On Fire",
+      "label": "Modular",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Going Nowhere",
+      "label": "Modular",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Saturdays",
+      "label": "Modular",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Future",
+      "label": "Modular",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "1981",
+      "label": "Modular",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES - Live on Recovery",
+      "song": "Run DNA",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES - Live on Recovery",
+      "song": "Rock City",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Frontier Psychiatrist",
+      "label": "Modular",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VAN SHE",
+      "song": "Kelly",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VAN SHE",
+      "song": "Cat & The Eye",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VAN SHE",
+      "song": "Strangers",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Journey Agent",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Need Your Lovin' Baby",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Follow Me",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Wild Strawberries",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Baby",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Girl And The Sea",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Are You The One?",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Down Down Down",
+      "label": "Modular",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "My People",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "This Boy's In Love",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Raised By Wolves",
+      "label": "Reverberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Fire Below",
+      "label": "Reverberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Shadows",
+      "label": "Shiny",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "45 And Rising",
+      "label": "Shiny",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Road To Recovery",
+      "label": "Shiny",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Into The Galaxy",
+      "label": "Shiny",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Tombstone",
+      "label": "Shiny",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VALENTINOS",
+      "song": "Man With A Gun",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE VALENTINOS",
+      "song": "Nightmoves",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WOLF & CUB",
+      "song": "This Mess",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WOLF & CUB - Live on JTV",
+      "song": "March Of Clouds",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE BUMBLEBEEZ",
+      "song": "Pony Ride",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE BUMBLEBEEZ",
+      "song": "Step Back",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE BUMBLEBEEZ",
+      "song": "Come Ova",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE BUMBLEBEEZ",
+      "song": "Black Dirt",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE BUMBLEBEEZ",
+      "song": "Dr. Love",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Out Here In The Cold",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Hearts A Mess",
+      "label": "Creative Vibes",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Coming Back",
+      "label": "Creative Vibes",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Thanks For Your Time",
+      "label": "Creative Vibes",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LONG BLONDES",
+      "song": "Century",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "One Pure Thought",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Happiness",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SANTOGOLD",
+      "song": "L.E.S. Artistes",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CATCALL",
+      "song": "August",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GOOD BUDDHA",
+      "song": "Movin' On",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE WINNIE COOPERS",
+      "song": "Substance",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GURU",
+      "song": "Jazzy Wayz",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GNARLS BARKLEY",
+      "song": "Going On",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE SILENTS",
+      "song": "Little Girl Lost",
+      "label": "Ivy League",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TRIAL KENNEDY",
+      "song": "Colour Day Tours",
+      "label": "SBME",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BRIGHT YELLOW",
+      "song": "Please",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "YOUTH GROUP",
+      "song": "Two Sides",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LIAM FINN",
+      "song": "Better To Be",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "I Will Possess Your Heart",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "Like It Or Not",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "I Feel It All",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ROOM ELEVEN",
+      "song": "Hey Hey Hey",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MYSTERY JETS featuring LAURA MARLING",
+      "song": "Young Love",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE DANDY WARHOLS",
+      "song": "Mission Control",
+      "label": "SpeaknSpell",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

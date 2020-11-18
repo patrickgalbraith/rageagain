@@ -1,0 +1,615 @@
+{
+  "title": "Saturday 30th September",
+  "special": "Snow Patrol guest program",
+  "timeslot": null,
+  "date": "2006-09-30",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060930.htm",
+  "tracks": [
+    {
+      "artist": "SONS AND DAUGHTERS",
+      "song": "Johnny Cash",
+      "label": "Remote Control",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "DOVES",
+      "song": "Cedar Room",
+      "label": "EMI",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "ELBOW",
+      "song": "Forget Myself",
+      "label": "Fest/Mush",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "SUPER FURRY ANIMALS",
+      "song": "Fire In My Heart",
+      "label": "Shock",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "MAZZY STAR",
+      "song": "Fade Into You",
+      "label": "EMI",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "Soon",
+      "label": "Shock",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "TEENAGE FANCLUB",
+      "song": "Ain't That Enough",
+      "label": "Sony",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Transmission",
+      "label": "Fest/Mush",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "THE DUKE SPIRIT",
+      "song": "Lion Rip",
+      "label": "Universal",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Go With The Flow",
+      "label": "Universal",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "MARK LANEGAN BAND",
+      "song": "Sideways In Reverse",
+      "label": "Remote Control",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "The Bucket",
+      "label": "BMG",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Big Me",
+      "label": "Virgin",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Everlong",
+      "label": "EMI",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
+      "label": "Polydor",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "100%",
+      "label": "Universal (MCA)",
+      "timeslot": "12:03:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Calling Occupants Of Interplanetary Craft",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "Slow Hands",
+      "label": "Remote Control",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "The New Year",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MARTHA WAINWRIGHT - Live",
+      "song": "Bloody Mother Fucking Asshole",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JULIANA HATFIELD THREE",
+      "song": "My Sister",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Velouria",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THEM",
+      "song": "Baby Please Don't Go",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "You Shook Me All Night Long",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "The Day My Baby Gave Me A Surprize",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Prison Sex",
+      "label": "Universal (MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ISIS",
+      "song": "In Fiction",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MC5 featuring DAVE VANIAN",
+      "song": "Tonight",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MILLIONAIRE",
+      "song": "I'm On A High",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Talking - SOULWAX",
+      "song": "E",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JULIET",
+      "song": "Ride The Pain",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "N.W.A.",
+      "song": "Express Yourself",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PETE ROCK & C.L. SMOOTH",
+      "song": "They Reminisce Over You",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PLANTLIFE",
+      "song": "Luv Me (Til It Hurts)",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEATH FROM ABOVE 1979",
+      "song": "Romantic Rights",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Kill All Hippies",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CARIBOU",
+      "song": "Yeti",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MUM",
+      "song": "Green Grass Of Tunnel",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "IRON & WINE",
+      "song": "Naked As We Came",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SNOW PATROL",
+      "song": "Chasing Cars",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SNOW PATROL",
+      "song": "You're All I Have",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SNOW PATROL",
+      "song": "Chocolate",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SNOW PATROL",
+      "song": "Run",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SNOW PATROL",
+      "song": "Spitting Games",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "REINDEER SECTION",
+      "song": "You Are My Joy",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Dog On Wheels",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Lazy Line Painter Jane",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "A Century Of Fakers",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Dirty Dream Number Two",
+      "label": "Modular",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Is It Wicked Not To Care",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN - Live",
+      "song": "The Boy With The Arab Strap",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "This Is Just A Modern Rock Song",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN - Live",
+      "song": "Landslide",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "The Wrong Girl",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Legal Man",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Jonathan David",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Step Into My Office, Baby",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "I'm A Cuckoo",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Wrapped Up In Books",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "Funny Little Frog",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "The Blues Are Still Blue",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "White Collar Boy",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IDLEWILD",
+      "song": "I Understand It",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IDLEWILD",
+      "song": "Love Steals Us From Loneliness",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IDLEWILD",
+      "song": "Little Discourage",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SONS AND DAUGHTERS",
+      "song": "Dance Me In",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SONS AND DAUGHTERS",
+      "song": "Taste The Last Girl",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE THRILLS",
+      "song": "Big Sur",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE THRILLS",
+      "song": "One Horse Town",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE THRILLS",
+      "song": "The Irish Keep Gatecrashing",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MOGWAI",
+      "song": "Travel Is Dangerous",
+      "label": "Spunk",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE FRAMES",
+      "song": "Fake",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Cry Myself Blind",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE DELGADOS",
+      "song": "No Danger",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AEREOGRAMME",
+      "song": "Indiscretion #243",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ASH",
+      "song": "Clones",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ASH",
+      "song": "Envy",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE AUTOMATIC",
+      "song": "Monster",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BOY LEAST LIKELY TO",
+      "song": "Be Gentle With Me",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BADLY DRAWN BOY",
+      "song": "Nothing's Gonna Change Your Mind",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SOUTH",
+      "song": "Up Close And Acoustic",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "Memories & Dust",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Devil Was In My Yard",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "Consolation Prizes",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Come On Come On",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "REGINA SPEKTOR",
+      "song": "Fidelity",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JENNY WILSON",
+      "song": "Summertime The Roughest Time",
+      "label": "MOS/EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "Explain",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "YOUTH GROUP",
+      "song": "Daisy Chains",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAN KELLY & THE ALPHA MALES",
+      "song": "Drowning In The Fountain Of Youth",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE LOST GOSPEL",
+      "song": "Secret Agent",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JET",
+      "song": "Put Your Money Where Your Mouth Is",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Sarah",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EVERMORE",
+      "song": "Light Surrounding You",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Tell Me Baby",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LUPE FIASCO",
+      "song": "Kick Push",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MATISYAHU",
+      "song": "Youth",
+      "label": "SBME",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MATTAFIX",
+      "song": "Cool Down The Pace",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE RAPTURE",
+      "song": "Get Myself Into It",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SCISSOR SISTERS",
+      "song": "I Don't Feel Like Dancin'",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

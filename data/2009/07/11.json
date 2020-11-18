@@ -1,0 +1,609 @@
+{
+  "title": "Saturday, 11 July",
+  "special": "Jessica Mauboy",
+  "timeslot": null,
+  "date": "2009-07-11",
+  "url": "http://www.abc.net.au/rage/archive/s2622321.htm",
+  "tracks": [
+    {
+      "artist": "BJORK",
+      "song": "It's Oh So Quiet",
+      "label": "Polydor",
+      "timeslot": "23:43:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "I Wanna Be Your Lover",
+      "label": "Warner",
+      "timeslot": "23:43:00"
+    },
+    {
+      "artist": "CHRISTINA AGUILERA",
+      "song": "Come On Over Baby (All I Want Is You)",
+      "label": "BMG",
+      "timeslot": "23:43:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Stronger",
+      "label": "Jive/Zomba",
+      "timeslot": "23:43:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Survivor",
+      "label": "Sony",
+      "timeslot": "23:43:00"
+    },
+    {
+      "artist": "MR. BIG",
+      "song": "To Be With You",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "UB40",
+      "song": "Red Red Wine",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "Kokomo",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "AALIYAH",
+      "song": "Rock The Boat",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JANET JACKSON",
+      "song": "If",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEYONCE featuring SEAN PAUL",
+      "song": "Baby Boy",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SNOOP DOGG featuring PHARRELL",
+      "song": "Drop It Like It's Hot",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLACKSTREET",
+      "song": "No Diggity",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BON JOVI",
+      "song": "Wanted Dead Or Alive",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "When I Come Around",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NEW RADICALS",
+      "song": "You Get What You Give",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DES'REE",
+      "song": "You Gotta Be",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Doo Wop (That Thing)",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BONE, THUGS 'N' HARMONY",
+      "song": "Tha Crossroads",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PAULA ABDUL",
+      "song": "Rush Rush",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JENNIFER LOPEZ",
+      "song": "Waiting For Tonight",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "REAL McCOY",
+      "song": "One More Time",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLACK BOX",
+      "song": "Ride On Time",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BABYLON ZOO",
+      "song": "Spaceman",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Honey (Bad Boy Remix)",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Heartbreaker",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TONI BRAXTON",
+      "song": "Unbreak My Heart",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TONI BRAXTON",
+      "song": "You're Makin' Me High",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE OUTHERE BROTHERS",
+      "song": "Boom Boom Boom",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SISQO",
+      "song": "Thong Song",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TLC",
+      "song": "No Scrubs",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GINUWINE",
+      "song": "Pony",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRIAN McKNIGHT",
+      "song": "Back At One",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ULTIMATE KAOS",
+      "song": "Casanova",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRANDY & MONICA",
+      "song": "The Boy Is Mine",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLU CANTRELL",
+      "song": "Hit 'Em Up Style (Oops!)",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALL SAINTS",
+      "song": "Never Ever",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2 & MARY J. BLIGE",
+      "song": "One",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NICK CAVE & KYLIE MINOGUE",
+      "song": "Where The Wild Roses Grow",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Because",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Been Waiting",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Burn",
+      "label": "SBME",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY featuring FLO RIDA",
+      "song": "Running Back",
+      "label": "SBME",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "Jailangaru Pakarnu",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "My Island Home",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "Blackfella Whitefella",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "Back On The Breadline",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "Stompin' Ground",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "Wayathul",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAROOCHY BARAMBAH",
+      "song": "Lullaby",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Gudurrku",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Mainstream",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Treaty",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Djapana",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "World Turning",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JENNIFER WELLS",
+      "song": "Ngura Piltingka",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLOURED STONE",
+      "song": "Black Boy",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLOURED STONE",
+      "song": "Dancing In The Moonlight",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JOE GEIA & MIXED RELATIONS",
+      "song": "Uncle Willie",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NO FIXED ADDRESS",
+      "song": "From My Eyes",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JIMMY LITTLE",
+      "song": "Down Below",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JIMMY LITTLE",
+      "song": "Yorta Yorta Man",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WARREN H. WILLIAMS",
+      "song": "Dreamtime Baby",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TROY CASSAR-DALEY",
+      "song": "Going Back Home",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TROY CASSAR-DALEY",
+      "song": "Everything's Going To Be Alright",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANTHONY GREEN featuring SHARNEE FENWICK",
+      "song": "I Got You",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SHARON LANE",
+      "song": "Something You Said",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NABARLEK",
+      "song": "Brown Bird",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RICHARD FRANKLAND",
+      "song": "Way To Forget",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NOKTURNL",
+      "song": "Haterz",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NOKTURNL",
+      "song": "Sail Away",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MORGANICS & WIRE, STINGRAY & HAILLE SUSPICIOUS",
+      "song": "All You Mob",
+      "label": "Creative Vibes",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TJIMBA & THE YUNG WARRIORS",
+      "song": "Hunters & Gatherers",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WILCANNIA MOB",
+      "song": "Down River",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LOCAL KNOWLEDGE",
+      "song": "Black Fella",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANTHONY (CHOC) MUNDINE featuring O.P.C. & AUGUST",
+      "song": "Platinum Ryder",
+      "label": "Aust. Music Biz",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BROTHABLACK",
+      "song": "Are You With Me Out There!",
+      "label": "Obese Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KEV CARMODY",
+      "song": "Thou Shalt Not Steal",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KEV CARMODY & THE TIDDAS",
+      "song": "On the Wire",
+      "label": "Festival",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROGER KNOX",
+      "song": "Warrior In Chains",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RUBY HUNTER",
+      "song": "Let My Children Be",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ARCHIE ROACH",
+      "song": "Took The Children Away",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ARCHIE ROACH",
+      "song": "Alien Invasion",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLACKFIRE",
+      "song": "Stricken Land",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BRENDA WEBB",
+      "song": "Little Black Girl",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHRISTINE ANU",
+      "song": "My Island Home",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHRISTINE ANU",
+      "song": "Monkey & The Turtle",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHRISTINE ANU",
+      "song": "Come On",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHRISTINE ANU",
+      "song": "'Coz I'm Free",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SHAKAYA",
+      "song": "Stop Calling Me",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SHAKAYA",
+      "song": "Cinderella",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CASEY DONOVAN",
+      "song": "Listen With Your Heart",
+      "label": "BMG",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CASEY DONOVAN",
+      "song": "Flow",
+      "label": "SBME",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLAKE RALPH",
+      "song": "Falling For You",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GEOFFREY GURRUMUL YUNUPINGU",
+      "song": "Wiyathul",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GEOFFREY GURRUMUL YUNUPINGU",
+      "song": "Bapa",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DJAMBANG BAND, ARNHEM LAND",
+      "song": "Culture",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EMMA DONOVAN",
+      "song": "Ngarraanga",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE LAST KINECTION",
+      "song": "Balooraman",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

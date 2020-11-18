@@ -1,0 +1,531 @@
+{
+  "title": "Saturday night 3 October 2015",
+  "special": "Parkway Drive",
+  "timeslot": "night",
+  "date": "2015-10-03",
+  "url": "http://www.abc.net.au/rage/archive/s4324240.htm",
+  "tracks": [
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Karma",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "Sorrow",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "A Walk",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES - LIVE",
+      "song": "Knocking On Heavens Door",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TOTALLY UNICORN",
+      "song": "Cool Dads With Cool Sons",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "The Vampyre Of Time And Memory",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MONSTER MAGNET",
+      "song": "See You In Hell",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "No Shelter",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Freedom",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FRENZAL RHOMB",
+      "song": "Russell Crowe's Band",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FRENZAL RHOMB",
+      "song": "Mum Changed The Locks",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Forgotten Years",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Bitch, Don't Kill My Vibe",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WU-TANG KILLA BEEZ",
+      "song": "Killa Beez",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Protect Ya Neck (The Jump Off)",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "21st Century (Digital Boy)",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "Stranger Than Fiction",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HEAVEN SHALL BURN",
+      "song": "Hunters Will Be Hunted",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KILLSWITCH ENGAGE",
+      "song": "Holy Diver",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YOU ME AT SIX",
+      "song": "Lived A Lie",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Spaceman",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "White Skin, Black Heart",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Orange Crush",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Sonne",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Amerika",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Blkkk Skkkn Head",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "No More Shall We Part",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "More News From Nowhere",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "We No Who U R",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FUTURE ISLANDS",
+      "song": "Seasons (Waiting On You)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Stylo",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "New Year's Day",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YOUTH GROUP",
+      "song": "Catching And Killing",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Rusty Cage",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "Imagine",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "The Lighthouse Song",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CW STONEKING",
+      "song": "Jungle Blues",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "Heathen Child",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "No Pussy Blues",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Graceless",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "I Need My Girl",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Miracle Cure",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Three Dimensions",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Downtown Train",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "16 Shells From A 30 Ought Six",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "God's Away On Business",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "Pinball Wizard",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "God's Gonna Cut You Down",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Easy",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Crushed",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Vice Grip",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Wild Eyes",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Unrest",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Karma",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Sleepwalker",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Boneyards",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Smoke 'Em If Ya Got 'Em",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Don't Look Back In Anger",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "She Bangs The Drums",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ASH",
+      "song": "Girl From Mars",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPACE",
+      "song": "Female Of The Species",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CATATONIA",
+      "song": "Road Rage",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DRUGSTORE featuring THOM YORKE",
+      "song": "El President",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "Help The Aged",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "A Design For Life",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LUSH",
+      "song": "For Love",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Wrote For Luck",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE LIGHTNING SEEDS",
+      "song": "Lucky You",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Come Together",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ELASTICA",
+      "song": "Connection",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SUEDE",
+      "song": "Beautiful Ones",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JAMES",
+      "song": "Laid",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Charmless Man",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SURFER BLOOD",
+      "song": "Grand Inquisitor",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SPORTING LIFE",
+      "song": "Badd",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DARLENE LOVE",
+      "song": "Forbidden Nights",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MEG MAC",
+      "song": "Never Be",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PRISCILLA SHARP",
+      "song": "Floored",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE PAPER KITES",
+      "song": "Revelator Eyes",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MEDIA JEWELER",
+      "song": "Passport Invalid",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THIRSTY MERC",
+      "song": "The Good Life",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "The Yabba",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DIET CIG",
+      "song": "Sleep Talk",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DJANGO DJANGO",
+      "song": "Pause Repeat",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "Complexity",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALPINE",
+      "song": "Shot Fox",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "UNKNOWN MORTAL ORCHESTRA",
+      "song": "Can't Keep Checking My Phone",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

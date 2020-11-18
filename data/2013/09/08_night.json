@@ -1,0 +1,429 @@
+{
+  "title": "Saturday night  Sunday, 8 September",
+  "special": null,
+  "timeslot": "night",
+  "date": "2013-09-08",
+  "url": "http://www.abc.net.au/rage/archive/s3843072.htm",
+  "tracks": [
+    {
+      "artist": "MS MR",
+      "song": "Fantasy",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Frontier Psychiatrist (U.K. version)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Buddy Holly",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Diane Young",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Do I Wanna Know?",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Crystal",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Parklife",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Countdown",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "You And I",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Crazy",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CARDIGANS",
+      "song": "My Favourite Game",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Get Ur Freak On",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EL GUINCHO",
+      "song": "Bombay",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "Trying To Be Cool",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SSION",
+      "song": "Earthquake",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Praise You",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JAMIROQUAI",
+      "song": "Virtual Insanity",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "It's Oh So Quiet",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JANELLE MONAE",
+      "song": "Cold War",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Violet",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Only Happy When It Rains",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOOD ORANGE",
+      "song": "Champagne Coast",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Criminal",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "I Feel Better",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Just A Girl",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "Hollaback Girl",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Toxic",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JUSTICE",
+      "song": "DVNO",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Midnight Madness",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHARLI XCX",
+      "song": "What I Like",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "The Dope Show",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "Not Fair",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HAERTS",
+      "song": "Wings",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ROBYN",
+      "song": "Call Your Girlfriend",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEYONCE featuring JAY-Z",
+      "song": "Crazy In Love",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Say My Name",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "D'ANGELO",
+      "song": "Untitled",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Doo Wop (That Thing)",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SCISSOR SISTERS",
+      "song": "Invisible Light",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS featuring FLORENCE WELCH",
+      "song": "Sweet Nothing",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Daft Punk Is Playing at My House",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Weapon Of Choice",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "The Suburbs",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHRIS ISAAK",
+      "song": "Wicked Game",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Coffee and TV",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Just",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Last Nite",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DOVES",
+      "song": "There Goes The Fear",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Bittersweet Symphony",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Slow",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "We Can't Stop",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MS MR",
+      "song": "Think Of You",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MS MR",
+      "song": "Hurricane",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MS MR",
+      "song": "Fantasy",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DINOWALRUS",
+      "song": "Grounded",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE SO SO GLOS",
+      "song": "Dizzy",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MACHINEDRUM",
+      "song": "Eyesdontlie",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Paradise",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DIRT FARMER",
+      "song": "She Shakes",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE SWISS",
+      "song": "Connect",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BIG BLACK DELTA",
+      "song": "Money Rain Down",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "A Tooth For An Eye",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "The Mother We Share",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TOUCH SENSITIVE",
+      "song": "Pizza Guy",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Memorium",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "STONEFIELD",
+      "song": "Put Your Curse On Me",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HUNGRY KIDS OF HUNGARY",
+      "song": "Do Or Die",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BELLE and SEBASTIAN",
+      "song": "Your Cover's Blown (Miaoux Miaoux Mix)",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

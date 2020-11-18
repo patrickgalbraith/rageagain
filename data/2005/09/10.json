@@ -1,0 +1,599 @@
+{
+  "title": "Saturday 10th September",
+  "special": "Magic Dirt guest program",
+  "timeslot": null,
+  "date": "2005-09-10",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050910.htm",
+  "tracks": [
+    {
+      "artist": "UNKLE featuring IAN BROWN",
+      "song": "Be There",
+      "label": "Mercury",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": "Modular",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Love Is A Deserter",
+      "label": "Liberation",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Rusty Cage",
+      "label": "BMG",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "ASTEROID B6-12",
+      "song": "Straight Back To You",
+      "label": "Shock",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "BEASTS OF BOURBON",
+      "song": "Chase The Dragon",
+      "label": "Polydor",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "THE SCIENTISTS",
+      "song": "Blood Red River",
+      "label": "Universal (MCA)",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "THESE IMMORTAL SOULS",
+      "song": "Marry Me",
+      "label": "Festival",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "BOYS NEXT DOOR",
+      "song": "Shivers",
+      "label": "Mushroom",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY - Live",
+      "song": "Deep In The Woods",
+      "label": "Independent",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Loverman",
+      "label": "Mushroom",
+      "timeslot": "12:16:00"
+    },
+    {
+      "artist": "BUTTHOLE SURFERS",
+      "song": "Pepper",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PATTI SMITH",
+      "song": "Summer Cannibals",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE RED SUN BAND",
+      "song": "Sleep Forever",
+      "label": "Slanted",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Dead Man",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "G-Englar - SIGUR ROS - Live",
+      "song": "Svefn",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "Soon",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SWERVEDRIVER",
+      "song": "Son Of Mustang Ford",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Green Machine",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE NATION BLUE",
+      "song": "Damnation",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GOD",
+      "song": "My Pal",
+      "label": "Au-Go-Go",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PARADISE MOTEL",
+      "song": "Bad Light",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "78 SAAB",
+      "song": "Like It Was Before",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE LOVED ONES",
+      "song": "The Loved One",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE STEMS",
+      "song": "At First Sight",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE RONETTES",
+      "song": "Be My Baby",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Bikini Girls With Machine Guns",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Ultra Twist",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE FUZZ",
+      "song": "The Bomb",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SMOG",
+      "song": "My Family",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "This Here Giraffe",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SANDPIT",
+      "song": "Along The Moors",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "To Here Knows When",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE JESUS & MARY CHAIN",
+      "song": "Some Candy Talking",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "The FALLING JOYS",
+      "song": "Lock It",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CLOUDS",
+      "song": "Hieronymus",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MAZZY STAR",
+      "song": "Halah",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPARKLEHORSE",
+      "song": "Pig",
+      "label": "MDS",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TUMBLEWEED",
+      "song": "Daddy Long Legs",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE SUNNYBOYS",
+      "song": "Alone With You",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Redhead",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Ice",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Sparrow",
+      "label": "Au-Go-Go",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Pristine Christine",
+      "label": "Au-Go-Go",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Riff - MAGIC DIRT",
+      "song": "She",
+      "label": "Au-Go-Go",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Dirty Jeans",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Pace It",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Supagloo",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "City Trash",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Watch Out Boys",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Plastic Loveless Letter",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "All My Crushes",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Locket",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BODYJAR featuring ADALITA",
+      "song": "Too Drunk To Drive",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Vow",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Queer",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Only Happy When It Rains",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Stupid Girl",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Milk (Tricky Mix)",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Push It",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "I Think I'm Paranoid",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Special",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "When I Grow Up",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "The World Is Not Enough",
+      "label": "Universal (MCA)",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "The Trick Is To Keep Breathing",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "You Look So Fine",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Androgyny",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Cherry Lips",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Breaking Up The Girl",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Shut Your Mouth",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Why Do You Love Me",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Run Baby Run",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Sex Is Not The Enemy",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "So Here We Are",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NEON",
+      "song": "Friend",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Wake Me Up When September Ends",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 20
+    },
+    {
+      "artist": "NELLY",
+      "song": "Errtime",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 19
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Feel Good Inc.",
+      "label": "EMI",
+      "timeslot": "05:00:00",
+      "countdown": 18
+    },
+    {
+      "artist": "CIARA featuring LUDACRIS",
+      "song": "Oh",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 17
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "Untitled (How Could This Happen To Me)",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 16
+    },
+    {
+      "artist": "HILARY DUFF",
+      "song": "Wake Up",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "BRATZ ROCK ANGELZ",
+      "song": "So Good",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Ass Like That",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "MISSY ELLIOTT featuring CIARA & FATMAN SCOOP",
+      "song": "Lose Control",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "You're Beautiful",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "Cool",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "ROGUE TRADERS",
+      "song": "Voodoo Child",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "SCHNAPPI",
+      "song": "Das Kleine Krokodil",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 8
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Don't Lie",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "AKON",
+      "song": "Lonely",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "THE VERONICAS",
+      "song": "4 Ever",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "DANIEL POWTER",
+      "song": "Bad Day",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "CRAZY FROG",
+      "song": "Axel F",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "2 PAC",
+      "song": "Ghetto Gospel",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "PUSSYCAT DOLLS featuring BUSTA RHYMES",
+      "song": "Don't Cha",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

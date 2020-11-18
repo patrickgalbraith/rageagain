@@ -1,0 +1,98 @@
+{
+  "title": "Saturday 28th January",
+  "special": "Episodes of Countdown, Recovery & Rock Arena",
+  "timeslot": null,
+  "date": "2006-01-28",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060128.htm",
+  "tracks": [
+    {
+      "artist": "COUNTDOWN",
+      "song": "December 12th, 1982",
+      "label": "ABC",
+      "timeslot": "12:01:00"
+    },
+    {
+      "artist": "JOAN JETT & THE BLACKHEARTS",
+      "song": "Bad Reputation",
+      "label": "EMI",
+      "timeslot": "12:01:00"
+    },
+    {
+      "artist": "THE RUNAWAYS",
+      "song": "Cherry Bomb",
+      "label": "Independent",
+      "timeslot": "12:01:00"
+    },
+    {
+      "artist": "COUNTDOWN",
+      "song": "February 15th, 1987",
+      "label": "ABC",
+      "timeslot": "12:01:00"
+    },
+    {
+      "artist": "ROCK ARENA",
+      "song": "January 1st, 1987",
+      "label": "ABC",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RECOVERY",
+      "song": "October 19th, 1996",
+      "label": "ABC",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RECOVERY",
+      "song": "October 19th, 1996",
+      "label": "ABC",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Wake Up",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FAKER",
+      "song": "Love For Sale",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PUSSYCAT DOLLS",
+      "song": "Stickwitu",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "Goodbye My Lover",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "LEE HARDING",
+      "song": "Wasabi",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "EMINEM",
+      "song": "When I'm Gone",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "CHRIS BROWN",
+      "song": "Run It",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+{
+  "title": "Saturday night 21 March 2015",
+  "special": "Run The Jewels",
+  "timeslot": "night",
+  "date": "2015-03-21",
+  "url": "http://www.abc.net.au/rage/archive/s4201833.htm",
+  "tracks": [
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "Oh My Darling (Don't Cry)",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "EARL SWEATSHIRT",
+      "song": "Chum",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ACTION BRONSON",
+      "song": "Easy Rider",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TALIB KWELI",
+      "song": "Listen",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE GAME featuring TRAVIS BARKER",
+      "song": "Dope Boys",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "50 CENT",
+      "song": "I Get Money",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "T.I. ft. YOUNG THUG",
+      "song": "About The Money",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BOOTS",
+      "song": "Mercy",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PORTISHEAD",
+      "song": "Machine Gun",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Teardrop",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "WAVVES",
+      "song": "King Of The Beach",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ADAM SANDLER - from 'THE WEDDING SINGER'",
+      "song": "Somebody Kill Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX - LIVE",
+      "song": "Purple Haze",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "ATLiens",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NAS",
+      "song": "Made You Look",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "Money, Cash, Hoes",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Bulls On Parade",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Epic",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Dazed And Confused",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NOTORIOUS B.I.G.",
+      "song": "Hypnotize",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "N.W.A",
+      "song": "100 Miles and Runnin'",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SNOOP DOGGY DOGG",
+      "song": "Murder Was The Case",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WILDER ZOBY",
+      "song": "Day We Met",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FLYING LOTUS",
+      "song": "Coronus, The Terminator",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "D'ANGELO",
+      "song": "Brown Sugar",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GRAVEDIGGAZ",
+      "song": "Nowhere To Run, Nowhere To Hide",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GHOSTFACE KILLAH",
+      "song": "Daytona 500",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RICK ROSS",
+      "song": "Hold Me Back",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DANNY BROWN",
+      "song": "Blunt After Blunt",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TYLER, THE CREATOR",
+      "song": "Yonkers",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CLIPSE featuring PHARRELL",
+      "song": "Mr Me Too",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MOS DEF",
+      "song": "Miss Fat Booty",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOEY BADA$$",
+      "song": "Christ Conscious",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SCARFACE featuring ICE CUBE",
+      "song": "Hand Of The Dead Body",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BIG MIKE featuring PIMP C",
+      "song": "Havin' Thangs",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Triumph",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "2 PAC",
+      "song": "Keep Your Head Up",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WARREN G and NATE DOGG",
+      "song": "Regulate",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ZOLA JESUS",
+      "song": "Dangerous Days",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LORDE",
+      "song": "Team",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "We Are The Champions",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "No Sleep 'Til Brooklyn",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "Run The Jewels",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "36 Chain",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "Blockbuster Night Part 1",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "Oh My Darling (Don't Cry)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "Lie, Cheat, Steal",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "A Christmas Fucking Miracle",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EL-P",
+      "song": "Flyentology",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EL-P",
+      "song": "Smithereens (Stop Crying)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KILLER MIKE ft. BUN B, TROUBLE, EL-P and T.I.",
+      "song": "Big Beast",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KILLER MIKE",
+      "song": "A.D.I.D.A.S.",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OUTKAST featuring KILLER MIKE and SLEEPY BROWN",
+      "song": "Land Of A Million Drums",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COMPANY FLOW",
+      "song": "End To End Burners",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AESOP ROCK",
+      "song": "Freeze",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AESOP ROCK",
+      "song": "None Shall Pass",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AESOP ROCK featuring JOHN DARNIELLE",
+      "song": "Coffee",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DUNGEON FAMILY",
+      "song": "Trans DF Express",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PURPLE RIBBON and BIG BOI",
+      "song": "Kryptonite",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YELAWOLF",
+      "song": "F.A.S.T. Ride",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YING YANG TWINS featuring BUN B",
+      "song": "Git It",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RICK ROSS featuring LIL WAYNE",
+      "song": "Thug Cry",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CLIPPING featuring COCC PISTOL CREE",
+      "song": "Work Work",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLIPPING",
+      "song": "Get Up",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLIPPING",
+      "song": "Body and Blood",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FREDDIE GIBBS and MADLIB",
+      "song": "Deeper",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YOUNG THUG ft FREDDIE GIBBS and A$AP FERG",
+      "song": "Old English",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MADVILLAIN",
+      "song": "Rhinestone Cowboy",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MADVILLAIN",
+      "song": "All Caps",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MADVILLAIN",
+      "song": "Monkey Suite",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BADBADNOTGOOD",
+      "song": "Can't Leave the Night",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BADBADNOTGOOD and GHOSTFACE KILLAH ft DOOM",
+      "song": "Ray Gun",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RATKING",
+      "song": "Girt",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RATKING",
+      "song": "So It Goes",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MITSKI",
+      "song": "Townie",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PICTUREPLANE",
+      "song": "Hyper Real",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEATH GRIPS",
+      "song": "On GP",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PASSION PIT",
+      "song": "Constant Conversations",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Africa",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CRANBERRIES",
+      "song": "Dreams",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Last Nite",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MATT and KIM",
+      "song": "Lessons Learned",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Friday I'm In Love",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WILL SMITH",
+      "song": "Gettin' Jiggy Wit It",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PRAS MICHEL featuring OL' DIRTY and MYA",
+      "song": "Ghetto Supastar",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Drunk Girls",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WHAM",
+      "song": "Wake Me Up Before You Go-Go",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL SIMON",
+      "song": "You Can Call Me Al",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Joga",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BOBBY MCFERRIN",
+      "song": "Don't Worry, Be Happy",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PASSION PIT",
+      "song": "Take A Walk",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OTHER LIVES",
+      "song": "Reconfiguration",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "REALiTi",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CELESTIAL SHORE",
+      "song": "Now I Know",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WINTERPLAN",
+      "song": "Palindroma",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HOUND",
+      "song": "God Is Calling",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LA PRIEST",
+      "song": "Oino",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE VERY BEST",
+      "song": "Let Go",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HERMITUDE featuring YOUNG TAPZ",
+      "song": "Through The Roof",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KAGU",
+      "song": "Human",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TROPICS",
+      "song": "Rapture",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Depreston",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TEAR COUNCIL",
+      "song": "Anywhere",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FLIGHT FACILITIES",
+      "song": "Down To Earth",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALL WE ARE",
+      "song": "Utmost Good",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Go Out",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "title": "Friday night  Friday, 29 April",
+  "special": null,
+  "timeslot": "night",
+  "date": "2011-04-29",
+  "url": "http://www.abc.net.au/rage/archive/s3203941.htm",
+  "tracks": [
+    {
+      "artist": "THE CHASER",
+      "song": "Good Luck English Rose",
+      "label": "ABC",
+      "timeslot": "23:49:00"
+    },
+    {
+      "artist": "OBIT",
+      "song": "Gerard Smith",
+      "label": "Rage",
+      "timeslot": "23:49:00"
+    },
+    {
+      "artist": "TV ON THE RADIO",
+      "song": "Staring At The Sun",
+      "label": "Remote Control",
+      "timeslot": "23:49:00"
+    },
+    {
+      "artist": "LYKE GIANTS",
+      "song": "The World Shakes",
+      "label": "River City Records",
+      "timeslot": "23:49:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "You Are A Tourist",
+      "label": "Warner",
+      "timeslot": "23:49:00"
+    },
+    {
+      "artist": "PAPA vs PRETTY",
+      "song": "One Of The Animals",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PLUTO JONZE",
+      "song": "Meet You Under Neon",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GUINEAFOWL",
+      "song": "Little Fingers",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Techno Fan",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Make Some Noise",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DRAPHT",
+      "song": "Sing It 'The Life of Riley'",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE HERD",
+      "song": "Sum Of It All",
+      "label": "Elefant Traks",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "X-RAY SPEX",
+      "song": "Oh Bondage, Up Yours!",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GRAVEYARD",
+      "song": "Hisingen Blues",
+      "label": "Riot",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC\\DC",
+      "song": "Thunderstruck (Live at the River Plate)",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EPHEMERIS",
+      "song": "New Development",
+      "label": "Black Fading Records",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "STARS",
+      "song": "Changes",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SOPHIE HUTCHINGS",
+      "song": "Sunlight Zone",
+      "label": "Preservation",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WILD BEASTS",
+      "song": "Albatross",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MANCHESTER ORCHESTRA",
+      "song": "Simple Math",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YOUNG THE GIANT",
+      "song": "Apartment",
+      "label": "Roadrunner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHRIS PICKERING",
+      "song": "Hasta Luego",
+      "label": "Longtime Listener",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DARWIN DEEZ",
+      "song": "DNA",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Phoner To Arizona",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HERMITUDE",
+      "song": "Get In My Life",
+      "label": "Elefant Traks",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WESTERNSYNTHETICS feat CHARLES SMITH",
+      "song": "The Machine",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Lotus Flower",
+      "label": "Remote Control",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IMOGEN HEAP",
+      "song": "Lifeline",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HEY ROSETTA!",
+      "song": "Yer Spring",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FLEET FOXES",
+      "song": "Grown Ocean",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "VERUCA SALT",
+      "song": "Seether",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARTIC MONKEYS",
+      "song": "Don't Sit Down",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FARE EVADER",
+      "song": "Think Slow",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CADRES",
+      "song": "Young Cadres",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEN HARPER",
+      "song": "Rock N Roll Is Free",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EVA CASSIDY",
+      "song": "San Francisco Bay Blues (Live)",
+      "label": "KAOS",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALEX LLOYD WITH THE PIGRAM BROS.",
+      "song": "Slow Train",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KD LANG",
+      "song": "I Confess",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIE! DIE! DIE!",
+      "song": "Daze",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SMOKE & SILVER",
+      "song": "On The Riverside",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LES SAVVY FAV",
+      "song": "Sleepless In Silverlake",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KIMBRA",
+      "song": "Cameo Lover",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YELLOWCARD",
+      "song": "Hang You Up",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DROPKICK MURPHYS",
+      "song": "Memorial Day",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HEROES FOR HIRE",
+      "song": "All Messed Up",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CEE LO GREEN feat WHIZ KHALIFA",
+      "song": "Bright Lights Bigger City",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EMERALD SUN",
+      "song": "Feeling",
+      "label": "Bergstein Ent.",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TRAVIS BARKER ft GAME, LIL WAYNE, RICK ROSS & SWI",
+      "song": "Can A Drummer Get Some",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BUCK 65",
+      "song": "Zombie Delight",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MOUSEY featuring MC KC-B",
+      "song": "Mouse In Da House",
+      "label": "ABC X promos",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STILL FLYIN'",
+      "song": "Bull Riff",
+      "label": "Moshi Moshis",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JACKSON MCLAREN",
+      "song": "Mirrors & Strings",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KORT",
+      "song": "Pickin Wild Mountain Berries",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OKKERVIL RIVER",
+      "song": "Wake And Be Fine",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COSMO JARVIS",
+      "song": "Gay Pirates",
+      "label": "25th Frame",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "UNWRITTEN LAW",
+      "song": "Starships and Apocalypse",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "This Is War",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "REDCOATS",
+      "song": "Dreamshaker",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "I, SAID THE SPARROW",
+      "song": "I'm A Villian And I'm Online",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "All You Need Is Now",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Karma",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INTO THE NIGHT",
+      "song": "Such Is Life",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLIND MUNKEE",
+      "song": "No Good Buys",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OVER-REACTOR",
+      "song": "Best Of Worst",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHICKS WHO LOVE GUNS",
+      "song": "God, Love & Satan",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HELL",
+      "song": "On Earth As It Is In Hell",
+      "label": "Riot",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SKID ROW",
+      "song": "I Remember You",
+      "label": "Atlantic",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SIXX AM",
+      "song": "Lies Of The Beautiful People",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MITCHEL LUTHER",
+      "song": "Everything",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANDREA SOLER",
+      "song": "Waiting For The Moon",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CALLING UTOPIA",
+      "song": "Runaway",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DISASTERADIO",
+      "song": "Gravy Rainbow",
+      "label": "A Low Hum",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ATOMIC BLISS",
+      "song": "February",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ESTATE,THE",
+      "song": "Answers",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE PRIORY DOLLS",
+      "song": "Get Your Dark Wizard On",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "I.I.I",
+      "song": "Deja Vu",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE POTBELLEEZ",
+      "song": "From The Music",
+      "label": "Vicious",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "STEVE AOKI & SIDNEY SAMSON",
+      "song": "Wake Up Call",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE - Live on T4",
+      "song": "Smile",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IAN CAREY feat SNOOP DOGG & BOBBY ANTHONY",
+      "song": "Last Night",
+      "label": "Vicious",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FAR EAST MOVEMENT featuring SNOOP DOGG",
+      "song": "If I Was You",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SNOOP DOGG vs DAVID GUETTA",
+      "song": "Sweat",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LUPE FIASCO",
+      "song": "The Show Goes On",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JEREMIH featuring 50 CENT",
+      "song": "Down On Me",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "S&M",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RYAN.T.",
+      "song": "Shed So Many Tears",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATY B featuring MS DYNAMITE",
+      "song": "Lights On",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AKRON/FAMILY",
+      "song": "Silly Bears",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAY SEAN featuring LIL WAYNE",
+      "song": "Hit The Lights",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAMIEN LEITH",
+      "song": "Oh, Pretty Woman",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TRIP,THE",
+      "song": "On The First Time",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MYANORA",
+      "song": "Beautiful",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DR DRE feat EMINEM & SKYLAR GREY",
+      "song": "I Need A Doctor",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHRIS BROWN featuring BENNY BENASSI",
+      "song": "Beautiful People",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JENNIFER LOPEZ feat PITBULL",
+      "song": "On The Floor",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FREEMASONS feat WYNTER GORDON",
+      "song": "Believer",
+      "label": "Vicious",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PRINNIE",
+      "song": "Lion",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JESSIE J featuring B.o.B",
+      "song": "Price Tag",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Planetary (Go!)",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LMFAO feat LAUREN BENNETT & GOONROCK",
+      "song": "Party Rock Anthem",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KATY PERRY",
+      "song": "E.T.",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Till The World Ends",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

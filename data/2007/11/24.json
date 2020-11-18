@@ -1,0 +1,567 @@
+{
+  "title": "Saturday, 24 November",
+  "special": "Gotye",
+  "timeslot": null,
+  "date": "2007-11-24",
+  "url": "http://www.abc.net.au/rage/archive/s2099189.htm",
+  "tracks": [
+    {
+      "artist": "THE KLF",
+      "song": "America: What Time Is Love?",
+      "label": "Mushroom",
+      "timeslot": "23:34:00"
+    },
+    {
+      "artist": "THE TIMELORDS",
+      "song": "Doctorin' The Tardis",
+      "label": "BMG",
+      "timeslot": "23:34:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Just Can't Get Enough",
+      "label": "Mushroom",
+      "timeslot": "23:34:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Condemnation",
+      "label": "Mushroom",
+      "timeslot": "23:34:00"
+    },
+    {
+      "artist": "THE FAINT",
+      "song": "I Disappear",
+      "label": "Stomp",
+      "timeslot": "23:34:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "The Perfect Drug",
+      "label": "Universal (MCA",
+      "timeslot": "23:34:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Lullaby",
+      "label": "Warner",
+      "timeslot": "23:34:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LAURIE ANDERSON",
+      "song": "Language Is A Virus",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PET SHOP BOYS",
+      "song": "It's A Sin",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DJ SHADOW",
+      "song": "Midnight In A Perfect World",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Protection",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Big Love",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FAUX PAS",
+      "song": "Tim As A Brim",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CHEF",
+      "song": "Chocolate Salty Balls",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "USA FOR AFRICA",
+      "song": "We Are The World",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "It's All About The Pentiums",
+      "label": "Jive/Zomba",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THOMAS DOLBY",
+      "song": "She Blinded Me With Science",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "YES",
+      "song": "Owner Of A Lonely Heart",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ALAN PARSONS PROJECT",
+      "song": "I Wouldn't Want To Be Like You",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ANDREW THOMPSON",
+      "song": "We're In Business",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Robots",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOGDAN IRKUK a.k.a. BULGARI",
+      "song": "Curare",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Controversy",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Little Red Corvette",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JUNIOR SENIOR",
+      "song": "Move Your Feet",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KINGS OF CONVENIENCE",
+      "song": "I'd Rather Dance With You",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "My Moon My Man",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WEEN",
+      "song": "Transdermal Celebration",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SMOG",
+      "song": "Rock Bottom Riser",
+      "label": "Spunk/Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IRON & WINE",
+      "song": "Naked As We Came",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Wonderboy",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KARNIVOOL",
+      "song": "Themata",
+      "label": "Chatterbox",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MEW",
+      "song": "The Zookeeper's Boy",
+      "label": "SBME",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YURA YURA TEIKOKU",
+      "song": "3 Night Creatures",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EDITORS",
+      "song": "Blood",
+      "label": "SpeaknSpell",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WARREN ZEVON",
+      "song": "Werewolves Of London",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Suspended In Gaffa",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CORNELIUS",
+      "song": "Point Of View Point",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "OF MONTREAL",
+      "song": "Disconnect The Dots",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Experiment IV",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOYZVOICE",
+      "song": "Twelve Year Old Woman",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WEIRD AL YANKOVIC",
+      "song": "Eat It",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOE DOLCE",
+      "song": "Shaddup Your Face",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEEN",
+      "song": "Freedom Of '76",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE KLF",
+      "song": "Justified & Ancient",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Calling Occupants Of Interplanetary Craft",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LAURIE ANDERSON",
+      "song": "O Superman",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Out Here In The Cold",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Hearts A Mess",
+      "label": "Creative Vibes",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GOTYE - Live on JTV",
+      "song": "Learnalilgivinanlovin",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BASICS",
+      "song": "Just Hold On",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BASICS",
+      "song": "Looking Over My Shoulder",
+      "label": "Aust. Music Biz",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Just Keep Walking",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Stay Young",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "The One Thing",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Don't Change",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Original Sin",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "I Send A Message",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Dancing On The Jetty",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Burn For You",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "What You Need",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Listen Like Thieves",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "New Sensation",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Devil Inside",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Need You Tonight/Mediate",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Never Tear Us Apart",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Suicide Blonde",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Heaven Sent",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Teddy Picker",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "1990s",
+      "song": "You're Supposed To Be My Friend",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BRIDEZILLA",
+      "song": "Brown Paper Bag",
+      "label": "Ivy League",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Let's Dance To Joy Division",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Mansard Roof",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MAXIMO PARK",
+      "song": "Karaoke Plays",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HARD-FI",
+      "song": "Can't Get Along (Without You)",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "!!! (CHK CHK CHK)",
+      "song": "Yadnus",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Flux",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE HIVES",
+      "song": "Tick Tick Boom",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE MESS HALL",
+      "song": "Keep Walking",
+      "label": "Ivy League",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE HEAVY",
+      "song": "That Kind Of Man",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "Tipped Hat",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "Mammoth",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "Charmer",
+      "label": "SBME",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE KILLERS featuring LOU REED",
+      "song": "Tranquilize",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SILENTS",
+      "song": "23",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "Delivery",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Apartment Story",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BRITISH INDIA",
+      "song": "Run The Red Light",
+      "label": "Shiny",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CORRECTO",
+      "song": "Joni",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EDITORS",
+      "song": "The Racing Rats",
+      "label": "Red Label",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PLASTIC PALACE ALICE",
+      "song": "Empire Falls",
+      "label": "Shiny",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TUNNG",
+      "song": "Bullets",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

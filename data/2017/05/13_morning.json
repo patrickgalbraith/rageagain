@@ -1,0 +1,483 @@
+{
+  "title": "Saturday morning 13 May 2017, ABC",
+  "special": null,
+  "timeslot": "morning",
+  "date": "2017-05-13",
+  "url": "http://www.abc.net.au/rage/archive/s4668310.htm",
+  "tracks": [
+    {
+      "artist": "JAMES ARTHUR",
+      "song": "Can I Be Him",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHARLIE PUTH",
+      "song": "Attention",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JOHN MAYER",
+      "song": "Still Feel Like Your Man",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ZAYN ft. PARTYNEXTDOOR",
+      "song": "Still Got Time (clean)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SNAKEHIPS _and_ MO",
+      "song": "Don't Leave (Clean Version)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KATY PERRY",
+      "song": "Chained To The Rhythm (Oliver Heldens Remix)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WEEKND, THE ft. DAFT PUNK",
+      "song": "I Feel It Coming",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MACHINE GUN KELLY ft. HAILEE STEINFELD",
+      "song": "At My Best",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KYLE ft LIL YACHTY",
+      "song": "iSpy",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "IMAGINE DRAGONS",
+      "song": "Thunder",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KALEO",
+      "song": "Way Down We Go",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BLISS N ESO ft. GAVIN JAMES",
+      "song": "Moments",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JON BELLION",
+      "song": "All Time Low",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "G-EZY _and_ KEHLANI",
+      "song": "Good Life",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FUTURE",
+      "song": "Mask Off (clean)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JAX JONES ft. RAYE",
+      "song": "You Don't Know Me (Clean)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Castle On The Hill (clean)",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JULIA MICHAELS",
+      "song": "Issues",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "DEAN LEWIS",
+      "song": "Waves",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LORDE",
+      "song": "Green Light",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KYGO ft. SELENA GOMEZ",
+      "song": "It Ain't Me",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BRUNO MARS",
+      "song": "That's What I Like",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LUIS FONSI ft. DADDY YANKEE",
+      "song": "Despacito",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "HARRY STYLES",
+      "song": "Sign Of The Times",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ZEDD _and_ ALESSIA CARA",
+      "song": "Stay",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "CLEAN BANDIT ft. ZARA LARSSON",
+      "song": "Symphony",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Galway Girl",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Humble (censored)",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Shape Of You",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "DJ KHALED ft. JUSTIN BIEBER, QUAVO",
+      "song": "I'm The One",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ALT-J",
+      "song": "3WW",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "MAGIC BONES",
+      "song": "Hotter Than The Sun",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GREEN BUZZARD",
+      "song": "Dream In/Out",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE GOODS",
+      "song": "Make Your Move",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LITTLE DRAGON",
+      "song": "Celebrate",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LUKE MILLION ft. SAM SPARRO",
+      "song": "Back To The Rhythm",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Fire Fire Fire",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "TEX PERKINS",
+      "song": "I Know Y'Know I Know",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ALEX CAMERON",
+      "song": "Mongrel",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "LINDSEY BUCKINGHAM",
+      "song": "Trouble",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ST. VINCENT",
+      "song": "Cruel",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BLOOD ORANGE",
+      "song": "Augustine",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "JACK LADDER and THE DREAMLANDERS",
+      "song": "Cold Feet",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "If I Know You",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "TENNIS",
+      "song": "Mean Streets",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JAMIE XX",
+      "song": "Gosh",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Stone Men",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Ghost Of A Chance",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "FALL OUT BOY",
+      "song": "Young And Menace",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "Divided",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ROYAL BLOOD",
+      "song": "Lights Out",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "LUPA J",
+      "song": "Put Me Back Together",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "TASH SULTANA",
+      "song": "Murder To The Mind",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "LIL YACHTY",
+      "song": "Bring It Back",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "JAPANESE BREAKFAST",
+      "song": "Machinist",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Rainbow City",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "TREEHOUSE",
+      "song": "Hammer On The Door",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Right Now",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "ALI BARTER",
+      "song": "Please Stay",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "AKOUO ft. MONTAIGNE",
+      "song": "Feel That",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "FOOD COURT",
+      "song": "Slightest Brightest",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "KING GIZZARD _and_ THE LIZARD WIZARD",
+      "song": "Han-Tyumi _and_ The Murder Of The Universe",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN",
+      "song": "Bravado",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "ICFTYDLM (I Can Feel That You Don't Love Me)",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "The Hardest Button To Button",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "All Along The Watchtower",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "2 PAC featuring DR DRE",
+      "song": "California Love",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Say My Name",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Back To Black",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Love Is Only A Feeling",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE SHINS",
+      "song": "Simple Song",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BOY and BEAR",
+      "song": "Harlequin Dream",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "STEVE WINWOOD",
+      "song": "Higher Love",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE HUMAN LEAGUE",
+      "song": "Don't You Want Me",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "AC/DC - LIVE",
+      "song": "Riff Raff",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ALABAMA SHAKES",
+      "song": "Sound and Color",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Golden",
+      "label": null,
+      "timeslot": "11:30:00"
+    }
+  ]
+}

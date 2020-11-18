@@ -1,0 +1,609 @@
+{
+  "title": "Saturday night  Saturday, 10 December",
+  "special": "Bloody Beetroots",
+  "timeslot": "night",
+  "date": "2011-12-10",
+  "url": "http://www.abc.net.au/rage/archive/s3387828.htm",
+  "tracks": [
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": "Polydor",
+      "timeslot": "12:09:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Hallelujah",
+      "label": "Festival",
+      "timeslot": "12:09:00"
+    },
+    {
+      "artist": "HERBIE HANCOCK",
+      "song": "Rock It",
+      "label": "Sony",
+      "timeslot": "12:09:00"
+    },
+    {
+      "artist": "ROCK STEADY CREW",
+      "song": "Hey You",
+      "label": "Virgin",
+      "timeslot": "12:09:00"
+    },
+    {
+      "artist": "AFRIKA BAMBAATAA & THE SOUL SONIC FORCE",
+      "song": "Planet Rock",
+      "label": "Independent",
+      "timeslot": "12:09:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "12:09:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Rocks",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HUSKER DU",
+      "song": "Don't Want To Know If You Are Lonely",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Don't Stand So Close To Me",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FINE YOUNG CANNIBALS",
+      "song": "She Drives Me Crazy",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ziggy Stardust",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Purple Rain",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ERYKAH BADU - LIVE",
+      "song": "Tyrone",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GRACE JONES - LIVE ON COUNTDOWN",
+      "song": "Slave To The Rhythm",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FUCK BUTTONS",
+      "song": "Bright Tomorrow",
+      "label": "ATP",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GRANDMASTER FLASH",
+      "song": "White Lines",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FISCHERSPOONER",
+      "song": "Emerge",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE HIVES",
+      "song": "Main Offender",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Date With The Night",
+      "label": "Modular",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Hey Joe",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JANIS JOPLIN",
+      "song": "Work Me Lord",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "P.I.L.",
+      "song": "Public Image",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "London Calling",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SEX PISTOLS",
+      "song": "Anarchy In The U.K.",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MILES DAVIS",
+      "song": "So What",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO & BURT BACHARACH",
+      "song": "This House Is Empty Now",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Smooth Criminal",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "Cars",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MC5 - LIVE",
+      "song": "Ramblin' Rose",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Paint It Black",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DOORS - LIVE",
+      "song": "Love Me Two Times",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FUGAZI",
+      "song": "Suggestion",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Love Will Tear Us Apart",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE",
+      "song": "Mack The Knife",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOLOKO",
+      "song": "Sing It Back",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EARTH, WIND AND FIRE",
+      "song": "Let's Groove",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Superstition",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Weapon Of Choice",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "REFUSED",
+      "song": "New Noise",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Sheena Is A Parasite",
+      "label": "SpeaknSpell",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEATH FROM ABOVE 1979",
+      "song": "Romantic Rights",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PRESIDENTS OF THE USA",
+      "song": "Peaches",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "All Apologies",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Protection",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JEFF BUCKLEY",
+      "song": "Grace",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Livewire",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Ace Of Spades",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AC/DC - LIVE",
+      "song": "Thunderstruck",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "I Wanna Be Sedated",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Welcome To The Jungle",
+      "label": "Universal (MCA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JAMES BROWN - LIVE AT CHASTAIN PARK",
+      "song": "I Got You (I Feel Good)",
+      "label": "MRA Entertainment",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Hound Dog",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Beat It",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "99 Problems",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Bulls On Parade",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RUN DMC & AEROSMITH",
+      "song": "Walk This Way",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE BLOODY BEETROOTS",
+      "song": "Church Of Noise",
+      "label": "MOS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE BLOODY BEETROOTS",
+      "song": "Domino",
+      "label": "MOS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE BLOODY BEETROOTS",
+      "song": "Butter",
+      "label": "Hussle/UMA",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE BLOODY BEETROOTS",
+      "song": "Cornelius",
+      "label": "MOS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE BLOODY BEETROOTS featuring STEVE AOKI",
+      "song": "Warp",
+      "label": "MOS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHASE & STATUS featuring PLAN B",
+      "song": "Pieces",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHASE & STATUS featuring PLAN B",
+      "song": "End Credits",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MR OIZO",
+      "song": "Analog Worms Attack",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MR OIZO",
+      "song": "Flat Beat",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SEBASTIAN",
+      "song": "Embody",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DESIGNER DRUGS",
+      "song": "Dead Meat",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DESIGNER DRUGS",
+      "song": "Through The Prism",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SKRILLEX",
+      "song": "First Of The Year (Equinox)",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MSTRKRFT",
+      "song": "Easy Love",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LAIDBACK LUKE & STEVE AOKI feat LIL JON",
+      "song": "Turbulence",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LAIDBACK LUKE feat JONATHAN MENDELSOHN",
+      "song": "Timebomb",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CROOKERS featuring MIIKE SNOW",
+      "song": "Remedy",
+      "label": "Liberation",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "STEVE AOKI featuring [[[ZUPER BLAHQ]]]",
+      "song": "I'm In The House",
+      "label": "Hussle/UMA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHROMEO",
+      "song": "Don't Turn The Lights On",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHROMEO feat ELLY JACKSON & LA ROUX",
+      "song": "Hot Mess",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NERO",
+      "song": "Crush On You",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NERO",
+      "song": "Promises",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SUBS",
+      "song": "The Face Of The Planet",
+      "label": "MOS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SUBS",
+      "song": "Kiss My Trance",
+      "label": "MOS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BENNY BENASSI featuring KELIS, APL.DE.AP & JEAN-BA",
+      "song": "Spaceship",
+      "label": "Liberator",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SIMIAN MOBILE DISCO",
+      "song": "Hustler",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SIMIAN MOBILE DISCO featuring CHRIS KEATING",
+      "song": "Audacity Of Huge",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SIMIAN MOBILE DISCO",
+      "song": "I Believe",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AUTOEROTIQUE",
+      "song": "Turn Up The Volume",
+      "label": "MOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CONGOROCK",
+      "song": "Babylon",
+      "label": "MOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AFROJACK featuring EVA SIMONS",
+      "song": "Take Over Control",
+      "label": "MOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LAIDBACK LUKE featuring JONATHAN MENDELSOHN",
+      "song": "Till Tonight",
+      "label": "MOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MSTRKRFT",
+      "song": "Work On You",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MSTRKRFT featuring JOHN LEGEND",
+      "song": "Heartbreaker",
+      "label": "Etc Etc",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JUSTICE",
+      "song": "Audio, Video, Disco",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JUSTICE",
+      "song": "DVNO",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JUSTICE",
+      "song": "Civilization",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DIGITALISM",
+      "song": "2 Hearts",
+      "label": "Cooperative",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DIGITALISM",
+      "song": "Pogo",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DEADMAU5 featuring KASKADE",
+      "song": "I Remember",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DEADMAU5 featuring ROB SWIRE",
+      "song": "Ghosts 'n' Stuff",
+      "label": "Hussle/UMA",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

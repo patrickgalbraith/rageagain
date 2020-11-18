@@ -1,0 +1,609 @@
+{
+  "title": "Saturday, 25 July",
+  "special": "Ben Harper and Relentless7",
+  "timeslot": null,
+  "date": "2009-07-25",
+  "url": "http://www.abc.net.au/rage/archive/s2635431.htm",
+  "tracks": [
+    {
+      "artist": "QUEEN featuring DAVID BOWIE",
+      "song": "Under Pressure",
+      "label": "EMI",
+      "timeslot": "23:47:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Golden Years",
+      "label": "EMI",
+      "timeslot": "23:47:00"
+    },
+    {
+      "artist": "THE PRETENDERS",
+      "song": "Kid",
+      "label": "Warner",
+      "timeslot": "23:47:00"
+    },
+    {
+      "artist": "JOE JACKSON",
+      "song": "Steppin' Out",
+      "label": "Fest/Mush",
+      "timeslot": "23:47:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Coffee & TV",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE STREETS",
+      "song": "Don't Mug Yourself",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "The Boy With A Thorn In His Side",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Papa Don't Preach",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PEACHES",
+      "song": "Boys Want To Be Her",
+      "label": "Remote Control",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Physical",
+      "label": "Fest/Mush",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Romeo & Juliet",
+      "label": "Mercury",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "A Town Called Malice",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Radio Clash",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "STRAY CATS",
+      "song": "Stray Cat Strut",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RICHARD SWIFT",
+      "song": "Kisses For The Misses",
+      "label": "Spunk",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JANET JACKSON",
+      "song": "Rhythm Nation",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BOBBY BROWN",
+      "song": "My Prerogative",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BONE, THUGS 'N' HARMONY",
+      "song": "Tha Crossroads",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NOTORIOUS B.I.G.",
+      "song": "Hypnotize",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Shame",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GAY DAD",
+      "song": "Oh Jim",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Unchained",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Seek & Destroy",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOURNEY",
+      "song": "Faithfully",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "A Sort Of Homecoming",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MIDLAKE",
+      "song": "Young Bride",
+      "label": "SpeaknSpell",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DR. DOG",
+      "song": "The Girl",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "A Quick One While He's Away (You Are Forgiven)",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "I Would Die For You/Baby I'm A Star",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PHIL COLLINS",
+      "song": "In The Air Tonight",
+      "label": "Atlantic",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TEARS FOR FEARS",
+      "song": "Mad World",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Jeremy",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "STONE TEMPLE PILOTS",
+      "song": "Trippin' On A Hole In A Paper Heart",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRIMUS",
+      "song": "Jerry Was A Race Car Driver",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEN HARPER & RELENTLESS 7",
+      "song": "Shimmer And Shine",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEN HARPER",
+      "song": "With My Own Two Hands",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEN HARPER",
+      "song": "Burn To Shine",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEN HARPER",
+      "song": "Fight Outta You",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEN HARPER",
+      "song": "Excuse Me Mr.",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEN HARPER - Live in Concert",
+      "song": "Burn One Down",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Banquet",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "The Prayer",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Time To Pretend",
+      "label": "Red Label",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Electric Feel",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Jane Says",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Stop",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "She Don't Use Jelly",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "Do You Realize?? (Band version)",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DOVES",
+      "song": "There Goes The Fear",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DOVES - Live",
+      "song": "Black & White Town",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Too Much, Too Young",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Ghost Town",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Lazyitis",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Twenty Four Hour Party People",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FRIENDLY FIRES",
+      "song": "Jump In The Pool",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FRIENDLY FIRES",
+      "song": "Paris",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WHITE LIES",
+      "song": "To Lose My Life",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "45 And Rising",
+      "label": "Shiny",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Into The Galaxy",
+      "label": "Shiny",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "It'5",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "Heart It Races",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GRINSPOON",
+      "song": "Hard Act To Follow",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GRINSPOON",
+      "song": "Black Tattoo",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YOU AM I",
+      "song": "Berlin Chair",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YOU AM I",
+      "song": "Cathy's Clown",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "The Nosebleed Section",
+      "label": "Obese Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "The Hard Road",
+      "label": "Obese Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DRAPHT & DOWNSYDE - triple j tv",
+      "song": "Jimmy Recard",
+      "label": "Obese Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE GUTTER TWINS",
+      "song": "Idle Hands",
+      "label": "Stomp",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Silhouettic",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MANCHESTER ORCHESTRA",
+      "song": "I've Got Friends",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KISSCHASY",
+      "song": "Opinions Won't Keep You Warm At Night",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KRAM",
+      "song": "Blitzkrieg Bop",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AUGIE MARCH",
+      "song": "One Crowded Hour",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "All I Want",
+      "label": "Dew Process/UMA",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Bodies",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "YUKSEK",
+      "song": "Tonight",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DECODER RING",
+      "song": "Somersault",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHILDREN COLLIDE",
+      "song": "Farewell Rocketship",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLUEJUICE",
+      "song": "Vitriol",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LOST VALENTINOS",
+      "song": "Serio",
+      "label": "Etc Etc",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Fire Fire Fire",
+      "label": "SpeaknSpell",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "YVES KLEIN BLUE",
+      "song": "Getting Wise",
+      "label": "Dew Process/UMA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE RED",
+      "song": "Witchdoctor",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BEAUTIFUL GIRLS",
+      "song": "I Thought About You",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL DEMPSEY",
+      "song": "Out The Airlock",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BOB EVANS",
+      "song": "Nowhere Without You",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "Memories & Dust",
+      "label": "Ivy League",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MAXIMO PARK",
+      "song": "Questing, Not Coasting",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LISSY TRULLIE",
+      "song": "Boy Boy",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BERTIE BLACKMAN",
+      "song": "Thump",
+      "label": "MGM",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WHITE LIES",
+      "song": "Death (Crystal Castles Remix)",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DUKES OF WINDSOR",
+      "song": "Crystal's Getting High",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JACK PENATE",
+      "song": "Be The One",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE BASICS",
+      "song": "Like a Brother",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Pearl's Dream",
+      "label": "Spunk",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MSTRKRFT featuring JOHN LEGEND",
+      "song": "Heartbreaker",
+      "label": "Etc Etc",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "22",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MOS DEF",
+      "song": "Casa Bey",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DANANANANAKROYD",
+      "song": "Black Wax",
+      "label": "Dew Process/UMA",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

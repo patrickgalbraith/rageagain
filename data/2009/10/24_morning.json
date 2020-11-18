@@ -1,0 +1,471 @@
+{
+  "title": "Saturday morning  Saturday, 24 October",
+  "special": "Wayne Coyne from The Flaming Lips Guest Programs",
+  "timeslot": "morning",
+  "date": "2009-10-24",
+  "url": "http://www.abc.net.au/rage/archive/s2722244.htm",
+  "tracks": [
+    {
+      "artist": "BON JOVI",
+      "song": "We Weren't Born To Follow",
+      "label": "Universal",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "SHINEDOWN",
+      "song": "If You Only Knew",
+      "label": "Warner",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "OWL CITY",
+      "song": "Fireflies",
+      "label": "Universal",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "AGNES",
+      "song": "Release Me",
+      "label": "Warner",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "MARY J BLIGE featuring DRAKE",
+      "song": "The One",
+      "label": "Universal",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Up/Down",
+      "label": "Sony",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "COBRA STARSHIP featuring LEIGHTON MEESTER",
+      "song": "Good Girls Go Bad",
+      "label": "Warner",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "JET",
+      "song": "She's A Genius",
+      "label": "EMI",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "BLUEJUICE",
+      "song": "Broken Leg",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ROB THOMAS",
+      "song": "Someday",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Broken Hearted Girl",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CASSIE DAVIS",
+      "song": "No More",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DIZZEE RASCAL",
+      "song": "Holiday",
+      "label": "Liberation",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "WALE featuring LADY GAGA",
+      "song": "Chillin'",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GUY SEBASTIAN",
+      "song": "Like It Like That",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GLEE CAST",
+      "song": "Don't Stop Believin'",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ONEREPUBLIC",
+      "song": "All The Right Moves",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "THE SCRIPT",
+      "song": "Before The Worst",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MICHAEL BUBLE",
+      "song": "Haven't Met You Yet",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KATE MILLER-HEIDKE",
+      "song": "Last Day On Earth",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Wheels",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "The Fixer",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "Party In The U.S.A.",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BASEMENT JAXX featuring SAM SPARRO",
+      "song": "Feelings Gone",
+      "label": "Remote Control",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Magic",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LA ROUX",
+      "song": "Bulletproof",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "VANESSA AMOROSI",
+      "song": "This Is Who I Am",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "Still Standing",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "Meet Me On The Equinox",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Meet Me Halfway",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "PINK",
+      "song": "I Don't Believe You",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BERTIE BLACKMAN",
+      "song": "Byrds Of Prey",
+      "label": "MGM",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "ROBBIE WILLIAMS",
+      "song": "Bodies",
+      "label": "EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "This New Technology",
+      "label": "Bandroom",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE WELLINGTONS",
+      "song": "Come Undone",
+      "label": "Stomp",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "ELTON JOHN",
+      "song": "I'm Still Standing",
+      "label": "Polydor",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SCISSOR SISTERS",
+      "song": "She's My Man",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG featuring DRAGONETTE",
+      "song": "Boys & Girls",
+      "label": "Independent",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "CASSETTE KIDS",
+      "song": "Lying Around",
+      "label": "Sony",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "POWDERFINGER",
+      "song": "All Of The Dreamers",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "WOLFMOTHER",
+      "song": "New Moon Rising",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "Touch Me",
+      "label": "Warner",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "GEORGIA FAIR",
+      "song": "Picture Frames",
+      "label": "Sony",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "How To Tame Lions",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "MUMFORD & SONS",
+      "song": "Little Lion Man",
+      "label": "Dew Process/UMA",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PORT O'BRIEN",
+      "song": "My Will Is Good",
+      "label": "Dew Process/UMA",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Tonight Tonight",
+      "label": "Virgin",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH",
+      "song": "The Start Of War",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "While You Wait For The Others",
+      "label": "Inertia",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Cornerstone",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "We Won't Run",
+      "label": "Universal",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE JOHN STEEL SINGERS",
+      "song": "Rainbow Kraut",
+      "label": "Inertia",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE SNOWDROPPERS",
+      "song": "Rosemary",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ADRIAN DEUTSCH",
+      "song": "Help You",
+      "label": "MGM",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Don't Let Me Down",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "GEORGE MICHAEL",
+      "song": "Faith",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "YVES KLEIN BLUE",
+      "song": "Make Up Your Mind",
+      "label": "Dew Process/UMA",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SPEECH DEBELLE",
+      "song": "Spinnin'",
+      "label": "Inertia",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "OMC",
+      "song": "How Bizarre",
+      "label": "Polydor",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DUCK SAUCE",
+      "song": "Anyway",
+      "label": "Etc Etc",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MIAMI HORROR",
+      "song": "Sometimes",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "KINGS OF CONVENIENCE",
+      "song": "Boat Behind",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "NED COLLETTE + WIREWALKER",
+      "song": "Come Clean",
+      "label": "Remote Control",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "The Yeah Yeah Yeah Song",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE TING TINGS",
+      "song": "That's Not My Name",
+      "label": "SBME",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Borderline",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Xanadu",
+      "label": "Festival",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "How Deep Is Your Love",
+      "label": "Polydor",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Bohemian Rhapsody",
+      "label": "EMI",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Unguarded Moment",
+      "label": "EMI",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "I Got You",
+      "label": "Fest/Mush",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "(What's So Funny 'Bout)Peace,Love & Understanding",
+      "label": "Shock",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Time To Pretend",
+      "label": "Red Label",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE MUPPETS",
+      "song": "Rainbow Connection",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "The Wrong Girl",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": "Modular",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "She Don't Use Jelly",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    }
+  ]
+}

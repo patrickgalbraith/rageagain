@@ -1,0 +1,555 @@
+{
+  "title": "Friday night 3 April 2015",
+  "special": null,
+  "timeslot": "night",
+  "date": "2015-04-03",
+  "url": "http://www.abc.net.au/rage/archive/s4210168.htm",
+  "tracks": [
+    {
+      "artist": "ACTION BRONSON ft. CHANCE THE RAPPER",
+      "song": "Baby Blue",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "VANCE JOY",
+      "song": "Georgia",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MINI MANSIONS featuring ALEX TURNER",
+      "song": "Vertigo",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CHIC featuring NILE RODGERS",
+      "song": "I'll Be There",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TINK",
+      "song": "Ratchet Commandments",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LION BABE",
+      "song": "Wonder Woman",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RUN THE JEWELS ft. ZACK DE LA ROCHA",
+      "song": "Close Your Eyes (And Count To Fuck)",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BENJAMIN BOOKER",
+      "song": "The Future Is Slow Coming",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FLORENCE AND THE MACHINE",
+      "song": "St Jude",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SOKO featuring ARIEL PINK",
+      "song": "Lovetrap",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MITSKI",
+      "song": "Townie",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CHASTITY BELT",
+      "song": "Cool Slut",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "OH MERCY",
+      "song": "Sandy",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GENGAHR",
+      "song": "She's A Witch",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AL BAIRRE",
+      "song": "Bungalow",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MODEST MOUSE",
+      "song": "Lampshades On Fire",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "YUMI ZOUMA",
+      "song": "Alena",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PINS",
+      "song": "Too Little Too Late",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JACK KOVACS featuring HUXLEE",
+      "song": "The Empty House",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOTALLY MILD",
+      "song": "Christa",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KATE BOY",
+      "song": "Higher",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WOLF ALICE",
+      "song": "Giant Peach",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TUNE-YARDS",
+      "song": "Wait For A Minute",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Depreston",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JEN CLOHER",
+      "song": "Needle In The Hay",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAY RAVIES",
+      "song": "Hickford Whizz",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALPINE",
+      "song": "Foolish",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BALTHAZAR",
+      "song": "Bunker",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALL WE ARE",
+      "song": "Utmost Good",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PORTICO featuring JOE NEWMAN",
+      "song": "101",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CARNAGE featuring ILOVEMAKONNEN",
+      "song": "I Like Tuh",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GYPJAQ featuring AZEALIA BANKS",
+      "song": "Blow Away",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HANNAH WANTS _and_ CHRIS LORENZO",
+      "song": "Rhymes",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MIKE WILL MADE IT ft. JODY HIGHROLLER _and_ SLIM JXMMI",
+      "song": "Choppin' Blades",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARO",
+      "song": "Raining Gold",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MARLON WILLIAMS",
+      "song": "Dark Child",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BOTS",
+      "song": "Blinded",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TEAR COUNCIL",
+      "song": "Anywhere",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TORCHE",
+      "song": "Annihilation Affair",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RISE OF THE NORTHSTAR",
+      "song": "Samurai Spirit",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEEZ NUTS",
+      "song": "Face This On My Own",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NOW AND ON EARTH",
+      "song": "Intoxicated",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KING PARROT",
+      "song": "Like A Rat",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "VANNA",
+      "song": "Toxic Pretender",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE OFFSPRING",
+      "song": "Coming For You",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TURBOWOLF",
+      "song": "Rabbit's Foot",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Give Me A Try",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HEART PEOPLE",
+      "song": "Blue Star",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FAIT",
+      "song": "Slow Glow",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PETITE NOIR",
+      "song": "The Fall",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EARL SWEATSHIRT",
+      "song": "Grief",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOUND",
+      "song": "God Is Calling",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MOJO JUJU",
+      "song": "They Come and They Go",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FRANCISCO'S FORTUNE",
+      "song": "The Bells",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DIZZEE RASCAL featuring GIGGS",
+      "song": "Nutcrackerz",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEATH GRIPS",
+      "song": "I Break Mirrors With My Face in The United States",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MG",
+      "song": "Europa Hymn",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PASSION PIT",
+      "song": "Lifted Up! (1985)",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "REALiTi",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SHLOHMO",
+      "song": "Beams",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LORD HURON",
+      "song": "Fool For Love",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TUKA",
+      "song": "Nirvana",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TROPICS",
+      "song": "Rapture",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MY SAD CAPTAINS",
+      "song": "Extra Curricular",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VERY BEST",
+      "song": "Let Go",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE GO! TEAM",
+      "song": "What D?You Say?",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JACCO GARDNER",
+      "song": "Find Yourself",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PLUTO JONZE",
+      "song": "Wear Purple At My Funeral",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "STORMZY",
+      "song": "Know Me From",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PICTUREPLANE",
+      "song": "Hyper Real",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE KITE STRING TANGLE",
+      "song": "What If",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOLLY HERNDON",
+      "song": "Interference",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ED SHEERAN and RUDIMENTAL",
+      "song": "Bloodstream",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LUDACRIS",
+      "song": "Call Ya Bluff",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SNOOP DOGG featuring CHARLIE WILSON",
+      "song": "Peaches N Cream",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HERMITUDE featuring YOUNG TAPZ",
+      "song": "Through The Roof",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ONE DAY",
+      "song": "SDRO",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Lionsong",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FYFE",
+      "song": "Solace",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DONNY BENET featuring KIRIN J CALLINAN",
+      "song": "The Edge",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BABAGANOUJ",
+      "song": "Can't Stop",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ELLA THOMPSON",
+      "song": "Arcade",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON SPENCER BLUES EXPLOSION",
+      "song": "Betty Vs. The NYPD",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SPIRIT VALLEY",
+      "song": "Moonrocks",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EAVES",
+      "song": "Pylons",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LEHMANN B SMITH",
+      "song": "No Such Thing As A View",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BLOOD PLASTIC",
+      "song": "Jesus Is Not A Joke",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SUPER BEST FRIENDS",
+      "song": "Dog Whistling",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEERHOOF",
+      "song": "Tiny Bubbles",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OF MONTREAL",
+      "song": "Bassem Sabry",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GONG",
+      "song": "Occupy",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "title": "Saturday night 16 May 2015",
+  "special": "Spandau Ballet",
+  "timeslot": "night",
+  "date": "2015-05-16",
+  "url": "http://www.abc.net.au/rage/archive/s4236585.htm",
+  "tracks": [
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "True",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "School's Out",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "IGGY and THE STOOGES - LIVE",
+      "song": "I Wanna Be Your Dog",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "White Riot",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "In Every Dream Home A Heartache",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CANDI STATON",
+      "song": "Young Hearts Run Free",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "...Baby One More Time",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ashes To Ashes",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Burning Down The House",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ADAM and THE ANTS",
+      "song": "Stand and Deliver",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DON HENLEY",
+      "song": "Boys Of Summer",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HALL and OATES",
+      "song": "Adult Education",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ROBERT PALMER",
+      "song": "Addicted To Love",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Fight For Your Right (To Party)",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "All The Small Things",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FIELD MUSIC",
+      "song": "In Context",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE WAR ON DRUGS",
+      "song": "Red Eyes",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "I Bet You Look Good On The Dancefloor",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "I Predict A Riot",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ATHLETE",
+      "song": "Wires",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PORTUGAL. THE MAN",
+      "song": "Purple Yellow Red and Blue",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MOGWAI",
+      "song": "Batcat",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ROBERT WYATT",
+      "song": "Ship Building",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ALPHAVILLE",
+      "song": "Forever Young",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TELEX",
+      "song": "Twist a Saint Tropez",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MILES DAVIS",
+      "song": "So What",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Girls In Their Summer Clothes",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEXYS",
+      "song": "Incapable Of Love",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Satellite Of Love",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LITTLE FEAT",
+      "song": "Rock and Roll Doctor (Live)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FRANK SINATRA",
+      "song": "New York, New York",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AMY GRANT",
+      "song": "Baby Baby (No Getting Over You)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PM DAWN",
+      "song": "Set Adrift On Memory Bliss",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROD STEWART and THE FACES",
+      "song": "Stay With Me (Live)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SMALL FACES",
+      "song": "Lazy Sunday Afternoon",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "See Me, Feel Me, Touch Me",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Subterranean Homesick Blues",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BILLY JOEL",
+      "song": "We Didn't Start The Fire",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE B-52S",
+      "song": "Love Shack",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Union City Blue",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Love In An Elevator",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Mr Brightside",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRYAN ADAMS",
+      "song": "Summer Of '69",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "You Shook Me All Night Long",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Personal Jesus (The Stargate Mix)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Heroes",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Hammer To Fall",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PINK FLOYD - Live",
+      "song": "Comfortably Numb",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Venus In Furs",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RUFUS WAINWRIGHT",
+      "song": "Out Of The Game",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AVICII",
+      "song": "Levels",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS featuring JOHN NEWMAN",
+      "song": "Blame",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "Everybody (Backstreet's Back)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BRUNO MARS",
+      "song": "Locked Out Of Heaven",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "I'll Fly For You",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "To Cut A Long Story Short",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "True",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "She Loved Like Diamond",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Gold",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Chant No. 1 (I Don't Need This Pressure On)",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Paint Me Down",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Once More",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Musclebound",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Instinction",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "The Freeze",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Lifeline",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Interview on Countdown, 1981",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Revenge For Love",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "How Many Lies",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Round and Round",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Only When You Leave",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Through the Barricades",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Crashed In Love",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPANDAU BALLET",
+      "song": "Steal",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TIN TIN OUT ft. TONY HADLEY",
+      "song": "Dance With Me",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NIK KERSHAW",
+      "song": "The Riddle",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NIK KERSHAW",
+      "song": "Wide Boy",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOWARD JONES",
+      "song": "No One Is To Blame",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOWARD JONES",
+      "song": "Like To Get To Know You Well",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HEAVEN 17",
+      "song": "Crushed By The Wheels Of Industry",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HEAVEN 17",
+      "song": "This Is Mine",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HEAVEN 17",
+      "song": "Penthouse and Pavement",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VISAGE",
+      "song": "Beat Boy",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VISAGE",
+      "song": "Fade To Grey",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ABC",
+      "song": "Poison Arrow",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ABC",
+      "song": "Be Near Me",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ABC",
+      "song": "When Smokey Sings",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ABC",
+      "song": "The Look Of Love",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ABC",
+      "song": "How To Be A Millionaire",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THOMPSON TWINS",
+      "song": "Hold Me Now",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THOMPSON TWINS",
+      "song": "Don't Mess With Doctor Dream",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THOMPSON TWINS",
+      "song": "You Take Me Up",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE STYLE COUNCIL",
+      "song": "Long Hot Summer",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE STYLE COUNCIL",
+      "song": "The Lodgers",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE STYLE COUNCIL",
+      "song": "Walls Come Tumbling Down",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "Open Fire",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Dead Inside",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TENNIS",
+      "song": "Mean Streets",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS ft. Q-TIP",
+      "song": "Go",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TORO Y MOI",
+      "song": "Lilly",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SILICON",
+      "song": "God Emoji",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DICK DIVER",
+      "song": "Year In Pictures",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HIGH-TAILS",
+      "song": "Information",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RETIREE",
+      "song": "Gundagai",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HOT CHOCOLATE",
+      "song": "Everyone's A Winner",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HOT CHOCOLATE",
+      "song": "It Started With A Kiss",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HOT CHOCOLATE",
+      "song": "Tears On The Telephone",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HOT CHOCOLATE",
+      "song": "Chances",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HOT CHOCOLATE",
+      "song": "So You Win Again",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

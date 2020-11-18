@@ -1,0 +1,603 @@
+{
+  "title": "Saturday, 29 November",
+  "special": "Sparkadia",
+  "timeslot": null,
+  "date": "2008-11-29",
+  "url": "http://www.abc.net.au/rage/archive/s2432261.htm",
+  "tracks": [
+    {
+      "artist": "RATCAT",
+      "song": "That Ain't Bad",
+      "label": "Polydor",
+      "timeslot": "23:31:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Beetlebum",
+      "label": "EMI",
+      "timeslot": "23:31:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "Fools Gold",
+      "label": "Universal (MCA",
+      "timeslot": "23:31:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Monkey Gone To Heaven",
+      "label": "Shock",
+      "timeslot": "23:31:00"
+    },
+    {
+      "artist": "ECHO & THE BUNNYMEN",
+      "song": "Seven Seas",
+      "label": "Warner",
+      "timeslot": "23:31:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Peacebone",
+      "label": "Virgin",
+      "timeslot": "23:31:00"
+    },
+    {
+      "artist": "THE SHINS",
+      "song": "Pink Bullets",
+      "label": "Stomp",
+      "timeslot": "23:31:00"
+    },
+    {
+      "artist": "GRIZZLY BEAR",
+      "song": "Knife",
+      "label": "Inertia",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GUILLEMOTS",
+      "song": "Get Over It",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JIMMY EAT WORLD",
+      "song": "Bleed American",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JIMMY EAT WORLD",
+      "song": "The Middle",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ROLLINS BAND",
+      "song": "Liar",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Heart-Shaped Box",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Even Flow",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Today",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Roots Bloody Roots",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "I'm Broken",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC/DC - Live in Moscow (1991)",
+      "song": "Highway To Hell",
+      "label": "SBME",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Bachelorette",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Army Of Me",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Protection",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Unfinished Sympathy",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE KLF",
+      "song": "Justified & Ancient",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Treaty",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Windowlicker",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Dangerous",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Put Your Hands Where My Eyes Could See",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Lullaby",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TEARS FOR FEARS",
+      "song": "Mad World",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Wuthering Heights",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KIM CARNES",
+      "song": "Bette Davis Eyes",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALANNAH MYLES",
+      "song": "Black Velvet",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DARYL BRAITHWAITE",
+      "song": "One Summer",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Walking On The Moon",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Subterranean Homesick Blues",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "Jealousy",
+      "label": "Ivy League",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "Too Much To Do",
+      "label": "Ivy League",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "Animals",
+      "label": "Ivy League",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPARKADIA - triple j tv",
+      "song": "Morning Light",
+      "label": "Ivy League",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPARKADIA - triple j tv",
+      "song": "Jealousy",
+      "label": "Ivy League",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPARKADIA - triple j tv",
+      "song": "Too Much To Do",
+      "label": "Ivy League",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPARKADIA - triple j tv",
+      "song": "Animals",
+      "label": "Ivy League",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPARKADIA - triple j tv Like A Version",
+      "song": "This Boy's In Love",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Unguarded Moment",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Tear It All Away",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Almost With You",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Different Man",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Electric Lash",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Tantalized",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Under The Milky Way",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Reptile",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Metropolis",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Two Places At Once",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Louisiana",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Song In Space",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Easy",
+      "label": "Liberation",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE DOTS",
+      "song": "Alive And Well",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE COLOURED GIRLS",
+      "song": "From St. Kilda To Kings Cross",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE COLOURED GIRLS",
+      "song": "Before Too Long",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE COLOURED GIRLS",
+      "song": "Darling It Hurts",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE COLOURED GIRLS",
+      "song": "Leaps And Bounds",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PAUL KELLY - Live In Concert",
+      "song": "Look So Fine, Feel So Low",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "To Her Door",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PAUL KELLY - Live In Concert",
+      "song": "Dumb Things",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE COLOURED GIRLS",
+      "song": "Sweet Guy",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE MESSENGERS",
+      "song": "Careless",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE MESSENGERS",
+      "song": "Don't Start Me Talking",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE MESSENGERS",
+      "song": "Keep It To Yourself",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL KELLY - Live In Concert",
+      "song": "When I First Met Your Ma",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHRISTINE ANU with PAUL KELLY",
+      "song": "Last Train",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "How To Make Gravy",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "Tease Me",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "It Started With A Kiss",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "Nothing On My Mind",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "I'll Be Your Lover Now",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "You're So Fine",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "Somewhere In The City",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PAUL KELLY featuring BIC RUNGA",
+      "song": "Love Is The Law",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "If I Could Start Today Again",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "Sure Got Me",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "Just About To Break",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "Won't You Come Around",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "Beautiful Feeling",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE BOON COMPANIONS",
+      "song": "Gunnamatta",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE STORMWATER BOYS",
+      "song": "Song Of The Old Rake",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "The Shane Warne Song",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "God Told Me To",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "Stolen Apples",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MERCY ARMS",
+      "song": "Half Right",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "My Mistakes Were Made For You",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE JOHN STEEL SINGERS",
+      "song": "Rainbow Kraut",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "No Sunlight",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE WEEK THAT WAS",
+      "song": "Scratch The Surface",
+      "label": "Spunk",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "Heartbreaker",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Dusk Till Dawn",
+      "label": "Modular",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EMILIANA TORRINI",
+      "song": "Big Jumps",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Vid Spilum Endalaust",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

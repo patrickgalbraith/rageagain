@@ -1,0 +1,633 @@
+{
+  "title": "Saturday night 9 May 2015",
+  "special": "Glass Animals",
+  "timeslot": "night",
+  "date": "2015-05-09",
+  "url": "http://www.abc.net.au/rage/archive/s4227815.htm",
+  "tracks": [
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Gooey",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "Helicopter",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "King Of The Rodeo",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Daft Punk Is Playing at My House",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SPANK ROCK",
+      "song": "Rick Rubin",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Gold Lion",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Block Rockin' Beats",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CARIBOU",
+      "song": "Odessa",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Lithium",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Love Rollercoaster",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TV ON THE RADIO",
+      "song": "Staring At The Sun",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "I Bet You Look Good On The Dancefloor",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Toxicity",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "WARPAINT",
+      "song": "Undertow",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Feels Like We Only Go Backwards",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "UNKNOWN MORTAL ORCHESTRA",
+      "song": "Ffunny Ffrends",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Touch The Sky",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MOS DEF",
+      "song": "Miss Fat Booty",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NAS featuring LAURYN HILL",
+      "song": "If I Ruled The World",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NELLY",
+      "song": "Ride Wit Me",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Witness (1 Hope)",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE FUGEES",
+      "song": "Ready Or Not",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "A$AP FERG ft. A$AP ROCKY",
+      "song": "Shabba",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Just",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Californication",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "My Girls",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FOUR TET",
+      "song": "Smile Around The Face",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TODD TERJE",
+      "song": "Inspector Norse",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOTALLY ENORMOUS EXTINCT DINOSAURS",
+      "song": "Household Goods",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Last Nite",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "The Fool On The Hill",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "I Get Around",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Used To Be",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PORTISHEAD",
+      "song": "Glory Box",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TLC",
+      "song": "Waterfalls",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Ms Jackson",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Backseat Freestyle",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "A$AP ROCKY",
+      "song": "F**kin' Problems",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FRANK OCEAN",
+      "song": "Pyramids",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PUSHA T",
+      "song": "Numbers On The Boards",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JASON DERULO featuring 2 CHAINZ",
+      "song": "Talk Dirty",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "USHER",
+      "song": "U-Turn",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TOM TOM CLUB",
+      "song": "Genius Of Love",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TUNE-YARDS",
+      "song": "Water Fountain",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CEE LO GREEN",
+      "song": "F**k You",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SBTRKT featuring ROSES GABOR",
+      "song": "Pharaohs",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TEI SHI",
+      "song": "Nevermind The End",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Gravel Pit",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NOTORIOUS B.I.G.",
+      "song": "Hypnotize",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SNOOP DOGG featuring PHARRELL",
+      "song": "Drop It Like It's Hot",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PHARRELL featuring JAY-Z",
+      "song": "Frontin'",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Windowlicker",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLYING LOTUS",
+      "song": "Parisian Goldfish",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE XX",
+      "song": "Islands",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOM VEK",
+      "song": "C-C (You Set The Fire In Me)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RATATAT",
+      "song": "Drugs",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Daniel",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Burning Down The House",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Pools",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Gooey",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Psylla",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Hazey",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Black Mambo",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Cocoa Hooves",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Exxus",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE MEETING TREE",
+      "song": "r u a cop",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TOBIAS JESSO JR",
+      "song": "Without You",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SBCR",
+      "song": "The Grid",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPEEDY ORTIZ",
+      "song": "The Graduates",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SNOOP DOGG",
+      "song": "So Many Pros",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TYLER, THE CREATOR",
+      "song": "Fucking Young",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YOUNG FATHERS",
+      "song": "Shame",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE JUNGLE GIANTS",
+      "song": "Every Kind Of Way",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Magic",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EVVOL",
+      "song": "Four Steps From Home",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ETIENNE DE CRECY ft. MADELINE FOLLIN",
+      "song": "You",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BON VOYAGE",
+      "song": "Booshie",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIAMI HORROR featuring CLEOPOLD",
+      "song": "Love Like Mine",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Dead Inside",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KING GIZZARD _and_ THE LIZARD WIZARD",
+      "song": "The River",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROISIN MURPHY",
+      "song": "Exploitation",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "5 Minutes",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KILLING JOKE",
+      "song": "Let's All Go (To The Fire Dances)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CABARET VOLTAIRE",
+      "song": "Just Fascination",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Paranoid",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SWANS",
+      "song": "New Mind",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ERIC B and RAKIM",
+      "song": "Microphone Fiend",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Shut Em' Down",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GODFLESH",
+      "song": "Christbait Rising",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HIGH-TAILS",
+      "song": "Information",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ABSOLUTELY FREE",
+      "song": "Vision?s",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Kim's Caravan",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SLUM SOCIABLE",
+      "song": "Anyway",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JANELLE MONAE and JIDENNA",
+      "song": "Yoga",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SHAMIR",
+      "song": "Call It Off",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE DONNIE TRUMPET and SOCIAL EXPERIMENT",
+      "song": "Sunday Candy",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ED SCHRADER'S MUSIC BEAT",
+      "song": "Emperor?s New Chair",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RETIREE",
+      "song": "Gundagai",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PANDA BEAR",
+      "song": "Tropic Of Cancer",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JHEN? AIKO",
+      "song": "Eternal Sunshine",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CARIBOU",
+      "song": "Can't Do Without You",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TODD TERJE",
+      "song": "Alfonso Muskedunder",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "title": "Saturday, 9 August",
+  "special": "rage gets sweaty!",
+  "timeslot": null,
+  "date": "2008-08-09",
+  "url": "http://www.abc.net.au/rage/archive/s2328669.htm",
+  "tracks": [
+    {
+      "artist": "GREEN DAY",
+      "song": "Nice Guys Finish Last",
+      "label": "Festival",
+      "timeslot": "23:55:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "Josie (Everything's Gonna Be Fine)",
+      "label": "MDS",
+      "timeslot": "23:55:00"
+    },
+    {
+      "artist": "N*E*R*D",
+      "song": "Rock Star",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BAGGSMEN",
+      "song": "Long Strong Diamond",
+      "label": "Remote Control",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TISM - Live on Recovery",
+      "song": "Whatareya",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "Crush The Losers",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Stripped",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "The Fight Song",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Be A Man",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LIZ PHAIR",
+      "song": "Supernova",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JULIANA HATFIELD",
+      "song": "Universal Heartbeat",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TIM DELUXE",
+      "song": "It Just Won't Do",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Elektrobank",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NINA SIMONE",
+      "song": "Sinnerman (Felix Da Housecat mix)",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FAITHLESS",
+      "song": "I Want More",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FAITHLESS",
+      "song": "Muhammad Ali",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "R KELLY",
+      "song": "The World's Greatest",
+      "label": "Jive/Zomba",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "REFUGEE CAMP ALLSTARS",
+      "song": "Rumble In The Jungle",
+      "label": "Mercury",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TRUE LIVE",
+      "song": "Damn Right",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "POWDERFINGER",
+      "song": "Like A Dog",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MORRISSEY",
+      "song": "Boxers",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Lazyitis",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "POP WILL EAT ITSELF",
+      "song": "Touched By The Hand Of Cicciolina",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TACKHEAD",
+      "song": "The Game",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHUMBAWAMBA",
+      "song": "Top Of The World",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIM NOIR",
+      "song": "Eanie Meany",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ELVIS vs. JXL",
+      "song": "A Little Less Conversation",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "World In Motion",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TISM",
+      "song": "Greg, The Stop Sign!!",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Roll On",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CUSTARD",
+      "song": "Pack Your Suitcases",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PHOENIX FOUNDATION",
+      "song": "Bleaching Sun",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOT ROLLERS",
+      "song": "Silver Bullets",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "Race For The Prize",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JACK PENATE",
+      "song": "Second Minute Or Hour",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "OK GO",
+      "song": "Here It Goes Again",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Witness (1 Hope)",
+      "label": "Creative Vibes",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "100%",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEN HARPER",
+      "song": "Ground On Down",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YOUTH GROUP",
+      "song": "Forever Young",
+      "label": "Ivy League",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "STEPHEN CUMMINGS",
+      "song": "Gymnasium",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GROOVE ARMADA",
+      "song": "I See You Baby",
+      "label": "Jive/Zomba",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ERIC PRYDZ",
+      "song": "Call On Me",
+      "label": "MOS/EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Physical",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE DELGADOS",
+      "song": "American Trilogy",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "Tour De France",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ART OF NOISE",
+      "song": "Moments In Love",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "YELLO",
+      "song": "The Race",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROBBIE WILLIAMS",
+      "song": "Supreme",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DSCHINGHIS KHAN",
+      "song": "Moskau",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON featuring HEAVY D",
+      "song": "Jam",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "B. REAL/BUSTA RHYMES/COOLIO/LL COOL J/METHOD MAN",
+      "song": "Hit Em High - The Monster Anthem",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SHAQUILLE O'NEAL",
+      "song": "Strait Playin'",
+      "label": "Universal (MCA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BRASSY",
+      "song": "Play Some D",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KURTIS BLOW",
+      "song": "Basketball",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SKEE-LO",
+      "song": "I Wish",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE OUTHERE BROTHERS",
+      "song": "Boom Boom Boom",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ASH",
+      "song": "Burn Baby Burn",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": "Universal (MCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NADA SURF",
+      "song": "Popular",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Dope Nose",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE WEAKERTHANS",
+      "song": "Tournament Of Hearts",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE WINNIE COOPERS",
+      "song": "Substance",
+      "label": "Liberation",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE FAUVES",
+      "song": "Celebrate The Failure",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE FAUVES",
+      "song": "The Charles Atlas Way",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DAVE GRANEY 'N' THE CORAL SNAKES",
+      "song": "Feelin' Kinda Sporty",
+      "label": "Mercury",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEBORAH CONWAY",
+      "song": "It's Only The Beginning",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Feel The Pain",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MXPX",
+      "song": "Responsibility",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WILCO",
+      "song": "Outtasite (Outtamind)",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLUEJUICE",
+      "song": "The Reductionist",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GUANO APES",
+      "song": "Lords Of The Boards",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BENTLEY RHYTHM ACE",
+      "song": "Bentley's Gonna Sort You Out",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DARUDE",
+      "song": "Out Of Control",
+      "label": "Central Station",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "From The Sea",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AIR",
+      "song": "Kelly Watch The Stars",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ADAM GREEN",
+      "song": "Jessica",
+      "label": "Spunk/Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JESSICA SIMPSON",
+      "song": "A Public Affair",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DE LA SOUL",
+      "song": "A Rollerskating Jam Named Saturdays",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "10CC",
+      "song": "Dreadlock Holiday",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SHERBET",
+      "song": "Howzat",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAM & THE PASHIONS",
+      "song": "Summertime All 'Round The World",
+      "label": "Hot",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JACK JOHNSON & G LOVE",
+      "song": "Rainbow",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Ocean Size",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Surf's Up Tonight",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Alison",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMERSON LAKE & PALMER",
+      "song": "Fanfare For The Common Man",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Walk of Life",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Glory Days",
+      "label": "SBME",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JOHN FOGERTY",
+      "song": "Centerfield",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE TWO MAN BAND",
+      "song": "Up There Cazaly",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JACKO",
+      "song": "I'm An Individual",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL 'THE CHIEF' HARRAGON",
+      "song": "That's Gold",
+      "label": "Central Station",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ENGLAND UNITED",
+      "song": "How Does It Feel To Be On Top Of The World?",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RICKY MARTIN",
+      "song": "The Cup Of Life",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALEX GAUDINO featuring SHENA",
+      "song": "Watch Out",
+      "label": "MOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SOUTHEND",
+      "song": "The Winner Is....",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CATCALL",
+      "song": "August",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FAKER",
+      "song": "Are You Magnetic?",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE RASCALS",
+      "song": "Freakbeat Phantom",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Electric Feel",
+      "label": "SBME",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "House Of Cards",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "Rest My Chemistry",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Viva La Vida",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

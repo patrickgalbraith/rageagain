@@ -1,0 +1,621 @@
+{
+  "title": "Saturday, 27 September",
+  "special": "The Fratellis",
+  "timeslot": null,
+  "date": "2008-09-27",
+  "url": "http://www.abc.net.au/rage/archive/s2375119.htm",
+  "tracks": [
+    {
+      "artist": "PINK FLOYD",
+      "song": "Shine On You Crazy Diamond",
+      "label": "EMI",
+      "timeslot": "23:24:00"
+    },
+    {
+      "artist": "ALAN PARSONS PROJECT",
+      "song": "I Wouldn't Want To Be Like You",
+      "label": "BMG",
+      "timeslot": "23:24:00"
+    },
+    {
+      "artist": "THE CULT",
+      "song": "She Sells Sanctuary",
+      "label": "Virgin",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "Won't Get Fooled Again",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Welcome To The Jungle",
+      "label": "Universal (MCA",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "You Could Be Mine",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "AC/DC - Live at Apollo Theatre, Glasgow (1978)",
+      "song": "Let There Be Rock",
+      "label": "SBME",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Hells Bells",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Rocks",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "Ten Storey Love Song",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE ANIMALS",
+      "song": "House Of The Rising Sun",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JACKIE WILSON",
+      "song": "Reet Petite",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE BAND",
+      "song": "Hey Little Girl",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "People Are Strange",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Kashmir",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE EAGLES",
+      "song": "Hotel California",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NEIL DIAMOND",
+      "song": "Song Sung Blue",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ALABAMA 3",
+      "song": "Woke Up This Morning",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ELBOW",
+      "song": "Forget Myself",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CHARLATANS",
+      "song": "One To Another",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Dennis & Lois",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Here Comes Your Man",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BEES",
+      "song": "Chicken Payback",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BADLY DRAWN BOY",
+      "song": "Silent Sigh",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SHINS",
+      "song": "Australia",
+      "label": "Stomp",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BABYLON ZOO",
+      "song": "Spaceman",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SPIRITUALIZED",
+      "song": "Soul On Fire",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Sexx Laws",
+      "label": "Universal (MCA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "That's Entertainment",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Girls On Film",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE RONETTES",
+      "song": "Be My Baby",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BANGLES",
+      "song": "Walk Like An Egyptian",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BANGLES",
+      "song": "Manic Monday",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE JACKSON FIVE",
+      "song": "I Want You Back",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AIR",
+      "song": "Surfing On A Rocket",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Big Time Sensuality",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANNIE LENNOX",
+      "song": "No More I Love You's",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "The Goonies 'R' Good Enough",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CLIFF RICHARD & THE YOUNG ONES",
+      "song": "Living Doll",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Chelsea Dagger",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Flathead",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Creepin' Up The Back Stairs",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Whistle For The Choir",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Mistress Mabel",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Look Out Sunshine",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Darts Of Pleasure",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Take Me Out",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Matinee",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "This Fire",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Do You Want To",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Walk Away",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "The Fallen",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Fake Tales Of San Francisco",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "I Bet You Look Good On The Dancefloor",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "When The Sun Goes Down",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "View From The Afternoon",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Leave Before The Lights Come On",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Brianstorm",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Fluorescent Adolescent",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Teddy Picker",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Let's Dance To Joy Division",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Moving To New York",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Kill The Director",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Blue",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Slide Away",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "This Is Music",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Bittersweet Symphony",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "The Drugs Don't Work",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Lucky Man",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Sonnet",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Love Is Noise",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PINK FLOYD - from the video 'Live At Pompeii'",
+      "song": "Echoes - Part 1",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "On The Run",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Time",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "The Great Gig In The Sky",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Money",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Us And Them",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Wish You Were Here",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Violet Hill",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE RASCALS",
+      "song": "Freakbeat Phantom",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CHARLATANS",
+      "song": "Oh! Vanity",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD WAR KIDS",
+      "song": "Something Is Not Right With Me",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ASH GRUNWALD",
+      "song": "Breakout",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Cape Cod Kwassa Kwassa",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VAN SERENO",
+      "song": "Little Bonsai",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "IDA MARIA",
+      "song": "I Like You So Much Better When You're Naked",
+      "label": "SBME",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "UH HUH HER",
+      "song": "Not A Love Song",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ERIC PRYDZ",
+      "song": "Pjanoo",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG",
+      "song": "I Want You",
+      "label": "MOS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "Holiday",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MYSTERY JETS",
+      "song": "Two Doors Down",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TEX PERKINS & HIS LADYBOYZ",
+      "song": "I'm Not In Love",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TEGAN & SARA",
+      "song": "Call It Off",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Walking On A Dream",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LENKA",
+      "song": "The Show",
+      "label": "SBME",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JULIA AND THE DEEP SEA SIRENS",
+      "song": "In From The Outside",
+      "label": "Creative Vibes",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "The Lighthouse Song",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FLEET FOXES",
+      "song": "White Winter Hymnal",
+      "label": "Stomp",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LAMPLIGHT",
+      "song": "Ship In A Bottle",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FAKER",
+      "song": "Sleepwalking",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "title": "Saturday night  Saturday, 13 October",
+  "special": "Cannibal Corpse",
+  "timeslot": "night",
+  "date": "2012-10-13",
+  "url": "http://www.abc.net.au/rage/archive/s3609729.htm",
+  "tracks": [
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Staring Through The Eyes Of The Dead",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Evisceration Plague",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "METALLICA - LIVE",
+      "song": "The Thing That Should Not Be",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Holy Wars",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Number Of The Beast",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GIRLSCHOOL",
+      "song": "Hit And Run",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Lucifer",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DIMMU BORGIR",
+      "song": "The Serpentine Offering",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "IMMORTAL",
+      "song": "All Shall Fall",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BELPHEGOR",
+      "song": "Bluhtsturm Erotika",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "1349",
+      "song": "Sculptor Of Flesh",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CELTIC FROST",
+      "song": "A Dying God Coming Into Human Flesh",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CANDLEMASS",
+      "song": "Black Dwarf",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Looks That Kill",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Hear About It Later",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "TNT",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Seasons In The Abyss",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ANTHRAX",
+      "song": "Indians",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ANTHRAX",
+      "song": "Deathrider",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Wake Up Dead",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MORBID ANGEL",
+      "song": "Immortal Rites",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HATE ETERNAL",
+      "song": "I Monarch",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "IMMOLATION",
+      "song": "Harnessing Ruin",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SUFFOCATION",
+      "song": "Abomination Reborn",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Trashed",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH - LIVE",
+      "song": "Die Young",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Painkiller",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HALFORD",
+      "song": "Made In Hell",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ACCEPT",
+      "song": "Balls To The Wall",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ACCEPT",
+      "song": "Teutonic Terror",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MANOWAR - LIVE",
+      "song": "Metal Warriors",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Mountain Song",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FUGAZI",
+      "song": "Suggestion",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KROKUS",
+      "song": "Eat The Rich",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HELIX",
+      "song": "Heavy Metal Love",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "IAN DURY",
+      "song": "Sex and Drugs and Rock and Roll",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PHIL LYNOTT and GARY MOORE - Live",
+      "song": "Still Got The Blues",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "I Want You",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TRIUMPH",
+      "song": "Magic Power",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SUICIDAL TENDENCIES",
+      "song": "Possessed To Skate",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLOOD DUSTER",
+      "song": "Pornstorestiffi",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KING MISSILE",
+      "song": "Detachable Penis",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BODY COUNT",
+      "song": "There Goes The Neighbourhood",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BIOHAZARD",
+      "song": "Punishment",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AGNOSTIC FRONT",
+      "song": "So Pure To Me",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HATEBREED",
+      "song": "I Will Be Heard",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KREATOR",
+      "song": "Betrayer",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KREATOR",
+      "song": "Phantom Antichrist",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FEAR FACTORY",
+      "song": "Fear Campaign",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MACHINE HEAD",
+      "song": "Davidian",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Inner Self",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ABYSMAL DAWN",
+      "song": "Programmed To Consume",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CEPHALIC CARNAGE",
+      "song": "Endless Cycle Of Violence",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARSIS",
+      "song": "Forced To Rock",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KATAKLYSM",
+      "song": "Crippled and Broken",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HYPOCRISY",
+      "song": "Scrutinized",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MISERY INDEX",
+      "song": "Traitors",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEW-SCENTED",
+      "song": "Turn To Ash",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ILLDISPOSED",
+      "song": "Still Sane",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARCH ENEMY",
+      "song": "We Will Rise",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OBITUARY",
+      "song": "Insane",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NAPALM DEATH",
+      "song": "Suffer The Children",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CARCASS",
+      "song": "Incarnated Solvent Abuse",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BRUJERIA",
+      "song": "La Migra",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CORONER",
+      "song": "Masked Jackal",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CORROSION OF CONFORMITY",
+      "song": "Clean My Wounds",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HATE ETERNAL",
+      "song": "Powers That Be",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DECAPITATED",
+      "song": "Spheres Of Madness",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DYING FETUS",
+      "song": "Shepherd's Commandments",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PSYCROPTIC",
+      "song": "Initiate",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVILDRIVER",
+      "song": "Dead To Rights",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SUICIDAL ANGELS",
+      "song": "Apokathilosis",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Encased In Concrete",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Sentenced To Burn",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Make Them Suffer",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Priests Of Sodom",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Decency Defied",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CANNIBAL CORPSE",
+      "song": "Death Walking Terror",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Sweet Child O' Mine",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Kickstart My Heart",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WARRANT",
+      "song": "Cherry Pie",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CINDERELLA",
+      "song": "Nobody's Fool",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Jump",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Sweet Emotion",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BON JOVI",
+      "song": "Living On A Prayer",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Pour Some Sugar On Me",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "Here I Go Again",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "I Was Made For Lovin' You",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Crazy Little Thing Called Love",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEEP PURPLE",
+      "song": "Black Night",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Highway To Hell",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Back In Black",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "It's A Long Way To The Top",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "The BLACK KEYS,",
+      "song": "Little Black Submarines",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BAND OF HORSES",
+      "song": "Knock Knock",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GRINSPOON",
+      "song": "Passerby",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Settle Down",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Born At The Right Time",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Today's Supernatural",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BERTIE BLACKMAN",
+      "song": "Boy",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

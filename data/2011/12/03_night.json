@@ -1,0 +1,561 @@
+{
+  "title": "Saturday night  Saturday, 3 December",
+  "special": "Iva Davies from Icehouse",
+  "timeslot": "night",
+  "date": "2011-12-03",
+  "url": "http://www.abc.net.au/rage/archive/s3382423.htm",
+  "tracks": [
+    {
+      "artist": "RADIOHEAD",
+      "song": "Paranoid Android",
+      "label": "EMI",
+      "timeslot": "12:12:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
+      "label": "Polydor",
+      "timeslot": "12:12:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "In Every Dream Home A Heartache",
+      "label": "Polydor",
+      "timeslot": "12:12:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Games Without Frontiers",
+      "label": "Virgin",
+      "timeslot": "12:12:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Running Up That Hill",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KD LANG",
+      "song": "Constant Craving",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IGGY POP WITH DAVID BOWIE",
+      "song": "Funtime",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NEIL YOUNG - LIVE",
+      "song": "The Needle & The Damage Done",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IAN HUNTER",
+      "song": "All The Young Dudes",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "My People",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Firestarter",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "UNDERWORLD",
+      "song": "King Of Snake",
+      "label": "V2",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "Waterloo Sunset",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAVE EDMUNDS",
+      "song": "Girls Talk",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SIMPLE MINDS - LIVE ON COUNTDOWN",
+      "song": "Love Song",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Life On Mars",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YUKIHIRO TAKAHASHI",
+      "song": "Walking To The Beat",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Venus As A Boy",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Utopia",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Teardrop",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OWEN PALLETT",
+      "song": "Lewis Takes Off His Shirt",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SPARKS",
+      "song": "No. 1 Song In Heaven",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Pump It Up",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Subterranean Homesick Blues",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PINK FLOYD - LIVE",
+      "song": "Wish You Were Here",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Dazed And Confused",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Fight For Your Right (To Party)",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Killing In The Name",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE LOVED ONES",
+      "song": "The Loved One",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Jumping Jack Flash",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOB MARLEY",
+      "song": "No Woman No Cry",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AIR",
+      "song": "Kelly Watch The Stars",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Girls & Boys",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Rendez-Vu",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GROOVE ARMADA",
+      "song": "My Friend",
+      "label": "Jive/Zomba",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Foreign Land",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Eyes Wide Open",
+      "label": "Eleven",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "White Noise",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JIMMY EAT WORLD",
+      "song": "The Middle",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JET",
+      "song": "She's A Genius",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Making Plans For Nigel",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STONE TEMPLE PILOTS",
+      "song": "Vasoline",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Been Caught Stealing",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Come As You Are",
+      "label": "Universal (MCA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Need You Now",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ART vs SCIENCE",
+      "song": "Parlez Vous Francais?",
+      "label": "MGM",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "Bonne Nuit, Je Suis",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SPIRITUALIZED",
+      "song": "Soul On Fire",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SNOW PATROL",
+      "song": "Chasing Cars",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TOM PETTY",
+      "song": "Free Fallin'",
+      "label": "MCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "T REX",
+      "song": "Get It On",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "Common People",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "Sorry",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "(Baby) Please Don't Go",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SEX PISTOLS",
+      "song": "God Save The Queen",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Heart Of Glass",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KIMBRA",
+      "song": "Settle Down",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "Holy Moses",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Great Southern Land",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "Can't Help Myself",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "We Can Get Together",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "Walls",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "Icehouse",
+      "label": "Chrysalis",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Love In Motion",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Hey Little Girl",
+      "label": "Chrysalis",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Street Cafe",
+      "label": "Chrysalis",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Glam",
+      "label": "Festival",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Taking The Town",
+      "label": "Chrysalis",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Don't Believe Anymore",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Dusty Pages",
+      "label": "Chrysalis",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "No Promises",
+      "label": "Chrysalis",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Crazy",
+      "label": "Chrysalis",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Electric Blue",
+      "label": "Festival",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Man Of Colours",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Touch The Fire",
+      "label": "Chrysalis",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ICEHOUSE- LIVE",
+      "song": "Anything Is Possible",
+      "label": "Festival",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ICEHOUSE - LIVE ON COUNTDOWN",
+      "song": "Can't Help Myself",
+      "label": "Chrysalis",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ICEHOUSE - LIVE ON COUNTDOWN",
+      "song": "Dusty Pages",
+      "label": "Chrysalis",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ICEHOUSE - LIVE ON COUNTDOWN",
+      "song": "Hey Little Girl",
+      "label": "Chrysalis",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ICEHOUSE - LIVE ON COUNTDOWN",
+      "song": "Baby You're So Strange",
+      "label": "Chrysalis",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "No Promises",
+      "label": "Chrysalis",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ICEHOUSE",
+      "song": "Crazy",
+      "label": "Chrysalis",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MI-SEX",
+      "song": "Falling In And Out",
+      "label": "CBS",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PSEUDO ECHO",
+      "song": "A Beat For You",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Hold On",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AUSTRALIAN CRAWL",
+      "song": "Reckless",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DRAGON",
+      "song": "Rain",
+      "label": "Polydor",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EUROGLIDERS",
+      "song": "Heaven (Must Be There)",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NOISEWORKS",
+      "song": "Take Me Back",
+      "label": "CBS",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HUNTERS & COLLECTORS",
+      "song": "Throw Your Arms Around Me",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

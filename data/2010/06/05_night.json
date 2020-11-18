@@ -1,0 +1,561 @@
+{
+  "title": "Saturday night  Saturday, 5 June",
+  "special": "Mastodon",
+  "timeslot": "night",
+  "date": "2010-06-05",
+  "url": "http://www.abc.net.au/rage/archive/s2918481.htm",
+  "tracks": [
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Aces High",
+      "label": "EMI",
+      "timeslot": "23:59:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Freewheel Burning",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Whole Lotta Love",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "The Hand That Rocks The Cradle",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Man In The Box",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Spoonman",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "I Started A Joke",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE JESUS LIZARD",
+      "song": "Puss",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "First It Giveth",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CURSIVE",
+      "song": "Big Bang",
+      "label": "Stomp",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DEFTONES",
+      "song": "Be Quiet And Drive",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE DEAD KENNEDYS - LIVE",
+      "song": "Holiday In Cambodia",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Psycho Therapy",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "We Are All On Drugs",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AT THE DRIVE-IN",
+      "song": "Invalid Litter Dept.",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE MARS VOLTA",
+      "song": "Goliath",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Us And Them",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YES",
+      "song": "Owner Of A Lonely Heart",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "We Are Glass",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE MELVINS",
+      "song": "Honeybucket",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CLUTCH",
+      "song": "Soapmaker",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ISIS",
+      "song": "In Fiction",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HIGH ON FIRE",
+      "song": "Devilution",
+      "label": "Riot",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LAMB OF GOD",
+      "song": "Set To Fail",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Anthem (We Are The Fire)",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HATEBREED",
+      "song": "I Will Be Heard",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Schism",
+      "label": "Jive/Zomba",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DYING FETUS",
+      "song": "Shepherd's Commandments",
+      "label": "Riot",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Psychosocial",
+      "label": "Roadrunner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AGAINST ME!",
+      "song": "White People For Peace",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANTI-FLAG",
+      "song": "This Is The End (For You My Friend)",
+      "label": "SBME",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RISE AGAINST",
+      "song": "Audience Of One",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NO FX",
+      "song": "Stickin' In My Eye",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BARONESS",
+      "song": "Wanderlust",
+      "label": "Riot",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MESHUGGAH",
+      "song": "Shed",
+      "label": "Riot",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HELMET",
+      "song": "Give It",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MINISTRY",
+      "song": "N.W.O.",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TURBONEGRO",
+      "song": "Fuck The World",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHILDREN OF BODOM",
+      "song": "In Your Face",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ENTOMBED - LIVE",
+      "song": "Stranger Eons",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Oblivion",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Iron Tusk",
+      "label": "Riot",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Capillarian Crest",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Colony Of Birchmen",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Divinations",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KINGDOM OF SORROW",
+      "song": "Lead To Demise",
+      "label": "Riot",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SOILENT GREEN",
+      "song": "Leaves Of Three",
+      "label": "Riot",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CANCER BATS",
+      "song": "Hail Destroyer",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CORROSION OF CONFORMITY",
+      "song": "Stone Breaker",
+      "label": "Riot",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CROWBAR",
+      "song": "Dead Sun",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DOWN",
+      "song": "On March The Saints",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SWANS",
+      "song": "Love of Life",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Nothing Else Matters",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Seasons In The Abyss",
+      "label": "Universal (MCA",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANTHRAX",
+      "song": "Black Lodge",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Holy Wars",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DILLINGER ESCAPE PLAN",
+      "song": "Unretrofied",
+      "label": "Riot",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TOMBS",
+      "song": "Gossamer",
+      "label": "Riot",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUFFOCATION",
+      "song": "Abomination Reborn",
+      "label": "Riot",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TOXIC HOLOCAUST",
+      "song": "Nuke The Cross",
+      "label": "Riot",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ABYSMAL DAWN",
+      "song": "Programmed To Consume",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALCHEMIST",
+      "song": "Road To Ubar",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MERZBOW",
+      "song": "Minus Zero",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GRAVES OF VALOR",
+      "song": "Bridles Of Incitatus",
+      "label": "Riot",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NIGHTSTICK",
+      "song": "Fullfazi",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOWL",
+      "song": "Anyone But Us",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SOFT PACK",
+      "song": "C'Mon",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Plundered My Soul",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ERNEST ELLIS",
+      "song": "Loveless",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATE LEAHY",
+      "song": "The Life Raft",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SADE",
+      "song": "Babyfather",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PRINCESS ONE POINT FIVE",
+      "song": "Today",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FIRE! SANTA ROSA, FIRE!",
+      "song": "Little Cowboys, Bad Hombres",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SEABELLIES",
+      "song": "Young Cubs",
+      "label": "Albert Productions",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MARK MOLDRE",
+      "song": "In This Life",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "This Is What I Said",
+      "label": "Ivy League",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARTISAN GUNS",
+      "song": "Into The Cold",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE WHIGS",
+      "song": "Kill Me Carolyne",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GO/NO-GO",
+      "song": "Turnaround",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RUDELY INTERRUPTED",
+      "song": "Close My Eyes",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CELADORE",
+      "song": "Distance Is A Gun",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WE ARE SCIENTISTS",
+      "song": "Rules Don't Stop",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BOTANICS",
+      "song": "What The Deal Is",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Drunk Girls",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "You Used To Hold Me",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DECLAN AND THE ANTICS",
+      "song": "Born For The Nightlife",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KIDZ IN SPACE",
+      "song": "Downtime",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WE HAVE BAND",
+      "song": "Divisive",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Clap Your Hands",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "YEASAYER",
+      "song": "One",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Vital Signs",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PROFESSOR GREEN featuring ED DREWETT",
+      "song": "I Need You Tonight",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

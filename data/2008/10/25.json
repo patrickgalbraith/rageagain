@@ -1,0 +1,615 @@
+{
+  "title": "Saturday, 25 October",
+  "special": "Pnau",
+  "timeslot": null,
+  "date": "2008-10-25",
+  "url": "http://www.abc.net.au/rage/archive/s2400102.htm",
+  "tracks": [
+    {
+      "artist": "LAURIE ANDERSON",
+      "song": "O Superman",
+      "label": "Warner",
+      "timeslot": "12:13:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Personal Jesus",
+      "label": "Mushroom",
+      "timeslot": "12:13:00"
+    },
+    {
+      "artist": "PAT BENATAR",
+      "song": "Love Is A Battlefield",
+      "label": "Fest/Mush",
+      "timeslot": "12:13:00"
+    },
+    {
+      "artist": "PLAID",
+      "song": "Eyen",
+      "label": "Inertia",
+      "timeslot": "12:13:00"
+    },
+    {
+      "artist": "SUZANNE VEGA",
+      "song": "Luka",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PHILIP OAKEY & GIORGIO MORODER",
+      "song": "Together In Electric Dreams",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SIMPLE MINDS",
+      "song": "Don't You (Forget About Me)",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Sorrow",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ROBERT PALMER",
+      "song": "Johnny And Mary",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MEAT BEAT MANIFESTO",
+      "song": "The Edge Of No Control",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SHEEP ON DRUGS",
+      "song": "15 Minutes Of Fame",
+      "label": "Mercury",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MIRWAIS",
+      "song": "Disco Science",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "If I Ever Feel Better",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE FUTURE SOUND OF LONDON",
+      "song": "Papua New Guinea",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LFO",
+      "song": "LFO",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SLAM",
+      "song": "Positive Education",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HOWIE B",
+      "song": "Angels Go Bald Too",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EINSTURZENDE NEUBAUTEN",
+      "song": "Blume",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE RESIDENTS",
+      "song": "Act Of Being Polite",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "Transmission",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "The Mercy Seat",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Sheena Is A Parasite",
+      "label": "SpeaknSpell",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Miniskirt",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Jane Says",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "This Charming Man",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Peaches",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Superstar",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOAN BAEZ",
+      "song": "The Partisan",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PATTI SMITH",
+      "song": "Because The Night",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "The Needle & The Damage Done",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Birthday",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JESUS JONES",
+      "song": "Right Here, Right Now",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "This Is Hardcore",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "I Wanna Be Sedated",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "Instant Karma",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YOKO ONO",
+      "song": "Walking On Thin Ice",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PET SHOP BOYS",
+      "song": "West End Girls",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MEL & KIM",
+      "song": "Respectable",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OL' DIRTY BASTARD",
+      "song": "Got Your Money",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NINA SIMONE",
+      "song": "My Baby Just Cares For Me",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Embrace",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Baby",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Wild Strawberries",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Follow Me",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Need Your Lovin' Baby",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Journey Agent",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Discone",
+      "label": "Creative Vibes",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PNAU with KID CREOLE",
+      "song": "Una Noche (Get Up)",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "L'MORE",
+      "song": "Takin' Hold",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Walking On A Dream",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TEENAGER",
+      "song": "Alone Again",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TONITE ONLY",
+      "song": "(Danger) The Bomb",
+      "label": "MOS/EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Back Of The Van",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Paris Is Burning",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Dusk Till Dawn",
+      "label": "Modular",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Glasshouses",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Good Dancers",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "This Day",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Sunkids",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Vampire Racecourse",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Good Dancers (2003)",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Come To This",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "God Lead Your Soul",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Devil Was In My Yard",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "I Understand What You Want But I Just Don't Agree",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VAN SHE",
+      "song": "Kelly",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MERCY ARMS",
+      "song": "Kept Low",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BRIDEZILLA",
+      "song": "Brown Paper Bag",
+      "label": "Ivy League",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VALENTINOS",
+      "song": "Man With A Gun",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE VALENTINOS",
+      "song": "Nightmoves",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DAMN ARMS",
+      "song": "Test Pattern",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DAMN ARMS",
+      "song": "Home Wrecker",
+      "label": "Shiny",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Lost!",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Never Miss A Beat",
+      "label": "Liberator",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "STEREOPHONICS",
+      "song": "You're My Star",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANGELAS DISH",
+      "song": "Yeah...But Not Tonight",
+      "label": "BNM Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WHITE LIES",
+      "song": "Death",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CSS (CANSEI DE SER SEXY)",
+      "song": "Move",
+      "label": "Stomp",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CASSETTE KIDS",
+      "song": "You Take It",
+      "label": "SBME",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MYSTERY JETS",
+      "song": "Two Doors Down",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATE MILLER-HEIDKE",
+      "song": "Can't Shake It",
+      "label": "SBME",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE ZUTONS",
+      "song": "What's Your Problem",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "IGLU & HARTLY",
+      "song": "In This City",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Buff Nuff",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE GRATES",
+      "song": "Aw Yeah",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TILLY & THE WALL",
+      "song": "Pot Kettle Black",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EMILIANA TORRINI",
+      "song": "Big Jumps",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Cape Cod Kwassa Kwassa",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BAMBOOS featuring MEGAN WASHINGTON",
+      "song": "King Of The Rodeo",
+      "label": "Creative Vibes",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TRICKY",
+      "song": "Puppy Toy",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE HERBALISER",
+      "song": "Can't Help This Feeling",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NITIN SAWHNEY featuring ROXANNE TATAEI",
+      "song": "Distant Dreams",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Make You Feel My Love",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE TEMPER TRAP",
+      "song": "Sweet Disposition",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FUJIYA & MIYAGI",
+      "song": "Knickerbocker",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FAKER",
+      "song": "Are You Magnetic?",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LAMPLIGHT",
+      "song": "Ship In A Bottle",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FLEET FOXES",
+      "song": "He Doesn't Know Why",
+      "label": "Stomp",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FIREKITES",
+      "song": "Same Suburb Different Park",
+      "label": "Spunk",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Death Cloud",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "Make You Happy",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

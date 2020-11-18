@@ -1,0 +1,555 @@
+{
+  "title": "Saturday night  Saturday, 29 October",
+  "special": "Nightmare on rage St Special!",
+  "timeslot": "night",
+  "date": "2011-10-29",
+  "url": "http://www.abc.net.au/rage/archive/s3350755.htm",
+  "tracks": [
+    {
+      "artist": "GRINDERMAN",
+      "song": "Heathen Child",
+      "label": "EMI",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "SIOUXSIE & THE BANSHEES",
+      "song": "Spellbound",
+      "label": "Independent",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "A FLOCK OF SEAGULLS",
+      "song": "Nightmares",
+      "label": "Jive/Zomba",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "THE DAMNED",
+      "song": "Shadow Of Love",
+      "label": "Warner",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "The Kill (Bury Me)",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "I Miss You",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EINSTURZENDE NEUBAUTEN",
+      "song": "Sabrina",
+      "label": "MDS",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BRAINBUG",
+      "song": "Nightmare",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SEVERED HEADS",
+      "song": "Dead Eyes Opened",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JULIE BROWN",
+      "song": "Homecoming Queen's Got A Gun",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DEAD OR ALIVE",
+      "song": "Something In My House",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Wrong",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Miss Lucifer",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOY LOVE",
+      "song": "Bride Of Frankenstein",
+      "label": "Elektra",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MISFITS",
+      "song": "Scream",
+      "label": "Roadrunner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Thriller",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROCKWELL",
+      "song": "Somebody's Watching Me",
+      "label": "Motown",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BONNIE TYLER",
+      "song": "Total Eclipse Of The Heart",
+      "label": "CBS",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "White Wedding",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ULTRAVOX",
+      "song": "Vienna",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Technologic",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "666",
+      "song": "Alarma!",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Number Of The Beast",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Bark At The Moon",
+      "label": "SBME",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALICE COOPER - Live",
+      "song": "Black Widow",
+      "label": "WEA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CONCRETE BLONDE",
+      "song": "Bloodletting",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Red Right Hand",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FAT BOYS",
+      "song": "Are You Ready For Freddy",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BUCK 65",
+      "song": "Zombie Delight",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Clint Eastwood",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JON SPENCER BLUES EXPLOSION",
+      "song": "She Said",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Psycho Therapy",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Sheena Is A Parasite",
+      "label": "SpeaknSpell",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KRISTIN HERSH & MICHAEL STIPE",
+      "song": "Your Ghost",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FEVER RAY",
+      "song": "If I Had A Heart",
+      "label": "MOS",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "What's A Girl To Do",
+      "label": "Spunk",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CRADLE OF FILTH",
+      "song": "Her Ghost In The Fog",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MOONSPELL",
+      "song": "Night Eternal",
+      "label": "Riot",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Closer",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "The Beautiful People",
+      "label": "Universal (MCA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SKYHOOKS",
+      "song": "Horror Movie",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JOHN FOGERTY",
+      "song": "Eye Of The Zombie",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Highway To Hell",
+      "label": "Albert Productions",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE RESIDENTS",
+      "song": "The Simple Song",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BEASTS OF BOURBON",
+      "song": "Psycho",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ECHO & THE BUNNYMEN",
+      "song": "People Are Strange",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SISTERS OF MERCY",
+      "song": "This Corrosion",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CRAMPS - LIVE ON COUNTDOWN REVOLUTION",
+      "song": "Creature From The Black Leather Lagoon",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY",
+      "song": "Nick The Stripper",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Voodoo People",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LEFTFIELD & AFRIKA BAMBAATAA",
+      "song": "Afrika Shox",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "Everybody (Backstreet's Back)",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROBBIE WILLIAMS",
+      "song": "Rock DJ",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROB ZOMBIE",
+      "song": "Dragula",
+      "label": "Universal (MCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Ratamahatta",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Bedtime Story",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JUNIOR JACK",
+      "song": "Thrill Me",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEATH IN VEGAS",
+      "song": "Aisha",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MR BUNGLE",
+      "song": "Quote Unquote",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "Dope Hat",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "Blue Orchid",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "The Bird And The Worm",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EVANESCENCE",
+      "song": "Going Under",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Walk In The Park",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE DOLLY ROCKER MOVEMENT",
+      "song": "Memory Layne",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "Evil",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FUJIYA & MIYAGI",
+      "song": "Sixteen Shades Of Black & Blue",
+      "label": "Other Tongues",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BUSH",
+      "song": "Greedy Fly",
+      "label": "Universal (MCA",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Y Control",
+      "label": "Modular",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SIOUXSIE & THE BANSHEES",
+      "song": "Cities In Dust",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SQUIRREL NUT ZIPPERS",
+      "song": "Hell",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GRAVEYARD TRAIN",
+      "song": "Mummy",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROCKY HORROR PICTURE SHOW",
+      "song": "Time Warp",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TOTO COELO",
+      "song": "I Eat Cannibals",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PORTISHEAD",
+      "song": "Only You",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ZOLA JESUS",
+      "song": "Vessel",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Superstition",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "STEVE MILLER BAND",
+      "song": "Abracadabra",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Freak",
+      "label": "Murmur",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "M83",
+      "song": "Midnight City",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Dusk Till Dawn",
+      "label": "Modular",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Tribute",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OINGO BOINGO",
+      "song": "Dead Man's Party",
+      "label": "MCA",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Wuthering Heights (Studio Version)",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SHAKESPEAR'S SISTER",
+      "song": "Stay",
+      "label": "Polydor",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NICK CAVE & PJ HARVEY",
+      "song": "Henry Lee",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "Meet Me On The Equinox",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TALES IN SPACE",
+      "song": "Ghost In The Room",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Bones",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

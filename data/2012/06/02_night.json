@@ -1,0 +1,321 @@
+{
+  "title": "Saturday night  Saturday, 2 June",
+  "special": "rage epics special",
+  "timeslot": "night",
+  "date": "2012-06-02",
+  "url": "http://www.abc.net.au/rage/archive/s3516224.htm",
+  "tracks": [
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Black Or White",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "The Test",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE BLACK KEYS",
+      "song": "Howlin' For You",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Triumph",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "2 PAC featuring DR DRE",
+      "song": "California Love",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "High Hopes",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Jazzing For Blue Jean",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Estranged",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Tribute",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KINDNESS",
+      "song": "Gee Up",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Stinkfist",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SINEAD O'CONNOR",
+      "song": "Troy (The Lion and The Cobra)",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Experiment IV",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ULTRAVOX",
+      "song": "Vienna",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MEAT LOAF",
+      "song": "I'd Do Anything For Love (But I Won't Do That)",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Tunic (Song For Karen)",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Marry The Night",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SIGUR ROS",
+      "song": "Viorar Vel Til Loftarasa",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BELLE and SEBASTIAN",
+      "song": "This Is Just A Modern Rock Song",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CABARET VOLTAIRE",
+      "song": "Crackdown",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "The Perfect Kiss",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ICE CUBE",
+      "song": "It Was A Good Day",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "The Unforgiven",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Seasons In The Abyss",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALICIA KEYS",
+      "song": "You Don't Know My Name",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Honey",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BB KING",
+      "song": "Sweet Sixteen",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Hurricane",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Rooster",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BUSH",
+      "song": "Greedy Fly",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Fight For Your Right (Revisited)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Da Funk",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PET SHOP BOYS",
+      "song": "Domino Dancing",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Thieves In The Temple",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Day In Day Out",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE DOORS - LIVE",
+      "song": "The End",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Stan",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Windowlicker",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BON JOVI",
+      "song": "Always",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE BRIAN JONESTOWN MASSACRE,",
+      "song": "Bring Me The Head Of Paul McCartney...",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "I Will Possess Your Heart",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEAD CAN DANCE",
+      "song": "The Protagonist",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Hole In My Soul",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Dazed And Confused",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BILLY THORPE and THE AZTECS",
+      "song": "Mama",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ANIMAL COLLECTIVE",
+      "song": "Brothersport",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Tonto",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Like A Prayer",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HALL and OATES",
+      "song": "Do What You Want, Be What You Are",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Save A Prayer",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Champagne Supernova",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Bohemian Rhapsody",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

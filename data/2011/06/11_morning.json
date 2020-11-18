@@ -1,0 +1,453 @@
+{
+  "title": "Saturday morning  Saturday, 11 June",
+  "special": "Neil Gaiman & Amanda Palmer",
+  "timeslot": "morning",
+  "date": "2011-06-11",
+  "url": "http://www.abc.net.au/rage/archive/s3241084.htm",
+  "tracks": [
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Till The World Ends",
+      "label": "Sony",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "MARVIN PRIEST",
+      "song": "Own This Club",
+      "label": "Universal",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "BRIAN MCFADDEN",
+      "song": "Come Party",
+      "label": "Universal",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "JENNIFER LOPEZ feat PITBULL",
+      "song": "On The Floor",
+      "label": "Universal",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "STAN WALKER",
+      "song": "Loud",
+      "label": "Sony",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Rolling In The Deep",
+      "label": "Remote Control",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "California King Bed",
+      "label": "Universal",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "SIMPLE PLAN feat NATASHA BEDINGFIELD",
+      "song": "Jetlag",
+      "label": "Universal",
+      "timeslot": "06:01:00"
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "I'll Be Your Man",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KATY PERRY feat KANYE WEST",
+      "song": "E.T.",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JUMP JUMP DANCE DANCE",
+      "song": "2.0",
+      "label": "MOS",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALEXIS JORDAN",
+      "song": "Hush Hush",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NICOLE SCHERZINGER",
+      "song": "Don't Hold Your Breath",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JESSIE J",
+      "song": "Nobody's Perfect",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE",
+      "song": "Smile",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "I Feel Like Dancin'",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LMFAO feat LAUREN BENNETT & GOONROCK",
+      "song": "Party Rock Anthem",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Run The World (Girls)",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "HAVANA BROWN",
+      "song": "We Run The Night",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "Ready To Go",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "The Story Of Us",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ONE REPUBLIC",
+      "song": "Good Life",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "DEAD LETTER CHORUS",
+      "song": "Yellow House",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JASON DERULO",
+      "song": "Don't Wanna Go Home",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Judas",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "WYNTER GORDON",
+      "song": "Til Death (Denzal Park Radio Edit)",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "T-PAIN featuring CHRIS BROWN",
+      "song": "Best Love Song",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THESE KIDS WEAR CROWNS",
+      "song": "Jumpstart",
+      "label": "EMI",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BRUNO MARS",
+      "song": "The Lazy Song",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Little Shocks",
+      "label": "Liberator",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "TIM & JEAN",
+      "song": "Don't Stop",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "Escapee",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "JINJA SAFARI",
+      "song": "Hiccups",
+      "label": "Other Tongues",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LOON LAKE",
+      "song": "In The Summer",
+      "label": "Shock",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Epic",
+      "label": "Festival",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Control",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BOY & BEAR",
+      "song": "Feeding Line",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Gypsy",
+      "label": "WEA",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "HOLLAND",
+      "song": "No Control",
+      "label": "Sony",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "Mary",
+      "label": "Ivy League",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BONNIE TYLER",
+      "song": "Holding Out For A Hero",
+      "label": "CBS",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "We Are The Champions",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "Underdog",
+      "label": "Sony",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SEASICK STEVE",
+      "song": "You Can't Teach An Old Dog New Tricks",
+      "label": "Liberator",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "LYRICS BORN featuring SAM SPARRO",
+      "song": "Coulda Woulda Shoulda",
+      "label": "Shock",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "CLARE BOWDITCH & LANIE LANE",
+      "song": "Now You're Home",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ALEXANDER",
+      "song": "A Million Years",
+      "label": "Vagrant",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "FRENCH HORN REBELLION",
+      "song": "This Moment",
+      "label": "EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ART VS SCIENCE",
+      "song": "Higher",
+      "label": "KAOS",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "VENTS",
+      "song": "Rollin' Balls",
+      "label": "Golden Era Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MYLO vs MIAMI SOUND MACHINE",
+      "song": "Doctor Pressure",
+      "label": "MOS/EMI",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Power",
+      "label": "Universal",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JUSTICE",
+      "song": "Civilization",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "The Look",
+      "label": "Warner",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PAPERCUTS",
+      "song": "Do What You Will",
+      "label": "Inertia",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Better The Devil You Know",
+      "label": "Mushroom",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "2 Hearts",
+      "label": "Warner",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "WILEY",
+      "song": "Numbers In Action",
+      "label": "Inertia",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SWEDISH HOUSE MAFIA",
+      "song": "Save The World",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE GRATES",
+      "song": "Turn Me On",
+      "label": "Universal",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "FERGUS BROWN",
+      "song": "Nerds In Love",
+      "label": "MAKEbeLIVE Prod",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE DRESDEN DOLLS",
+      "song": "Coin-Operated Boy",
+      "label": "Roadrunner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "The Dreaming",
+      "label": "EMI",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Drunk Girls",
+      "label": "EMI",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Let's Dance",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "TORI AMOS",
+      "song": "Cornflake Girl",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JARVIS COCKER",
+      "song": "Don't Let Him Waste Your Time",
+      "label": "Shock",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "What's A Girl To Do",
+      "label": "Spunk",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BEN FOLDS FIVE",
+      "song": "Brick",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Unguarded Moment",
+      "label": "EMI",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Deanna",
+      "label": "Mushroom",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN & JOHN TRAVOLTA",
+      "song": "Grease Megamix",
+      "label": "Polydor",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE BEDROOM PHILOSOPHER",
+      "song": "I'm So Post Modern",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "AMANDA PALMER",
+      "song": "Leeds United",
+      "label": "Roadrunner",
+      "timeslot": "10:30:00"
+    }
+  ]
+}

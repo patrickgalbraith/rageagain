@@ -1,0 +1,639 @@
+{
+  "title": "Saturday, 24 May",
+  "special": "Alexisonfire",
+  "timeslot": null,
+  "date": "2008-05-24",
+  "url": "http://www.abc.net.au/rage/archive/s2253730.htm",
+  "tracks": [
+    {
+      "artist": "THE DESCENDENTS",
+      "song": "I'm The One",
+      "label": "Shock",
+      "timeslot": "23:55:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Rock 'N' Roll High School",
+      "label": "Warner",
+      "timeslot": "23:55:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "I Wanna Live",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE BUZZCOCKS",
+      "song": "Ever Fallen In Love",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "London Calling",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HOT WATER MUSIC",
+      "song": "Remedy",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HOT SNAKES",
+      "song": "Braintrust",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE MELVINS",
+      "song": "Honeybucket",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CHIXDIGGIT",
+      "song": "Chupacabras",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LARS FREDRICKSEN & THE BASTARDS",
+      "song": "To Have & To Have Not",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "RANDY",
+      "song": "X-Ray Eyes",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TURBONEGRO",
+      "song": "Get It On",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DIRTY PRETTY THINGS",
+      "song": "Bang Bang You're Dead",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CONSTANTINES",
+      "song": "Working Full-Time",
+      "label": "Stomp",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SLOAN",
+      "song": "The Good In Everyone",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MURDER BY DEATH",
+      "song": "Brother",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Feel The Pain",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ARCHERS OF LOAF",
+      "song": "Scenic Pastures",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "COP SHOOT COP",
+      "song": "Interference",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "March Of The Pigs",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Green Machine",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Do The Evolution",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Atlas",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "I Against I",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "QUICKSAND",
+      "song": "Dine Alone",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY - Live",
+      "song": "Deep In The Woods",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CANCER BATS",
+      "song": "Pneumonia Hawk",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIO BIRDMAN",
+      "song": "Aloha Steve & Danno",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IGGY & THE STOOGES",
+      "song": "I Wanna Be Your Dog",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "I Put A Spell On You",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Subterranean Homesick Blues",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Keep On Rockin' In The Free World",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOHN LEE HOOKER",
+      "song": "Boom Boom",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Hold On",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BLACK CROWES",
+      "song": "Remedy",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Love Letter",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Glory Days",
+      "label": "SBME",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOE STRUMMER & THE MESCALEROS",
+      "song": "Redemption Song",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE PHARCYDE",
+      "song": "Runnin'",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALEXISONFIRE",
+      "song": "Waterwings",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALEXISONFIRE",
+      "song": "Counterparts And Number Them",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALEXISONFIRE",
+      "song": "Accidents",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALEXISONFIRE",
+      "song": "Hey, It's Your Funeral Mama",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALEXISONFIRE",
+      "song": "This Could Be Anywhere In The World",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALEXISONFIRE",
+      "song": "Boiled Frogs",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALEXISONFIRE",
+      "song": "Rough Hands",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALEXISONFIRE vs. MONEEN",
+      "song": "Passing Out In America",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CITY AND COLOUR",
+      "song": "Comin' Home",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CITY AND COLOUR",
+      "song": "Waiting",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Smoke 'Em If Ya Got 'Em",
+      "label": "Stomp",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Boneyards",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PROTEST THE HERO",
+      "song": "Blindfolds Aside",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PROTEST THE HERO",
+      "song": "Bloodmeat",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Scream, Aim, Fire",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Waking The Demon",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Pretty Handsome Awkward",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "Paralyzed",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KILLSWITCH ENGAGE",
+      "song": "My Curse",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KILLSWITCH ENGAGE",
+      "song": "The Arms Of Sorrow",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "Miss Murder",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "Love Like Winter",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ESCAPE THE FATE",
+      "song": "Not Good Enough For Truth In Cliche",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ESCAPE THE FATE",
+      "song": "Situations",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SAOSIN",
+      "song": "Voices",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SAOSIN",
+      "song": "You're Not Alone",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ENTER SHIKARI",
+      "song": "Sorry You're Not A Winner",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ENTER SHIKARI",
+      "song": "Anything Can Happen In The Next Half Hour",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIVING END - Live on Recovery",
+      "song": "From Here On In",
+      "label": "MDS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Prisoner Of Society",
+      "label": "MDS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Second Solution",
+      "label": "MDS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Save The Day",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "All Torn Down",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "West End Riot",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Pictures In The Mirror",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Roll On",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Dirty Man",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "One Said To The Other",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Who's Gonna Save Us?",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Tabloid Magazine",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "I Can't Give You What I Haven't Got",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "What's On Your Radio",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Wake Up",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Long Live The Weekend",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Nothing Lasts Forever",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Rising Sun",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE MESS HALL",
+      "song": "Pulse",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SILENTS",
+      "song": "Little Girl Lost",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DIE! DIE! DIE!",
+      "song": "Blinding",
+      "label": "SpeaknSpell",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE REASON",
+      "song": "All I Ever Wanted",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SCHOOL OF LANGUAGE",
+      "song": "Rockist",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAHN BROTHERS",
+      "song": "Open",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE PANICS",
+      "song": "Feeling Is Gone",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BON IVER",
+      "song": "The Wolves (Act I & II)",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EUGENE McGUINNESS",
+      "song": "Monsters Under The Bed",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "Like It Or Not",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ROOM ELEVEN",
+      "song": "Hey Hey Hey",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Happiness",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "One Pure Thought",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DOES IT OFFEND YOU, YEAH?",
+      "song": "Epic Last Song",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "The Age Of The Understatement",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUKES OF WINDSOR",
+      "song": "It's A War",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "Too Much To Do",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OPERATOR PLEASE",
+      "song": "Two For My Seconds",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GYROSCOPE",
+      "song": "Australia",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

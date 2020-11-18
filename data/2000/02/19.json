@@ -1,0 +1,652 @@
+{
+  "title": "Saturday 19th February",
+  "special": "1.5 hour Madonna special\nfollowed by Female Artists, Bands & Lead Singers.",
+  "timeslot": null,
+  "date": "2000-02-19",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000219.htm",
+  "tracks": [
+    {
+      "artist": "Madonna",
+      "song": "American Pie",
+      "label": "Warner",
+      "timeslot": "12:20:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Beautiful Stranger",
+      "label": "Warner",
+      "timeslot": "12:20:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Nothing Really Matters",
+      "label": "Warner",
+      "timeslot": "12:20:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Ray Of Light",
+      "label": "Warner",
+      "timeslot": "12:20:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Human Nature",
+      "label": "Warner",
+      "timeslot": "12:20:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Bedtime Story",
+      "label": "Warner",
+      "timeslot": "12:20:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Rain",
+      "label": "Warner",
+      "timeslot": "12:20:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Erotica",
+      "label": "Warner",
+      "timeslot": "12:20:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Justify My Love",
+      "label": "Warner",
+      "timeslot": "12:20:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Vogue",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Express Yourself",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Like A Prayer",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Papa Don't Preach",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Into The Groove",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Material Girl",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Like A Virgin",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Burning Up",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Holiday",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Neneh Cherry",
+      "song": "Woman",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Beth Orton",
+      "song": "She Cries Your Name",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Macy Gray",
+      "song": "I Try",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Lauryn Hill",
+      "song": "Doo Wop (That Thing)",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "Hole",
+      "song": "Malibu",
+      "label": "Universal (MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "The Breeders",
+      "song": "Safari",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PJ Harvey",
+      "song": "50 Foot Queenie",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Veruca Salt",
+      "song": "Volcano Girls",
+      "label": "Universal (MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "L7",
+      "song": "Stuck Here Again",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Riff - Magic Dirt",
+      "song": "She",
+      "label": "Au-Go-Go",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Hole",
+      "song": "Miss World",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Hole",
+      "song": "Celebrity Skin",
+      "label": "Universal (MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Garbage",
+      "song": "Vow",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "Curve",
+      "song": "Horror Head",
+      "label": "Universal (MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Fiona Apple",
+      "song": "Sleep To Dream",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Fiona Apple",
+      "song": "Fast As You Can",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Na-Gig - PJ Harvey",
+      "song": "Sheela",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Elastica",
+      "song": "Connection",
+      "label": "Universal (MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Babes In Toyland",
+      "song": "Sweet 69",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Luscious Jackson",
+      "song": "Ladyfingers",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Liz Phair",
+      "song": "Polyester Bride",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Tori Amos",
+      "song": "Glory Of The 80's",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "Madonna",
+      "song": "Frozen (Club Mix)",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Macy Gray",
+      "song": "Do Something",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Kelis",
+      "song": "Caught Out There",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Neneh Cherry",
+      "song": "Buddy X",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Salt 'N' Pepa",
+      "song": "Shoop",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Queen Latifah",
+      "song": "Fly Girl",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Bjork",
+      "song": "It's Oh So Quiet",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Bjork",
+      "song": "Big Time Sensuality",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Bjork",
+      "song": "Violently Happy",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Beth Orton",
+      "song": "Touch Me With Your Love",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Patti Smith",
+      "song": "Summer Cannibals",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "The Pretenders",
+      "song": "Stop Your Sobbing",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "The Divinyls",
+      "song": "Pleasure & Pain",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Blondie",
+      "song": "In The Flesh",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Kristin Hersh & Michael Stipe",
+      "song": "Your Ghost",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "Belly",
+      "song": "Gepetto",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "The Breeders",
+      "song": "Cannonball",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "Shaft",
+      "song": "Mucho Mambo (Sway)",
+      "label": "Universal (MCA)",
+      "timeslot": "04:00:00",
+      "countdown": 50
+    },
+    {
+      "artist": "TLC",
+      "song": "Dear Lie",
+      "label": "BMG",
+      "timeslot": "04:00:00",
+      "countdown": 47
+    },
+    {
+      "artist": "Cliff Richard",
+      "song": "The Millennium Prayer",
+      "label": "Festival",
+      "timeslot": "04:00:00",
+      "countdown": 46
+    },
+    {
+      "artist": "Live",
+      "song": "Run To The Water",
+      "label": "Universal",
+      "timeslot": "04:00:00",
+      "countdown": 44
+    },
+    {
+      "artist": "Celine Dion",
+      "song": "That's The Way It Is",
+      "label": "Sony",
+      "timeslot": "04:00:00",
+      "countdown": 43
+    },
+    {
+      "artist": "Deni Hines",
+      "song": "Pull Up To The Bumper",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00",
+      "countdown": 42
+    },
+    {
+      "artist": "Shania Twain",
+      "song": "Don't Be Stupid (You Know I Love You)",
+      "label": "Universal (MCA)",
+      "timeslot": "04:30:00",
+      "countdown": 41
+    },
+    {
+      "artist": "Live",
+      "song": "The Dolphin's Cry",
+      "label": "Universal (MCA)",
+      "timeslot": "04:30:00",
+      "countdown": 40
+    },
+    {
+      "artist": "Moby",
+      "song": "Why Does My Heart Feel So Bad?",
+      "label": "Mushroom",
+      "timeslot": "04:30:00",
+      "countdown": 39
+    },
+    {
+      "artist": "Deadstar",
+      "song": "Deeper Water",
+      "label": "Mushroom",
+      "timeslot": "04:30:00",
+      "countdown": 38
+    },
+    {
+      "artist": "S2S",
+      "song": "Sister",
+      "label": "Mushroom",
+      "timeslot": "04:30:00",
+      "countdown": 37
+    },
+    {
+      "artist": "Aleesha Rome",
+      "song": "Search My Heaven",
+      "label": "EMI",
+      "timeslot": "04:30:00",
+      "countdown": 36
+    },
+    {
+      "artist": "Blink 182",
+      "song": "All The Small Things",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 35
+    },
+    {
+      "artist": "William Orbit",
+      "song": "Barber's Adagio For Strings",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 34
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "song": "Waiting For Tonight",
+      "label": "Sony",
+      "timeslot": "05:00:00",
+      "countdown": 33
+    },
+    {
+      "artist": "Backstreet Boys",
+      "song": "Show Me The Meaning Of Being Lonely",
+      "label": "Jive/Zomba",
+      "timeslot": "05:00:00",
+      "countdown": 32
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "The Great Beyond",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 31
+    },
+    {
+      "artist": "Steps",
+      "song": "Say You'll Be Mine",
+      "label": "Jive/Zomba",
+      "timeslot": "05:00:00",
+      "countdown": 30
+    },
+    {
+      "artist": "Will Smith",
+      "song": "Will2K",
+      "label": "Sony",
+      "timeslot": "05:00:00",
+      "countdown": 28
+    },
+    {
+      "artist": "Santana featuring Rob Thomas",
+      "song": "Smooth",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 27
+    },
+    {
+      "artist": "Five",
+      "song": "Keep On Movin'",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 26
+    },
+    {
+      "artist": "Marc Anthony",
+      "song": "I Need To Know",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 25
+    },
+    {
+      "artist": "Brian McKnight",
+      "song": "Back At One",
+      "label": "Universal (MCA)",
+      "timeslot": "05:30:00",
+      "countdown": 24
+    },
+    {
+      "artist": "Oasis",
+      "song": "Go Let It Out",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 23
+    },
+    {
+      "artist": "Aqua",
+      "song": "Cartoon Heroes",
+      "label": "Universal (MCA)",
+      "timeslot": "05:30:00",
+      "countdown": 22
+    },
+    {
+      "artist": "Coco Lee",
+      "song": "Do You Want My Love",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 20
+    },
+    {
+      "artist": "Blessid Union Of Souls",
+      "song": "Hey Leonardo (She Likes Me For Me)",
+      "label": "V2",
+      "timeslot": "05:30:00",
+      "countdown": 19
+    },
+    {
+      "artist": "M2M",
+      "song": "Don't Say You Love Me",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 18
+    },
+    {
+      "artist": "Savage Garden",
+      "song": "Affirmation",
+      "label": "Roadshow",
+      "timeslot": "05:30:00",
+      "countdown": 17
+    },
+    {
+      "artist": "Mandy Moore",
+      "song": "Candy",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 16
+    },
+    {
+      "artist": "Groove Armada",
+      "song": "I See You Baby",
+      "label": "Jive/Zomba",
+      "timeslot": "06:00:00",
+      "countdown": 15
+    },
+    {
+      "artist": "Eiffel 65",
+      "song": "Blue",
+      "label": "Central Station",
+      "timeslot": "06:00:00",
+      "countdown": 14
+    },
+    {
+      "artist": "Madison Avenue",
+      "song": "Don't Call Me Baby",
+      "label": "Virgin",
+      "timeslot": "06:00:00",
+      "countdown": 13
+    },
+    {
+      "artist": "Alice Deejay",
+      "song": "Better Off Alone",
+      "label": "Jive/Zomba",
+      "timeslot": "06:00:00",
+      "countdown": 12
+    },
+    {
+      "artist": "Eiffel 65",
+      "song": "Move Your Body",
+      "label": "Central Station",
+      "timeslot": "06:00:00",
+      "countdown": 11
+    },
+    {
+      "artist": "Jessica Simpson",
+      "song": "I Wanna Love You Forever",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 10
+    },
+    {
+      "artist": "Christina Aguilera",
+      "song": "What A Girl Wants",
+      "label": "BMG",
+      "timeslot": "06:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "Tina Cousins",
+      "song": "Pray",
+      "label": "Jive/Zomba",
+      "timeslot": "06:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "Vanessa Amorosi",
+      "song": "Absolutely Everybody",
+      "label": "Transistor",
+      "timeslot": "06:30:00",
+      "countdown": 6
+    },
+    {
+      "artist": "Len",
+      "song": "Steal My Sunshine",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 5
+    },
+    {
+      "artist": "S Club 7",
+      "song": "S Club Party",
+      "label": "Universal (MCA)",
+      "timeslot": "06:30:00",
+      "countdown": 4
+    },
+    {
+      "artist": "Killing Heidi",
+      "song": "Mascara",
+      "label": "Roadshow",
+      "timeslot": "06:30:00",
+      "countdown": 2
+    },
+    {
+      "artist": "Macy Gray",
+      "song": "I Try",
+      "label": "Sony",
+      "timeslot": "06:30:00",
+      "countdown": 1
+    }
+  ]
+}

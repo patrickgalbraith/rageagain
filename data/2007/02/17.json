@@ -1,0 +1,591 @@
+{
+  "title": "Saturday, 17 February",
+  "special": "Triple J Hottest 100 - Part 2 (no. 50 -1)",
+  "timeslot": null,
+  "date": "2007-02-17",
+  "url": "http://www.abc.net.au/rage/archive/s1975158.htm",
+  "tracks": [
+    {
+      "artist": "REGINA SPEKTOR",
+      "song": "On The Radio",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PONY UP!",
+      "song": "The Truth About Cats And Dogs",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "Miss Murder",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LADY SOVEREIGN",
+      "song": "Love Me Or Hate Me",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "Paper Aeroplane",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE GRATES - Live at The Forum",
+      "song": "Inside Outside",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "What A Great Night",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Take Me Back To Your House",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE BUTTERFLY EFFECT",
+      "song": "A Slow Descent",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "Memories & Dust",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOB EVANS",
+      "song": "Don't You Think It's Time",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOB EVANS",
+      "song": "Nowhere Without You",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "LDN",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Dani California",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE COPS",
+      "song": "Call Me Anytime",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BUTTERFLY EFFECT",
+      "song": "Gone",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Bones",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "When The Sun Goes Down",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SABOTEURS",
+      "song": "Steady, As She Goes",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "You Only Live Once",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CAMILLE",
+      "song": "Ta Douleur",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PLACEBO",
+      "song": "Meds",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Gold Lion",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "Clown Prince",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YOUTH GROUP",
+      "song": "Forever Young",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "REGINA SPEKTOR",
+      "song": "Fidelity",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LUPE FIASCO",
+      "song": "Kick Push",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Supermassive Black Hole",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE GRATES",
+      "song": "Science Is Golden",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PETER BJORN & JOHN",
+      "song": "Young Folks",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LILY ALLEN",
+      "song": "Smile",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "OK GO",
+      "song": "Here It Goes Again",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MY CHEMICAL ROMANCE",
+      "song": "Welcome To The Black Parade",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE JOHN BUTLER TRIO",
+      "song": "Funky Tonight",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Come On Come On",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE GRATES",
+      "song": "19-20-20",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Starlight",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Hearts A Mess",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SNOW PATROL",
+      "song": "Chasing Cars",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GNARLS BARKLEY",
+      "song": "Crazy",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SCISSOR SISTERS",
+      "song": "I Don't Feel Like Dancin'",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "When You Were Young",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "The Hard Road",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Black Fingernails Red Wine",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AUGIE MARCH",
+      "song": "One Crowded Hour",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOKYO POLICE CLUB",
+      "song": "Nature Of The Experiment",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SNOWMAN",
+      "song": "You Are A Casino",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SNOWMAN",
+      "song": "Smoke And Mirrors",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SILENTS",
+      "song": "Nightcrawl",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FAITH IN PLASTICS",
+      "song": "Hate To Say It",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PANDA BAND",
+      "song": "Then You Appear",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Devil Was In My Yard",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "God Lead Your Soul",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Bodies",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BOB EVANS",
+      "song": "Friend",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Sarah",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SCHVENDES",
+      "song": "Small Mercies, Sweet Graves",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ANTISTATIC",
+      "song": "Stand Up In Disguise",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GYROSCOPE",
+      "song": "Dream vs. Scream",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VOLCANICS",
+      "song": "Save Me Compression",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE FLAIRZ",
+      "song": "Bullseye",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "END OF FASHION",
+      "song": "The Game",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "The Nosebleed Section",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "Testimonial Year",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WOLF & CUB",
+      "song": "This Mess",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE HOT LIES",
+      "song": "Tell Me Goodnight",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BRILLIG",
+      "song": "Followed",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE AUDREYS",
+      "song": "Oh Honey",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AUGIE MARCH",
+      "song": "The Cold Acre",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE CAT EMPIRE",
+      "song": "Sly",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE CAT EMPIRE",
+      "song": "Hello",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE VASCO ERA",
+      "song": "Kingswood",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JET",
+      "song": "Get Me Outta Here",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DALLAS CRANE",
+      "song": "No Through Road",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "67 SPECIAL",
+      "song": "Sold Your Little Sister For A Red Motor Car",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LEGENDS OF MOTORSPORT",
+      "song": "Mess It Up",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Long Live The Weekend",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "California",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "Shark Fin Blues",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE RAPTURE",
+      "song": "Whoo! Alright - Yeah...Uh Huh",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE GOSSIP",
+      "song": "Standing In The Way Of Control",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE BARRIE",
+      "song": "Love You",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "...AND YOU WILL KNOW US BY THE TRAIL OF DEAD",
+      "song": "Naked Sun",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "Ruby",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GOMEZ",
+      "song": "Girlshapedlovedrug",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JARVIS COCKER",
+      "song": "Don't Let Him Waste Your Time",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE DECEMBERISTS",
+      "song": "O' Valencia!",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE SHINS",
+      "song": "Phantom Limb",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHRIS BRADY",
+      "song": "Mexican Eyes",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OLD MAN RIVER",
+      "song": "La",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DARREN HANLON",
+      "song": "Elbows",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE SABOTEURS - Live",
+      "song": "Level",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE GOOD, THE BAD & THE QUEEN",
+      "song": "Kingdom Of Doom",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "The Blinding",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "INTERCOOLER",
+      "song": "Carving Others",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "The Prayer",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAMIE T",
+      "song": "If You Got The Money",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

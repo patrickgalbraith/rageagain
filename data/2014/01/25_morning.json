@@ -1,0 +1,501 @@
+{
+  "title": "Saturday morning  Saturday, 25 January 2014",
+  "special": "rage Goes Retro 2014",
+  "timeslot": "morning",
+  "date": "2014-01-25",
+  "url": "http://www.abc.net.au/rage/archive/s3931745.htm",
+  "tracks": [
+    {
+      "artist": "ELYAR FOX",
+      "song": "Do It All Over Again",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAMI IM",
+      "song": "Alive",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JOHN MAYER featuring KATY PERRY",
+      "song": "Who You Love",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TAYLOR HENDERSON",
+      "song": "Borrow My Heart",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JACK JOHNSON",
+      "song": "Shot Reverse Shot",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "What Now",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RUDIMENTAL featuring EMELI SANDE",
+      "song": "Free",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JOHN LEGEND",
+      "song": "All Of Me",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NATHANIEL WILLEMSE",
+      "song": "You",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MAGIC!",
+      "song": "Rude",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "HAVANA BROWN",
+      "song": "Warrior",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NINA NESBITT",
+      "song": "Selfies",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ZENDAYA",
+      "song": "Replay",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Alive (Live)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "AVICII",
+      "song": "Hey Brother",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JOSE GONZALEZ",
+      "song": "Stay Alive",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Just Like Fire Would",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "XO",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ROBIN THICKE",
+      "song": "Feel Good",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "PHARRELL WILLIAMS",
+      "song": "Happy",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ELLIE GOULDING",
+      "song": "Goodness Gracious",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LEA MICHELE",
+      "song": "Cannonball",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "Adore You",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LITTLE MIX",
+      "song": "Little Me",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SAM SMITH",
+      "song": "Money On My Mind",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "PITBULL featuring KE$HA",
+      "song": "Timber",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "EMINEM featuring RIHANNA",
+      "song": "The Monster",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "FLUME and CHET FAKER",
+      "song": "Drop The Game",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "R3HAB and NERVO and UMMET OZCAN",
+      "song": "Revolution",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "MARTIN SOLVEIG and LAIDBACK LUKE",
+      "song": "Blow",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "DAFT PUNK featuring JULIAN CASABLANCAS",
+      "song": "Instant Crush",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "TOMORROW'S WORLD",
+      "song": "Life On Earth",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Love Is The Drug",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LONDON GRAMMAR",
+      "song": "Nightcall",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GROUPLOVE",
+      "song": "Shark Attack",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SKEE-LO",
+      "song": "I Wish",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "EARLY WOMAN",
+      "song": "I'm A Peach",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SUNBEAM SOUND MACHINE",
+      "song": "Cosmic Love Affair",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "DRENGE",
+      "song": "Nothing",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PAPA VS PRETTY",
+      "song": "Smother",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "JAKE BUGG",
+      "song": "A Song About Love",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "808 STATE",
+      "song": "Cubik",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "TRENTEMOLLER",
+      "song": "Gravity",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "Afterlife",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "CIBO MATTO",
+      "song": "Sugar Water",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Dojo Rising",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BEACHES",
+      "song": "Send Them Away",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JIMMY TAIT",
+      "song": "All My Friends",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "HIGH HIGHS",
+      "song": "Once Around The House",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PVT",
+      "song": "Nightfall",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MACHINE TRANSLATIONS",
+      "song": "Broken Arrows",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ABBE MAY",
+      "song": "T.R.O.U.B.L.E",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JEN CLOHER",
+      "song": "Hold My Hand",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JAGWAR MA",
+      "song": "The Throw",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "WORLD'S END PRESS",
+      "song": "To Send Our Love",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DIALECTRIX",
+      "song": "Black and Gold",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "HORRORSHOW",
+      "song": "Dead Star Shine",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "JIMBLAH",
+      "song": "Fireproof",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "KIRIN J CALLINAN",
+      "song": "Landslide",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BOB EVANS",
+      "song": "Don't Wanna Grow Up Anymore",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BOY and BEAR",
+      "song": "Harlequin Dream",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BIG SCARY",
+      "song": "Twin Rivers",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "Warm In Winter",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ADALITA",
+      "song": "Trust Is Rust",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "What's My Scene",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "LIMAHL",
+      "song": "Never Ending Story",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "PAT BENATAR",
+      "song": "Sex As A Weapon",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "TINA TURNER",
+      "song": "Let's Stay Together",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "TINA TURNER",
+      "song": "Break Every Rule",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "GLADYS KNIGHT",
+      "song": "Licence To Kill",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "COUNTDOWN",
+      "song": "Magazine Promo 31-10-84",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "LITTLE RIVER BAND",
+      "song": "It's A Long Way There",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "CAROLE BAYER SAGER",
+      "song": "You're Moving Out Today",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "LITTLE RIVER BAND",
+      "song": "Reminiscing",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "JONA LEWIE",
+      "song": "You'll Always Find Me In The Kitchen At Parties",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "COUNTDOWN",
+      "song": "Magazine Promo 30-5-84",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SUZI QUATRO",
+      "song": "Lipstick",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "DEEP PURPLE",
+      "song": "Black Night",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "JERMAINE JACKSON",
+      "song": "The Closest Thing To Perfect",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "One Step Ahead",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "I Got You",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "My Girl",
+      "label": null,
+      "timeslot": "11:00:00"
+    }
+  ]
+}

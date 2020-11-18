@@ -1,0 +1,693 @@
+{
+  "title": "Saturday, 29 August",
+  "special": "Suggs from Madness Guest Programs",
+  "timeslot": null,
+  "date": "2009-08-29",
+  "url": "http://www.abc.net.au/rage/archive/s2669643.htm",
+  "tracks": [
+    {
+      "artist": "SLY & ROBBIE",
+      "song": "Boops (Here To Go)",
+      "label": "Fest/Mush",
+      "timeslot": "11:46:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Buff Nuff",
+      "label": "Inertia",
+      "timeslot": "11:46:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Fight For Your Right (To Party)",
+      "label": "Sony",
+      "timeslot": "11:46:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "11:46:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Peaches",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Ace Of Spades",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Ghost Town",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BOB MARLEY & THE WAILERS",
+      "song": "One Love",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MARTHA & THE MUFFINS",
+      "song": "Echo Beach",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Close To Me",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Losing My Religion",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS featuring NINA PERSSON",
+      "song": "Your Love Alone Is Not Enough",
+      "label": "SBME",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Hey Boy, Hey Girl",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "You Really Got Me",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "Mr. Pleasant",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SMALL FACES",
+      "song": "Lazy Sunday Afternoon",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Virginia Plain",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EDITORS",
+      "song": "An End Has A Start",
+      "label": "Red Label",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IAN DURY",
+      "song": "Sex & Drugs & Rock & Roll",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Back In Black",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "School's Out",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Communication Breakdown",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "In The Neighbourhood",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Temptation",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "Big Love",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DOVES",
+      "song": "Catch The Sun",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "Dirty Old Town",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TINDERSTICKS",
+      "song": "Travelling Light",
+      "label": "Remote Control",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "When The Sun Goes Down",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE LIBERTINES",
+      "song": "Don't Look Back Into The Sun",
+      "label": "Spunk/Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Pump It Up",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ELECTRONIC",
+      "song": "Get The Message",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ZZ TOP",
+      "song": "Gimme All Your Lovin'",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "If I Ever Feel Better",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE THE",
+      "song": "The Beat(en) Generation",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Twenty Four Hour Party People",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SAINT ETIENNE",
+      "song": "Only Love Can Break Your Heart",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "House Of Fun",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "One Step Beyond",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "My Girl",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Baggy Trousers",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Embarrassment",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "The Return Of The Los Palmas 7",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Grey Day",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Shut Up",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "It Must Be Love",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Dance Craze",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Cardiac Arrest",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Driving In My Car",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Our House",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Tomorrow's Just Another Day",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Wings Of A Dove",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Yesterdays' Men",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Bed and Breakfast Man",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Sweetest Girl",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Lovestruck",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Johnny The Horse",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Dust Devil",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUGGS",
+      "song": "Camden Town",
+      "label": "Mercury",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUGGS",
+      "song": "Cecilia",
+      "label": "WEA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUGGS",
+      "song": "Blue Day",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUGGS",
+      "song": "I Am",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BEAT",
+      "song": "Mirror In The Bathroom",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BEAT",
+      "song": "I Confess",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "A Message To You Rudy",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Rat Race",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Too Much, Too Young",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IAN DURY",
+      "song": "I Wanna Be Straight",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IAN DURY",
+      "song": "Hit Me With Your Rhythm Stick",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UB40",
+      "song": "If It Happens Again",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UB40",
+      "song": "Tell Me Is It True",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UB40",
+      "song": "Come Back Darlin'",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UB40",
+      "song": "One In Ten",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UB40",
+      "song": "Red Red Wine",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "UB40 - Live in the USSR",
+      "song": "Rat In Mi Kitchen",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SLY & ROBBIE featuring SIMPLY RED",
+      "song": "Night Nurse (Wobble Mix)",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SLY & ROBBIE",
+      "song": "Superthruster",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Oliver's Army",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Radio Radio",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Accidents Will Happen",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Everyday I Write The Book",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Veronica",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "So Like Candy",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VOICE OF THE BEEHIVE",
+      "song": "Don't Call Me Baby",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VOICE OF THE BEEHIVE",
+      "song": "I Say Nothing",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VOICE OF THE BEEHIVE",
+      "song": "I Walk The Earth",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE MIGHTY MIGHTY BOSSTONES",
+      "song": "The Rascal King",
+      "label": "Mercury",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE MIGHTY MIGHTY BOSSTONES",
+      "song": "The Impression That I Get",
+      "label": "Mercury",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE MIGHTY MIGHTY BOSSTONES",
+      "song": "You Gotta Go",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "REEL BIG FISH",
+      "song": "Sell Out",
+      "label": "Universal (MCA",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SAVE FERRIS",
+      "song": "Come On Eileen",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Spiderwebs",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Just A Girl",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Don't Speak",
+      "label": "Universal (MCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Sunday Morning",
+      "label": "Universal (MCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ART vs SCIENCE",
+      "song": "Parlez Vous Francais?",
+      "label": "MGM",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLUEJUICE",
+      "song": "Broken Leg",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "URTHBOY featuring NAT DUNN",
+      "song": "Ready To Go",
+      "label": "Elefant Traks",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHALI 2NA featuring TALIB KWELI",
+      "song": "Lock S*** Down",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "D.O.A",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KID CUDI featuring KANYE WEST & COMMON",
+      "song": "Make Her Say",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SHAKIRA",
+      "song": "She Wolf",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "Strawberry Swing",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "We Won't Run",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "You Don't Scare Me",
+      "label": "Ivy League",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EULOGIES",
+      "song": "Two Can Play",
+      "label": "Albert Productions",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PASSION PIT",
+      "song": "To Kingdom Come",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GOLDEN SILVERS",
+      "song": "Arrows Of Eros",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LA ROUX",
+      "song": "Bulletproof",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LOST VALENTINOS",
+      "song": "Thief",
+      "label": "Etc Etc",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE TEMPER TRAP",
+      "song": "Fader",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Crying Lightning",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE BOXER REBELLION",
+      "song": "Evacuate",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "The Fixer",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

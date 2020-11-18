@@ -1,0 +1,669 @@
+{
+  "title": "Saturday night  Saturday, 21 July",
+  "special": "The Bamboos",
+  "timeslot": "night",
+  "date": "2012-07-21",
+  "url": "http://www.abc.net.au/rage/archive/s3550014.htm",
+  "tracks": [
+    {
+      "artist": "THE BAMBOOS",
+      "song": "On The Sly",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Back To Black",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "KITTY, DAISY and LEWIS",
+      "song": "Don't Make A Fool Out Of Me",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY - LIVE",
+      "song": "Don't Believe The Hype",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE GO! TEAM",
+      "song": "Bottle Rocket",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "FRIENDS",
+      "song": "I'm His Girl",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "Fools Gold",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "STEREOLAB",
+      "song": "Miss Modular",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "QUANTIC",
+      "song": "Not So Blue",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SPACE INVADAS",
+      "song": "Done It Again",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Q-TIP",
+      "song": "Gettin' Up",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "WASHINGTON",
+      "song": "Rich Kids",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PETER BJORN and JOHN",
+      "song": "Young Folks",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE BLACK KEYS",
+      "song": "Tighten Up",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JAMIROQUAI",
+      "song": "Space Cowboy",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Since I Left You",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE JACKSON 5 - LIVE",
+      "song": "The Love You Save",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Tears Dry On Their Own",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JANELLE MONAE featuring BIG BOI",
+      "song": "Tightrope",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JAZZANOVA",
+      "song": "I Can See",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Close To You",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Golden Years",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Rapture",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HALL and OATES",
+      "song": "I Can't Go For That (No Can Do)",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE B-52S",
+      "song": "Rock Lobster",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Gamma Ray",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Low",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Been Caught Stealing",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TRICKY",
+      "song": "Black Steel",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Electric Relaxation",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LL COOL J",
+      "song": "Going Back To Cali",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ERIC B and RAKIM",
+      "song": "Follow The Leader",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Unfinished Sympathy",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JEFF BUCKLEY",
+      "song": "Everybody Here Wants You",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JAMES BLAKE",
+      "song": "The Wilhelm Scream",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METRONOMY",
+      "song": "The Look",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SLEIGH BELLS",
+      "song": "Rill Rill",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JAMES BROWN",
+      "song": "Papa's Got A Brand New Bag",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Emotional Rescue",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Solitude Is Bliss",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Lotus Flower",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE STEPKIDS",
+      "song": "Wonderfox",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GOLD PANDA",
+      "song": "Marriage",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AXOLOTL",
+      "song": "Garden Lane",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BIRD AND THE BEE",
+      "song": "Again and Again",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "More Than This",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JESS HARLEN",
+      "song": "I Go",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WAX STAG",
+      "song": "And How",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Sign O' The Times",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BAMBOOS feat DANIEL MERRIWEATHER",
+      "song": "I Never",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BAMBOOS featuring MEGAN WASHINGTON",
+      "song": "King Of The Rodeo",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BAMBOOS FEATURING TIM ROGERS",
+      "song": "I Got Burned",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BAMBOOS",
+      "song": "You Ain't No Good",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SAM and DAVE",
+      "song": "Hold On, I'm Comin'",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SUPREMES",
+      "song": "Baby Love",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NINA SIMONE",
+      "song": "My Baby Just Cares For Me",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GRAYSON HUGH",
+      "song": "Talk It Over",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BEN E. KING",
+      "song": "Stand By Me",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ANITA BAKER",
+      "song": "Sweet Love",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE TEMPTATIONS",
+      "song": "All I Want From You",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "EARTH, WIND AND FIRE",
+      "song": "Boogie Wonderland",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "EARTH, WIND AND FIRE",
+      "song": "September",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RAY CHARLES AND THE BLUES BROTHERS",
+      "song": "Shake Your Tailfeather",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JAMES BROWN",
+      "song": "Out Of Sight",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ARETHA FRANKLIN with JAMES BROWN",
+      "song": "Gimme Your Love",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WILSON PICKETT",
+      "song": "In The Midnight Hour",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "Heard It Through The Grapevine",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PERCY SLEDGE",
+      "song": "When A Man Loves A Woman",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BREAKESTRA",
+      "song": "Getcho Soul Togetha",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PLANTLIFE",
+      "song": "Luv Me (Til It Hurts)",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RAE and CHRISTIAN featuring DINAH WASHINGTON",
+      "song": "Is You Is Or Is You Ain't My Baby",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BARRY WHITE",
+      "song": "Let The Music Play (Funkstar remix)",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BARRY WHITE",
+      "song": "Come On",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CURTIS MAYFIELD and THE REPERCUSSIONS",
+      "song": "Let's Do It Again",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ETTA JAMES",
+      "song": "Baby, What You Want Me To Do",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CODY CHESTNUT",
+      "song": "Look Good In Leather",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BB KING and TRACY CHAPMAN",
+      "song": "The Thrill Is Gone",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "D'ANGELO",
+      "song": "Brown Sugar",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "D'ANGELO",
+      "song": "Lady",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DIANA ROSS",
+      "song": "Muscles",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DIANA ROSS",
+      "song": "Eaten Alive",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHAKA KHAN and RUFUS",
+      "song": "Ain't Nobody",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHAKA KHAN",
+      "song": "I'm Every Woman",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AL GREEN",
+      "song": "Everything's Gonna Be Alright",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AL GREEN",
+      "song": "Love Is A Beautiful Thing",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ARETHA FRANKLIN",
+      "song": "Freeway Of Love",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ARETHA FRANKLIN",
+      "song": "Shoop Shoop Song",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Kiss Me Baby",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Superstition",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MAXWELL",
+      "song": "Ascension",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MARVIN GAYE",
+      "song": "Sexual Healing",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MARVIN GAYE",
+      "song": "Lucky, Lucky Me",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SHARON JONES and THE DAP-KINGS",
+      "song": "100 Days, 100 Nights",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SHARON JONES and THE DAP-KINGS",
+      "song": "I Learned The Hard Way",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "IKE and TINA TURNER",
+      "song": "River Deep Mountain High",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LANIE LANE",
+      "song": "Ain't Hungry",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RAPHAEL SAADIQ",
+      "song": "Stone Rollin'",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SUNSHINE ANDERSON",
+      "song": "Heard It All Before",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE RAAH PROJECT",
+      "song": "Will You Be There",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAYER HAWTHORNE",
+      "song": "Just Ain't Gonna Work Out",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "INDIA.ARIE",
+      "song": "Brown Skin",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JILL SCOTT",
+      "song": "Golden",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MACY GRAY",
+      "song": "Sweet Baby",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Gotcha",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CLAIRY BROWNE AND THE BANGIN RACKETTES",
+      "song": "Love Letter",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ASA",
+      "song": "Be My Man",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

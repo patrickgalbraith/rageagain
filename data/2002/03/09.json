@@ -1,0 +1,807 @@
+{
+  "title": "Saturday 9th March",
+  "special": "System Of A Down guest program",
+  "timeslot": null,
+  "date": "2002-03-09",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020309.htm",
+  "tracks": [
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Jesus Christ Pose",
+      "label": "Polydor",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Sleep Now In The Fire",
+      "label": "Sony",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Corruption",
+      "label": "Virgin",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "C'mon & Love Me",
+      "label": "Universal",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "The BLACK CROWES",
+      "song": "Lickin'",
+      "label": "V2",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "BUCKCHERRY",
+      "song": "Check Your Head",
+      "label": "Universal (MCA)",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Street Spirit",
+      "label": "EMI",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Evidence",
+      "label": "Mushroom",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Weapon Of Choice",
+      "label": "Sony",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "The 2 LIVE CREW",
+      "song": "Pop That Coochie",
+      "label": "Mushroom",
+      "timeslot": "11:21:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Hey Ladies",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FALCO",
+      "song": "Rock Me Amadeus",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BOW WOW WOW",
+      "song": "I Want Candy",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ALPHAVILLE",
+      "song": "Big In Japan",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BERLIN",
+      "song": "Sex (I'm A Man)",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Heart Of Glass",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "5 Foot 1",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "The WHO",
+      "song": "Won't Get Fooled Again",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Dirty Deeds Done Dirt Cheap",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Killing Floor",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Real Wild Child",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Demon Cleaner",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BRUJERIA",
+      "song": "La Migra",
+      "label": "Roadrunner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAMAGED",
+      "song": "Nails",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "The WU-TANG CLAN",
+      "song": "Da Mystery Of Cheesboxin'",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DJ MUGGS featuring GZA",
+      "song": "When The Fat Lady Sings",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BUENA VISTA SOCIAL CLUB",
+      "song": "Chan Chan",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "China Girl",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "The BEATLES",
+      "song": "Eleanor Rigby",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Revolution 909",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Da Funk",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GRAVEDIGGAZ",
+      "song": "Nowhere To Run, Nowhere To Hide",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FRANKIE GOES TO HOLLYWOOD",
+      "song": "Welcome To The Pleasuredome",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Dancing Queen",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BONEY M",
+      "song": "Rasputin",
+      "label": "Universal (MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "The BEE GEES",
+      "song": "Stayin' Alive",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GEORGE MICHAEL",
+      "song": "Careless Whisper",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "I'm A Slave 4 U",
+      "label": "Jive/Zomba",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Seasons In The Abyss",
+      "label": "Universal (MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Trashed",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Bringing On The Heartbreak",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Home Sweet Home",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Me And My Wine",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Number Of The Beast",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "One",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Sugar",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "War",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Chop Suey",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Toxicity",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Green Machine",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "One Inch Man",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Thong Song",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "The Lost Art Of Keeping A Secret",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Feel Good Hit Of The Summer",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Monsters In The Parasol",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Liar",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PURETONE",
+      "song": "Addicted To Bass (Apollo 440 remix)",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "A",
+      "song": "Nothing",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOOBASTANK",
+      "song": "Crawling In The Dark",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "Nice To Know You",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PUDDLE OF MUDD",
+      "song": "Blurry",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "Sorrow",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROCKET SCIENCE",
+      "song": "Being Followed",
+      "label": "Modular",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "Stay Together For The Kids",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RHUBARB",
+      "song": "Slow Motion",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "WAIKIKI",
+      "song": "New Technology",
+      "label": "Lib/Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLOAN",
+      "song": "If It Feels Good Do It",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MILLENCOLIN",
+      "song": "Kemp",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "Nothing Lasts Forever",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANOTHER RACE",
+      "song": "Jumpin'",
+      "label": "Lib/Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JAMIROQUAI",
+      "song": "Love Foolosophy",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FAITHLESS",
+      "song": "One Step Too Far",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GEORGE MICHAEL",
+      "song": "Freeek!",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "Tainted Love",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANDREW W.K.",
+      "song": "Party Hard",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RIVA featuring DANNII MINOGUE",
+      "song": "Who Do You Love Now?",
+      "label": "Warner",
+      "timeslot": "04:00:00",
+      "countdown": 50
+    },
+    {
+      "artist": "SUM41",
+      "song": "In Too Deep",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 48
+    },
+    {
+      "artist": "JENNIFER LOPEZ featuring JA RULE",
+      "song": "I'm Real (Murder remix)",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 47
+    },
+    {
+      "artist": "MIS-TEEQ",
+      "song": "One Night Stand",
+      "label": "Shock",
+      "timeslot": "04:30:00",
+      "countdown": 46
+    },
+    {
+      "artist": "ALEX LLOYD",
+      "song": "Green",
+      "label": "EMI",
+      "timeslot": "04:30:00",
+      "countdown": 45
+    },
+    {
+      "artist": "NELLY",
+      "song": "#1",
+      "label": "Virgin",
+      "timeslot": "04:30:00",
+      "countdown": 44
+    },
+    {
+      "artist": "CHRISTINA MILIAN",
+      "song": "AM To PM",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 43
+    },
+    {
+      "artist": "KID ROCK",
+      "song": "Forever",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 42
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Where's Your Head At?",
+      "label": "Shock",
+      "timeslot": "04:30:00",
+      "countdown": 41
+    },
+    {
+      "artist": "MARY J. BLIGE",
+      "song": "Family Affair",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 40
+    },
+    {
+      "artist": "GRINSPOON",
+      "song": "Chemical Heart",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 38
+    },
+    {
+      "artist": "AALIYAH",
+      "song": "More Than A Woman",
+      "label": "Virgin",
+      "timeslot": "05:00:00",
+      "countdown": 37
+    },
+    {
+      "artist": "PPK",
+      "song": "ResuRection",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00",
+      "countdown": 36
+    },
+    {
+      "artist": "GRAND POPO FOOTBALL CLUB",
+      "song": "Men Are Not Nice Guys",
+      "label": "Shock",
+      "timeslot": "05:00:00",
+      "countdown": 35
+    },
+    {
+      "artist": "NATALIE IMBRUGLIA",
+      "song": "Wrong Impression",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 34
+    },
+    {
+      "artist": "IIO",
+      "song": "Rapture",
+      "label": "EMI",
+      "timeslot": "05:00:00",
+      "countdown": 33
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "In The End",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 32
+    },
+    {
+      "artist": "BARDOT",
+      "song": "Love Will Find A Way",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 31
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "In Your Eyes",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00",
+      "countdown": 30
+    },
+    {
+      "artist": "NELLY featuring ST. LUNATICS",
+      "song": "Batter Up",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 29
+    },
+    {
+      "artist": "PINK",
+      "song": "Get The Party Started",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 28
+    },
+    {
+      "artist": "KOSHEEN",
+      "song": "Catch",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 27
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "The Greatest View",
+      "label": "Virgin",
+      "timeslot": "05:30:00",
+      "countdown": 26
+    },
+    {
+      "artist": "TOYA",
+      "song": "I Do",
+      "label": "BMG",
+      "timeslot": "05:30:00",
+      "countdown": 25
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Chop Suey",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 24
+    },
+    {
+      "artist": "P.O.D.",
+      "song": "Alive",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 23
+    },
+    {
+      "artist": "CREED",
+      "song": "My Sacrifice",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 22
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Break Ya Neck",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 21
+    },
+    {
+      "artist": "MICHELE BRANCH",
+      "song": "Everywhere",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 20
+    },
+    {
+      "artist": "NO DOUBT featuring BOUNTY KILLER",
+      "song": "Hey Baby",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 19
+    },
+    {
+      "artist": "DJ OTZI",
+      "song": "Hey Baby (Uhh, Ahh)",
+      "label": "Shock",
+      "timeslot": "06:00:00",
+      "countdown": 18
+    },
+    {
+      "artist": "SHAKAYA",
+      "song": "Stop Calling Me",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 17
+    },
+    {
+      "artist": "ALCAZAR",
+      "song": "Crying At The Discotheque",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 16
+    },
+    {
+      "artist": "DANIEL BEDINGFIELD",
+      "song": "Gotta Get Thru This",
+      "label": "EMI",
+      "timeslot": "06:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Cherry Lips",
+      "label": "Fest/Mush",
+      "timeslot": "06:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "BRANDY",
+      "song": "What About Us?",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "ENRIQUE IGLESIAS",
+      "song": "Hero",
+      "label": "Universal",
+      "timeslot": "06:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "ALANIS MORISSETTE",
+      "song": "Hands Clean",
+      "label": "Warner",
+      "timeslot": "06:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "ROBBIE WILLIAMS & NICOLE KIDMAN",
+      "song": "Somethin' Stupid",
+      "label": "EMI",
+      "timeslot": "06:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "ROBBIE WILLIAMS",
+      "song": "Better Man",
+      "label": "EMI",
+      "timeslot": "06:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "DARREN HAYES",
+      "song": "Insatiable",
+      "label": "Roadshow",
+      "timeslot": "06:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "USHER",
+      "song": "U Got It Bad (Soulpower remix)",
+      "label": "BMG",
+      "timeslot": "07:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "JA RULE & CASE",
+      "song": "Livin' It Up",
+      "label": "Universal",
+      "timeslot": "07:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "FIVE FOR FIGHTING",
+      "song": "Superman (It's Not Easy)",
+      "label": "Sony",
+      "timeslot": "07:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "112",
+      "song": "Dance With Me",
+      "label": "BMG",
+      "timeslot": "07:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "SOPHIE ELLIS BEXTOR",
+      "song": "Murder On The Dancefloor",
+      "label": "Universal",
+      "timeslot": "07:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "KASEY CHAMBERS",
+      "song": "Not Pretty Enough",
+      "label": "EMI",
+      "timeslot": "07:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "SHAKIRA",
+      "song": "Whenever, Wherever",
+      "label": "Sony",
+      "timeslot": "07:00:00",
+      "countdown": 1
+    }
+  ]
+}

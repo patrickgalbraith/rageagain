@@ -1,0 +1,665 @@
+{
+  "title": "Saturday 3rd July",
+  "special": "Kim & Thurston from Sonic Youth guest program",
+  "timeslot": null,
+  "date": "2004-07-03",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2004/20040703.htm",
+  "tracks": [
+    {
+      "artist": "BLONDIE",
+      "song": "Rapture",
+      "label": "EMI",
+      "timeslot": "11:29:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "I'm Bored",
+      "label": "Virgin",
+      "timeslot": "11:29:00"
+    },
+    {
+      "artist": "PEACHES & IGGY POP",
+      "song": "Kick It",
+      "label": "Remote Control",
+      "timeslot": "11:29:00"
+    },
+    {
+      "artist": "THE BREEDERS",
+      "song": "Cannonball",
+      "label": "Shock",
+      "timeslot": "11:29:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "50 Foot Queenie",
+      "label": "Mercury",
+      "timeslot": "11:29:00"
+    },
+    {
+      "artist": "THE RUNAWAYS",
+      "song": "Cherry Bomb",
+      "label": "Independent",
+      "timeslot": "11:29:00"
+    },
+    {
+      "artist": "JOAN JETT & THE BLACKHEARTS",
+      "song": "Bad Reputation",
+      "label": "EMI",
+      "timeslot": "11:29:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Bikini Girls With Machine Guns",
+      "label": "EMI",
+      "timeslot": "11:29:00"
+    },
+    {
+      "artist": "THE FALL",
+      "song": "Victoria",
+      "label": "Festival",
+      "timeslot": "11:29:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "In The City",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE DICKIES",
+      "song": "Banana Splits",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "(I Can't Get No) Satisfaction",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "Pocket Calculator",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LL COOL J",
+      "song": "Around The Way Girl",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GETO BOYS",
+      "song": "Geto Fantasy",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ICE CUBE",
+      "song": "It Was A Good Day",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BUTTHOLE SURFERS",
+      "song": "Hurdy Gurdy Man",
+      "label": "Fest/Mush",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Wagon",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "J MASCIS & THE FOG",
+      "song": "Everybody Lets Me Down",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PAVEMENT",
+      "song": "Cut Your Hair",
+      "label": "Fellaheen",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GUMBALL",
+      "song": "Revolution On The Rocks",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MUDHONEY",
+      "song": "Into The Drink",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE JESUS LIZARD",
+      "song": "Puss",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE MELVINS",
+      "song": "Honeybucket",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BUILT TO SPILL",
+      "song": "You Were Right",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE REPLACEMENTS",
+      "song": "Bastards Of Young",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FOLK IMPLOSION",
+      "song": "Natural One",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "This Note's For You",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CRIME & THE CITY SOLUTION",
+      "song": "I Have The Gun",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GLEN CAMPBELL",
+      "song": "Rhinestone Cowboy",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Superstar",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JEFFERSON AIRPLANE",
+      "song": "White Rabbit",
+      "label": "Universal (MCA)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Kashmir",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Star Spangled Banner",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Rock 'N' Roll All Nite",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRYAN FERRY",
+      "song": "Let's Stick Together",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Virginia Plain",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "Friday On My Mind",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HERMAN'S HERMITS",
+      "song": "I'm Into Something Good",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE HOLLIES",
+      "song": "Long, Cool Woman In A Black Dress",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CRAZY WORLD OF ARTHUR BROWN",
+      "song": "Fire",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FREE",
+      "song": "All Right Now",
+      "label": "Universal (MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MUNGO JERRY",
+      "song": "In The Summertime",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BONZO DOG BAND",
+      "song": "Urban Spaceman",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "China Girl",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Cross Bones Style",
+      "label": "MDS",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Deanna",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE JESUS & MARY CHAIN",
+      "song": "Never Understanding",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "Swallow",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PLASTIC ONO BAND",
+      "song": "Why",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CICCONE YOUTH",
+      "song": "Addicted To Love",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sister",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Teenage Riot",
+      "label": "Universal (MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Silver Rocket",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Kool Thing",
+      "label": "Universal (MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Disappearer",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Dirty Boots",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "My Friend Goo",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Tunic (Song For Karen)",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Christ - SONIC YOUTH",
+      "song": "Mary",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Mildred Pierce",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Cinderella's Big Score",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Titanium Expose",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "100%",
+      "label": "Universal (MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Youth Against Fascism",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sugar Kane",
+      "label": "Universal (MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Bull In The Heather",
+      "label": "Universal (MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Superstar",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "The Diamond Sea",
+      "label": "Universal (MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Little Trouble Girl",
+      "label": "Universal (MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sunday",
+      "label": "Universal (MCA)",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Hoarfrost",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Nevermind (What Was It Anyway)",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "The Empty Page",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Disconnection Notice",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THURSTON MOORE",
+      "song": "Ono Soul",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Venus In Furs",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "Obstacle 1",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Pin",
+      "label": "Modular",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LIARS",
+      "song": "There's Always Room On The Broom",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE RAPTURE",
+      "song": "House Of The Jealous Lovers",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LE TIGRE",
+      "song": "Well, Well, Well",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Atomic",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Wild Wild Life",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "I Wanna Be Sedated",
+      "label": "Festival",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Lust For Life",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "12:51",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Date With The Night",
+      "label": "Modular",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE WALKMEN",
+      "song": "The Rat",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Reptilia",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SECRET MACHINES",
+      "song": "Nowhere Again",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LONGWAVE",
+      "song": "Wake Me Up When It's Over",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": "Modular",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHINGY",
+      "song": "One Call Away",
+      "label": "EMI",
+      "timeslot": "05:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "STARSAILOR",
+      "song": "Four To The Floor",
+      "label": "EMI",
+      "timeslot": "05:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "ANASTACIA",
+      "song": "Left Outside Alone",
+      "label": "Sony",
+      "timeslot": "05:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Black Betty",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "Perfect",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Let's Get It Started",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "HOOBASTANK",
+      "song": "The Reason",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "KAYNE TAYLOR",
+      "song": "Heartbreaker",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Roses",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "KELIS",
+      "song": "Trick Me",
+      "label": "Virgin",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "MARIO WINANS featuring P. DIDDY",
+      "song": "I Don't Wanna Know",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "USHER",
+      "song": "Burn",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "FRANKEE",
+      "song": "F.U.R.B.",
+      "label": "Sony",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Everytime",
+      "label": "BMG",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

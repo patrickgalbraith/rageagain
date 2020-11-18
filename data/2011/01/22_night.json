@@ -1,0 +1,75 @@
+{
+  "title": "Saturday night  Saturday, 22 January",
+  "special": "rage goes RETRO",
+  "timeslot": "night",
+  "date": "2011-01-22",
+  "url": "http://www.abc.net.au/rage/archive/s3118267.htm",
+  "tracks": [
+    {
+      "artist": "OBIT",
+      "song": "Steve Prestwich",
+      "label": "Rage",
+      "timeslot": "23:57:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Live at Manly Vale Hotel, 1980",
+      "label": "ABC",
+      "timeslot": "23:57:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Forever Now",
+      "label": "WEA",
+      "timeslot": "23:57:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Flame Trees",
+      "label": "Warner",
+      "timeslot": "23:57:00"
+    },
+    {
+      "artist": "LRB",
+      "song": "Playing To Win",
+      "label": "Capitol",
+      "timeslot": "23:57:00"
+    },
+    {
+      "artist": "SIX O'CLOCK ROCK",
+      "song": "December 10th, 1960",
+      "label": "ABC",
+      "timeslot": "23:57:00"
+    },
+    {
+      "artist": "COUNTDOWN",
+      "song": "December 20th 1981",
+      "label": "Rage",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "COUNTDOWN",
+      "song": "September 1st, 1985",
+      "label": "ABC",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "COUNTDOWN",
+      "song": "December 12th, 1985",
+      "label": "ABC",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "COUNTDOWN",
+      "song": "July 7th, 1981",
+      "label": "ABC",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BIG ROCK CONCERT - ROCK ARENA",
+      "song": "Concert For Bangladesh, April 20th, 1975",
+      "label": "ABC",
+      "timeslot": "04:30:00"
+    }
+  ]
+}

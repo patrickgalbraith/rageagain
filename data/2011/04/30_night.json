@@ -1,0 +1,645 @@
+{
+  "title": "Saturday night  Saturday, 30 April",
+  "special": "rage Unleashed",
+  "timeslot": "night",
+  "date": "2011-04-30",
+  "url": "http://www.abc.net.au/rage/archive/s3203946.htm",
+  "tracks": [
+    {
+      "artist": "MOUSEY featuring MC KC-B",
+      "song": "Mouse In Da House",
+      "label": "ABC X promos",
+      "timeslot": "23:40:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Smack My Bitch Up",
+      "label": "Sony",
+      "timeslot": "23:40:00"
+    },
+    {
+      "artist": "SQUAREPUSHER",
+      "song": "Come On My Selector",
+      "label": "MDS",
+      "timeslot": "23:40:00"
+    },
+    {
+      "artist": "DA SLAMMIN' PHROGZ",
+      "song": "Something About The Music",
+      "label": "Warner",
+      "timeslot": "23:40:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Where's Your Head At?",
+      "label": "Shock",
+      "timeslot": "23:40:00"
+    },
+    {
+      "artist": "THE DANDY WARHOLS",
+      "song": "Smoke It",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "Talk Shows On Mute",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Ms Jackson",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "VITALIC",
+      "song": "Poney Part 1",
+      "label": "Creative Vibes",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Closer",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KOSHEEN",
+      "song": "Hungry",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "What's A Girl To Do",
+      "label": "Spunk",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HAR MAR SUPERSTAR",
+      "song": "DUI",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Da Funk",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Express Yourself",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MELODIE MC",
+      "song": "Dum Da Dum",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HAPPYLAND",
+      "song": "Don't You Know Who I Am?",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE DONNAS",
+      "song": "Fall Behind Me",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Salmon Dance",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "The Test",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Right Here, Right Now",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ANNIE LENNOX",
+      "song": "Whiter Shade Of Pale",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Beautiful",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PAULA ABDUL",
+      "song": "Opposites Attract",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "The Joker",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOSIE & THE PUSSYCATS",
+      "song": "Three Small Words",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Island In The Sun (Spike Jonze version)",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SHAKIRA",
+      "song": "Whenever, Wherever",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Breathless",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Shock The Monkey",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "No One Knows",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MODEST MOUSE",
+      "song": "King Rat",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "There There",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TISM",
+      "song": "Everyone Else Has Had More Sex Than Me",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROGER GLOVER & RONNIE JAMES DIO",
+      "song": "Love Is All (Butterfly Ball)",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SCHNAPPI",
+      "song": "Das Kleine Krokodil",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "When Doves Cry",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "And So Is Love",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GRANT LEE BUFFALO",
+      "song": "Mockingbirds",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CIBO MATTO",
+      "song": "Know Your Chicken",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CRAZY TOWN",
+      "song": "Butterfly",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BARENAKED LADIES",
+      "song": "It's All Been Done",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Patience",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TUMBLEWEED",
+      "song": "Silver Lizard",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Skin Deep",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TORI AMOS",
+      "song": "Professional Widow (Remix)",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TRICKY",
+      "song": "Black Steel",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WILEY",
+      "song": "Wearing My Rolex",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Bull In The Heather",
+      "label": "Universal (MCA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WARREN ZEVON",
+      "song": "Werewolves Of London",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE FAUVES",
+      "song": "Dogs Are The Best People",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TOM JONES",
+      "song": "If I Only Knew",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "My Girl",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Word Up",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JACKNIFE LEE",
+      "song": "Cookies",
+      "label": "MDS",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOOK N SLING & KID KENOBI",
+      "song": "The Bump",
+      "label": "MOS/EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Behind The Sun",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LEONA NAESS",
+      "song": "Charm Attack",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MERCURY REV",
+      "song": "In A Funny Way",
+      "label": "V2",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MATTERHORNPROJEKT",
+      "song": "Moo",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ADRIAN MUNSEY",
+      "song": "The Lost Sheep",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JANE SIBERY",
+      "song": "Everything Reminds Me Of My Dog",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ST THOMAS",
+      "song": "Long Long Time",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BAHA MEN",
+      "song": "Who Let The Dogs Out (Barking Mad mix)",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ELECTRIC SIX",
+      "song": "Radio Ga Ga",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PAINTERS & DOCKERS",
+      "song": "Nude School",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Animal",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Grind",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BLOODHOUND GANG",
+      "song": "The Bad Touch",
+      "label": "Universal (MCA",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "APOLLO 440",
+      "song": "Stop The Rock",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Epic",
+      "label": "Festival",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MUDHONEY",
+      "song": "Generation Spokesmodel",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "60 MPH",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "Black Bugs",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Batdance",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SNOOP DOGGY DOGG",
+      "song": "What's My Name?",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ROGUE TRADERS vs INXS",
+      "song": "One Of My Kind",
+      "label": "Fest/Mush",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Breathe",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JOSH PYKE",
+      "song": "Memories & Dust",
+      "label": "Ivy League",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BADLY DRAWN BOY",
+      "song": "Something To Talk About",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DNA featuring SUZANNE VEGA",
+      "song": "Tom's Diner",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LEMON JELLY",
+      "song": "Nice Weather For Ducks",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RILO KILEY",
+      "song": "Portions For Foxes",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE GRATES",
+      "song": "Message",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DJ FORMAT",
+      "song": "We Know Something You Don't Know",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BOB MARLEY",
+      "song": "Iron Lion Zion",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DARIO G",
+      "song": "Sunchyme",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TALK TALK",
+      "song": "It's My Life",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DADDY COOL",
+      "song": "Eagle Rock",
+      "label": "Festival",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VERUCA SALT",
+      "song": "Seether",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Like A Virgin",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHANTOOZIES",
+      "song": "Witch Queen",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AQUA",
+      "song": "Dr Jones",
+      "label": "Universal (MCA",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE B-52S",
+      "song": "Rock Lobster",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Army Of Me",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LASGO",
+      "song": "All Night Long",
+      "label": "Central Station",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALCAZAR",
+      "song": "Crying At The Discotheque",
+      "label": "BMG",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO & THE IMPOSTERS",
+      "song": "Monkey To Man",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FALL OUT BOY",
+      "song": "Thnks Fr Th Mmrrs",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JEBEDIAH",
+      "song": "First Time",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "The Lovecats",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JANET JACKSON",
+      "song": "Black Cat",
+      "label": "Polydor",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HAMPTON THE HAMSTER",
+      "song": "The Hampsterdance Song",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KIM WILDE",
+      "song": "Cambodia",
+      "label": "Festival",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GRANDADDY",
+      "song": "Nature Anthem",
+      "label": "Stomp",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Hounds Of Love",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

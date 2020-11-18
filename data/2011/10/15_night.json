@@ -1,0 +1,525 @@
+{
+  "title": "Saturday night  Saturday, 15 October",
+  "special": "Example",
+  "timeslot": "night",
+  "date": "2011-10-15",
+  "url": "http://www.abc.net.au/rage/archive/s3339863.htm",
+  "tracks": [
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": "EMI",
+      "timeslot": "12:22:00"
+    },
+    {
+      "artist": "RUN DMC vs JASON NEVINS",
+      "song": "It's Like That",
+      "label": "MDS",
+      "timeslot": "12:22:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Can I Kick It?",
+      "label": "BMG",
+      "timeslot": "12:22:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Weapon Of Choice",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JUSTICE",
+      "song": "D.A.N.C.E.",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Around The World",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Breathe",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Black Hole Sun",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "7 Nation Army",
+      "label": "Remote Control",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LENNY KRAVITZ",
+      "song": "Are You Gonna Go My Way?",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NAUGHTY BY NATURE",
+      "song": "O.P.P.",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLACKSTREET feat DR DRE & QUEEN PEN",
+      "song": "No Diggity",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LL COOL J",
+      "song": "Mama Said Knock You Out",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROBBIE WILLIAMS",
+      "song": "Rock DJ",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LADY GAGA featuring BEYONCE",
+      "song": "Telephone",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Smack My Bitch Up",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FAITHLESS",
+      "song": "Insomnia",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NERO",
+      "song": "Promises",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Praise You",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIRTY SOUTH featuring RUDY",
+      "song": "Phazing",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "I Miss You",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "When The Sun Goes Down",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Bittersweet Symphony",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UNKLE",
+      "song": "Rabbit In Your Headlights",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EURYTHMICS",
+      "song": "Sweet Dreams",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Smooth Criminal",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Stan",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ICE CUBE",
+      "song": "It Was A Good Day",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "50 CENT featuring NATE DOGG",
+      "song": "21 Questions",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Parklife",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Californication",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Enter Sandman",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Heart-Shaped Box",
+      "label": "Universal (MCA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Epic",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "99 Problems",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Woo-Hah!! (Got You All In Check)",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Ms Jackson",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "I Want To Break Free",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Thriller",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ERIC PRYDZ",
+      "song": "Call On Me",
+      "label": "MOS/EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BENNY BENASSI",
+      "song": "Satisfaction",
+      "label": "MOS/EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Oh My Gosh",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "One",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "The Scientist",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Fake Plastic Trees",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Coffee & TV",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ARMAND VAN HELDEN",
+      "song": "My My My",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LIFELIKE & KRIS MENACE",
+      "song": "Discopolis",
+      "label": "Stomp",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EXAMPLE",
+      "song": "Changed The Way You Kiss Me",
+      "label": "MOS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EXAMPLE",
+      "song": "Watch The Sun Come Up",
+      "label": "MOS",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EXAMPLE",
+      "song": "Kickstarts",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EXAMPLE",
+      "song": "Won't Go Quietly",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EXAMPLE",
+      "song": "Stay Awake",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EXAMPLE",
+      "song": "Kickstarts (Bar9 Remix)",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WRETCH 32 feat EXAMPLE",
+      "song": "Unorthodox",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DON DIABLO & EXAMPLE",
+      "song": "Hooligans Never Surrender",
+      "label": "Bandroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WRETCH 32",
+      "song": "Traktor",
+      "label": "MOS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DON DIABLO featuring DRAGONETTE",
+      "song": "Animale",
+      "label": "MOS",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NERO",
+      "song": "Guilt",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATY B",
+      "song": "Broken Record",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATY B",
+      "song": "Katy On A Mission",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATY B featuring MS DYNAMITE",
+      "song": "Lights On",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHROMEO",
+      "song": "Don't Turn The Lights On",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHROMEO feat ELLY JACKSON & LA ROUX",
+      "song": "Hot Mess",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PROFESSOR GREEN",
+      "song": "Monster",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PROFESSOR GREEN featuring ED DREWETT",
+      "song": "I Need You Tonight",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PROFESSOR GREEN featuring LILY ALLEN",
+      "song": "Just Be Good To Green",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TINIE TEMPAH",
+      "song": "Pass Out",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TINIE TEMPAH feat KELLY ROWLAND",
+      "song": "Invincible",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TINIE TEMPAH featuring ERIC TURNER",
+      "song": "Written In The Stars",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TINCHY STRYDER",
+      "song": "Number 1",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TINCHY STRYDER featuring AMELLE",
+      "song": "Never Leave You",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SWEDISH HOUSE MAFIA featuring PHARRELL",
+      "song": "One (Your Name)",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SWEDISH HOUSE MAFIA",
+      "song": "Save The World",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DUCK SAUCE",
+      "song": "Barbra Streisand",
+      "label": "MOS",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUCK SAUCE",
+      "song": "Anyway",
+      "label": "Etc Etc",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIMIAN MOBILE DISCO",
+      "song": "I Believe",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIMIAN MOBILE DISCO featuring CHRIS KEATING",
+      "song": "Audacity Of Huge",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "Flashback",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "You Used To Hold Me",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "Ready For The Weekend",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CALVIN HARRIS",
+      "song": "Acceptable In The 80's",
+      "label": "SBME",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

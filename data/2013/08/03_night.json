@@ -1,0 +1,633 @@
+{
+  "title": "Saturday night  Saturday, 3 August",
+  "special": "Manic Street Preachers",
+  "timeslot": "night",
+  "date": "2013-08-03",
+  "url": "http://www.abc.net.au/rage/archive/s3817039.htm",
+  "tracks": [
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "So Why So Sad (Avalanches remix)",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BADFINGER",
+      "song": "Come and Get It",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Only Women Bleed",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Venus In Furs",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE CARDIGANS",
+      "song": "For What It's Worth",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "A CAMP",
+      "song": "I Can Buy You",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Maps",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "NEW YOUNG PONY CLUB",
+      "song": "Ice Cream",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DEERHUNTER",
+      "song": "Helicopter",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "This Orient",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "My Delirium",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DEXY'S MIDNIGHT RUNNERS",
+      "song": "Jackie Wilson Said (I'm In Heaven When You Smile)",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ELECTRIC LIGHT ORCHESTRA",
+      "song": "Don't Bring Me Down",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE THE",
+      "song": "The Beat(en) Generation",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Suspicious Minds",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ALLEN GINSBERG",
+      "song": "Ballad Of The Skeletons",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BILLY BRAGG",
+      "song": "Greetings To The New Brunette",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE GO-BETWEENS",
+      "song": "Spring Rain",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ELLIOTT SMITH",
+      "song": "Miss Misery",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "I Want You Back",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE WATERBOYS",
+      "song": "A Girl Called Johnny",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Malibu",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Start Choppin'",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Sugar Kane",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Them Bones",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Rear View Mirror",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Midlife Crisis",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LLOYD COLE and THE COMMOTIONS",
+      "song": "Perfect Skin",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "Dirty Old Town",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AZTEC CAMERA",
+      "song": "Oblivious",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Burn Hollywood Burn",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GRANDMASTER FLASH",
+      "song": "White Lines",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EURYTHMICS",
+      "song": "Here Comes The Rain Again",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "Jubliee Street",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY",
+      "song": "Nick The Stripper",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EINSTURZENDE NEUBAUTEN",
+      "song": "The Garden",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HUSKER DU",
+      "song": "Don't Want To Know If You Are Lonely",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RICHARD HAWLEY",
+      "song": "Tonight The Streets Are Ours",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MORRISSEY",
+      "song": "Suedehead",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRIGHT EYES",
+      "song": "Four Winds",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Video Games",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SIMPLE MINDS",
+      "song": "Sweat In Bullet",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ECHO and THE BUNNYMEN",
+      "song": "Bring On The Dancing Horses",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Supernatural Superserious",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THERAPY?",
+      "song": "Screamager",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TEENAGE FANCLUB",
+      "song": "Star Sign",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Superstition",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIANA ROSS",
+      "song": "Upside Down",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "IAN BROWN",
+      "song": "My Star",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Lazyitis",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "The FALL",
+      "song": "Victoria",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AGE OF CHANCE",
+      "song": "Kiss",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "808 STATE featuring JAMES DEAN BRADFIELD",
+      "song": "Lopez",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FUCK BUTTONS",
+      "song": "Olympians",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GARY MOORE",
+      "song": "Empty Rooms",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Union City Blue",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MERCURY REV",
+      "song": "Goddess On A Hiway",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Sweet Emotion",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "You Shook Me All Night Long",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TWISTED SISTER",
+      "song": "We're Not Gonna Take It",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Du Hast",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "The Winner Takes It All",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Wild Is The Wind",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ashes To Ashes",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS featuring RICHARD HAWLEY",
+      "song": "Rewind The Film",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "This Is The Day",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Some Kind Of Nothingness",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "(It's Not War) Just The End Of Love",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS featuring NINA PERSSON",
+      "song": "Your Love Alone Is Not Enough",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "The Love Of Richard Nixon",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Judge Yr'self",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "There By The Grace Of God",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Ocean Spray",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "So Why So Sad",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Stay Beautiful",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Little Baby Nothing",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Found That Soul",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "You Stole The Sun From My Heart",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Everlasting",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "If You Tolerate This Your Children Will Be Next",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Australia",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Kevin Carter",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "A Design For Life",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Roses In The Hospital",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "From Despair to Where",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Theme From M.A.S.H.",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "Love's Sweet Exile",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "J.J CALE",
+      "song": "Rock Arena 1982",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Blkkk Skkkn Head",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MS MR",
+      "song": "Think Of You",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KIRIN J CALLINAN",
+      "song": "Victoria M",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JAKE BUGG",
+      "song": "Broken",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CITY AND COLOUR",
+      "song": "Thirst",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PISSED JEANS",
+      "song": "Romanticize Me",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "In The Aisle",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Do I Wanna Know?",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GROUPLOVE",
+      "song": "Ways To Go",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Gun",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Right Action",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Valentine's Day",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "Trying To Be Cool",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE WEEKND",
+      "song": "Belong To The World",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WASHED OUT",
+      "song": "Don't Give Up",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TOUCH SENSITIVE",
+      "song": "Pizza Guy",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

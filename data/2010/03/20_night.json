@@ -1,0 +1,501 @@
+{
+  "title": "Saturday night  Saturday, 20 March",
+  "special": "Amanda Palmer",
+  "timeslot": "night",
+  "date": "2010-03-20",
+  "url": "http://www.abc.net.au/rage/archive/s2851068.htm",
+  "tracks": [
+    {
+      "artist": "THE CURE",
+      "song": "In Between Days",
+      "label": "Warner",
+      "timeslot": "12:40:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Enjoy The Silence",
+      "label": "Mushroom",
+      "timeslot": "12:40:00"
+    },
+    {
+      "artist": "THOMPSON TWINS",
+      "song": "Hold Me Now",
+      "label": "Independent",
+      "timeslot": "12:40:00"
+    },
+    {
+      "artist": "YAZOO",
+      "song": "Don't Go",
+      "label": "Festival",
+      "timeslot": "12:40:00"
+    },
+    {
+      "artist": "YES",
+      "song": "Owner Of A Lonely Heart",
+      "label": "Warner",
+      "timeslot": "12:40:00"
+    },
+    {
+      "artist": "KING MISSILE",
+      "song": "Detachable Penis",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THEY MIGHT BE GIANTS",
+      "song": "Ana Ng",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NICK CAVE & PJ HARVEY",
+      "song": "Henry Lee",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROBYN HITCHCOCK",
+      "song": "Madonna Of The Ages",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ABERDEEN CITY",
+      "song": "God Is Going To Get Sick Of Me",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "No Surprises",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ZZ TOP",
+      "song": "Legs",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ADAM & THE ANTS",
+      "song": "Prince Charming",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BAUHAUS",
+      "song": "Ziggy Stardust",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BONNIE TYLER",
+      "song": "Total Eclipse Of The Heart",
+      "label": "CBS",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LAURIE ANDERSON",
+      "song": "O Superman",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BARNES & BARNES",
+      "song": "Fish Heads",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TRIO",
+      "song": "Da Da Da",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PHILIP GLASS",
+      "song": "Koyaanisqatsi",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "OK GO",
+      "song": "This Too Shall Pass",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TEGAN & SARA",
+      "song": "Call It Off",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Papa Don't Preach",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANTONY & THE JOHNSONS",
+      "song": "Hope There's Someone",
+      "label": "Spunk/Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "What's A Girl To Do",
+      "label": "Spunk",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SAUL WILLIAMS",
+      "song": "Black Stacey",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LUPE FIASCO featuring JILL SCOTT",
+      "song": "Daydreamin'",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MARINA AND THE DIAMONDS",
+      "song": "Mowgli's Road",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LENE LOVICH",
+      "song": "Lucky Number",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JAGGERY",
+      "song": "O Scorpio",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JULIA BROWN",
+      "song": "Pieces Of The Species",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AMANDA PALMER",
+      "song": "Leeds United",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMANDA PALMER",
+      "song": "Oasis",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMANDA PALMER",
+      "song": "Astronaut",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMANDA PALMER",
+      "song": "Ampersand",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMANDA PALMER",
+      "song": "Runs In The Family",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMANDA PALMER",
+      "song": "The Point Of It All",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMANDA PALMER",
+      "song": "Strength Through Music",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMANDA PALMER",
+      "song": "Guitar Hero",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DRESDEN DOLLS",
+      "song": "Girl Anachronism",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DRESDEN DOLLS",
+      "song": "Coin-Operated Boy",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DRESDEN DOLLS",
+      "song": "Sing",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DRESDEN DOLLS",
+      "song": "Backstabber",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DRESDEN DOLLS",
+      "song": "Shores Of California",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE DRESDEN DOLLS",
+      "song": "Night Reconnaissance",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Birthday",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Cold Sweat",
+      "label": "Lib/Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Deus",
+      "label": "Lib/Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Regina",
+      "label": "Lib/Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Planet",
+      "label": "Lib/Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Hit",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Walkabout",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Venus As A Boy",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Play Dead",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Big Time Sensuality",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Violently Happy",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Army Of Me",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Isobel",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hyperballad",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Possibly Maybe",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "I Miss You",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Joga",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Bachelorette",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hunter",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "I've Seen It All",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hidden Place",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Pagan Poetry",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Cocoon",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "It's In Our Hands",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Oceania",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Who Is It",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Triumph Of A Heart",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "The Earth Intruders",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Innocence",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Declare Independence",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CROOKERS featuring MIIKE SNOW",
+      "song": "Remedy",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NEW YOUNG PONY CLUB",
+      "song": "Chaos",
+      "label": "Liberator",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JUMP JUMP DANCE DANCE",
+      "song": "Show Me The Night",
+      "label": "Etc Etc",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CASSETTE KIDS",
+      "song": "Spin",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OPERATOR PLEASE",
+      "song": "Logic",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BRITISH INDIA",
+      "song": "Beneath The Satellites",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JONATHAN BOULET",
+      "song": "North To South East To You",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

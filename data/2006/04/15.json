@@ -1,0 +1,652 @@
+{
+  "title": "Saturday 15th April",
+  "special": "Ugly Duckling Guest Program",
+  "timeslot": null,
+  "date": "2006-04-15",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2006/20060415.htm",
+  "tracks": [
+    {
+      "artist": "THE PHARCYDE",
+      "song": "Drop",
+      "label": "EMI",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "RUN DMC",
+      "song": "Mary Mary",
+      "label": "Polydor",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "LUCAS",
+      "song": "Lucas With The Lid Off",
+      "label": "Warner",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "DEL THA FUNKEE HOMOSAPIEN",
+      "song": "Mistadobalina",
+      "label": "Warner",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "SKEE-LO",
+      "song": "I Wish",
+      "label": "Mushroom",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Bonita Applebum",
+      "label": "BMG",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "DIGABLE PLANETS",
+      "song": "Where I'm From",
+      "label": "Warner",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Don't Stop 'Til You Get Enough",
+      "label": "Sony",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "BIZ MARKIE",
+      "song": "Just A Friend",
+      "label": "Warner",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "GANG STARR",
+      "song": "Lovesick",
+      "label": "EMI",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "STETSASONIC",
+      "song": "Talkin' All That Jazz",
+      "label": "MDS",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Hey Ladies",
+      "label": "EMI",
+      "timeslot": "11:11:00"
+    },
+    {
+      "artist": "DELTRON 3030",
+      "song": "Virus",
+      "label": "Inertia",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Devil's Haircut",
+      "label": "Universal (MCA)",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Jokerman",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Kashmir",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Photograph",
+      "label": "Polydor",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SPINAL TAP",
+      "song": "The Majesty Of Rock",
+      "label": "BMG",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Tribute",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "White Wedding",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SUBLIME",
+      "song": "What I Got",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Fight The Power",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLACK SHEEP",
+      "song": "Flavor Of The Month",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAS EFX",
+      "song": "Straight From Da Sewer",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "CYPRESS HILL",
+      "song": "When The Shit Goes Down",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ICE-T",
+      "song": "I'm Your Pusher",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JUNGLE BROTHERS",
+      "song": "Doin' Our Own Dang",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DE LA SOUL",
+      "song": "Stakes Is High",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LOOTPACK",
+      "song": "Whenimondamic",
+      "label": "Creative Vibes",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BREAKBEAT ERA",
+      "song": "Breakbeat Era",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SCARFACE featuring ICE CUBE",
+      "song": "Hand Of The Dead Body",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE D.O.C.",
+      "song": "The Formula",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ERIC B & RAKIM",
+      "song": "Microphone Fiend",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PETE ROCK & C.L. SMOOTH",
+      "song": "They Reminisce Over You",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KOOL G RAP & DJ POLO",
+      "song": "Road To The Riches",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "3RD BASS",
+      "song": "The Gas Face",
+      "label": "SBME",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE PAUL",
+      "song": "Prince Among Thieves",
+      "label": "MDS",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "UGLY DUCKLING",
+      "song": "Smack",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UGLY DUCKLING",
+      "song": "Left Behind",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UGLY DUCKLING",
+      "song": "The Drive Thru",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UGLY DUCKLING",
+      "song": "La Revolucion",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UGLY DUCKLING",
+      "song": "Samba",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UGLY DUCKLING",
+      "song": "Everybody C'mon",
+      "label": "Modular",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MICHAEL FRANTI & SPEARHEAD",
+      "song": "Bomb The World",
+      "label": "Liberation",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MICHAEL FRANTI & SPEARHEAD",
+      "song": "Yes I Will",
+      "label": "Liberation",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MICHAEL FRANTI & SPEARHEAD",
+      "song": "Everyone Deserves Music",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MICHAEL FRANTI & SPEARHEAD",
+      "song": "Soulshine",
+      "label": "Lib/Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MICHAEL FRANTI & SPEARHEAD",
+      "song": "Sometimes",
+      "label": "Lib/Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MICHAEL FRANTI & SPEARHEAD",
+      "song": "Rock The Nation",
+      "label": "Lib/Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPEARHEAD",
+      "song": "People In Tha Middle",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPEARHEAD",
+      "song": "Hole In The Bucket",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPEARHEAD",
+      "song": "Positive",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPEARHEAD",
+      "song": "Why Oh Why",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPEARHEAD",
+      "song": "U Can't Sing R Song",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPEARHEAD - Live On Recovery",
+      "song": "Roller Skate",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DISPOSABLE HEROES OF HIPHOPRISY",
+      "song": "Famous & Dandy (Like Amos 'N' Andy)",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DISPOSABLE HEROES OF HIPHOPRISY",
+      "song": "Language Of Violence",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DISPOSABLE HEROES OF HIPHOPRISY",
+      "song": "Television, The Drug Of The Nation",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "B.O.B.",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Ms. Jackson",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "So Fresh, So Clean",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "The Whole World",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST featuring KILLER MIKE & SLEEPY BROWN",
+      "song": "Land Of A Million Drums",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "The Way You Move",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Roses",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Player's Ball",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Southernplayalisticadillacmusik",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Elevators (Me & You)",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "ATLiens",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "D-12",
+      "song": "Shit On You",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "D-12",
+      "song": "Purple Pills",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "D-12",
+      "song": "Fight Music",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "D-12",
+      "song": "My Band",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "D-12",
+      "song": "How Come",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "D-12",
+      "song": "Git Up",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BIZARRE",
+      "song": "Rock Star",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PROOF",
+      "song": "Gurls Wit Da Boom",
+      "label": "Shogun",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MARIAH CAREY featuring JERMAINE DUPRI",
+      "song": "Get Your Number",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 25
+    },
+    {
+      "artist": "CHRIS BROWN",
+      "song": "Run It",
+      "label": "SBME",
+      "timeslot": "04:30:00",
+      "countdown": 24
+    },
+    {
+      "artist": "LEE HARDING",
+      "song": "Anything For You",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 23
+    },
+    {
+      "artist": "BOW WOW featuring CIARA",
+      "song": "Like U",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 22
+    },
+    {
+      "artist": "SANTANA featuring STEVE TYLER",
+      "song": "Just Feel Better",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 21
+    },
+    {
+      "artist": "KATE DeARAUGO",
+      "song": "Faded",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 20
+    },
+    {
+      "artist": "DADDY YANKEE",
+      "song": "Gasolina",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 19
+    },
+    {
+      "artist": "VANDALISM",
+      "song": "Never Say Never",
+      "label": "EMI",
+      "timeslot": "05:00:00",
+      "countdown": 18
+    },
+    {
+      "artist": "NOTORIOUS B.I.G. f/DIDDY,NELLY,JAGGED E & AVERY",
+      "song": "Nasty Girl",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 17
+    },
+    {
+      "artist": "MECK featuring LEO SAYER",
+      "song": "Thunder In My Heart Again",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 16
+    },
+    {
+      "artist": "ROGUE TRADERS",
+      "song": "Watching You",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "ASHLEE SIMPSON",
+      "song": "L.O.V.E.",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Sorry",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "JAMES BLUNT",
+      "song": "Goodbye My Lover",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "NELLY",
+      "song": "Grillz",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "KATE ALEXA",
+      "song": "All I Hear",
+      "label": "Liberation",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "THE VERONICAS",
+      "song": "When It All Falls Apart",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Pump It",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "PINK",
+      "song": "Stupid Girls",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "BOB SINCLAR",
+      "song": "Love Generation",
+      "label": "MOS/EMI",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "WESTLIFE",
+      "song": "You Raise Me Up",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "PUSSYCAT DOLLS",
+      "song": "Beep",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "YOUTH GROUP",
+      "song": "Forever Young",
+      "label": "Liberation",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "DELTA GOODREM",
+      "song": "Together We Are One",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "TV ROCK",
+      "song": "Flaunt It",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

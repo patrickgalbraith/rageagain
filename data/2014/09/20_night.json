@@ -1,0 +1,579 @@
+{
+  "title": "Saturday night 20 September 2014",
+  "special": "Cris Kirkwood",
+  "timeslot": "night",
+  "date": "2014-09-20",
+  "url": "http://www.abc.net.au/rage/archive/s4091389.htm",
+  "tracks": [
+    {
+      "artist": "MEAT PUPPETS",
+      "song": "We Don't Exist",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SEX PISTOLS",
+      "song": "Pretty Vacant",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "X",
+      "song": "Devil Doll",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE MELVINS",
+      "song": "Bar-X-The Rocking M",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BOB MARLEY",
+      "song": "Three Little Birds",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TODD RUNDGREN",
+      "song": "Can We Still Be Friends",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GRATEFUL DEAD",
+      "song": "Touch Of Grey",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GEORGE HARRISON",
+      "song": "All Those Years Ago",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Wonderin'",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Touch The Night",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE DAMNED",
+      "song": "Smash It Up",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MUDHONEY",
+      "song": "The Only Son Of The Widow From Nain",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HUSKER DU",
+      "song": "Could You Be The One",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HUSKER DU",
+      "song": "Don't Want To Know If You Are Lonely",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ZZ TOP",
+      "song": "Gimme All Your Lovin'",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Physical",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SCREAMING TREES",
+      "song": "Dollar Bill",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BIG BLACK",
+      "song": "Fish Fry",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PERE UBU",
+      "song": "Love Love Love",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BUTTHOLE SURFERS",
+      "song": "Who Was In My Room Last Night?",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Feel The Pain",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DINOSAUR JNR",
+      "song": "Start Choppin'",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MINUTEMEN",
+      "song": "This Ain't No Picnic",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE REPLACEMENTS",
+      "song": "Bastards Of Young",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Hey Hey",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Go",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Rusty Cage",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STONE TEMPLE PILOTS",
+      "song": "Vasoline",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Dirty Deeds Done Dirt Cheap",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Substitute",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE DEAD KENNEDYS - LIVE",
+      "song": "Holiday In Cambodia",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Respectable",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARETHA FRANKLIN",
+      "song": "Respect",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE TIME",
+      "song": "Jerk Out",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Before I Forget",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Aneurysm",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEAD MILKMEN",
+      "song": "Punk Rock Girl",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Jocko Homo",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TODD RUNDGREN",
+      "song": "Time Heals",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "I Against I",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROY ORBISON",
+      "song": "Crying",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Rusty Cage",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Superstar",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DOORS - LIVE",
+      "song": "When The Music's Over",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Robots",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "N.W.A",
+      "song": "100 Miles and Runnin'",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE OFFSPRING",
+      "song": "Self Esteem",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GREEN DAY - LIVE",
+      "song": "Welcome To Paradise",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GEORGE HARRISON",
+      "song": "Wah Wah (Live At The Concert For Bangladesh)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Only Women Bleed",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SLY and ROBBIE",
+      "song": "Superthruster",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Jean Genie",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JAMES BROWN - LIVE AT CHASTAIN PARK",
+      "song": "It's A Man's Man's Man's World",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Khe Sanh",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "Heard It Through The Grapevine",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE VELVET UNDERGROUND",
+      "song": "Sweet Jane",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MEAT PUPPETS",
+      "song": "Get On Down",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MEAT PUPPETS",
+      "song": "New Gods",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MEAT PUPPETS",
+      "song": "We Don't Exist",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO",
+      "song": "This Guy's In Love With You (Andy's Introduction)",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THUNDERCAT",
+      "song": "Tron Song",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Hazey",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BABES",
+      "song": "ATMO",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROYAL BLOOD",
+      "song": "Figure It Out",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE BLACK KEYS",
+      "song": "Weight Of Love",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHASTITY BELT",
+      "song": "Black Sail",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SHABAZZ PALACES",
+      "song": "#CAKE",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GERARD WAY",
+      "song": "No Shows",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANY THINGS",
+      "song": "Chains",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TSUN",
+      "song": "Moonshrine",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JULIAN CASABLANCAS and THE VOIDZ",
+      "song": "Where No Eagles Fly",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LA ROUX",
+      "song": "Kiss And Not Tell",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PEAKING LIGHTS",
+      "song": "Breakdown",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICHOLAS ALLBROOK",
+      "song": "100 K's 'Round Carmel",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "OCCUPANTHER",
+      "song": "Down",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SYLVAN ESSO",
+      "song": "Dreamy Bruises",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SINKANE",
+      "song": "How We Be",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TEN WALLS",
+      "song": "Walking With Elephants",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALEXANDRIA",
+      "song": "Secret Beach",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FISHING featuring ALISTER WRIGHT",
+      "song": "Nineteen / Boy Wunder",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RICHARD IN YOUR MIND",
+      "song": "Hammered",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MEGAN WASHINGTON",
+      "song": "My Heart Is A Wheel",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LACE CURTAINS",
+      "song": "The Fly",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE HARPOONS",
+      "song": "Can We Work This Out",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MOSMAN ALDER",
+      "song": "Germland (of Julien Charbonneau)",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JACK LADDER _and_ THE DREAMLANDERS f SHARON VAN ETTEN",
+      "song": "Come On Back This Way",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "EUGENE MCGUINNESS",
+      "song": "The Crueler Kind",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CLIPPING",
+      "song": "Inside Out",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE KOOKS",
+      "song": "Forgive And Forget",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DEATH FROM ABOVE 1979",
+      "song": "Trainwreck 1979",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Hazey",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ANDRAS FOX",
+      "song": "Pontoon",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GRIMES featuring BLOOD DIAMONDS",
+      "song": "Go",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALT-J",
+      "song": "Every Other Freckle",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JACK WHITE",
+      "song": "Would You Fight For My Love",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

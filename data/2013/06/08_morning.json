@@ -1,0 +1,525 @@
+{
+  "title": "Saturday morning  Saturday, 8 June",
+  "special": "Something For Kate",
+  "timeslot": "morning",
+  "date": "2013-06-08",
+  "url": "http://www.abc.net.au/rage/archive/s3777097.htm",
+  "tracks": [
+    {
+      "artist": "PARAMORE",
+      "song": "Still Into You",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE WANTED",
+      "song": "Walks Like Rihanna",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LAWSON featuring B.O.B.",
+      "song": "Brokenhearted",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALICIA KEYS",
+      "song": "New Day",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AVRIL LAVIGNE",
+      "song": "Here's To Never Growing Up",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PRINNIE",
+      "song": "Don't Wake Me Up",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MARIAH CAREY featuring MIGUEL",
+      "song": "#Beautiful",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SELENA GOMEZ",
+      "song": "Come and Get It",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PINK featuring NATE RUESS",
+      "song": "Just Give Me A Reason",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PITBULL featuring CHRISTINA AGUILERA",
+      "song": "Feel This Moment",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GABRIELLE APLIN",
+      "song": "Panic Cord",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "OLLY MURS",
+      "song": "Dear Darlin'",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LITTLE MIX featuring MISSY ELLIOTT",
+      "song": "How Ya Doin'?",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "EMBLEM3",
+      "song": "Chloe (You're The One That I Want)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "WILL.I.AM",
+      "song": "Bang Bang",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Alive",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALUNA GEORGE",
+      "song": "You Know You Like It",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JENNIFER LOPEZ featuring PITBULL",
+      "song": "Live It Up",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ANDREW DE SILVA",
+      "song": "Miracle",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JESSIE J featuring BIG SEAN and DIZZEE RASCAL",
+      "song": "Wild",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KELLY CLARKSON",
+      "song": "People Like Us",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "RUDIMENTAL featuring ELLA EYRE",
+      "song": "Waiting All Night",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BASTILLE",
+      "song": "Pompeii",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ARMIN VAN BUUREN featuring TREVOR GUTHRIE",
+      "song": "This Is What It Feels Like",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "THE CAT EMPIRE",
+      "song": "Steal The Light",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ANDREW STOCKDALE",
+      "song": "Long Way To Go",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Panic Station",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JANELLE MONAE featuring ERYKAH BADU",
+      "song": "Q.U.E.E.N.",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE HERD",
+      "song": "Sum Of It All",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "DIGABLE PLANETS",
+      "song": "9th Wonder",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THUNDERCAT",
+      "song": "Walkin'",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "DRAPHT",
+      "song": "Rapunzel",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BIG BOI featuring JAKE TROTH",
+      "song": "Apple Of My Eye",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PEACE",
+      "song": "Lovesick",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "TIGERTOWN",
+      "song": "What You Came Here For",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "YOLANDA BE COOL featuring GURRUMUL",
+      "song": "A Baru In New York",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BONJAH",
+      "song": "Evolution",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PANDA BEAR",
+      "song": "Slow Motion",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "MOZART'S SISTER",
+      "song": "Mozart's Sister",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SEJA",
+      "song": "C'mon",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "!!!",
+      "song": "One Girl/One Boy",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "NANTES",
+      "song": "Avid",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "TOUCH SENSITIVE",
+      "song": "Pizza Guy",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Fall",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SHOCKONE featuring METRIK and KYZA",
+      "song": "Lazerbeam",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "HARTS",
+      "song": "The Music",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "AUTRE NE VEUT",
+      "song": "Play By Play",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "FLUME featuring T. SHIRT",
+      "song": "On Top",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BEADY EYE",
+      "song": "Second Bite Of The Apple",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MELODY'S ECHO CHAMBER",
+      "song": "Some Time Alone Alone",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MR LITTLE JEANS",
+      "song": "Oh Sailor",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SHE and HIM",
+      "song": "I Could've Been Your Girl",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "LORDE",
+      "song": "Royals",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BEACHES",
+      "song": "Send Them Away",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Sea Of Love",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JAGWAR MA",
+      "song": "Man I Need",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "KURT VILE",
+      "song": "Never Run Away",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Star-Crossed Citizens",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "Never Be The Same",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "CLUBFEET",
+      "song": "Capetown",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MATT CORBY",
+      "song": "Resolution",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Kinky Afro",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Young And Beautiful",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "TEEN",
+      "song": "Carolina",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Black Tambourine",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SUEDE",
+      "song": "Hit Me",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SMITH WESTERNS",
+      "song": "Varsity",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BRITISH INDIA",
+      "song": "Plastic Souvenirs",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JINJA SAFARI",
+      "song": "Plagiarist",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ALLDAY featuring BRADY JAMES",
+      "song": "Girl In The Sun",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE LONELY ISLAND",
+      "song": "Spring Break Anthem",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Monsters",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE MAMAS and THE PAPAS",
+      "song": "California Dreamin'",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "In Between Days",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Mistaken for Strangers",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "Yoshimi Battles The Pink Robots",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Somebody To Love",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BRIGHT EYES",
+      "song": "Four Winds",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "OKKERVIL RIVER",
+      "song": "Lost Coastlines",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE - LIVE",
+      "song": "China Girl",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "PAVEMENT",
+      "song": "Gold Soundz",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "GUIDED BY VOICES",
+      "song": "Motor Away/Auditorium",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "LOW",
+      "song": "Breaker",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BON IVER",
+      "song": "Calgary",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "O'Sailor",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SOMETHING FOR KATE",
+      "song": "Survival Expert",
+      "label": null,
+      "timeslot": "11:00:00"
+    }
+  ]
+}

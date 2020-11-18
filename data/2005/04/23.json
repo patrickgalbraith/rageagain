@@ -1,0 +1,637 @@
+{
+  "title": "Saturday 23rd April",
+  "special": "Mylo guest programs",
+  "timeslot": null,
+  "date": "2005-04-23",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050423.htm",
+  "tracks": [
+    {
+      "artist": "EMF",
+      "song": "Unbelievable",
+      "label": "EMI",
+      "timeslot": "11:51:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Clint Eastwood",
+      "label": "EMI",
+      "timeslot": "11:51:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Daft Punk Is Playing at My House",
+      "label": "EMI",
+      "timeslot": "11:51:00"
+    },
+    {
+      "artist": "THE KLF",
+      "song": "Justified & Ancient",
+      "label": "Mushroom",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "M.A.R.R.S.",
+      "song": "Pump Up The Volume",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "TECHNOTRONIC",
+      "song": "Pump Up The Jam",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LES RYTHMES DIGITALES",
+      "song": "Jacques Your Body",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ROYKSOPP",
+      "song": "Eple",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BENT",
+      "song": "Magic Love",
+      "label": "MOS/EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE FUTURE SOUND OF LONDON",
+      "song": "Papua New Guinea",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ZOOT WOMAN",
+      "song": "Living In A Magazine",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Model",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "YELLO",
+      "song": "Race",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Physical",
+      "label": "Fest/Mush",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Alphabet St.",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Thriller",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Pull Up To The Bumper",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WARREN ZEVON",
+      "song": "Werewolves Of London",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Rock The Casbah",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOE JACKSON",
+      "song": "Steppin' Out",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Hungry Like The Wolf",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Africa",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LIONEL RICHIE",
+      "song": "Hello",
+      "label": "Universal (MCA)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HALL & OATES",
+      "song": "No Can Do",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NEW RADICALS",
+      "song": "You Get What You Give",
+      "label": "Universal (MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Tangled Up In Blue",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "New Year's Day",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BUZZCOCKS",
+      "song": "Ever Fallen In Love",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Sultans Of Swing",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Jump",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Windowlicker",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE HIVES",
+      "song": "Main Offender",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Making Plans For Nigel",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "Cars",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "IAN DURY",
+      "song": "Sex & Drugs & Rock & Roll",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SCISSOR SISTERS",
+      "song": "Laura",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "I Want It All",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MYLO",
+      "song": "Drop The Pressure",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MYLO",
+      "song": "Destroy Rock & Roll",
+      "label": "MOS/EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Santa Cruz",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Going Out Of My Head",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Gangster Trippin'",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "The Rockafeller Skank",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Build It Up, Tear It Down",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Right Here, Right Now",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Praise You",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Sunset (Bird Of Prey)",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Weapon Of Choice",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Ya Mama",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Slashdotdash",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "The Joker",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FREDDY FRESH featuring FATBOY SLIM",
+      "song": "Badder Badder Schwing",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM & MACY GRAY",
+      "song": "Demons",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM plays KURTIS MANTRONIX & CHAMONIX",
+      "song": "77 Strings",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "That's When I Reach For My Revolver",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "James Bond Theme",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Run On",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "The Auditions - MOBY",
+      "song": "Bodyrock",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Why Does My Heart Feel So Bad?",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Honey",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Porcelain",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "We Are All Made Of Stars",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Lift Me Up",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Feel Good Inc.",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Robot Rock",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "VITALIC",
+      "song": "My Friend Dario",
+      "label": "Creative Vibes",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DETROIT COBRAS",
+      "song": "Cha Cha Twist",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LITTLE BIRDY",
+      "song": "Excited",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Smile Like You Mean It",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Catch My Disease",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "It'5",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Soldier",
+      "label": "Sony",
+      "timeslot": "04:30:00",
+      "countdown": 30
+    },
+    {
+      "artist": "NITTY",
+      "song": "Nasty Girl",
+      "label": "Universal",
+      "timeslot": "04:30:00",
+      "countdown": 29
+    },
+    {
+      "artist": "GUY SEBASTIAN",
+      "song": "Oh Oh",
+      "label": "SBME",
+      "timeslot": "04:30:00",
+      "countdown": 28
+    },
+    {
+      "artist": "KID COURAGEOUS",
+      "song": "Is She Really Going Out With Him?",
+      "label": "Independent",
+      "timeslot": "04:30:00",
+      "countdown": 27
+    },
+    {
+      "artist": "NATALIE IMBRUGLIA",
+      "song": "Shiver",
+      "label": "SBME",
+      "timeslot": "04:30:00",
+      "countdown": 26
+    },
+    {
+      "artist": "AVRIL LAVIGNE",
+      "song": "He Wasn't",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 25
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Holiday",
+      "label": "Warner",
+      "timeslot": "05:00:00",
+      "countdown": 24
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Do Somethin'",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 22
+    },
+    {
+      "artist": "TAMMIN",
+      "song": "Whatever Will Be",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 21
+    },
+    {
+      "artist": "NELLY featuring TIM McGRAW",
+      "song": "Over & Over",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 20
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Why Do You Love Me",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00",
+      "countdown": 19
+    },
+    {
+      "artist": "THE WRIGHTS",
+      "song": "Evie (Part 1)",
+      "label": "EMI",
+      "timeslot": "05:00:00",
+      "countdown": 18
+    },
+    {
+      "artist": "KELLY CLARKSON",
+      "song": "Since U Been Gone",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 17
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "Shut Up",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 16
+    },
+    {
+      "artist": "P-MONEY & SCRIBE",
+      "song": "Stop The Music",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "TAMARA",
+      "song": "Ooh Aah",
+      "label": "Independent",
+      "timeslot": "05:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "ANTHONY CALLEA",
+      "song": "Rain",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "JENNIFER LOPEZ",
+      "song": "Get Right",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 12
+    },
+    {
+      "artist": "GWEN STEFANI featuring EVE",
+      "song": "Rich Girl",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "It's Like That",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "ROB THOMAS",
+      "song": "Lonely No More",
+      "label": "Warner",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Giving You Up",
+      "label": "Fest/Mush",
+      "timeslot": "06:00:00",
+      "countdown": 8
+    },
+    {
+      "artist": "MARIO",
+      "song": "Let Me Love You",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "The Special Two",
+      "label": "Virgin",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "BRIAN McFADDEN & DELTA GOODREM",
+      "song": "Almost Here",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "WILL SMITH",
+      "song": "Switch",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "CIARA featuring MISSY ELLIOTT",
+      "song": "1,2 Step",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "JESSE McCARTNEY",
+      "song": "Beautiful Soul",
+      "label": "Fest/Mush",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

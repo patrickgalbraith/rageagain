@@ -1,0 +1,609 @@
+{
+  "title": "Saturday, 21 June",
+  "special": "The Paper Scissors",
+  "timeslot": null,
+  "date": "2008-06-21",
+  "url": "http://www.abc.net.au/rage/archive/s2280815.htm",
+  "tracks": [
+    {
+      "artist": "TV ON THE RADIO",
+      "song": "Staring At The Sun",
+      "label": "Remote Control",
+      "timeslot": "23:47:00"
+    },
+    {
+      "artist": "LOW",
+      "song": "Monkey",
+      "label": "Stomp",
+      "timeslot": "23:47:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "I Turn My Camera On",
+      "label": "Remote Control",
+      "timeslot": "23:47:00"
+    },
+    {
+      "artist": "THE ARCADE FIRE",
+      "song": "Rebellion (Lies)",
+      "label": "Spunk/Inertia",
+      "timeslot": "23:47:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Loser",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KINGS OF LEON",
+      "song": "King Of The Rodeo",
+      "label": "SBME",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "IOTA",
+      "song": "Schitzo",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BELLES WILL RING",
+      "song": "The Coldest Heart",
+      "label": "Inertia",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JESSE YOUNAN",
+      "song": "Queeny",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GILLIAN WELCH",
+      "song": "Revelator",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Dead Man",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "Soon",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE JESUS & MARY CHAIN",
+      "song": "You Trip Me Up",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JOY DIVISION",
+      "song": "She's Lost Control",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Hot For Teacher",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LOUIS TILLET",
+      "song": "Carousel",
+      "label": "Festival",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BEASTS OF BOURBON",
+      "song": "Words From A Woman To A Man",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "No Pussy Blues",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Smells Like Teen Spirit",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CONVERGE",
+      "song": "No Heroes",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EINSTURZENDE NEUBAUTEN",
+      "song": "Armenia",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VON SUDENFED",
+      "song": "Fledermaus Can't Get Enough",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BROADCAST",
+      "song": "Papercuts",
+      "label": "MDS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LIMAHL",
+      "song": "Never Ending Story",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NUSRAT FATEH ALI KHAN",
+      "song": "Star Rise",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MORGANICS & WIRE, STINGRAY & HAILLE SUSPICIOUS",
+      "song": "All You Mob",
+      "label": "Creative Vibes",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Fight The Power",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WARREN G & NATE DOGG",
+      "song": "Regulate",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Find A Way",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEYONCE featuring JAY-Z",
+      "song": "Crazy In Love",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Ms. Jackson",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DUNGEON FAMILY",
+      "song": "Trans DF Express",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SHYNE",
+      "song": "Bad Boyz",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Superstition",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Purple Rain",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Let's Dance",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JAMES BROWN - Live at Chastain Park",
+      "song": "It's A Man's Man's Man's World",
+      "label": "MRA Entertainment",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "We Don't Walk",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "Vaudeville King",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "Yamanote Line",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "Tipped Hat",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PAPER SCISSORS",
+      "song": "The Bandit",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES FLY",
+      "song": "Be Engine",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES FLY",
+      "song": "Chameleon Girl",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES FLY",
+      "song": "Peach",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES FLY",
+      "song": "Cream",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES FLY",
+      "song": "Die In Your Eyes",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Fire Fire Fire",
+      "label": "SpeaknSpell",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Vision Bell",
+      "label": "SpeaknSpell",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "(I Can't Get No) Satisfaction",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Jocko Homo",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Come Back Jonee",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "The Day My Baby Gave Me A Surprize",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Secret Agent Man",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Girl U Want",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Freedom Of Choice",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Through Being Cool",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Love Without Anger",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Beautiful World",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Peek-A-Boo!",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "That's Good",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Dr. Detroit",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Are You Experienced?",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Here To Go",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Disco Dancer",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Post-Post Modern Man",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEVO - Countdown interview",
+      "song": "with Molly Meldrum (1981)",
+      "label": "ABC",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEVO - Live on Countdown",
+      "song": "Workin' In A Coalmine",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEVO - Live On Countdown",
+      "song": "Whip It",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Pork & Beans",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE DANDY WARHOLS",
+      "song": "Mission Control",
+      "label": "SpeaknSpell",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "Rest My Chemistry",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PORTISHEAD",
+      "song": "The Rip",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GOLDFRAPP",
+      "song": "Happiness",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MATES OF STATE",
+      "song": "Get Better",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CATCALL",
+      "song": "August",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SANTOGOLD",
+      "song": "L.E.S. Artistes",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "I Feel It All",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROOM ELEVEN",
+      "song": "Hey Hey Hey",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "Like It Or Not",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "mcARTNEY",
+      "song": "Circles",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OPERATOR PLEASE",
+      "song": "Two For My Seconds",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MYSTERY JETS featuring LAURA MARLING",
+      "song": "Young Love",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SCHOOL OF LANGUAGE",
+      "song": "Rockist",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "REVEREND AND THE MAKERS",
+      "song": "Open Your Window",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KRAAK & SMAAK featuring BEN WESTBEECH",
+      "song": "Squeeze Me",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE DEATH SET",
+      "song": "Negative Thinking",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BLACK KEYS",
+      "song": "Strange Times",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LADYTRON",
+      "song": "Ghosts",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE WHIP",
+      "song": "Trash",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SPARKADIA",
+      "song": "Too Much To Do",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE VINES",
+      "song": "He's A Rocker",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE LAST SHADOW PUPPETS",
+      "song": "The Age Of The Understatement",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUKES OF WINDSOR",
+      "song": "It's A War",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GYROSCOPE",
+      "song": "Australia",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "Leave Out All The Rest",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CUT COPY",
+      "song": "Hearts On Fire",
+      "label": "Modular",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FAKER",
+      "song": "This Heart Attack",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

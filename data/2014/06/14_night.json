@@ -1,0 +1,723 @@
+{
+  "title": "Saturday night 14 June 2014",
+  "special": "Josh Homme",
+  "timeslot": "night",
+  "date": "2014-06-14",
+  "url": "http://www.abc.net.au/rage/archive/s4015873.htm",
+  "tracks": [
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "If I Had A Tail",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE SAINTS",
+      "song": "(I'm) Stranded",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SLADE",
+      "song": "Get Down and Get With It",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE BUZZCOCKS",
+      "song": "Ever Fallen In Love",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "COSMIC PSYCHOS",
+      "song": "She's A Lost Cause",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "I Against I",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SEX PISTOLS",
+      "song": "God Save The Queen",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "It's A Long Way To The Top",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "White Wedding",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Juicebox",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "JACK WHITE",
+      "song": "Love Interruption",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "Heathen Child",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BAND OF SKULLS",
+      "song": "You're Not Pretty But You Got It Goin' On",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE DEAD WEATHER",
+      "song": "I Cut Like A Buffalo",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FRANKIE GOES TO HOLLYWOOD",
+      "song": "Relax",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE B-52S",
+      "song": "Channel Z",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CAMEO",
+      "song": "Word Up",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SCISSOR SISTERS",
+      "song": "Laura",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "The One Thing",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Eat To The Beat",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE- LIVE",
+      "song": "Ziggy Stardust",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "Cities In Dust",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Girls On Film",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DONNA SUMMER",
+      "song": "She Works Hard For The Money",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "KENNY ROGERS and DOLLY PARTON",
+      "song": "Islands In The Stream",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CARS",
+      "song": "Let's Go",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ST VINCENT",
+      "song": "Actor Out Of Work",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CAT POWER",
+      "song": "Cross Bones Style",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Oceania",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "Sprawl II (Mountains Beyond Mountains)",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Ace Of Spades",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "I Want You So Hard (Boy's Bad News)",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Sliver",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DIE ANTWOORD",
+      "song": "Cookie Thumper",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Miss Lucifer",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Crying Lightning",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BIFFY CLYRO",
+      "song": "Many Of Horror",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WARPAINT",
+      "song": "Warpaint",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Naked Girl Falling Down The Stairs",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Ultra Twist",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BUTTHOLE SURFERS - LIVE",
+      "song": "100 Million People Dead",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BAUHAUS",
+      "song": "Mask",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRODY DALLE ft. SHIRLEY MANSON",
+      "song": "Meet The Foetus",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DISTILLERS",
+      "song": "Drain The Blood",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LIME SPIDERS",
+      "song": "Weirdo Libido",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE JESUS LIZARD",
+      "song": "Puss",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SAVAGES",
+      "song": "Shut Up",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Raining Blood (Live)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHRIS ISAAK",
+      "song": "Wicked Game",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BAND OF HORSES",
+      "song": "Dilly",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GLEN CAMPBELL",
+      "song": "Rhinestone Cowboy",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRANK OCEAN",
+      "song": "Thinking About You",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "IGGY and THE STOOGES - LIVE",
+      "song": "Real Cool Time/No Fun",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Virginia Plain",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Teenage Riot",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Atlas",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CAGE THE ELEPHANT",
+      "song": "Around My Head",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FLORENCE and THE MACHINE",
+      "song": "Dog Days Are Over",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Jive Talkin'",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Sexx Laws",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "I'll Stick Around",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MINI BIKES",
+      "song": "Oh Japan",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PAUL McCARTNEY",
+      "song": "New",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "The Lost Art Of Keeping A Secret",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Feel Good Hit Of The Summer",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "No One Knows",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Monsters In The Parasol and Interviews",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Go With The Flow",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "First It Giveth",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Little Sister",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "In My Head",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Everybody Knows That You're Insane",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Burn The Witch",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Sick Sick Sick",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Make It Wit Chu",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "I Appear Missing",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "If I Had A Tail",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "The Vampyre Of Time And Memory",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DESERT SESSIONS featuring JOSH HOMME and PJ HARVEY",
+      "song": "Crawl Home",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "UNKLE featuring JOSH HOMME",
+      "song": "Restless",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Demon Cleaner",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Green Machine",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "One Inch Man",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Thong Song",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "I Got A Feelin' (Just Nineteen)",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL - TRIPLE J TV LIKE A VERSION",
+      "song": "Brown Sugar",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "Cherry Cola",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "Wannabe In LA",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "Speaking In Tongues",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "I Only Want You",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VAUDEVILLE SMASH featuring LES MURRAY",
+      "song": "Zinedine Zidane",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BOMBAY ROYALE",
+      "song": "Henna Henna",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JACK WHITE",
+      "song": "Lazaretto",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TEMPLES",
+      "song": "Keep In The Dark",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Hot Wax",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LITTLE BASTARD",
+      "song": "Be My Kind",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TRAXMAN",
+      "song": "Ever And Always",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "WOMAN'S HOUR",
+      "song": "Conversations",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KIMBRA",
+      "song": "90s Music",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BLOOD ORANGE featuring SAMANTHA URBANI",
+      "song": "You're Not Good Enough",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SEINABO SEY",
+      "song": "Hard Time",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLAXITAXI",
+      "song": "Death Valley",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "?SGEIR",
+      "song": "Going Home",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BANKS",
+      "song": "Drowning",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GABRIEL GARZ?N-MONTANO",
+      "song": "Keep On Running",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANNA CALVI and DAVID BYRNE",
+      "song": "Strange Weather",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FOSTER THE PEOPLE",
+      "song": "Best Friend",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE ACID",
+      "song": "Fame",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "R?YKSOPP _and_ ROBYN",
+      "song": "Sayit",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BASEMENT JAXX",
+      "song": "Unicorn",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SECRET CITIES",
+      "song": "Bad Trip",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TIJUANA PANTHERS",
+      "song": "Cherry Street",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE 2 BEARS",
+      "song": "Angel (Touch Me)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "Without You My Life Would Be Boring (Shaken-Up Version)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GEOFFREY O'CONNOR",
+      "song": "Her Name On Every Tongue",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Pools",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "WHITE LUNG",
+      "song": "Face Down",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Reflective Skull",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE PIXIES",
+      "song": "Silver Snail",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "title": "Saturday, 20 June",
+  "special": "TZU",
+  "timeslot": null,
+  "date": "2009-06-20",
+  "url": "http://www.abc.net.au/rage/archive/s2602841.htm",
+  "tracks": [
+    {
+      "artist": "TWEET featuring MISSY ELLIOTT",
+      "song": "Oops (Oh My)",
+      "label": "Warner",
+      "timeslot": "23:44:00"
+    },
+    {
+      "artist": "MYSTIKAL",
+      "song": "Shake Ya Ass",
+      "label": "Jive/Zomba",
+      "timeslot": "23:44:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Diva",
+      "label": "SBME",
+      "timeslot": "23:44:00"
+    },
+    {
+      "artist": "MOS DEF",
+      "song": "Miss Fat Booty",
+      "label": "MDS",
+      "timeslot": "23:44:00"
+    },
+    {
+      "artist": "TALIB KWELI",
+      "song": "Hot Thing/In The Mood",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE ROOTS featuring PATRICK STUMP",
+      "song": "Birthday Girl",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BLACKSTREET",
+      "song": "No Diggity",
+      "label": "Universal (MCA",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Gossip Folks",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "Q-TIP",
+      "song": "Move",
+      "label": "Universal",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GNARLS BARKLEY",
+      "song": "Who's Gonna Save My Soul",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Witness (1 Hope)",
+      "label": "Creative Vibes",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DE LA SOUL & TEENAGE FANCLUB",
+      "song": "Fallin'",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BOB MARLEY",
+      "song": "Exodus",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Burn Hollywood Burn",
+      "label": "Sony",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "Roc Boys (And The Winner Is...)",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BUSTA RHYMES",
+      "song": "Woo-Hah!! (Got You All In Check)",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DJ SHADOW",
+      "song": "6 Days",
+      "label": "Universal",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE PHARCYDE",
+      "song": "Drop",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ILLZILLA",
+      "song": "Cut Feet",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LAURYN HILL",
+      "song": "Doo Wop (That Thing)",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Say My Name",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TLC",
+      "song": "Waterfalls",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BILL WITHERS",
+      "song": "Ain't No Sunshine",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JAMES BROWN",
+      "song": "Georgia On My Mind",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OTIS REDDING",
+      "song": "Satisfaction",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AL GREEN",
+      "song": "Everything's Gonna Be Alright",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARETHA FRANKLIN",
+      "song": "Respect",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Jesus Christ Pose",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Midlife Crisis",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "All Along The Watchtower",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Series Of Dreams",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BONNIE PRINCE BILLY",
+      "song": "Horses",
+      "label": "Spunk/Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Karma Police",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MR. OIZO",
+      "song": "Analog Worms Attack",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "J DILLA",
+      "song": "Nothing Like This",
+      "label": "Creative Vibes",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LITTLE DRAGON",
+      "song": "Twice",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "All I Want Is You",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "The Goonies 'R' Good Enough",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KID KOALA",
+      "song": "Fender Bender",
+      "label": "Creative Vibes",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TZU",
+      "song": "Dam Busters",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TZU",
+      "song": "Wild Stylee",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TZU",
+      "song": "She Gets Up",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TZU",
+      "song": "In Front Of Me",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TZU",
+      "song": "Computer Love",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TZU",
+      "song": "Mondays",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SOUND UNLIMITED POSSE",
+      "song": "Kickin' To The Underground",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEF WISH CAST",
+      "song": "A.U.S.T.",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KOOLISM",
+      "song": "Koolism Is",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "1200 TECHNIQUES",
+      "song": "Where Ur At",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "N'FA",
+      "song": "Cause An Effect",
+      "label": "Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DJ PERIL",
+      "song": "It's About To Blow",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BRETHREN",
+      "song": "Intercepta",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JUMBLEDAT",
+      "song": "Momentus",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CURSE OV DIALECT",
+      "song": "Bury Me Slowly",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BROTHABLACK",
+      "song": "Are You With Me Out There!",
+      "label": "Obese Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GOOD BUDDHA",
+      "song": "Ultrasound",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DIAFRIX",
+      "song": "In Tha Place",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RESIN DOGS",
+      "song": "Say Yeah",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PEZ featuring 360 & HAILEY CRAMER",
+      "song": "The Festival Song",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SHAKAYA",
+      "song": "Cinderella",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MAYA JUPITER featuring CAMIELLE",
+      "song": "Move",
+      "label": "Creative Vibes",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HERMITUDE",
+      "song": "Music From Your Mind",
+      "label": "Elefant Traks",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PEGZ",
+      "song": "Back Then",
+      "label": "Obese Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "The Nosebleed Section",
+      "label": "Obese Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "UNKLE HO",
+      "song": "Big Bad Rag",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BLISS 'N ESO",
+      "song": "Up Jumped The Boogie",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HYJAK 'N' TORCHA featuring MC KYE",
+      "song": "Corrected",
+      "label": "Obese Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DOWNSYDE",
+      "song": "Les Fortunate",
+      "label": "Obese Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ANECDOTE",
+      "song": "Ahead Of My Time",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LOW BUDGET",
+      "song": "Tailor Made",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LAZY GREY & KEN OATH",
+      "song": "Have A Beer",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MISTA SAVONA",
+      "song": "Blaze The Fire",
+      "label": "Elefant Traks",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BIAS B",
+      "song": "Been There Done That",
+      "label": "Obese Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VENTS",
+      "song": "Love Song",
+      "label": "Obese Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MUPHIN",
+      "song": "A Better Man",
+      "label": "Obese Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PLUTONIC LAB featuring KYE",
+      "song": "Character Assassination",
+      "label": "Obese Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIT SYNDICATE",
+      "song": "Here Today, Gone Tomorrow",
+      "label": "Obese Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JUSTICE & KAOS",
+      "song": "Turn It On",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLUEJUICE",
+      "song": "Vitriol",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TRUE LIVE",
+      "song": "Keep Myself Awake",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATALYST",
+      "song": "All You've Got",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DRAPHT",
+      "song": "The Music",
+      "label": "Obese Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PHRASE",
+      "song": "Clockwork",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ASTRONOMY CLASS featuring VIDA SUNSHYNE & KWEEN G",
+      "song": "Where You At?",
+      "label": "Elefant Traks",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE TONGUE featuring DUDLEY PERKINS",
+      "song": "Animal Crackers",
+      "label": "Elefant Traks",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "URTHBOY",
+      "song": "We Get Around",
+      "label": "Elefant Traks",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SNOB SCRILLA",
+      "song": "There You Go Again",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FUNKOARS",
+      "song": "Black Sally",
+      "label": "Shogun",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE HERD",
+      "song": "2020",
+      "label": "Elefant Traks",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "Kiss With A Fist",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLOGGING MOLLY",
+      "song": "Float",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL DEMPSEY",
+      "song": "Out The Airlock",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "M. WARD",
+      "song": "Rave On",
+      "label": "Spunk",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOT LITTLE HANDS",
+      "song": "Dynamite In Black & White",
+      "label": "Rubber",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TELEKINESIS",
+      "song": "Awkward Kisser",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOCKEY",
+      "song": "Too Fake",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "Lisztomania",
+      "label": "Shock",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE TEMPER TRAP",
+      "song": "Sweet Disposition",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIA - Live",
+      "song": "The Girl You Lost",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE DUKE SPIRIT",
+      "song": "My Sunken Treasure",
+      "label": "SpeaknSpell",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Back Of The Van",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LA ROUX",
+      "song": "In For The Kill",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Pearl's Dream",
+      "label": "Spunk",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

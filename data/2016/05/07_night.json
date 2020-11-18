@@ -1,0 +1,669 @@
+{
+  "title": "Saturday night 7 May 2016, ABC",
+  "special": "Gang Gajang",
+  "timeslot": "night",
+  "date": "2016-05-07",
+  "url": "http://www.abc.net.au/rage/archive/s4457670.htm",
+  "tracks": [
+    {
+      "artist": "GANGGAJANG",
+      "song": "Circles In The Sand",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "No Secrets",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "AUSTRALIAN CRAWL",
+      "song": "Reckless",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "Good Dancers",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Australia Street",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Solitude Is Bliss",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE GO-BETWEENS",
+      "song": "Bye Bye Pride",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MENTAL AS ANYTHING",
+      "song": "Berserk Warriors",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Shazam",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE GRATES",
+      "song": "19-20-20",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DIANA AH NAID",
+      "song": "See Through",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HELEN REDDY",
+      "song": "I Am Woman",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GYAN",
+      "song": "Wait",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CHRISTINE ANU",
+      "song": "My Island Home",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS",
+      "song": "Cosby Sweater",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Cruel",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ROYAL HEADACHE",
+      "song": "Carolina",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Frontier Psychiatrist (U.K. version)",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE SCARE",
+      "song": "No Money",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Plastic Loveless Letter",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "Jubliee Street",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JIMMY LITTLE",
+      "song": "Surely God Is A Lover",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ARCHIE ROACH",
+      "song": "Took The Children Away",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LEAH FLANAGAN",
+      "song": "September Song",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KARL BROADIE",
+      "song": "Sleepy Head",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "Fall At Your Feet",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MONDO ROCK",
+      "song": "Summer Of 81",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE RIPTIDES",
+      "song": "Hearts and Flowers",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CUSTARD",
+      "song": "Girls Like That",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE STETSONS",
+      "song": "Bad Blood",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GURRUMUL",
+      "song": "Gopuru",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MACHINE GUN FELLATIO",
+      "song": "Unsent Letter",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "River Of Tears",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "Leilani",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "COLOURED STONE",
+      "song": "Black Boy",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DOG TRUMPET",
+      "song": "The Jesus Song",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE NUMBERS",
+      "song": "Big Beat",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "China Girl",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Simple Simon",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RADIO BIRDMAN",
+      "song": "TV Eye",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HIATUS KAIYOTE",
+      "song": "Breathing Underwater",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FLIGHT FACILITIES ft. CHRISTINE HOBERG",
+      "song": "Clair De Lune",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Clap Your Hands",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Walking On A Dream",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DJ HMC",
+      "song": "Phreakin'",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE SAINTS",
+      "song": "Know Your Product",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "XL CAPRIS",
+      "song": "My City Of Sydney",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KIRIN J CALLINAN",
+      "song": "Way II War",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JACK LADDER and THE DREAMLANDERS",
+      "song": "Cold Feet",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LIARS",
+      "song": "Brats",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BEARDS",
+      "song": "If Your Dad Doesn't Have A Beard, You've Got Two Mums",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HIGH STAKES",
+      "song": "Spank",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "All I Want",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "No Second Prize",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Forever Now",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "Sorry",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ADAM JAMES",
+      "song": "Bringing Me To Tears",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Hearts A Mess",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TISM",
+      "song": "Whatareya",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "Sounds Of Then",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "Dream At Night",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "Initiation",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "American Money",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "Luck Of The Irish",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "Anodyne Dream",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "Trust",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GANGGAJANG - LIVE",
+      "song": "Walking On Sunshine",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GANGGAJANG - LIVE",
+      "song": "Beat Me (Into Submission)",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "Circles In The Sand",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "Sounds Of Then",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "Space Odyssey",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE DANDY WARHOLS",
+      "song": "Killing Me",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "Boredom",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CARPENTER BRUT",
+      "song": "Turbo Killer",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SILENTJAY X JACE XL",
+      "song": "Rockabye",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GEORGE MAPLE ft. GOLDLINK",
+      "song": "Sticks And Horses",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUN THE JEWELS ft. GANGSTA BOO",
+      "song": "Love Again",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPIT SYNDICATE",
+      "song": "Know Better",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ROOTS MANUVA",
+      "song": "Crying",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHANCE THE RAPPER ft. SABA",
+      "song": "Angels",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OLD FASHIONED",
+      "song": "Romeo",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BABAGANOUJ",
+      "song": "Do Rite With Me Tonight",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MINOR VICTORIES",
+      "song": "Scattered Ashes (Song For Richard)",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NEON INDIAN",
+      "song": "Techno Clique",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Tutti Frutti",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "L.A. Girlz",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Heart Of A Dog",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FLOWERTRUCK",
+      "song": "Tourmaline",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SHIT ROBOT featuring ALEXIS TAYLOR",
+      "song": "End Of The Trail",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAKE MEADOWS ft. DANIEL JOHNS",
+      "song": "Echo Of Tomorrow",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLONDE REDHEAD and CONNAN MOCKASIN",
+      "song": "Defeatist Anthem By The Sea",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Two Minutes To Midnight",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Number Of The Beast",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "The Trooper",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Run To The Hills",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Aces High",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN - LIVE",
+      "song": "Fear Of The Dark",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FKA TWIGS",
+      "song": "Good To Love",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WINTERGATAN",
+      "song": "Marble Machine",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANDERSON .PAAK",
+      "song": "The Season / Carry Me / The Waters",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "REMI ft. SAMPA THE GREAT",
+      "song": "For Good",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "L-FRESH THE LION",
+      "song": "1 In 100,000",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HARRISON ft. CLAIRMONT THE SECOND",
+      "song": "It's Okay, I Promise",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BIG WHITE",
+      "song": "Whatever Happens In The Night",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE PAPER KITES",
+      "song": "Renegade",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LUCIANBLOMKAMP",
+      "song": "The Overman",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "Good Help (Is So Hard To Find)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Make Them Wheels Roll",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NICOLAS GODIN",
+      "song": "Elfe Man",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO and JON LENT",
+      "song": "I Was A Fool To Care",
+      "label": null,
+      "timeslot": "06:30:00"
+    }
+  ]
+}

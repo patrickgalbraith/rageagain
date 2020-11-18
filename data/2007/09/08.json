@@ -1,0 +1,669 @@
+{
+  "title": "Saturday, 8 September",
+  "special": "Clutch",
+  "timeslot": null,
+  "date": "2007-09-08",
+  "url": "http://www.abc.net.au/rage/archive/s2025883.htm",
+  "tracks": [
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Communication Breakdown",
+      "label": "Warner",
+      "timeslot": "23:12:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Careful With That Axe Eugene",
+      "label": "Sony",
+      "timeslot": "23:12:00"
+    },
+    {
+      "artist": "CREAM - Live at Royal Albert Hall",
+      "song": "White Room",
+      "label": "Warner",
+      "timeslot": "23:12:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Neon Knights",
+      "label": "Polydor",
+      "timeslot": "23:12:00"
+    },
+    {
+      "artist": "ROSE TATTOO",
+      "song": "Rock & Roll Outlaw",
+      "label": "Festival",
+      "timeslot": "23:12:00"
+    },
+    {
+      "artist": "THIN LIZZY",
+      "song": "Chinatown",
+      "label": "Polydor",
+      "timeslot": "23:12:00"
+    },
+    {
+      "artist": "ZZ TOP",
+      "song": "TV Dinners",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Green Machine",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "HIGH ON FIRE",
+      "song": "Devilution",
+      "label": "Riot",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Capillarian Crest",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "OPETH",
+      "song": "The Grand Conjuration",
+      "label": "Roadrunner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CRUCIFIED BARBARA",
+      "song": "Losing The Game",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BAD BRAINS",
+      "song": "I Against I",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE DEAD KENNEDYS - Live",
+      "song": "Holiday In Cambodia",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE JESUS LIZARD",
+      "song": "Puss",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Territory",
+      "label": "Shock",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CORROSION OF CONFORMITY",
+      "song": "Clean My Wounds",
+      "label": "Sony",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Killed By Death",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "FUGAZI",
+      "song": "Suggestion & Fugazi Interview",
+      "label": "Independent",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "MONSTER MAGNET",
+      "song": "Twin Earth",
+      "label": "Universal (MCA",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "PROBOT",
+      "song": "Shake Your Blood",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "RADIO BIRDMAN",
+      "song": "Aloha Steve & Danno",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MURPHY'S LAW",
+      "song": "What Will The Neighbors Think?",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "STIFF LITTLE FINGERS",
+      "song": "Gotta Gettaway",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MC5",
+      "song": "Poison",
+      "label": "Independent",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IGGY & THE STOOGES",
+      "song": "Real Cool Time/No Fun",
+      "label": "Shock",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "I'm Bored",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JAMES BROWN - Live at Chastain Park",
+      "song": "It's Too Funky In Here",
+      "label": "MRA Entertainment",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Dolly Dagger",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PARLIAMENT",
+      "song": "Do That Stuff",
+      "label": "Universal (MCA",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BIG CHIEF",
+      "song": "One Born Every Minute",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOHN LEE HOOKER",
+      "song": "One Bourbon, One Scotch, One Beer",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "Dirty Old Town",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Goin' Out West",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BILLY THORPE & THE AZTECS",
+      "song": "Mama",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CYPRESS HILL",
+      "song": "Insane In The Brain",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CLIPSE",
+      "song": "Grindin'",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "Method Man",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE WU-TANG CLAN",
+      "song": "C.R.E.A.M.",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GANG STARR",
+      "song": "Skills",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Shut Em' Down",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Looking Down The Barrel Of A Gun",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "She's Crafty",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BIZ MARKIE",
+      "song": "Just A Friend",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "D'ANGELO",
+      "song": "Left & Right",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DJ SPOOKY",
+      "song": "Peace In Zaire",
+      "label": "Universal (MCA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ERIC B & RAKIM",
+      "song": "Follow The Leader",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADVILLAIN",
+      "song": "All Caps",
+      "label": "Creative Vibes",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE & BING CROSBY",
+      "song": "Little Drummer Boy",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CLUTCH",
+      "song": "Electric Worry",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CLUTCH",
+      "song": "Burning Beard",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CLUTCH",
+      "song": "Soapmaker",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Sick Sick Sick",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Burn The Witch",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Little Sister",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "No One Knows",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Feel Good Hit Of The Summer",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Go With The Flow",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "The Lost Art Of Keeping A Secret",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "One Inch Man",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Thong Song",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KYUSS",
+      "song": "Demon Cleaner",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Colony Of Birchmen",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Iron Tusk",
+      "label": "Riot",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CORROSION OF CONFORMITY",
+      "song": "Drowning In A Daydream",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CORROSION OF CONFORMITY",
+      "song": "Stone Breaker",
+      "label": "Riot",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Ratamahatta",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Roots Bloody Roots",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Choke",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "I'm Broken",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "This Love",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Chop Suey",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Toxicity",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Aerials",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Boom",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "B.Y.O.B.",
+      "label": "SBME",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AUDIOSLAVE",
+      "song": "Revelations",
+      "label": "SBME",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AUDIOSLAVE",
+      "song": "Original Fire",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AUDIOSLAVE",
+      "song": "Be Yourself",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AUDIOSLAVE",
+      "song": "Like A Stone",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AUDIOSLAVE",
+      "song": "Cochise",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Atlas",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PRIMUS",
+      "song": "Mr Krinkle",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PRIMUS",
+      "song": "Shake Hands With Beef",
+      "label": "Universal (MCA",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PRIMUS",
+      "song": "Wynona's Big Brown Beaver",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "The Pretender",
+      "label": "SBME",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GRINSPOON",
+      "song": "What You Got",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE DAIRY BROTHERS",
+      "song": "Grapefruit",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RED JEZEBEL",
+      "song": "Kicking Deadly Sins",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE VEILS",
+      "song": "Calliope",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE MATCHES",
+      "song": "Salty Eyes",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BELLES WILL RING",
+      "song": "The Coldest Heart",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ANGUS & JULIA STONE",
+      "song": "The Beast",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LIGHTSPEED CHAMPION",
+      "song": "Galaxy Of The Lost",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Love Me Like The World Is Ending",
+      "label": "Inertia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KATE NASH",
+      "song": "Foundations",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TAKEN BY TREES",
+      "song": "Lost And Found",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Down Boy",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "What's A Girl To Do",
+      "label": "Spunk",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LITTLE MAN TATE",
+      "song": "European Lover",
+      "label": "Shock",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SOFT TIGERS",
+      "song": "Mr Ice Cream",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARMAND VAN HELDEN",
+      "song": "I Want Your Soul",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KATALYST featuring STEPHANIE McKAY",
+      "song": "Say What You Feel",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE GOSSIP",
+      "song": "Listen Up (Radio remix)",
+      "label": "Central Station",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Jimmy",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "She Called Up",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANDREW BIRD",
+      "song": "Imitosis",
+      "label": "Spunk",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "If You Keep Losing Sleep",
+      "label": "Eleven",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "That's The Way (My Love Is)",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

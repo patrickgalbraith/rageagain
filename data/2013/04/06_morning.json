@@ -1,0 +1,507 @@
+{
+  "title": "Saturday morning  Saturday, 6 April",
+  "special": "Silversun Pickups Guest Program",
+  "timeslot": "morning",
+  "date": "2013-04-06",
+  "url": "http://www.abc.net.au/rage/archive/s3730769.htm",
+  "tracks": [
+    {
+      "artist": "LABRINTH FEATURING EMELI SANDE",
+      "song": "Beneath Your Beautiful",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DIDO",
+      "song": "No Freedom",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BRUNO MARS",
+      "song": "When I Was Your Man",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Small Bump",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RIHANNA FEATURING MIKKY EKKO",
+      "song": "Stay",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BEN HOWARD",
+      "song": "Only Love",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GUY SEBASTIAN",
+      "song": "Get Along",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAMES ARTHUR",
+      "song": "Impossible",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAY SEAN",
+      "song": "Where You Are",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RITA ORA",
+      "song": "Radioactive",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PINK FEATURING NATE RUESS",
+      "song": "Just Give Me A Reason",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FUN",
+      "song": "Why Am I The One",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ONE DIRECTION",
+      "song": "One Way Or Another (Teenage Kicks)",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MKTO",
+      "song": "Thank You",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NATASHA DUARTE",
+      "song": "(Just Stop) Telling Me Not To",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MCFLY",
+      "song": "Love Is Easy",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "22",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "CARLY RAE JEPSEN",
+      "song": "Tonight I'm Getting Over You",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "YOUNGBLOOD HAWKE",
+      "song": "We Come Running",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "HADOUKEN!",
+      "song": "Levitate",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "The POTBELLEEZ,",
+      "song": "Saved In A Bottle",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MUMFORD AND SONS",
+      "song": "Whispers In The Dark",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "THE LUMINEERS,",
+      "song": "Stubborn Love",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "THE CAT EMPIRE,",
+      "song": "Brighter Than Gold",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "PITBULL FEATURING CHRISTINA AGUILERA",
+      "song": "Feel This Moment",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "NELLY",
+      "song": "Hey Porsche",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "JUSTIN TIMBERLAKE",
+      "song": "Mirrors",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "BASTILLE",
+      "song": "Pompeii",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "FLUME",
+      "song": "Holdin On",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "PASSENGER",
+      "song": "Let Her Go",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "SETH SENTRY",
+      "song": "Dear Science",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "KANYE WEST FEATURING T-PAIN",
+      "song": "The Good Life",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Lilies",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "JAMIE LIDELL",
+      "song": "You Naked",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "HUNGRY KIDS OF HUNGARY",
+      "song": "Twin Cities",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "YOLANDA BE COOL FEATURING GURRUMUL",
+      "song": "A Baru In New York",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "HIGH HIGHS",
+      "song": "Once Around The House",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "VILLAGERS",
+      "song": "The Bell",
+      "label": null,
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE STROKES,",
+      "song": "All The Time",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE VACCINES,",
+      "song": "Bad Mood",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Shock The Monkey",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PURITY RING",
+      "song": "Lofticries",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Recover",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "GOLD FIELDS",
+      "song": "Dark Again",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "ABBE MAY",
+      "song": "T.R.O.U.B.L.E",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "DEADMAU5 AND IMOGEN HEAP",
+      "song": "Telemiscommunications",
+      "label": null,
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BOYS NOIZE",
+      "song": "What You Want",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Ballad Of The War Machine",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "RATCAT",
+      "song": "Holiday",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "DUBMARINE",
+      "song": "Beat In Control",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "TALES IN SPACE",
+      "song": "Shades",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "CUSTARD",
+      "song": "Girls Like That",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Beach",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Falling",
+      "label": null,
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Wishes",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE ANGELS,",
+      "song": "Take A Long Line",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE ANGELS,",
+      "song": "Shadow Boxer",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "GANGGAJANG",
+      "song": "Sounds Of Then",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "ATOMS FOR PEACE",
+      "song": "Ingenue",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MODERN ENGLISH",
+      "song": "I Melt With You",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "Entertainment",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "A$AP ROCKY FEATURING SKRILLEX AND BIRDY NAM NAM",
+      "song": "Wild For The Night",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE SON FEATURING BLUEJUICE",
+      "song": "More Fire",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "CHANCE WATERS FEATURING KATE MARTIN",
+      "song": "Conjure Up A Fire",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "RICK JAMES",
+      "song": "Superfreak",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "VANCE JOY",
+      "song": "Riptide",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DUKE DUMONT",
+      "song": "Need U (100%)",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Sacrilege",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "WAVVES",
+      "song": "Demon To Lean On",
+      "label": null,
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SILVERSUN PICKUPS",
+      "song": "Substitution",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Coffee and TV",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "STEREOLAB",
+      "song": "Miss Modular",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "CIBO MATTO",
+      "song": "Sugar Water",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Just",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MY BLOODY VALENTINE",
+      "song": "Swallow",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "THAT DOG",
+      "song": "Old Timer",
+      "label": null,
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "FEVER RAY",
+      "song": "When I Grow Up",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ANNA CALVI",
+      "song": "Blackout",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "100%",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "JAY-Z FEATURING KANYE WEST AND OTIS REDDING",
+      "song": "Otis",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "AZEALIA BANKS feat LAZY JAY",
+      "song": "212",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Pump It Up",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "SILVERSUN PICKUPS",
+      "song": "Bloody Mary (Nerve Endings)",
+      "label": null,
+      "timeslot": "11:00:00"
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "title": "Saturday night  Saturday, 24 August",
+  "special": "HAIM",
+  "timeslot": "night",
+  "date": "2013-08-24",
+  "url": "http://www.abc.net.au/rage/archive/s3832420.htm",
+  "tracks": [
+    {
+      "artist": "HAIM",
+      "song": "Don't Save Me",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Heartbreaker",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BRANDY and MONICA",
+      "song": "The Boy Is Mine",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "AALIYAH",
+      "song": "Try Again",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ADINA HOWARD",
+      "song": "(Freak) And U Know It",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "Everybody (Backstreet's Back)",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ALPHAVILLE",
+      "song": "Big In Japan",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ARCHITECTURE IN HELSINKI",
+      "song": "It'5",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "AFROMAN",
+      "song": "Because I Got High",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Dirty Deeds Done Dirt Cheap",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "School's Out",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE JESUS and MARY CHAIN",
+      "song": "Roller Coaster",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE ANIMALS",
+      "song": "House Of The Rising Sun",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Swimming Pools (Drank)",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "A$AP ROCKY",
+      "song": "Peso",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE GAME",
+      "song": "Dreams",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "GINUWINE",
+      "song": "Tell Me Do U Wanna",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Gossip Folks",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "112",
+      "song": "Peaches and Cream",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Run The World (Girls)",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BOW WOW WOW",
+      "song": "I Want Candy",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JANET JACKSON",
+      "song": "The Pleasure Principle",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Ya Hey",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHROMEO",
+      "song": "Tenderoni",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHAKA KHAN and RUFUS",
+      "song": "Ain't Nobody",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EARTH WIND AND FIRE",
+      "song": "September",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DOLLY PARTON",
+      "song": "9 TO 5",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NOTORIOUS B.I.G. feat PUFF DADDY and MASE",
+      "song": "Mo Money Mo Problems",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Survivor",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Soldier",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Cater 2 U",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Ms Jackson",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "2 PAC",
+      "song": "Changes",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "2 PAC",
+      "song": "Do For Love",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Atlantic City",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "Hungry Heart",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "*NSYNC",
+      "song": "Bye Bye Bye",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BANANARAMA",
+      "song": "Cruel Summer",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ADAM ANT",
+      "song": "Goody Two Shoes",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BANGLES",
+      "song": "Manic Monday",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "IRENE CARA",
+      "song": "Fame",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Love And Anger",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANTONY and THE JOHNSONS",
+      "song": "Thank You For Your Love",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Rainy Days And Mondays",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "Don't Worry Baby",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BADLY DRAWN BOY",
+      "song": "Once Around The Block",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SHANIA TWAIN",
+      "song": "I'm Gonna Getcha Good!",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Genesis",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EIFFEL 65",
+      "song": "Blue",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Sexx Laws",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BELLE and SEBASTIAN",
+      "song": "Step Into My Office Baby",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Celebrity Skin",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Push It",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOT SNAKES",
+      "song": "Braintrust",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Reptilia",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FEIST",
+      "song": "My Moon My Man",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "10CC",
+      "song": "I'm Not In Love",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALUNAGEORGE",
+      "song": "Your Drums Your Love",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BUSTA RHYMES featuring JANET JACKSON",
+      "song": "What's It Gonna Be?",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "AMERIE featuring EVE",
+      "song": "1 Thing",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Forever",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Don't Save Me",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Falling",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "The Wire",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GEORGE CLINTON",
+      "song": "Atomic Dog",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JAMES BROWN",
+      "song": "Papa's Got A Brand New Bag",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Jailhouse Rock",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN KWELLER",
+      "song": "Wasted and Ready",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Radio Radio",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BABYSHAMBLES",
+      "song": "Fuck Forever",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GANG OF FOUR",
+      "song": "You'll Never Pay For The Farm",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Fashion",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EN VOGUE",
+      "song": "Free Your Mind",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AZEALIA BANKS feat LAZY JAY",
+      "song": "212",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "Girls Girls Girls",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DR DRE",
+      "song": "The Next Episode",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "My Name Is",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Cape Cod Kwassa Kwassa",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALT-J",
+      "song": "Tessellate",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Digital Love",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Walking On A Dream",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOT CHIP",
+      "song": "Over and Over",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Take A Chance On Me",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HURTS",
+      "song": "Wonderful Life",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FLORENCE and THE MACHINE",
+      "song": "Shake It Out",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE B-52S",
+      "song": "Love Shack",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "It's Oh So Quiet",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "What's A Girl To Do",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Lazuli",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BOYZ II MEN",
+      "song": "End Of The Road",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CASS McCOMBS",
+      "song": "Dreams Come True Girl",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEVENDRA BANHART",
+      "song": "At The Hop",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ELLIOTT SMITH",
+      "song": "Son Of Sam",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE ARCADE FIRE",
+      "song": "Neighbourhood #3 (Power Out)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DIRTY PROJECTORS",
+      "song": "Stillness Is The Move",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Girl U Want",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HAR MAR SUPERSTAR",
+      "song": "Power Lunch",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KIM DEAL",
+      "song": "Are You Mine?",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NIGHT MOVES",
+      "song": "Colored Emotions",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CAMERA OBSCURA",
+      "song": "Break It To You Gently",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BOY and BEAR",
+      "song": "Southern Sun",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Your Life Is A Lie",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MIDNIGHT JUGGERNAUTS",
+      "song": "Memorium",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "The SWISS",
+      "song": "Connect",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}

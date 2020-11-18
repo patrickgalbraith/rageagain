@@ -1,0 +1,597 @@
+{
+  "title": "Saturday night  Saturday, 10 September",
+  "special": "Cold Chisel",
+  "timeslot": "night",
+  "date": "2011-09-10",
+  "url": "http://www.abc.net.au/rage/archive/s3314304.htm",
+  "tracks": [
+    {
+      "artist": "THE LIVING END",
+      "song": "Rising Sun",
+      "label": "Warner",
+      "timeslot": "23:29:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "The Pretender",
+      "label": "SBME",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "YOU AM I",
+      "song": "Get Up",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JIMI HENDRIX - Live",
+      "song": "Voodoo Child",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Dazed And Confused",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "COLOURED BALLS",
+      "song": "Human Being",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "I Put A Spell On You",
+      "label": "Festival",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JERRY LEE LEWIS",
+      "song": "Whole Lotta Shakin'",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Hound Dog",
+      "label": "BMG",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "Sorry",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CRAMPS",
+      "song": "Bikini Girls With Machine Guns",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JON SPENCER BLUES EXPLOSION - LIVE ON RECOVERY",
+      "song": "2 Kindsa Love",
+      "label": "Au-Go-Go",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "Light My Fire",
+      "label": "Warner",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Walking In The Rain",
+      "label": "EMI",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CULT",
+      "song": "She Sells Sanctuary",
+      "label": "Virgin",
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DRAGON",
+      "song": "Rain",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "X",
+      "song": "Dream Baby",
+      "label": "Mushroom",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Pleasure & Pain",
+      "label": "Virgin",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE EASYBEATS",
+      "song": "Friday On My Mind",
+      "label": "EMI",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE DOORS - LIVE",
+      "song": "Touch Me",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "Who Are You",
+      "label": "Polydor",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Keep On Rockin' In The Free World",
+      "label": "Warner",
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "7 Nation Army",
+      "label": "Remote Control",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STONEFIELD",
+      "song": "Through The Clover",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ABBE MAY",
+      "song": "Costanza",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BEASTS OF BOURBON",
+      "song": "I Don't Care About Nothing Anymore",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HELL TO PAY",
+      "song": "Steal It",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHRIS ISAAK",
+      "song": "Wicked Game",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "Heartbreak Hotel",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROY ORBISON",
+      "song": "Crying",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "That's Entertainment",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Rip This Joint",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "High Voltage",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAN SULTAN",
+      "song": "Old Fitzroy",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TEX PERKINS' DARK HORSES",
+      "song": "Lucid",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Blue Sky Mine",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "T REX",
+      "song": "Get It On",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GNARLS BARKLEY",
+      "song": "Crazy",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Rolling In The Deep",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "song": "Meet Me Halfway",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DIVINE",
+      "song": "You Think You're A Man, But You're Only A Boy",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FUN LOVIN' CRIMINALS",
+      "song": "Love Unlimited",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Sexy M.F.",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE COLOURED GIRLS",
+      "song": "From St. Kilda To Kings Cross",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TIM ROGERS",
+      "song": "You've Been So Good To Me So Far",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Tangled Up In Blue",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROBERT PLANT",
+      "song": "Angel Dance",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EVEN",
+      "song": "Stop & Go Man",
+      "label": "Rubber",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRINSPOON",
+      "song": "Chemical Heart",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Come As You Are",
+      "label": "Universal (MCA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "YOU AM I",
+      "song": "Berlin Chair",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE DIRTY THREE",
+      "song": "Everything's Fucked",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROBERT RANDOLPH - LIVE",
+      "song": "I Don't Know What You Came to Do",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ELBOW",
+      "song": "Grounds For Divorce",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIRDS OF TOKYO",
+      "song": "Plans",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOB MARLEY & THE WAILERS",
+      "song": "Buffalo Soldier",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOB MARLEY & THE WAILERS",
+      "song": "Is This Love?",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Saturday Night",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Khe Sanh",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "The Things I Love In You",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Water Into Wine",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Cheap Wine",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Flame Trees",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Bow River",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Breakfast At Sweethearts",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Choir Girl",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Forever Now",
+      "label": "WEA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COLD CHISEL - LIVE",
+      "song": "20th Century",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "COLD CHISEL - LIVE",
+      "song": "The Star Hotel",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "COLD CHISEL - LIVE",
+      "song": "Bow River",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "COLD CHISEL - LIVE",
+      "song": "River Deep, Mountain High",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Live at Manly Vale Hotel, 1980",
+      "label": "ABC",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Ita",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Hands Out Of My Pocket",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "You've Got Nothing I Want",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "All I Wanna Do",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Knockin' On Heaven's Door",
+      "label": "WEA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "No Sense",
+      "label": "WEA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Conversation",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "The Dresden Blues",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "It's Only Make Believe",
+      "label": "WEA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Only One",
+      "label": "WEA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Taipan",
+      "label": "WEA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Hold Me Tight",
+      "label": "WEA",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Misfits",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Nothing But You",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "Red Hot",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "Signed Sealed Delivered (I'm Yours)",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "Stone Cold",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "When Your Love Is Gone",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JIMMY BARNES & THE BADLOVES",
+      "song": "The Weight",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JIMMY BARNES & JOHN FARNHAM",
+      "song": "When Something Is Wrong With My Baby",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "Come Undone",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "No Second Prize",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "I'd Die To Be With You Tonight",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "Working Class Man",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "Higher And Higher",
+      "label": "Mushroom",
+      "timeslot": "06:00:00"
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "title": "Saturday 21st May",
+  "special": "Jack Johnson, Donavon Frankenreiter\n& G Love guest program",
+  "timeslot": null,
+  "date": "2005-05-21",
+  "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050521.htm",
+  "tracks": [
+    {
+      "artist": "BLINK 182",
+      "song": "First Date",
+      "label": "Universal",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Longview",
+      "label": "Warner",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "FUN LOVIN' CRIMINALS",
+      "song": "Scooby Snacks",
+      "label": "EMI",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "I Fought The Law",
+      "label": "Sony",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Black Betty",
+      "label": "Universal",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "JOAN JETT & THE BLACKHEARTS",
+      "song": "I Love Rock & Roll",
+      "label": "Warner",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Wild Thing",
+      "label": "Polydor",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "My Generation",
+      "label": "Polydor",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Travelling Riverside Blues",
+      "label": "Warner",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Subterranean Homesick Blues",
+      "label": "Sony",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Tangled Up In Blue",
+      "label": "Sony",
+      "timeslot": "12:18:00"
+    },
+    {
+      "artist": "JOHN LEE HOOKER",
+      "song": "Baby Lee",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ST. GERMAIN",
+      "song": "Sure Thing",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BEN HARPER",
+      "song": "With My Own Two Hands",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOB MARLEY & THE WAILERS",
+      "song": "One Love",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JAMES BROWN",
+      "song": "Papa's Got A Brand New Bag",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SNOOP DOGGY DOGG",
+      "song": "What's My Name?",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JUNGLE BROTHERS",
+      "song": "Doin' Our Own Dang",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PETE ROCK & C.L. SMOOTH",
+      "song": "They Reminisce Over You",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARRESTED DEVELOPMENT",
+      "song": "Tennessee",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GANG STARR",
+      "song": "Lovesick",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DE LA SOUL",
+      "song": "Say No Go",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NENEH CHERRY",
+      "song": "Buffalo Stance",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Come Into My World",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEEE-LITE",
+      "song": "Groove Is In The Heart",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FATBOY SLIM",
+      "song": "Praise You",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "It's Oh So Quiet",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Sleep To Dream",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SADE",
+      "song": "Smooth Operator",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "Hello Goodbye",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BEATLES",
+      "song": "Penny Lane",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PAUL McCARTNEY & WINGS",
+      "song": "Band On The Run",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Road To Nowhere",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Sabotage",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Devil's Haircut",
+      "label": "Universal (MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PAVEMENT",
+      "song": "Cut Your Hair",
+      "label": "Fellaheen",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Buddy Holly",
+      "label": "Universal (MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Island In The Sun (Spike Jonze version)",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE SHINS",
+      "song": "New Slang",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Karma Police",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Everlong",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Breakout",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Alive",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Last Nite",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WHITE STRIPES",
+      "song": "The Hardest Button To Button",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HOODOO GURUS",
+      "song": "What's My Scene",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SUBLIME",
+      "song": "What I Got",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JACK JOHNSON",
+      "song": "The Horizon Has Been Defeated",
+      "label": "Modular",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JACK JOHNSON",
+      "song": "Wasting Time",
+      "label": "Modular",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JACK JOHNSON",
+      "song": "Sitting, Waiting, Wishing",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JACK JOHNSON with BEN HARPER",
+      "song": "Flake",
+      "label": "Modular",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JACK JOHNSON with BEN STILLER",
+      "song": "Taylor",
+      "label": "Modular",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JACK JOHNSON & G LOVE",
+      "song": "Rainbow",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "G LOVE",
+      "song": "Booty Call",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "G LOVE & SPECIAL SAUCE",
+      "song": "Cold Beverage",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "G LOVE & SPECIAL SAUCE",
+      "song": "Kiss & Tell",
+      "label": "SBME",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DONAVON FRANKENREITER",
+      "song": "Whatcha Know About",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DONAVON FRANKENREITER",
+      "song": "It Don't Matter",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DONAVON FRANKENREITER",
+      "song": "Free",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE JOHN BUTLER TRIO",
+      "song": "Pickapart",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE JOHN BUTLER TRIO",
+      "song": "Better Man",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE JOHN BUTLER TRIO",
+      "song": "Take",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE JOHN BUTLER TRIO",
+      "song": "Home Is Where The Heart Is",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE JOHN BUTLER TRIO",
+      "song": "Zebra",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE JOHN BUTLER TRIO",
+      "song": "Treat Yo Mama",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE JOHN BUTLER TRIO",
+      "song": "What You Want",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE JOHN BUTLER TRIO",
+      "song": "Somethings Gotta Give",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE CAT EMPIRE",
+      "song": "The Car Song",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EELS",
+      "song": "Hey Man (Now You're Really Living)",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ADAM GREEN",
+      "song": "Emily",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE LUCKSMITHS",
+      "song": "The Chapter In Your Life Entitled San Francisco",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "Shut Up",
+      "label": "Warner",
+      "timeslot": "04:30:00",
+      "countdown": 25
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Why Do You Love Me",
+      "label": "Fest/Mush",
+      "timeslot": "05:00:00",
+      "countdown": 24
+    },
+    {
+      "artist": "TAMMIN",
+      "song": "Whatever Will Be",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 23
+    },
+    {
+      "artist": "JENNIFER LOPEZ",
+      "song": "Get Right",
+      "label": "SBME",
+      "timeslot": "05:00:00",
+      "countdown": 22
+    },
+    {
+      "artist": "KELLY CLARKSON",
+      "song": "Since U Been Gone",
+      "label": "BMG",
+      "timeslot": "05:00:00",
+      "countdown": 21
+    },
+    {
+      "artist": "MOUSTACHE featuring MELINDA JACKSON",
+      "song": "Everywhere",
+      "label": "Central Station",
+      "timeslot": "05:00:00",
+      "countdown": 19
+    },
+    {
+      "artist": "TAMARA",
+      "song": "Ooh Aah",
+      "label": "Independent",
+      "timeslot": "05:00:00",
+      "countdown": 18
+    },
+    {
+      "artist": "BODYROCKERS",
+      "song": "I Like The Way You Move",
+      "label": "Universal",
+      "timeslot": "05:00:00",
+      "countdown": 17
+    },
+    {
+      "artist": "NITTY",
+      "song": "Hey Bitty",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 16
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "It's Like That",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 15
+    },
+    {
+      "artist": "BRIAN McFADDEN & DELTA GOODREM",
+      "song": "Almost Here",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 14
+    },
+    {
+      "artist": "JOEL TURNER & THE MODERN DAY POETS",
+      "song": "Funk You Up",
+      "label": "MGM",
+      "timeslot": "05:30:00",
+      "countdown": 13
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Mockingbird",
+      "label": "Universal",
+      "timeslot": "05:30:00",
+      "countdown": 11
+    },
+    {
+      "artist": "P-MONEY & SCRIBE",
+      "song": "Stop The Music",
+      "label": "Fest/Mush",
+      "timeslot": "05:30:00",
+      "countdown": 10
+    },
+    {
+      "artist": "MARIO",
+      "song": "Let Me Love You",
+      "label": "SBME",
+      "timeslot": "05:30:00",
+      "countdown": 9
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "The Special Two",
+      "label": "Virgin",
+      "timeslot": "05:30:00",
+      "countdown": 8
+    },
+    {
+      "artist": "FRANKIE J featuring BABY BASH",
+      "song": "Obsession",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 7
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Girl",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 6
+    },
+    {
+      "artist": "CIARA featuring MISSY ELLIOTT",
+      "song": "1,2 Step",
+      "label": "SBME",
+      "timeslot": "06:00:00",
+      "countdown": 5
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Feel Good Inc.",
+      "label": "EMI",
+      "timeslot": "06:00:00",
+      "countdown": 4
+    },
+    {
+      "artist": "ROB THOMAS",
+      "song": "Lonely No More",
+      "label": "Warner",
+      "timeslot": "06:00:00",
+      "countdown": 3
+    },
+    {
+      "artist": "SNOOP DOGG featuring JUSTIN TIMBERLAKE",
+      "song": "Signs",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 2
+    },
+    {
+      "artist": "WILL SMITH",
+      "song": "Switch",
+      "label": "Universal",
+      "timeslot": "06:00:00",
+      "countdown": 1
+    }
+  ]
+}

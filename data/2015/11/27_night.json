@@ -1,0 +1,633 @@
+{
+  "title": "Friday night 27 November 2015",
+  "special": null,
+  "timeslot": "night",
+  "date": "2015-11-27",
+  "url": "http://www.abc.net.au/rage/archive/s4363797.htm",
+  "tracks": [
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Blackstar",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "MARLON WILLIAMS",
+      "song": "Hello Miss Lonesome",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BRAIDS",
+      "song": "Taste",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SAVAGES",
+      "song": "The Answer",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SOCIETY",
+      "song": "Protocol",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DORNIK",
+      "song": "Strong",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Empty Threat",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "Beeping",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE BASICS",
+      "song": "Time Poor",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "BOOTS",
+      "song": "C.U.R.E.",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "JOEY BADA$$ featuring KIESZA",
+      "song": "Teach Me",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "LOYLE CARNER",
+      "song": "Ain't Nothing Changed",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "PILL",
+      "song": "Hot Glue",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "AUFGANG",
+      "song": "Summer",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE BIG MOON",
+      "song": "Nothing Without You",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Only Friend",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "OSCAR",
+      "song": "Breaking My Phone",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "SHOPPING",
+      "song": "Straight Lines",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "NEON INDIAN",
+      "song": "Slumlord Rising",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HEDGE FUND",
+      "song": "Boyfriend",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "DEERHUNTER",
+      "song": "Living My Life",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "JULIA HOLTER",
+      "song": "Silhouette",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "ELLIE HERRING",
+      "song": "Why'd You",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "REX THE DOG",
+      "song": "Musik Hypnotises",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "L D R U featuring PAIGE IV",
+      "song": "Keeping Score",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "NICOLE MILLAR",
+      "song": "Wait",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "LAZYBOY EMPIRE",
+      "song": "Vampire",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROISIN MURPHY",
+      "song": "Unputdownable",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KATE BOY",
+      "song": "Midnight Sun",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JEFF ROSENSTOCK",
+      "song": "Hall Of Fame",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GUY GARVEY",
+      "song": "Angela's Eyes",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLOC PARTY",
+      "song": "The Love Within",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MOANA",
+      "song": "Elephant Bones",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FLORENCE AND THE MACHINE",
+      "song": "Delilah",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHROMATICS",
+      "song": "Girls Just Wanna Have Some",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MS MR",
+      "song": "Criminals",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BROUS",
+      "song": "The Sound",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Bogan Pride",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KIRIN J CALLINAN ft. CONNAN MOCKASIN",
+      "song": "The Teacher",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SHINING BIRD",
+      "song": "Rivermouth",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AURORA",
+      "song": "Murder Song (5, 4, 3, 2, 1)",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SHAMIR",
+      "song": "In For The Kill",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAC MILLER",
+      "song": "Clubhouse",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PETITE NOIR featuring. BALOJI",
+      "song": "La Vie Est Belle / Life Is Beautiful",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YACHT",
+      "song": "I Thought The Future Would Be Cooler",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR ft. BILAL, ANNA WISE AND THUNDERCAT",
+      "song": "These Walls",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MURA MASA featuring SHURA",
+      "song": "Love For That",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BIG GRAMS",
+      "song": "Fell In The Sun",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MILWAUKEE BANKS",
+      "song": "Faded",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE ACACIA STRAIN",
+      "song": "Send Help",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RATKING",
+      "song": "Invite",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PUSCIFER",
+      "song": "Money Shot",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RADKEY",
+      "song": "Glore",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HEVISAURUS",
+      "song": "Juranoid",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BRING ME THE HORIZON",
+      "song": "True Friends",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LEKIDDO - LORD OF THE LOBSTERS!",
+      "song": "It's Christmas (I Bet You Don't Know What I'll Bring You) (PPkk Remix)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE MEETING TREE",
+      "song": "I Pay My Tax (I Hate Myself)",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE 1975",
+      "song": "Love Me",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Flesh Without Blood",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE PHOENIX FOUNDATION",
+      "song": "Sunbed",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MINI MANSIONS",
+      "song": "Double Visions",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BUSDRIVER",
+      "song": "Much",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE FRATELLIS",
+      "song": "Impostors (Little By Little)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GOOD MORNING",
+      "song": "Time To Try Again",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOM JONES",
+      "song": "Elvis Presley Blues",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WILL BUTLER",
+      "song": "What I Want",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "EZRA FURMAN",
+      "song": "Body Was Made",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE BELLIGERENTS",
+      "song": "Looking At You",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LIME CORDIALE",
+      "song": "Not That Easy",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE GOON SAX",
+      "song": "Sometimes Accidentally",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CRAYON FIELDS",
+      "song": "Love Won't Save You",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "!!!",
+      "song": "Bam City",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SON LITTLE",
+      "song": "Lay Down",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LOWLY",
+      "song": "S.W.I.M.",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JEFF LYNNE'S ELO",
+      "song": "When I Was A Boy",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "A PLACE TO BURY STRANGERS",
+      "song": "Supermaster",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE GARDEN",
+      "song": "Gift",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EATS EVERYTHING featuring. TIGA VS AUDION",
+      "song": "Dancing (Again!)",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "The Night Is On My Side",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LAWRENCE ROTHMAN featuring. CHARLI XCX",
+      "song": "Oz Vs. Eden",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NO JOY",
+      "song": "More Faithful",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NORTH ARM",
+      "song": "Afternoon Sky",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TINPAN ORANGE",
+      "song": "You're Not There",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLAENAVON",
+      "song": "Hell Is My Head",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEAR CRIMINALS",
+      "song": "Drop",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CITIZEN KAY",
+      "song": "Life Gives You Lemons",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TINASHE featuring CHRIS BROWN",
+      "song": "Player",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GALANTIS",
+      "song": "In My Head",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DURAN DURAN ft. NILE RODGERS AND JANELLE MONAE",
+      "song": "Pressure Off",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT featuring PHARRELL WILLIAMS",
+      "song": "WTF (Where They From)",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Alive",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ELIZABETH ROSE",
+      "song": "Shoulda Coulda Woulda",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KLP featuring REMI",
+      "song": "Recover",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Trapdoor",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JACK LADDER THE DREAMLANDERS ft. SHARON VAN ETTE",
+      "song": "To Keep and To Be Kept",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GIDEON BENSEN",
+      "song": "All New Low",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AUTRE NE VEUT",
+      "song": "Age Of Transparency",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FAILURE",
+      "song": "Counterfeit Sky",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "INDIAGO",
+      "song": "Been So Long",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HEVISAURUS",
+      "song": "Juranoid",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CITY CALM DOWN",
+      "song": "Son",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BULLY",
+      "song": "Too Tough",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SARAH BLASKO",
+      "song": "I'd Be Lost",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MY ROBOT FRIEND",
+      "song": "Creep",
+      "label": null,
+      "timeslot": "05:30:00"
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "title": "Saturday night  Saturday, 9 June",
+  "special": "Shaun Micallef guest programs rage",
+  "timeslot": "night",
+  "date": "2012-06-09",
+  "url": "http://www.abc.net.au/rage/archive/s3521248.htm",
+  "tracks": [
+    {
+      "artist": "THE RAMONES",
+      "song": "Pet Sematary",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "London Calling",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Undercover Of The Night",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Freedom Of Choice",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "YELLO",
+      "song": "Oh Yeah",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE B-52S",
+      "song": "Rock Lobster",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "IGGY POP and KATE PIERSON",
+      "song": "Candy",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DUCK SAUCE",
+      "song": "Barbra Streisand",
+      "label": null,
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Da Funk",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE DOORS",
+      "song": "Hello, I Love You (Adam Freeland remix)",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "In Between Days",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ELVIS COSTELLO",
+      "song": "Pump It Up",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "ELVIS vs JXL",
+      "song": "A Little Less Conversation",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "EDWYN COLLINS",
+      "song": "A Girl Like You",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "A View To A Kill",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "A FLOCK OF SEAGULLS",
+      "song": "I Ran",
+      "label": null,
+      "timeslot": "12:00:00"
+    },
+    {
+      "artist": "DEAD OR ALIVE",
+      "song": "You Spin Me Round (Like A Record)",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BILLY IDOL",
+      "song": "White Wedding",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "YES",
+      "song": "Owner Of A Lonely Heart",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "THE CARS",
+      "song": "Hello Again",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "EURYTHMICS",
+      "song": "Would I Lie To You?",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "HUEY LEWIS and THE NEWS",
+      "song": "The Power Of Love",
+      "label": null,
+      "timeslot": "12:30:00"
+    },
+    {
+      "artist": "BILL WYMAN",
+      "song": "Je Suis Un Rock Star",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PSEUDO ECHO",
+      "song": "Funky Town",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MI-SEX",
+      "song": "Computer Games",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LEFTFIELD/LYDON",
+      "song": "Open Up",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SEX PISTOLS",
+      "song": "Pretty Vacant",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE PRETENDERS",
+      "song": "Message Of Love",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "U.S. Forces",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "A Town Called Malice",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE STYLE COUNCIL",
+      "song": "Walls Come Tumbling Down",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE MIGHTY MIGHTY BOSSTONES",
+      "song": "The Impression That I Get",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOM JONES",
+      "song": "Sexbomb",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OLIVIA NEWTON-JOHN",
+      "song": "Heart Attack",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MARILYN",
+      "song": "Calling Your Name",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PLASTIC BERTRAND",
+      "song": "Ca Plane Pour Moi",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TOTO COELO",
+      "song": "I Eat Cannibals",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HAYSI FANTAYZEE",
+      "song": "Shiny Shiny",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Shock The Monkey",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ART OF NOISE",
+      "song": "Dragnet",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "The Living Daylights",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ENYA",
+      "song": "Orinoco Flow",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EUROGLIDERS",
+      "song": "Heaven (Must Be There)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SADE",
+      "song": "Smooth Operator",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SKIPPING GIRL VINEGAR",
+      "song": "Chase The Sun",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "Message To My Girl",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE STRANGLERS",
+      "song": "Golden Brown",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Babooshka",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BANGLES",
+      "song": "Walk Like An Egyptian",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STEPPENWOLF",
+      "song": "Born To Be Wild",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Enter Sandman",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Closer",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CLIFF RICHARD",
+      "song": "The Millennium Prayer",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ELTON JOHN",
+      "song": "I Guess That's Why They Call It The Blues",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "Who Are You",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "Pinball Wizard",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "Barbara Ann",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Jumping Jack Flash",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Can't Always Get What You Want",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Emotional Rescue",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Rip This Joint",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CREAM",
+      "song": "I'm So Glad",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CREAM",
+      "song": "White Room",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ERIC CLAPTON",
+      "song": "Bad Love",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CLIFF RICHARD",
+      "song": "Wired For Sound",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CLIFF RICHARD",
+      "song": "Hey Mr. Dream Maker",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROD STEWART",
+      "song": "Hot Legs",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROD STEWART",
+      "song": "Da' Ya' Think I'm Sexy",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROD STEWART",
+      "song": "Young Turks",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TOM JONES",
+      "song": "Give A Little Love",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TOM JONES",
+      "song": "If I Only Knew",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "Us And Them",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Stairway To Heaven",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "Absolute Beginners",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Angel Of Harlem",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Where The Streets Have No Name",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Lemon",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANNIE LENNOX",
+      "song": "No More I Love You's",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANNIE LENNOX",
+      "song": "Why",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ANNIE LENNOX",
+      "song": "Little Bird",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BOB GELDOF",
+      "song": "The Great Song Of Indifference",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "Waterloo Sunset",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "Mr Pleasant",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "To The Bone",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Spirits In The Material World",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Can't Stand Losing You",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STING",
+      "song": "If You Love Someone Set Them Free",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Virginia Plain",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BRYAN FERRY",
+      "song": "A Hard Rains A-Gonna Fall",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BRYAN FERRY",
+      "song": "Slave To Love",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BRYAN FERRY",
+      "song": "Let's Stick Together",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ELTON JOHN",
+      "song": "Club At The End Of The Street",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ELTON JOHN",
+      "song": "I'm Still Standing",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ELTON JOHN",
+      "song": "Nikita",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "I Want To Break Free",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Hammer To Fall",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "QUEEN featuring DAVID BOWIE",
+      "song": "Under Pressure",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Stayin' Alive",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "More Than A Woman",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Spics and Specks",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PETULA CLARK",
+      "song": "Downtown",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SHIRLEY BASSEY and THE AWAYTEAM",
+      "song": "Where Do I Begin",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SHIRLEY BASSEY",
+      "song": "Something",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PROPELLERHEADS featuring SHIRLEY BASSEY",
+      "song": "History Repeating",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE STYLE COUNCIL",
+      "song": "Shout To The Top",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE BOOMTOWN RATS",
+      "song": "I Don't Like Mondays",
+      "label": null,
+      "timeslot": "06:00:00"
+    }
+  ]
+}
