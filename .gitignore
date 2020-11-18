@@ -1,2 +1,9 @@
 target/
-data/
+node_modules/
+dist/
+
+.env
+
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
