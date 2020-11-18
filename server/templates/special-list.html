@@ -1,0 +1,9 @@
+<div id="specials" style="display:none">
+  {% for playlist in specials %}
+    <p>
+      <a href="#/episode/{{ playlist.id }}/1" class="playlist" data-playlist_id="{{ playlist.id }}">
+        {{ playlist.special.clone().unwrap_or_default()|special_title_format }}
+      </a>
+    </p>
+  {% endfor %}
+</div>
