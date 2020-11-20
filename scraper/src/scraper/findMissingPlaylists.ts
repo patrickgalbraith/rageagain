@@ -1,9 +1,9 @@
 import fs from 'fs'
 import { promisify } from "util"
 import * as chrono from 'chrono-node'
-import { DATA_INDEX_PATH } from "./Constants"
-import { ArchivePlaylist, DataIndex } from './Types'
-import { scrapeMonth } from './RageArchiveScraper'
+import { DATA_INDEX_PATH } from "../Constants"
+import { ArchivePlaylist, DataIndex } from '../Types'
+import { scrapeMonth } from './scrapeMonthlyArchives'
 
 const readFile = promisify(fs.readFile)
 
@@ -11,7 +11,7 @@ const readFile = promisify(fs.readFile)
  * Finds the latest playlist in the index.json and
  * then attempts to scrape any new playlists.
  */
-export const findMissingPlaylists = async () => {
+const findMissingPlaylists = async () => {
   const result: ArchivePlaylist[] = []
   const index: DataIndex = JSON.parse(await readFile(DATA_INDEX_PATH, 'utf8'))
 
@@ -30,7 +30,7 @@ export const findMissingPlaylists = async () => {
   // loop if for some reason the external server returns
   // a valid response for any request (which isn't likely
   // but stranger things have happened).
-  for (let i = 0; i <= 2; i++) {
+  for (let i = 0; i <= 40; i++) {
     const playlists = await scrapeMonth(currentDate.getFullYear(), currentDate.getMonth() + 1)
 
     if (!playlists.length)
@@ -46,3 +46,5 @@ export const findMissingPlaylists = async () => {
 
   return result
 }
+
+export default findMissingPlaylists

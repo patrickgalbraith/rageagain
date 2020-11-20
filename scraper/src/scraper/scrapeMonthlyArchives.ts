@@ -1,7 +1,7 @@
 import cheerio from 'cheerio'
 import * as chrono from 'chrono-node'
-import { downloadPage } from './Helpers'
-import { ArchivePlaylist } from './Types'
+import downloadPage from '../lib/downloadPage'
+import { ArchivePlaylist } from '../Types'
 
 /**
  * Downloads HTML of archive page.
@@ -30,26 +30,41 @@ export const getArchiveHTML = async (year: number, month: number) => {
 }
 
 /**
- * Removes prefix from title string.
- * E.g. for 'Saturday morning 20th January 2018 on ABC' removes 'Saturday morning'
+ * Removes garbage from title string.
+ * E.g. 'Saturday morning 20th January 2018 on ABC'
+ *      converts to 'saturday 20th january 2018'
  * @param str
  */
-const stripDatePrefix = (str: string) => {
+const cleanDate = (str: string) => {
   str = str.toLowerCase()
+           .replace(/ ?night ?/, ' ')
+           .replace(/ ?morning ?/, ' ')
 
-  if (str.includes('morning'))
-    return str.substring(str.indexOf('morning') + 'morning'.length).trim()
-  else if (str.includes('night'))
-    return str.substring(str.indexOf('night') + 'night'.length).trim()
+  if (str.includes(' on'))
+    str = str.substring(0, str.indexOf(' on'))
+
+  // There a couple of invalid playlist titles that only contain a timeslot
+  if (/[0-9]+:[0-9]+[ap]m - [0-9]+:[0-9]+[ap]m/.test(str))
+    return null
 
   return str
+}
+
+/**
+ * Attempts to extract date from playlist title string.
+ * @param str Playlist title string.
+ * @param referenceDate Used for relative dates.
+ */
+export const parseDate = (str: string, referenceDate?: Date) => {
+  const cleanStr = cleanDate(str)
+  return cleanStr ? chrono.parseDate(cleanStr, referenceDate) : null
 }
 
 /**
  * Extracts data from archive page HTML.
  * @param html Archive page HTML
  */
-export const extractData = (html: string) => {
+export const extractData = (html: string, referenceDate: Date) => {
   const result: ArchivePlaylist[] = []
 
   const $ = cheerio.load(html)
@@ -67,7 +82,10 @@ export const extractData = (html: string) => {
 
     const special = /am|pm$/gi.test(teaserText) ? null : teaserText
 
-    const date = chrono.parseDate(stripDatePrefix(title))
+    const date = parseDate(title, referenceDate)
+
+    if (!date)
+      return console.error(`No date found for playlist "${title}"`)
 
     result.push({
       title,
@@ -92,5 +110,5 @@ export const scrapeMonth = async (year: number, month: number): Promise<ArchiveP
   if (!html.trim())
     return []
 
-  return extractData(html)
+  return extractData(html, new Date(year, month - 1, 1, 0, 0, 0, 0))
 }

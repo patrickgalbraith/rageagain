@@ -1,13 +1,10 @@
 import cheerio from 'cheerio'
-import { downloadPage } from './Helpers'
-import { PlaylistTrack } from './Types'
+import { militaryTime } from '../lib/DateHelpers'
+import downloadPage from '../lib/downloadPage'
+import { parseTrackString, stripParens } from '../lib/StringParsers'
+import { PlaylistTrack } from '../Types'
 
-const stripParens = (str: string | null | undefined) => {
-  const res = str?.match(/\((.*)\)/)
-  return res && res.length > 1 && res[1] ? res[1] : null
-}
-
-const scraperV1 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistTrack[] => {
+export const scraperV1 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistTrack[] => {
   const tracks: PlaylistTrack[] = []
 
   const $ps = $article.children('p')
@@ -34,7 +31,7 @@ const scraperV1 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistTrack[] 
         artist,
         song,
         label,
-        timeslot
+        timeslot: militaryTime(timeslot) ?? ''
       })
 
       $item = $item.nextAll('strong').first()
@@ -44,7 +41,7 @@ const scraperV1 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistTrack[] 
   return tracks
 }
 
-const scraperV2 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistTrack[] => {
+export const scraperV2 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistTrack[] => {
   const tracks: PlaylistTrack[] = []
   const $headings = $article.find('h2')
 
@@ -68,17 +65,28 @@ const scraperV2 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistTrack[] 
 
     $lis.toArray().forEach(li => {
       const $li = $(li)
-      const artist = $li.find('strong').text().trim()
-      const song = $li.find('em').text().trim()
+      let artist = $li.find('strong').text().trim()
+      let song = $li.find('em').text().trim()
 
       // Find last non-empty child text node
-      const label = findLabel($li[0].children)
+      let label = findLabel($li[0].children)
+
+      // Fallback to text parser for some older pages.
+      // For an example of a page that needs this see:
+      // https://www.abc.net.au/rage/playlist/friday-night-4-may-2018-on-abc/9758698
+      if (!artist || !song) {
+        const result = parseTrackString($li.text())
+
+        artist = result.artist
+        song = result.song
+        label = result.label
+      }
 
       tracks.push({
         artist,
         song,
         label,
-        timeslot
+        timeslot: militaryTime(timeslot) ?? ''
       })
     })
   })
