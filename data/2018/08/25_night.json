@@ -1,0 +1,621 @@
+{
+  "title": "Saturday night 25 August 2018 on ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2018-08-25",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-august-2018-on-abc/10162376",
+  "tracks": [
+    {
+      "artist": "PRINCE",
+      "song": "Let's Go Crazy",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Alphabet St.",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CHAKA KHAN",
+      "song": "I Feel For You",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "HERBIE HANCOCK",
+      "song": "Rockit",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "No Secrets (Live at the Countdown Awards, 1983)",
+      "label": "Epic",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Dirty Deeds Done Dirt Cheap",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE DEAD KENNEDYS - LIVE",
+      "song": "Holiday In Cambodia",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SUICIDAL TENDENCIES",
+      "song": "Institutionalized",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "VAN HALEN",
+      "song": "Panama",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAVID LEE ROTH",
+      "song": "Yankee Rose",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METALLICA - LIVE",
+      "song": "Master Of Puppets",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Angel Of Death (Live)",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "YNGWIE MALMSTEEN",
+      "song": "I'll See The Light Tonight",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Hot Dog",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Sure Know Something",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "N.W.A",
+      "song": "Express Yourself",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Been Caught Stealing",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Stop",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Rusty Cage",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRIMUS",
+      "song": "Tommy The Cat",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MR BUNGLE",
+      "song": "Quote Unquote",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "In Every Dream Home A Heartache",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "POWDERFINGER",
+      "song": "Tail",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PANGAEA",
+      "song": "Colossus",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RESIN DOGS",
+      "song": "Q-Kumbers",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Gratitude",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Three MC's & One DJ",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Award Tour",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLACK SHEEP",
+      "song": "Flavor Of The Month",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PHARCYDE",
+      "song": "Runnin'",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ERIC B & RAKIM",
+      "song": "Follow The Leader",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ERIC B & RAKIM",
+      "song": "Don't Sweat The Technique",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "By The Time I Get To Arizona",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FISHBONE",
+      "song": "Fight The Youth",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WARREN G & NATE DOGG",
+      "song": "Regulate",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ICE CUBE",
+      "song": "It Was A Good Day",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PARLIAMENT",
+      "song": "Do That Stuff",
+      "label": "Universal (MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JACKSON 5",
+      "song": "I Want You Back",
+      "label": "Motown",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Killing In The Name",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Run To The Hills",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AMON AMARTH",
+      "song": "Twilight Of The Thunder God",
+      "label": "Stomp",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DRAGONFORCE",
+      "song": "Through The Fire And Flames",
+      "label": "Roadrunner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Digging The Grave",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Du Hast",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "No One Knows",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FRENZAL RHOMB",
+      "song": "Punch In The Face",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KING PARROT",
+      "song": "Shit On The Liver",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Everlong",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "N*E*R*D",
+      "song": "Lap Dance",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HANSON",
+      "song": "Penny and Me",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HANSON",
+      "song": "This Time Around",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CARLY RAE JEPSEN",
+      "song": "Call Me Maybe",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS featuring THE FLAMING LIPS",
+      "song": "The Golden Path",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Heroes",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NOTORIOUS B.I.G.",
+      "song": "Hypnotize",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "99 Problems",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "The New Workout Plan",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Humble",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHILDISH GAMBINO",
+      "song": "This Is America",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "King Kunta",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE FLAMING LIPS",
+      "song": "Do You Realize?? (Band version)",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FLORENCE & THE MACHINE",
+      "song": "Dog Days Are Over",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LUTHER VANDROSS",
+      "song": "Never Too Much",
+      "label": "Epic",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KESHA",
+      "song": "This Is Me",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TYLER, THE CREATOR",
+      "song": "See You Again",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DRAM",
+      "song": "Best Hugs",
+      "label": "Atlantic",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LOGIC ft. RYAN TEDDER",
+      "song": "One Day",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "E^ST",
+      "song": "I Don't Lack Imagination",
+      "label": "Fueled By Ramen",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THELMA PLUM",
+      "song": "Clumsy Love",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE BEVERLY CHILLS",
+      "song": "No Friends",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SPORTS TEAM",
+      "song": "Margate",
+      "label": "Holm Front",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE KITE STRING TANGLE",
+      "song": "The Heights Of Trees",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MANCHESTER ORCHESTRA",
+      "song": "Simple Math",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JON HOPKINS",
+      "song": "Emerald Rush",
+      "label": "Domino",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAMIE XX",
+      "song": "Gosh",
+      "label": "XL / Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Ghosts",
+      "label": "Modular",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "VAN SHE",
+      "song": "Idea Of Happiness",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MODERAT",
+      "song": "Bad Kingdom",
+      "label": "Monkeytown Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BONOBO",
+      "song": "Cirrus",
+      "label": "Ninja Tune",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MAX COOPER",
+      "song": "Hope",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KITE STRING TANGLE, THE ft. AALIAS",
+      "song": "Give It Time",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "With The One I Love",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NEIL AND LIAM FINN",
+      "song": "Anger Plays A Part",
+      "label": "PIAS Australia",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LOSER",
+      "song": "Loser",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KIRA PURU",
+      "song": "Molotov (censored version)",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CUCO ft. J-KWE$T",
+      "song": "Summertime Hightime (censored version)",
+      "label": "Audiotree",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "REGURGITATOR",
+      "song": "Roxx For Brains (censored version)",
+      "label": "Valve",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Feeling Good, Feeling Great (censored version)",
+      "label": "I OH YOU",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LOOSE TOOTH",
+      "song": "All The Colours Gone",
+      "label": "Milk! Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Martini",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SUPERORGANISM",
+      "song": "The Prawn Song",
+      "label": "Domino",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "STANDING ON THE CORNER",
+      "song": "SahBabii /\\ Now, Nation End, 38:15",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TYLER, THE CREATOR",
+      "song": "See You Again (censored version)",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TKAY MAIDZA ft. DUCKWRTH",
+      "song": "Flexin (censored version)",
+      "label": "Dew Process",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "B WISE",
+      "song": "Actin' Different",
+      "label": "Elefant Traks",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TRAVIS SCOTT",
+      "song": "Stop Trying To Be God (censored version)",
+      "label": "Good Music",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CONNAN MOCKASIN",
+      "song": "Con Conn Was Impatient",
+      "label": "Mexican Summer",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MAGGIE ROGERS",
+      "song": "Give A Little",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MALLRAT",
+      "song": "Groceries",
+      "label": "Dew Process",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "OLYMPIA",
+      "song": "Star City",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Great",
+      "label": "Pod",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CHVRCHES ft. WEDNESDAY CAMPANELLA",
+      "song": "Out Of My Head",
+      "label": "Glassnote Records",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

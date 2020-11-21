@@ -1,0 +1,627 @@
+{
+  "title": "Saturday night 19th August 2017 on ABC",
+  "special": "Corey Taylor",
+  "timeslot": "night",
+  "date": "2017-08-19",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-19th-august-2017-on-abc/9645402",
+  "tracks": [
+    {
+      "artist": "STONE SOUR",
+      "song": "Hesitate",
+      "label": "Roadrunner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ANTHRAX and PUBLIC ENEMY",
+      "song": "Bring Tha Noise",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "HOUSE OF PAIN",
+      "song": "Shamrock and Shenanigans",
+      "label": "Mushroom",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ICE-T",
+      "song": "Colors",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "Train In Vain",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ROD STEWART",
+      "song": "Hot Legs",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Paradise City",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "Come To Daddy",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Repentless",
+      "label": "Nuclear Blast",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Chase Is Better Than The Catch",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE DAMNED",
+      "song": "Smash It Up",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MINISTRY",
+      "song": "Stigmata",
+      "label": "Sire Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MOJO NIXON and SKID ROPER",
+      "song": "Elvis Is Everywhere",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MACHINE HEAD",
+      "song": "Davidian",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Midlife Crisis",
+      "label": "Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "AUDIOSLAVE",
+      "song": "Cochise",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Rear View Mirror",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "We Die Young",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JANE'S ADDICTION",
+      "song": "Mountain Song",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE DATSUNS",
+      "song": "MF From Hell",
+      "label": "Remote Control",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BLACK CROWES",
+      "song": "Remedy",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE HIVES",
+      "song": "Two Timing Touch And Broken Bones",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RIVAL SONS",
+      "song": "Open My Eyes",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KAISER CHIEFS",
+      "song": "I Predict A Riot",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Stockholm Syndrome",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "The Trooper",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Blow Your Trumpets Gabriel",
+      "label": "Nuclear Blast",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "N*E*R*D",
+      "song": "Lap Dance",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Shake Your Rump",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "99 Problems",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ICE CUBE",
+      "song": "Wicked",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RATT",
+      "song": "Round and Round",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Wild Side",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SKID ROW",
+      "song": "18 + Life",
+      "label": "Atlantic",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DAVID LEE ROTH",
+      "song": "Yankee Rose",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "Wish",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "Man That You Fear",
+      "label": "Universal (MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Moth Into Flame",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "It's A Long Way To The Top",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FLEETWOOD MAC",
+      "song": "The Chain",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Superstition",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "Song #3",
+      "label": "Roadrunner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "Fabuless",
+      "label": "Roadrunner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "Tired",
+      "label": "Roadrunner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "Digital",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "Say You'll Haunt Me",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "Zzyzx Rd.",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "Through Glass",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "30/30 150",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "Bother",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STONE SOUR",
+      "song": "Get Inside",
+      "label": "Roadrunner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Wait and Bleed",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Spit It Out",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Left Behind",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "My Plague",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Duality",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Vermilion",
+      "label": "Roadshow",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "The Nameless",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "The Blister Exists",
+      "label": "Roadrunner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Before I Forget",
+      "label": "Roadrunner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Psychosocial",
+      "label": "Roadrunner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Dead Memories",
+      "label": "Roadrunner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Sulfur",
+      "label": "Roadrunner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Snuff",
+      "label": "Roadrunner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "The Negative One",
+      "label": "Roadrunner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "The Devil In I",
+      "label": "Roadrunner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Killpop",
+      "label": "Roadrunner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "XIX",
+      "label": "Roadrunner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALEX CAMERON ft. ANGEL OLSEN",
+      "song": "Stranger's Kiss",
+      "label": "Secretly Canadian",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PAUL KELLY",
+      "song": "Firewood And Candles",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALEX LAHEY",
+      "song": "Every Day's The Weekend",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LUNICE ft. DENZEL CURRY, JK THE REAPER AND NELL",
+      "song": "Distrust",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TYLER, THE CREATOR",
+      "song": "Who Dat Boy",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Yanada",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAN SULTAN",
+      "song": "Kingdom (Live)",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CREASES",
+      "song": "Is It Love",
+      "label": "Cooking Vinyl",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AMY SHARK",
+      "song": "Drive You Mad",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THESE NEW SOUTH WHALES",
+      "song": "Space In Hell",
+      "label": "Cooking Vinyl",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WOMBATS, THE - LIVE ON TRIPLE J TV",
+      "song": "Moving To New York",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MIIKE SNOW",
+      "song": "Genghis Khan",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DRAKE",
+      "song": "Hotline Bling",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANCIS AND THE LIGHTS ft. BON IVER AND KANYE WEST",
+      "song": "Friends",
+      "label": "Good Music",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "Ready To Start",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Digital Love",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "STROMAE",
+      "song": "Papaoutai",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "Fall At Your Feet",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Gamma Ray",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Kill The Director",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN ft. ALEX CAMERON, _and_ JIMMY BARNES",
+      "song": "Big Enough",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Shred For Summer",
+      "label": "I OH YOU",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OKENYO",
+      "song": "Woman's World",
+      "label": "Elefant Traks",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ECCA VANDAL",
+      "song": "Broke Days Party Nights",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CITIZEN KAY ft. MONDECREEN",
+      "song": "Static",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HAMJAM",
+      "song": "Sippin' Rose All Alone",
+      "label": "Bedroom Suck",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TOUCH SENSITIVE",
+      "song": "Lay Down",
+      "label": "Future Classic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SNEAKY SOUND SYSTEM",
+      "song": "Do Ya Thing",
+      "label": "Sweat It Out",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHAPEL",
+      "song": "Do The Marino",
+      "label": "Dew Process",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FATHER JOHN MISTY",
+      "song": "Things It Would Have Been Helpful To Know Before The Revolution",
+      "label": "Inertia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Strobelite",
+      "label": "Parlophone",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "J HUS",
+      "song": "Spirit",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GANG OF YOUTHS",
+      "song": "The Deepest Sighs, The Frankest Shadows",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GOLD CLASS",
+      "song": "Get Yours",
+      "label": "Remote Control",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Rainbow City",
+      "label": "Ivy League",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "title": "Saturday night 13th May 2017 on ABC",
+  "special": "Kingswood",
+  "timeslot": "night",
+  "date": "2017-05-13",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-13th-may-2017-on-abc/9645666",
+  "tracks": [
+    {
+      "artist": "KINGSWOOD",
+      "song": "Creepin",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Bohemian Rhapsody",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SEAL",
+      "song": "Kiss From A Rose",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CREAM",
+      "song": "White Room",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Ms Jackson",
+      "label": "BMG",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ICE CUBE",
+      "song": "Why We Thugs",
+      "label": "Virgin",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SNOOP DOGG featuring PHARRELL",
+      "song": "Drop It Like It's Hot",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Love In An Elevator",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Smooth Sailing",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FRENZAL RHOMB",
+      "song": "Never Had So Much Fun",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MIIKE SNOW",
+      "song": "Genghis Khan",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "HUNTING GROUNDS",
+      "song": "Flaws",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GUNG HO",
+      "song": "Strangers",
+      "label": "Create Control",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE BELLIGERENTS",
+      "song": "Looking At You",
+      "label": "Footstomp",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "STICKY FINGERS",
+      "song": "Caress Your Soul",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "RAZORLIGHT",
+      "song": "Golden Touch",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DMA's",
+      "song": "Lay Down",
+      "label": "I OH YOU",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "R U Mine",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Saturday Night",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Message In A Bottle",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "TLC",
+      "song": "Waterfalls",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "D'ANGELO",
+      "song": "Brown Sugar",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SOLANGE",
+      "song": "Losing You",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER - LIVE",
+      "song": "Superstition",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE TEMPTATIONS",
+      "song": "All I Want From You",
+      "label": "Motown",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "The Suburbs",
+      "label": "Spunk/EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Paranoid Android",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AUDIOSLAVE",
+      "song": "Like A Stone",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "Stagger Lee",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "No Pussy Blues",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLACK REBEL MOTORCYCLE CLUB",
+      "song": "Ain't No Easy Way",
+      "label": "SBME",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Thriller",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Intergalactic",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "The Real Slim Shady",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JAY-Z",
+      "song": "99 Problems",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Harder Than You Think (Dehasse Remix)",
+      "label": "Central Station",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MARLON WILLIAMS",
+      "song": "Hello Miss Lonesome",
+      "label": "Caroline",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CREEDENCE CLEARWATER REVIVAL",
+      "song": "Looking Out My Back Door",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAY CHARLES AND THE BLUES BROTHERS",
+      "song": "Shake Your Tailfeather",
+      "label": "Atlantic",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN - LIVE AT SYDNEY SHOWGROUND 1972",
+      "song": "Immigrant Song",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Brown Sugar",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STEPPENWOLF",
+      "song": "Born To Be Wild",
+      "label": "S.Y.A.P",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "The Scientist",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FIRST AID KIT",
+      "song": "Wolf",
+      "label": "Liberator",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOHN MAYER",
+      "song": "Daughters",
+      "label": "SBME",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROBERT PLANT and ALISON KRAUSS",
+      "song": "Please Read The Letter",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Dani California",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "POWDERFINGER",
+      "song": "The Day You Come",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "POWDERFINGER",
+      "song": "These Days (Live, 2007)",
+      "label": "Dew Process/UMA",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Chandelier",
+      "label": "Inertia Recordings / Monkey Puzzle",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Let It Happen",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KING GIZZARD AND THE LIZARD WIZARD",
+      "song": "Cellophane",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Ohio",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Yeah Go Die",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Medusa",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "She's My Baby",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Micro Wars",
+      "label": "Dew Process",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Sucker Punch",
+      "label": "Dew Process",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "ICFTYDLM (I Can Feel That You Don't Love Me)",
+      "label": "Dew Process",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Golden",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FUTURE",
+      "song": "Mask Off",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALI BARTER",
+      "song": "Please Stay",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BISHOP BRIGGS",
+      "song": "The Way I Do",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Ghost Of A Chance",
+      "label": "Epitaph Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SORORITY NOISE",
+      "song": "No Halo",
+      "label": "Cooking Vinyl",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FALL OUT BOY",
+      "song": "Young And Menace",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GEORGE MAPLE",
+      "song": "Kryptonite",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELKO FIELDS",
+      "song": "Never Slow Down",
+      "label": "Footstomp",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HIGH TROPICS",
+      "song": "15 Years",
+      "label": "Footstomp",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PANAMA",
+      "song": "Hope For Something",
+      "label": "Future Classic",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KIRIN J CALLINAN",
+      "song": "S.A.D.",
+      "label": "Tri Angle",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SLOTFACE",
+      "song": "Empire Records",
+      "label": "Caroline",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DUNE RATS",
+      "song": "Braindead",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Paint Me Silver",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Right Now",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AKOUO ft. MONTAIGNE",
+      "song": "Feel That",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Fire Fire Fire",
+      "label": "SpeaknSpell",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TEX PERKINS",
+      "song": "I Know Y'Know I Know",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALEX CAMERON",
+      "song": "Mongrel",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LINDSEY BUCKINGHAM",
+      "song": "Trouble",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ST. VINCENT",
+      "song": "Cruel",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLOOD ORANGE",
+      "song": "Augustine",
+      "label": "Domino",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JACK LADDER and THE DREAMLANDERS",
+      "song": "Cold Feet",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "If I Know You",
+      "label": "Modular",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TENNIS",
+      "song": "Mean Streets",
+      "label": "Communion",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JAMIE XX",
+      "song": "Gosh",
+      "label": "Young Turks / Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAPPLED CITIES",
+      "song": "Stone Men",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FOOD COURT",
+      "song": "Slightest Brightest",
+      "label": "Dine Alone / Cooking Vinyl",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KING GIZZARD _and_ THE LIZARD WIZARD",
+      "song": "Han-Tyumi _and_ The Murder Of The Universe",
+      "label": "Flightless / Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAGIC BONES",
+      "song": "Hotter Than The Sun",
+      "label": "Habit?",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE GOODS",
+      "song": "Make Your Move",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LITTLE DRAGON",
+      "song": "Celebrate",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "Divided",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LUPA J",
+      "song": "Put Me Back Together",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TASH SULTANA",
+      "song": "Murder To The Mind",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LIL YACHTY",
+      "song": "Bring It Back",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JAPANESE BREAKFAST",
+      "song": "Machinist",
+      "label": "Dead Oceans",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN",
+      "song": "Bravado",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Rainbow City",
+      "label": "Ivy League",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

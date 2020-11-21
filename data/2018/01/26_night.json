@@ -1,0 +1,501 @@
+{
+  "title": "Friday night 26th January 2018 on ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2018-01-26",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-26th-january-2018-on-abc/9637712",
+  "tracks": [
+    {
+      "artist": "THE FALL",
+      "song": "Victoria",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE FALL",
+      "song": "Why Are People Grudgeful",
+      "label": "Fest/Mush",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE FALL",
+      "song": "Wings",
+      "label": "Fest/Mush",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Fix Me",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JARROW",
+      "song": "Emoji",
+      "label": "Barely Dressed",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MONTERO",
+      "song": "Running Race",
+      "label": "Chapter Music",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BLAND",
+      "song": "Couch",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BAKER BOY",
+      "song": "Marryuna",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DUCKWRTH",
+      "song": "Michuul",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YOUNG FATHERS",
+      "song": "In My View",
+      "label": "Ninja Tune",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Get Out Of Your Own Way",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FALL OUT BOY",
+      "song": "Wilson (Expensive Mistakes)",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "song": "Polygraph Eyes",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE VACCINES",
+      "song": "I Can't Quit",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WHAT SO NOT ft. DANIEL JOHNS",
+      "song": "Be Ok Again",
+      "label": "Sweat It Out",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KILTER ft. GILL BATES",
+      "song": "No Games",
+      "label": "Etc Etc",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLAUE BLUME",
+      "song": "Ebony",
+      "label": "Hafendisko",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SZA",
+      "song": "The Weekend",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BRUNO MARS & CARDI B",
+      "song": "Finesse",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JAY-Z ft. BEYONCE",
+      "song": "Family Feud",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR ft. ZACARI",
+      "song": "Love.",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "INSECURE MEN",
+      "song": "Teenage Toy",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SUNSCREEN",
+      "song": "Tide",
+      "label": "Spunk",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Good Guys Go",
+      "label": "Network Music",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ENDLESS HEIGHTS",
+      "song": "Come A Little Closer",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JESS LOCKE",
+      "song": "Dangerous",
+      "label": "Pool House Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DREAM WIFE",
+      "song": "Hey Heartbreaker",
+      "label": "Pod",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SUPERORGANISM",
+      "song": "Everybody Wants To Be Famous",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "VANCE JOY",
+      "song": "We're Going Home",
+      "label": "Liberation",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "When You Die",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK MURPHY",
+      "song": "Missing Link",
+      "label": "Future Classic",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JUSTIN TIMBERLAKE",
+      "song": "Filthy",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MALLRAT",
+      "song": "Better",
+      "label": "Dew Process",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALICE IVY ft. CAVEAUX O.S.L.O. & TIM DE COTTA",
+      "song": "Be Friends",
+      "label": "Dew Process",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Do What You Want",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "QUAVO ft. NICKI MINAJ",
+      "song": "She For Keeps",
+      "label": "Quality Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "IMBI THE GIRL",
+      "song": "V.I.P.",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MISS BLANKS",
+      "song": "Haters",
+      "label": "Dew Process",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "G-EAZY",
+      "song": "No Limit (Remix) ft. A$AP ROCKY, CARDI B, FRENCH MONTANA, JUICY J & BELLY",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STRONG ASIAN MOTHERS",
+      "song": "Hard To Find",
+      "label": "Old Money Land Money Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KATZ ft. CHARLIE LIM",
+      "song": "Hollow",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MACHINE HEAD",
+      "song": "Kaleidoscope",
+      "label": "Nuclear Blast",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MINISTRY",
+      "song": "Antifa",
+      "label": "Nuclear Blast",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DON BROCO",
+      "song": "Come Out To LA",
+      "label": "Sharptone",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PHIL CAMPBELL AND THE BASTARD SONS",
+      "song": "Welcome To Hell",
+      "label": "Nuclear Blast",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAMMERS",
+      "song": "Dead Set",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CURRENTS",
+      "song": "Delusion",
+      "label": "Sharptone",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ZEFERELI",
+      "song": "We're Gonna Get There Someday",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FIRST AID KIT",
+      "song": "Fireworks",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COMMON HOLLY",
+      "song": "Nothing",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TUNE-YARDS",
+      "song": "Heart Attack",
+      "label": "4AD",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE BABE RAINBOW",
+      "song": "Monky Disco",
+      "label": "Flightless",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U.S. GIRLS",
+      "song": "Pearly Gates",
+      "label": "4AD",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Arisen My Senses",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CHRIS CARTER",
+      "song": "Blissters",
+      "label": "Pod",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NULL+VOID ft. THE BIG PINK",
+      "song": "Take It Easy",
+      "label": "HFN Music",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DIPLO ft. MO",
+      "song": "Get It Right",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "POTBELLEEZ",
+      "song": "Keep On Loving",
+      "label": "Hussle",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Go Bang",
+      "label": "Etc Etc",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Like A Motherless Child",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MYSTERY SKULLS",
+      "song": "Endlessly",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FUTURE ISLANDS",
+      "song": "Beauty Of The Road",
+      "label": "4AD",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BORNEO",
+      "song": "Only One",
+      "label": "Habit Music",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CITY CALM DOWN",
+      "song": "In This Modern Land",
+      "label": "I OH YOU",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DANIEL TRAKELL",
+      "song": "Paradise",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RISE AGAINST",
+      "song": "House On Fire",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "STUCK OUT",
+      "song": "Fade Away",
+      "label": "Greyscale Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Fire In The Water",
+      "label": "Spinning Top",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CAR SEAT HEADREST",
+      "song": "Nervous Young Inhumans",
+      "label": "Matador Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TROYE SIVAN",
+      "song": "My My My!",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT ft. ED SHEERAN & FUTURE",
+      "song": "End Game",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "EMINEM ft. BEYONCE",
+      "song": "Walk On Water (censored)",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RUN THE JEWELS",
+      "song": "Call Ticketron (clean)",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Feel The Love Go",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JACK WHITE",
+      "song": "Connected By Love",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MARLON WILLIAMS",
+      "song": "What's Chasing You",
+      "label": "Caroline",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DENT MAY",
+      "song": "90210",
+      "label": "Paw Tracks",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CULTS",
+      "song": "Right Words / Natural State",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JAI WOLF ft. MR. GABRIEL",
+      "song": "Starlight",
+      "label": "Pod",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CAITI BAKER",
+      "song": "Rough Old Town",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE WEDNESDAY NIGHT",
+      "song": "Down In The Water",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TOTALLY MILD",
+      "song": "Lucky Stars",
+      "label": "Chapter Music",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

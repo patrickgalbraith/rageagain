@@ -1,0 +1,501 @@
+{
+  "title": "Saturday night 23 March 2019 on ABC (excluding NSW)",
+  "special": null,
+  "timeslot": "night",
+  "date": "2019-03-23",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-march-2019-on-abc-(excluding-nsw)/10931720",
+  "tracks": [
+    {
+      "artist": "BEHEMOTH",
+      "song": "Bartzabel",
+      "label": "EVP",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Killed By Death",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Bomber",
+      "label": "Fest/Mush",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Painkiller",
+      "label": "CBS",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DIO",
+      "song": "King Of Rock And Roll",
+      "label": "Polydor",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KING DIAMOND",
+      "song": "Welcome Home",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Dirty Deeds Done Dirt Cheap",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Be Quick Or Be Dead",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Wild Side",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ACCEPT",
+      "song": "Balls To The Wall",
+      "label": "SBME",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Unholy",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LAIBACH",
+      "song": "The Final Countdown",
+      "label": "Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LINDEMANN",
+      "song": "Praise Abort",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GHOST",
+      "song": "Rats",
+      "label": "Loma Vista",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Hardwired",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Repentless",
+      "label": "Nuclear Blast",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MACHINE HEAD",
+      "song": "Aesthetics Of Hate",
+      "label": "Roadrunner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Psychosocial",
+      "label": "Roadrunner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KVELERTAK",
+      "song": "Bruane Brenn",
+      "label": "Roadrunner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KREATOR",
+      "song": "Betrayer",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EXODUS",
+      "song": "Blood In, Blood Out",
+      "label": "Nuclear Blast",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GOREFEST",
+      "song": "For The Masses",
+      "label": "Riot",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Communication Breakdown",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "School's Out",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Dude (Looks Like A Lady)",
+      "label": "CBS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MICK JAGGER and LENNY KRAVITZ",
+      "song": "God Gave Me Everything",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KING KURT",
+      "song": "America",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Down In A Hole",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LIFE OF AGONY",
+      "song": "Weeds",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE HELLACOPTERS",
+      "song": "Everything's On TV",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "21st Century (Digital Boy)",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIE ANTWOORD",
+      "song": "Enter The Ninja",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "Personal Jesus",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Paparazzi",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Justify My Love",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KILLING JOKE",
+      "song": "Love Like Blood",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Babooshka",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BEE GEES",
+      "song": "Stayin' Alive",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Locomotion",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KATY PERRY",
+      "song": "I Kissed A Girl",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Tribulations",
+      "label": "MOS/EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Wrong",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "A PERFECT CIRCLE",
+      "song": "The Doomed",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MELISSA AUF DER MAUR",
+      "song": "Meet Me On The Dark Side",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY",
+      "song": "Nick The Stripper",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GRAVEYARD",
+      "song": "Endless Night",
+      "label": "Riot",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EAGLES OF DEATH METAL",
+      "song": "Complexity",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE KILLS",
+      "song": "Black Balloon",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JACK WHITE",
+      "song": "Would You Fight For My Love",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARK LANEGAN BAND",
+      "song": "The Gravedigger's Song",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LEONARD COHEN",
+      "song": "In My Secret Life",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BB KING",
+      "song": "Sweet Sixteen",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ERIC CLAPTON",
+      "song": "Layla",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Patience",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Ecclesia Diabolica Catholica",
+      "label": "EVP",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "God=Dog",
+      "label": "EVP",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "O Father O Satan O Sun!",
+      "label": "EVP",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ME AND THAT MAN",
+      "song": "Nightride",
+      "label": "Cooking Vinyl",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Wolves Ov Siberia",
+      "label": "EVP",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "The Satanist",
+      "label": "EVP",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Messe Noire",
+      "label": "EVP",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Ora Pro Nobis Lucifer",
+      "label": "EVP",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ME AND THAT MAN",
+      "song": "My Church Is Black",
+      "label": "Cooking Vinyl",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Blow Your Trumpets Gabriel",
+      "label": "Nuclear Blast",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Lucifer",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Alas, The Lord Is Upon Me",
+      "label": "Riot",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Ov Fire And The Void",
+      "label": null,
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ME AND THAT MAN",
+      "song": "Cross My Heart And Hope To Die",
+      "label": "Cooking Vinyl",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Ben Sahar (censored)",
+      "label": "Nuclear Blast",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ME AND THAT MAN",
+      "song": "Ain't Much Loving",
+      "label": "Cooking Vinyl",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MORRISSEY",
+      "song": "Spent The Day In Bed",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Back To Black",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BECK",
+      "song": "Loser",
+      "label": "Universal (MCA)",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DIRE STRAITS",
+      "song": "Money For Nothing",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "It's A Long Way To The Top",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Lust For Life",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Epic",
+      "label": "Festival",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "Miss Murder",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "Love Hurt Bleed",
+      "label": "Warp",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Save A Prayer",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ALPHAVILLE",
+      "song": "Forever Young",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

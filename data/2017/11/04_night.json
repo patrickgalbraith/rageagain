@@ -1,0 +1,621 @@
+{
+  "title": "Saturday night 4th November 2017 on ABC",
+  "special": "Cub Sport",
+  "timeslot": "night",
+  "date": "2017-11-04",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-4th-november-2017-on-abc/9645236",
+  "tracks": [
+    {
+      "artist": "CUB SPORT",
+      "song": "O Lord",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Bound 2",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BEYONCE ft. DRAKE",
+      "song": "Mine",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Fade",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FRANK OCEAN",
+      "song": "Nikes",
+      "label": "Boys Don't Cry",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SOLANGE",
+      "song": "Cranes In The Sky",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Alright",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Runaway",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "RIHANNA ft. DRAKE",
+      "song": "Work",
+      "label": "Universal Music Australia",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MIGUEL",
+      "song": "Adorn",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SHANIA TWAIN",
+      "song": "Man! I Feel Like A Woman!",
+      "label": "Universal (MCA)",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Say My Name",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "We Belong Together",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Survivor",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SOLANGE",
+      "song": "Don't Touch My Hair",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AQUA",
+      "song": "Dr Jones",
+      "label": "Universal (MCA)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BARDOT",
+      "song": "Poison",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "I'm A Slave 4 U",
+      "label": "Jive/Zomba",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Frozen",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LEONA LEWIS",
+      "song": "Bleeding Love",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Shades Of Cool",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CELINE DION",
+      "song": "It's All Coming Back To Me Now",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CELINE DION",
+      "song": "My Heart Will Go On",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "I'm Jealous",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ELLA THOMPSON",
+      "song": "Arcade",
+      "label": "Caroline",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FISHING ft. ALISTER WRIGHT",
+      "song": "Nineteen / Boy Wunder",
+      "label": "Create Control",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TROYE SIVAN ft. BETTY WHO",
+      "song": "Heaven",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AMY WINEHOUSE",
+      "song": "Back To Black",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BAT FOR LASHES",
+      "song": "Laura",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHAIRLIFT",
+      "song": "Ch-Ching",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Scar",
+      "label": "Ivy League",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GL",
+      "song": "Won't You See",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SILICON",
+      "song": "God Emoji",
+      "label": "Domino",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Toxic",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "Honey",
+      "label": "Rage",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEYONCE",
+      "song": "Blow",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LOWER DENS",
+      "song": "To Die In L.A.",
+      "label": "Ribbon Music",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO",
+      "song": "This Old Dog",
+      "label": "Captured Tracks",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PERFUME GENIUS",
+      "song": "Fool",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CLEAN BANDIT ft. ZARA LARSSON",
+      "song": "Symphony",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KLLO",
+      "song": "Walls To Build",
+      "label": "Caroline",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SASKWATCH",
+      "song": "December Nights",
+      "label": "Northside Records / Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRANK OCEAN",
+      "song": "Pyramids",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FUTURE ft. KANYE WEST",
+      "song": "I Won (Explicit version)",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MARIAH CAREY ft. MIGUEL",
+      "song": "#Beautiful",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TOPS",
+      "song": "Way To Be Loved",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "This Must Be The Place (Naive Melody)",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "The Less I Know The Better",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Chasin'",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Paradise",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Only Friend",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "I Can't Save You",
+      "label": "Because Music",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Come On Mess Me Up",
+      "label": "Nettwerk Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ANGEL OLSEN",
+      "song": "Special",
+      "label": "Jagjaguwar",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SCHOOL DAMAGE",
+      "song": "The Bus That Couldn't Slow Down",
+      "label": "Chapter Music",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JEN CLOHER",
+      "song": "Strong Woman",
+      "label": "Milk! Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JULIA JACKLIN",
+      "song": "Cold Caller",
+      "label": "Liberation",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JEREMY NEALE",
+      "song": "Small Talk",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MEG MAC",
+      "song": "Didn't Want To Get So Low But I Had To",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Big City",
+      "label": "Dew Process",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JULIA WHY?",
+      "song": "Candy",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOD CON",
+      "song": "Do It Right Margo",
+      "label": "Future Popes",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SLUM SOCIABLE",
+      "song": "Moby Bryant",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JAY SOM",
+      "song": "The Bus Song",
+      "label": "Polyvinyl Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "Do I Have To Talk You Into It",
+      "label": "Matador Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PORCHES",
+      "song": "Find Me",
+      "label": "Domino",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JAYE BARTELL ft. ANGEL OLSEN",
+      "song": "Give Erin A Compliment (So Kind)",
+      "label": "Sinderlyn",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "I'll Still Destroy You",
+      "label": "4AD",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BRITISH INDIA",
+      "song": "My Love (Live)",
+      "label": "Liberation",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOLY HOLY",
+      "song": "Amateurs",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "Say10",
+      "label": "Caroline",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "WE MAY FALL ft. ALEX READE",
+      "song": "Down",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DUKE DUMONT",
+      "song": "Ocean Drive",
+      "label": "Ministry of Sound",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BIRDY NAM NAM",
+      "song": "The Parachute Ending",
+      "label": "OWSLA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday (Remix)",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SHOES",
+      "song": "Drifted",
+      "label": "Green United Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JEAN MICHEL JARRE",
+      "song": "Zoolook",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SEBASTIEN TELLIER",
+      "song": "L'Amour Et La Violence",
+      "label": "Record Makers",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LENNY KRAVITZ",
+      "song": "Believe",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TOTO",
+      "song": "Africa",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Da Funk",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BREAKBOT ft. IRFANE",
+      "song": "Baby I'm Yours",
+      "label": "Ed Banger Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DUKE DUMONT",
+      "song": "Won't Look Back",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BRITISH INDIA",
+      "song": "My Love (Live)",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TIRED LION",
+      "song": "Not My Friends",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Muscle Junkie",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MORRISSEY",
+      "song": "Spent The Day In Bed",
+      "label": "BMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SASKWATCH",
+      "song": "Finger Painting",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THUNDERCAT ft. MICHAEL McDONALD & KENNY LOGGINS",
+      "song": "Show You The Way",
+      "label": "Brainfeeder",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NIC CESTER",
+      "song": "Eyes On The Horizon",
+      "label": "Bloodlines",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MGMT",
+      "song": "Little Dark Age",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLOODS",
+      "song": "Bug Eyes",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GENESIS OWUSU",
+      "song": "Sideways",
+      "label": "Good Manners",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HANDSOME ft. JOYRIDE",
+      "song": "Late Night Ball Game",
+      "label": "Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DILLON FRANCIS ft. YUNG PINCH",
+      "song": "Hello There (Clean Version)",
+      "label": "IDGAF",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ESOTERIK & JAMES CROOKS ft. ASTA",
+      "song": "Be Like You",
+      "label": "Illusive",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ALEX THE ASTRONAUT",
+      "song": "Not Worth Hiding",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RVG",
+      "song": "A Quality Of Mercy",
+      "label": "Our Golden Friend",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JESS LOCKE",
+      "song": "Drive To Drink",
+      "label": "Remote Control",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "EXHIBITIONIST",
+      "song": "Motionless",
+      "label": "Future Classic",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Chasin'",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Cellophane Rainbow",
+      "label": "Parlophone",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

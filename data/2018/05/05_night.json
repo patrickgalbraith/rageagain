@@ -1,0 +1,573 @@
+{
+  "title": "Saturday night 5 May 2018 on ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2018-05-05",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-may-2018-on-abc/9758724",
+  "tracks": [
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "The Void",
+      "label": "Epitath / Resist",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PENNYWISE",
+      "song": "Same Old Story",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "Sorrow",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BAD RELIGION",
+      "song": "Los Angeles Is Burning",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "RISE AGAINST",
+      "song": "Ready To Fall",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "AGAINST ME!",
+      "song": "White People For Peace",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MONSTER MAGNET",
+      "song": "See You In Hell (Universal",
+      "label": "MCA)",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "The Vampyre Of Time And Memory",
+      "label": "Matador Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SOUNDGARDEN",
+      "song": "Outshined",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "We Know Where You Fucking Live",
+      "label": "Caroline",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Gett Off",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Purple Rain",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MORRISSEY - LIVE",
+      "song": "There Is A Light",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Just Like Heaven",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Pictures Of You",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "N.W.A.",
+      "song": "Straight Outta Compton",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NAS",
+      "song": "Made You Look",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Human Behaviour",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Joga",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "They Don't Care About Us",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Firestarter",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "She's Gone Away (Twin Peaks Version)",
+      "label": "The Null Corporation",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "NINE INCH NAILS",
+      "song": "The Perfect Drug (Universal",
+      "label": "MCA)",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KILLSWITCH ENGAGE",
+      "song": "The Arms Of Sorrow",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Sad But True",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "The Unforgiven",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Paranoid",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Amerika",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Du Hast",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Sonne",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Keine Lust",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Stinkfist",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Duality",
+      "label": "Roadrunner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ARCHITECTS",
+      "song": "These Colours Don't Run",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Show Yourself",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "Breathless",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "Higgs Boson Blues",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "The Weeping Song",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Sea Of Love",
+      "label": "4AD",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "No Surprises",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ARCADE FIRE",
+      "song": "Reflektor",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE OFFSPRING",
+      "song": "Gone Away",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "People Of The Sun",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Testify",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NEW ORDER",
+      "song": "Blue Monday",
+      "label": "Factory",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "White Skin, Black Heart",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Don't Look Back In Anger",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "The Man Who Sold The World (Universal",
+      "label": "MCA)",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TOM WAITS",
+      "song": "Goin' Out West",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Runaways",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "1979",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Sleepwalker",
+      "label": "Shock",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Prey",
+      "label": "Resist Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Wishing Wells",
+      "label": "Epitath / Resist",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Bottom Feeder",
+      "label": "Cooking Vinyl",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Devil's Calling",
+      "label": "Resist Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Crushed",
+      "label": "Resist Records / Cooking Vinyl",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Vice Grip",
+      "label": "Resist Records / Cooking Vinyl",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Wild Eyes",
+      "label": "Epitaph Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Unrest",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Karma",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Boneyards",
+      "label": "Shock",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Smoke 'Em If Ya Got 'Em",
+      "label": "Stomp",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "REMI",
+      "song": "My People",
+      "label": "House Of Beige",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NICOLE MILLAR",
+      "song": "Gimme A Break",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MIDDLE KIDS",
+      "song": "On My Knees",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Turn",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Glimpse Of Love",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JOYRIDE",
+      "song": "Kings And Queens (Censored Version)",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JAMIE XX",
+      "song": "Gosh",
+      "label": "XL / Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ANGELE",
+      "song": "La Loi De Murphy",
+      "label": "",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SERPENTWITHFEET",
+      "song": "Four Ethers (Censored Version)",
+      "label": "Tri Angle",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GAVIN TUREK",
+      "song": "The Distance",
+      "label": "",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SEVDALIZA",
+      "song": "Human (Censored Version)",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TORO Y MOI",
+      "song": "Windows",
+      "label": "Carpark Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HANDSOME",
+      "song": "Save Some Love",
+      "label": "Dot Dash / Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JON HOPKINS",
+      "song": "Emerald Rush",
+      "label": "Domino",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JOYRIDE",
+      "song": "Blue Batmans",
+      "label": "Dew Process",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BILLIE EILISH ft. KHALID",
+      "song": "Lovely",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Cemetery",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FLORENCE and THE MACHINE",
+      "song": "Sky Full Of Song",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAN SULTAN ft. DAVE LE'AUPEPE",
+      "song": "Drover",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MELODY'S ECHO CHAMBER",
+      "song": "Breathe In, Breathe Out",
+      "label": "Pod / Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ECCA VANDAL ft. SAMPA THE GREAT",
+      "song": "Your Orbit",
+      "label": "Dew Process",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALISON WONDERLAND",
+      "song": "Easy",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FASCINATOR",
+      "song": "Sex Crystals",
+      "label": "Spinning Top",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ONEOHTRIX POINT NEVER",
+      "song": "Black Snow",
+      "label": "Warp",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TOTTY",
+      "song": "Uncomfortable",
+      "label": "Ratbag Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BIG WHITE",
+      "song": "Right Before Everything Dies",
+      "label": "Caroline",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SUPERORGANISM",
+      "song": "Night Time",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE INTERNET",
+      "song": "Roll (Burbank Funk)",
+      "label": "Odd Future",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR ft. SZA",
+      "song": "All The Stars",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Nothing Compares 2 U",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

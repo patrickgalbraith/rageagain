@@ -1,0 +1,573 @@
+{
+  "title": "Saturday night 18 April 2020 on ABC 1",
+  "special": null,
+  "timeslot": "night",
+  "date": "2020-04-18",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-april-2020-on-abc-1/12158520",
+  "tracks": [
+    {
+      "artist": "RADIOHEAD",
+      "song": "I Might Be Wrong",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "A Forest",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JAPAN",
+      "song": "Gentlemen Take Polaroids",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SIOUXSIE and THE BANSHEES",
+      "song": "Israel (Live)",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JOY DIVISION - LIVE",
+      "song": "She's Lost Control",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Under The Milky Way",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE FINN BROTHERS",
+      "song": "Suffer Never",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "COCTEAU TWINS",
+      "song": "Iceblink Luck",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "This Charming Man",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "P.I.L.",
+      "song": "Public Image",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "XTC",
+      "song": "Generals and Majors",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CHRISTOPHER CROSS",
+      "song": "Sailing",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SUPERTRAMP",
+      "song": "Goodbye Stranger",
+      "label": "A and M Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Cinnamon Girl",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Walking On The Moon",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BOB MARLEY and THE WAILERS",
+      "song": "Could You Be Loved",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Tangled Up In Blue",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Kashmir",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX - LIVE",
+      "song": "Fire",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "T REX",
+      "song": "Get It On",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BILL WITHERS",
+      "song": "Use Me",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Master Blaster",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EARTH, WIND AND FIRE",
+      "song": "Shining Star",
+      "label": "CBS",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE JACKSONS",
+      "song": "Can You Feel It",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CHAKA KHAN and RUFUS",
+      "song": "Ain't Nobody",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ANGIE STONE",
+      "song": "Wish I Didn't Miss You",
+      "label": "J Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Let's Go Crazy",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "N.W.A.",
+      "song": "Straight Outta Compton",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Fight The Power",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Ch-Check It Out",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "King Kunta",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Blkkk Skkkn Head",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MAJOR LAZER featuring VYBZ KARTEL and AFRO JACK",
+      "song": "Pon De Floor",
+      "label": "Inertia",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CHILDISH GAMBINO",
+      "song": "This Is America",
+      "label": "Liberator",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "STORMZY",
+      "song": "Vossi Bop",
+      "label": "Atlantic",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ERIC B and RAKIM",
+      "song": "Paid In Full",
+      "label": "Universal (MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AFRIKA BAMBAATAA and THE SOUL SONIC FORCE",
+      "song": "Planet Rock",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PRIMAL SCREAM",
+      "song": "Don't Fight It, Feel It",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "808 STATE",
+      "song": "Pacific State",
+      "label": "WEA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHEMICAL BROTHERS, THE ft. Q-TIP",
+      "song": "Go",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LAYO and BUSHWACKA!",
+      "song": "Love Story",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "UNDERWORLD",
+      "song": "Jumbo",
+      "label": "V2",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CSS (CANSEI DE SER SEXY)",
+      "song": "Let's Make Love and Listen To Death From Above",
+      "label": "Stomp",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MARK RONSON featuring ALEX GREENWALD",
+      "song": "Just",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Reptilia",
+      "label": "BMG",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "Harmony Hall",
+      "label": "Columbia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Inhaler (Live at Splendour in the Grass 2019)",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SONIC YOUTH",
+      "song": "Kool Thing",
+      "label": "Universal (MCA)",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PAVEMENT",
+      "song": "Gold Soundz",
+      "label": "Shock",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SAVAGES",
+      "song": "Husbands",
+      "label": "Matador Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Too Real",
+      "label": "Partisan Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Wrote For Luck",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TRICKY",
+      "song": "Black Steel",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JON HOPKINS",
+      "song": "Emerald Rush",
+      "label": "Domino",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PORTISHEAD",
+      "song": "The Rip",
+      "label": "Island Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TALK TALK",
+      "song": "I Believe In You",
+      "label": "Parlophone",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CONNAN MOCKASIN",
+      "song": "Forever Dolphin Love",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KAMASI WASHINGTON",
+      "song": "Street Fighter Mas",
+      "label": "Brainfeeder",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALT-J",
+      "song": "3WW",
+      "label": "Liberator",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LAURA MARLING",
+      "song": "Sophia",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS - LIVE",
+      "song": "God Is In The House",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "EOB",
+      "song": "Brasil",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Paranoid Android",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "House Of Cards",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Weird Fishes",
+      "label": "XL",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "The Numbers",
+      "label": "Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Lift",
+      "label": "XL",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Burn The Witch",
+      "label": "XL Recordings",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Lotus Flower",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Nude",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "There There",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Knives Out",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "No Surprises",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Karma Police",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Street Spirit",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "High And Dry",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Fake Plastic Trees",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Just",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "My Iron Lung",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Creep",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE GARDEN",
+      "song": "Clench To Stay Awake",
+      "label": "Epitaph Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ORVILLE PECK",
+      "song": "Summertime",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FLUME ft. TORO Y MOI",
+      "song": "The Difference",
+      "label": "Future Classic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "AVALANCHES, THE ft. RIVERS CUOMO and PINK SIIFU",
+      "song": "Running Red Lights",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ROLLING BLACKOUTS COASTAL FEVER",
+      "song": "She's There",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Bad Decisions",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Life Is A Game Of Changing (Live)",
+      "label": "I OH YOU",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Pick It Up Again",
+      "label": "I OH YOU",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE KILLERS",
+      "song": "Caution",
+      "label": "Island Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GORILLAZ ft. FATOUMATA DIAWARA",
+      "song": "Desole",
+      "label": "Parlophone",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "YOUNG FRANCO ft. PELL",
+      "song": "Juice",
+      "label": "Of Leisure",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DALLAS WOODS",
+      "song": "Hoodlum",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BENEE ft GUS DAPPERTON",
+      "song": "Supalonely (censored version)",
+      "label": "Republic Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DUA LIPA",
+      "song": "Let's Get Physical",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

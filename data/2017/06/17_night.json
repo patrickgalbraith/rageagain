@@ -1,0 +1,627 @@
+{
+  "title": "Saturday night 17th June 2017 on ABC",
+  "special": "Suggs from Madness",
+  "timeslot": "night",
+  "date": "2017-06-17",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-17th-june-2017-on-abc/9645526",
+  "tracks": [
+    {
+      "artist": "MADNESS",
+      "song": "My Girl",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "Stand By Me",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ROD STEWART and THE FACES",
+      "song": "It's All Over Now",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "Waterloo Sunset",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "London Calling",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ECHO and THE BUNNYMEN",
+      "song": "The Killing Moon",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "WOMACK and WOMACK",
+      "song": "Teardrops",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CANDI STATON",
+      "song": "Young Hearts Run Free",
+      "label": "MDS",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "IAN DURY",
+      "song": "Sex and Drugs and Rock and Roll",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "IAN DURY",
+      "song": "Hit Me With Your Rhythm Stick",
+      "label": "Fest/Mush",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Gangsters",
+      "label": "Chrysalis",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "STEVIE WONDER",
+      "song": "Superstition",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WAR",
+      "song": "Outlaw",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SMOKEY ROBINSON",
+      "song": "Don't Know Why",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOHNNY NASH",
+      "song": "I Can See Clearly Now (GTK, 1970)",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AL GREEN",
+      "song": "Love Is A Beautiful Thing",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOE STRUMMER",
+      "song": "Gangsterville",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Sign O' The Times",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "Beat Surrender",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IAN BROWN",
+      "song": "Fear",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Loose Fit",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Wrote For Luck",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ELECTRONIC",
+      "song": "Get The Message",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MASSIVE ATTACK",
+      "song": "Teardrop",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Karma Police",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Where Are We Now?",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROD STEWART and THE FACES",
+      "song": "Stay With Me (Live)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Baggy Trousers",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Shut Up",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "One Step Beyond",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Bed and Breakfast Man",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Night Boat To Cairo",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Embarrassment",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "It Must Be Love",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "The Return Of The Los Palmas 7",
+      "label": "Festival",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Grey Day",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Cardiac Arrest",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS - LIVE",
+      "song": "Dance Craze",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "House Of Fun",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Driving In My Car",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Our House",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Tomorrow's Just Another Day",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Wings Of A Dove",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Yesterdays' Men",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Sweetest Girl",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Johnny The Horse",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Lovestruck",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Dust Devil",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MADNESS",
+      "song": "Never Knew Your Name",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUGGS",
+      "song": "Camden Town",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUGGS",
+      "song": "Cecilia",
+      "label": "WEA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUGGS",
+      "song": "Blue Day",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUGGS",
+      "song": "I Am",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PREATURES",
+      "song": "Girlhood",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Dig Down",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Run",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PROPHETS OF RAGE",
+      "song": "Unfuck The World",
+      "label": "Cooking Vinyl",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ASAP MOB ft. ASAP ROCKY _and_ ASAP FERG",
+      "song": "Wrong",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "A.B. ORIGINAL",
+      "song": "Report To The Mist",
+      "label": "Golden Age",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RAC ft. RIVERS CUOMO",
+      "song": "I Still Wanna Know",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KNIGHTFALL",
+      "song": "Speed Machine",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MID AYR",
+      "song": "Pocket Her Eyes",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TORO Y MOI",
+      "song": "Girl Like You",
+      "label": "Mistletone",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Go To Waste",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WASHED OUT",
+      "song": "Get Lost",
+      "label": "Stones Throw Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JAMATAR ft. NATALIE FOSTER",
+      "song": "Reflect",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SLOTFACE",
+      "song": "Magazine",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "GASPAR SANZ",
+      "song": "On My Way",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LEA PORCELAIN",
+      "song": "A Year From Here",
+      "label": "Habit?",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LEAH SENIOR",
+      "song": "You Were Not Fit For The Day",
+      "label": "Habit?",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALTA",
+      "song": "Fix It",
+      "label": "Liberation",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "L7",
+      "song": "Everglade",
+      "label": "Mushroom",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Doll Parts",
+      "label": "Universal (MCA)",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ELASTICA",
+      "song": "Stutter",
+      "label": "Universal (MCA)",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DEBORAH CONWAY",
+      "song": "It's Only The Beginning",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BREEDERS",
+      "song": "Huffer",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "I Think I'm Paranoid",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "I Touch Myself",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MAGIC DIRT",
+      "song": "Ice",
+      "label": "Shock",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NO DOUBT",
+      "song": "Spiderwebs",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NENEH CHERRY",
+      "song": "Woman",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SALT 'N' PEPA",
+      "song": "Shoop",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TLC",
+      "song": "No Scrubs",
+      "label": "BMG",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BABES IN TOYLAND",
+      "song": "Sweet 69",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VERUCA SALT",
+      "song": "Volcano Girls",
+      "label": "Universal (MCA)",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BABY ANIMALS",
+      "song": "Ain't Gonna Get",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MAZZY STAR",
+      "song": "Fade Into You",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FRENTE",
+      "song": "Sit On My Hands",
+      "label": "Mushroom",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO",
+      "song": "One Another",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TORA",
+      "song": "Another Case",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ROYAL BLOOD",
+      "song": "I Only Lie When I Love You",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LONDON GRAMMAR",
+      "song": "Oh Woman Oh Man (Oh Man version)",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAJOR LEAGUES",
+      "song": "Endless Drain",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SOLANGE",
+      "song": "Losing You",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Bad Girls",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FAZERDAZE",
+      "song": "Lucky Girl",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TOLD SLANT",
+      "song": "Tsunami",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CHER",
+      "song": "If I Could Turn Back Time",
+      "label": "Geffen",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "REO SPEEDWAGON",
+      "song": "Keep On Loving You",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ANGEL OLSEN",
+      "song": "Shut Up Kiss Me",
+      "label": "Inertia",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE CHILLS",
+      "song": "Pink Frost",
+      "label": "Mushroom",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MAJOR LEAGUES",
+      "song": "It Was Always You",
+      "label": null,
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MAJOR LEAGUES",
+      "song": "Good Love",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

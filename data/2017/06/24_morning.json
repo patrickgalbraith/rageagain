@@ -1,0 +1,555 @@
+{
+  "title": "Saturday morning 24th June 2017 on ABC",
+  "special": null,
+  "timeslot": "morning",
+  "date": "2017-06-24",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-24th-june-2017-on-abc/9645508",
+  "tracks": [
+    {
+      "artist": "MO",
+      "song": "Nights With You",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HAILEE STEINFELD",
+      "song": "Most Girls",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MURA MASA ft. DESIIGNER",
+      "song": "All Around The World",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BEBE REXHA ft. LIL WAYNE",
+      "song": "The Way I Are (Dance With Somebody)",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LANA DEL REY ft. THE WEEKND",
+      "song": "Lust For Life",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUA LIPA ft. MIGUEL",
+      "song": "Lost In Your Light",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAGGIE LINDEMANN",
+      "song": "Pretty Girl (Cheat Codes _and_ CADE Remix)",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TLC ft. SNOOP DOGG",
+      "song": "Way Back",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FIFTH HARMONY",
+      "song": "Down",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LITTLE MIX ft. STORMZY",
+      "song": "Power",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FUTURE",
+      "song": "Mask Off (clean)",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Castle On The Hill",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MARTIN GARRIX _and_ TROYE SIVAN",
+      "song": "There For You",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ZEDD _and_ ALESSIA CARA",
+      "song": "Stay",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "IMAGINE DRAGONS",
+      "song": "Thunder",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CHEAT CODES ft. DEMI LOVATO",
+      "song": "No Promises",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DEAN LEWIS",
+      "song": "Waves (Live)",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "SELENA GOMEZ",
+      "song": "Bad Liar",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "HARRY STYLES",
+      "song": "Sign Of The Times",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "JONAS BLUE ft. WILLIAM SINGE",
+      "song": "Mama",
+      "label": "EMI",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "CHARLIE PUTH",
+      "song": "Attention",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "CLEAN BANDIT ft. ZARA LARSSON",
+      "song": "Symphony",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Humble (censored)",
+      "label": null,
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Galway Girl",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Shape Of You",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "MILEY CYRUS",
+      "song": "Malibu",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "NIALL HORAN",
+      "song": "Slow Hands (Acoustic Version)",
+      "label": "EMI",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "DJ KHALED ft. JUSTIN BIEBER, QUAVO",
+      "song": "I'm The One",
+      "label": null,
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LIAM PAYNE ft. QUAVO",
+      "song": "Strip That Down",
+      "label": "EMI",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "PHARRELL WILLIAMS",
+      "song": "Yellow Light",
+      "label": "Sony",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LUIS FONSI ft. DADDY YANKEE",
+      "song": "Despacito",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "VERA BLUE",
+      "song": "Mended",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "TORA",
+      "song": "Too Much",
+      "label": "Independent",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "DNA",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BIG BOI ft. ADAM LEVINE",
+      "song": "Mic Jack (clean)",
+      "label": "Sony",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "WASHED OUT",
+      "song": "Get Lost",
+      "label": "Stones Throw Records",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PEKING DUK _and_ ALUNAGEORGE",
+      "song": "Fake Magic",
+      "label": "Sony",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Go To Waste",
+      "label": "Independent",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "LONDON GRAMMAR",
+      "song": "Oh Woman Oh Man (Oh Man version)",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Fun",
+      "label": "Ratbag Music",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "DUNE RATS",
+      "song": "Wooo",
+      "label": "Independent",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BLACK LIPS",
+      "song": "Modern Art",
+      "label": "Cooperative",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE PINHEADS",
+      "song": "Wildfire",
+      "label": "Inertia",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Fur Eyes",
+      "label": "Illusive",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "DUMB PUNTS",
+      "song": "Chiller",
+      "label": "Independent",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BOOMGATES",
+      "song": "Flood Plains",
+      "label": "Independent",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "FIDLAR",
+      "song": "No Waves (censored)",
+      "label": "Mom and Pop",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "FRENZAL RHOMB",
+      "song": "Never Had So Much Fun",
+      "label": "Shock",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Got On My Skateboard",
+      "label": "Ratbag Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SASKWATCH",
+      "song": "Then There's You",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "TORO Y MOI",
+      "song": "Girl Like You",
+      "label": "Mistletone",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "I Promise",
+      "label": "XL Recordings",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "CHROMATICS",
+      "song": "Shadow",
+      "label": "Echo Park Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "KASABIAN",
+      "song": "Bless This Acid House",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN ft. CONNAN MOCKASIN",
+      "song": "Living Each Day",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO",
+      "song": "One Another",
+      "label": null,
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "LIL YACHTY",
+      "song": "Bring It Back",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "EVERYTHING EVERYTHING",
+      "song": "Can't Do",
+      "label": "Sony",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SEPTEMBER 87",
+      "song": "Bad Dream Baby",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "FOUNTAINEER",
+      "song": "The Cricketers",
+      "label": "Warner",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MAJOR LEAGUES",
+      "song": "Good Love",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MECHA MECHA",
+      "song": "Dealbreaker",
+      "label": "Minor//Major",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ROYAL BLOOD",
+      "song": "I Only Lie When I Love You",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "LUCA BRASI",
+      "song": "Got To Give",
+      "label": "Cooking Vinyl",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "KINGSWOOD",
+      "song": "Atmosphere",
+      "label": "Dew Process",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Drink Wine",
+      "label": "Remote Control",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "FERLA",
+      "song": "Wasted On You",
+      "label": "Our Golden Friend",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "BENCH PRESS",
+      "song": "Group Anxiety",
+      "label": "Poison City",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "DRUNK MUMS",
+      "song": "Ode To Death",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Alive",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Say It Ain't So",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "Sorted For E's and Wizz",
+      "label": "Mercury",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MERCURY REV",
+      "song": "Holes",
+      "label": "V2",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "URGE OVERKILL",
+      "song": "Girl, You'll Be A Woman Soon",
+      "label": "Universal (MCA)",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MATTHEW SWEET",
+      "song": "Girlfriend",
+      "label": "BMG",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Freak On A Leash",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "MUDHONEY",
+      "song": "Into The Drink",
+      "label": "Warner",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE FAUVES",
+      "song": "Dogs Are The Best People",
+      "label": "Polydor",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "ESKIMO JOE",
+      "song": "Turn Up Your Stereo",
+      "label": "Modular",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE LEMONHEADS",
+      "song": "If I Could Talk I'd Tell You",
+      "label": "Warner",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "MELISSA",
+      "song": "Read My Lips",
+      "label": "Polydor",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "DEF FX",
+      "song": "Psychoactive Summer",
+      "label": "MCA",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "UTAH SAINTS",
+      "song": "Something Good",
+      "label": "Polygram",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "FELIX",
+      "song": "Don't You Want Me",
+      "label": null,
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "BIG AUDIO DYNAMITE II",
+      "song": "Rush",
+      "label": "Sony",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "LUCAS",
+      "song": "Lucas With The Lid Off",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE GRID",
+      "song": "Swamp Thing",
+      "label": "BMG",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SWOOP",
+      "song": "Apple Eyes",
+      "label": "Mushroom",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "THE MAVIS'S",
+      "song": "Cry",
+      "label": "Mushroom",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "ALANIS MORISSETTE",
+      "song": "Hand In My Pocket",
+      "label": "Warner",
+      "timeslot": "11:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Today",
+      "label": "Virgin",
+      "timeslot": "11:30:00"
+    }
+  ]
+}

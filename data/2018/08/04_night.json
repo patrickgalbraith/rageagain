@@ -1,0 +1,681 @@
+{
+  "title": "Saturday night 4 August 2018 on ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2018-08-04",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-4-august-2018-on-abc/10071442",
+  "tracks": [
+    {
+      "artist": "ALICE GLASS",
+      "song": "Without Love",
+      "label": "Caroline",
+      "timeslot": "23:42:00"
+    },
+    {
+      "artist": "ROB ZOMBIE",
+      "song": "Dragula",
+      "label": "Universal (MCA)",
+      "timeslot": "23:42:00"
+    },
+    {
+      "artist": "THE CLASH",
+      "song": "London Calling",
+      "label": "Sony",
+      "timeslot": "23:42:00"
+    },
+    {
+      "artist": "JOAN JETT & THE BLACKHEARTS",
+      "song": "Bad Reputation",
+      "label": "EMI",
+      "timeslot": "23:42:00"
+    },
+    {
+      "artist": "SIOUXSIE & THE BANSHEES",
+      "song": "Spellbound",
+      "label": "Independent",
+      "timeslot": "23:42:00"
+    },
+    {
+      "artist": "HOLE",
+      "song": "Violet",
+      "label": "Universal (MCA)",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Falling Away From Me",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "CONVERGE",
+      "song": "Eagles Become Vultures",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "CRADLE OF FILTH",
+      "song": "Her Ghost In The Fog",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BABES IN TOYLAND",
+      "song": "Bruise Violet",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GOB",
+      "song": "I Hear You Calling",
+      "label": "Fest/Mush",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE SAINTS",
+      "song": "(I'm) Stranded",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GENERATION X",
+      "song": "New Order",
+      "label": "Fest/Mush",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SKINNY PUPPY",
+      "song": "Dig It",
+      "label": "Capitol",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ARCA",
+      "song": "Vanity",
+      "label": "Mute Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LIL ZUBIN",
+      "song": "In The Background",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "The Tide Is High",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LANA DEL RAY",
+      "song": "White Mustang",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Heart-Shaped Box",
+      "label": "Universal (MCA)",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SUICIDAL TENDENCIES",
+      "song": "Institutionalized",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE RAMONES",
+      "song": "Pet Sematary",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE HORRORS",
+      "song": "Something To Remember Me By",
+      "label": "Caroline",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LUPA J",
+      "song": "Put Me Back Together",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCESS NOKIA",
+      "song": "Tomboy",
+      "label": "Rough Trade",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOMMY GENESIS",
+      "song": "Execute",
+      "label": "Awful Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "Marble House",
+      "label": "MOS/EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SOPHIE",
+      "song": "Faceshopping",
+      "label": "Future Classic",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LE1F",
+      "song": "Wut",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KITTIE",
+      "song": "What I Always Wanted",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HEALTH",
+      "song": "New Coke",
+      "label": "Caroline",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PICTUREPLANE",
+      "song": "Trance Doll",
+      "label": "Lovepump United",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SMRTDEATH",
+      "song": "Come Right Over",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "GHOSTEMANE",
+      "song": "Mercury",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CYNDI LAUPER",
+      "song": "Time After Time",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YOUNG M.A",
+      "song": "OOOUUU",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LIL PEEP",
+      "song": "Awful Things",
+      "label": "Awal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PRAYERS",
+      "song": "From Dog To God",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALICE GLASS",
+      "song": "Mine",
+      "label": "Caroline",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALICE GLASS",
+      "song": "Forgiveness",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALICE GLASS",
+      "song": "Without Love",
+      "label": "Caroline",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "No Surrender",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RISE OF THE NORTHSTAR",
+      "song": "Here Comes The Boom",
+      "label": "Nuclear Blast",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CIRCLES",
+      "song": "Tether",
+      "label": "Wild Things Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MUNICIPAL WASTE",
+      "song": "Slime And Punishment",
+      "label": "Nuclear Blast",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LO!",
+      "song": "Gods Of Ruin",
+      "label": "Pelagic Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WILDHEART",
+      "song": "We Are",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BRODINSKI ft. PEEWEE LONGWAY",
+      "song": "Split",
+      "label": "Broyal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BUDDY",
+      "song": "Trouble On Central",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BREAKBOT ft. RUCKAZOID",
+      "song": "Another You",
+      "label": "Ed Banger Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BRUX",
+      "song": "I'm Back",
+      "label": "Etc Etc",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MEZKO",
+      "song": "They Like. We Like.",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "song": "Medication",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AEORA",
+      "song": "Need You",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLOOD ORANGE",
+      "song": "Jewelry",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "YOUNG FATHERS",
+      "song": "Holy Ghost",
+      "label": "Big Dada",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HABITS",
+      "song": "Limp",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LOSER",
+      "song": "Loser",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ZHU ft. TAME IMPALA",
+      "song": "My Life",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FASCINATOR",
+      "song": "Drenched OUt",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RAINDROP",
+      "song": "Bob Dylan's 116th Dream",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TRUST FUND",
+      "song": "Abundant",
+      "label": "Reeks Of Effort",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EMERSON SNOWE",
+      "song": "Sunlight",
+      "label": "Liberation",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLY",
+      "song": "Guess There",
+      "label": "Sub Pop",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "PINK MATTER",
+      "song": "Cleo",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MOODY BEACHES",
+      "song": "Modes",
+      "label": "Poison City",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CLEA",
+      "song": "Teenager",
+      "label": "Habit Music",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE SMASHING PUMPKINS",
+      "song": "Solara",
+      "label": "Martha's Music",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CLOWNS",
+      "song": "Freezing In The Sun",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TOM MORELLO ft. VIC MENSA",
+      "song": "We Don't Need You",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "YOTA: YOUTH OF THE APOCALYPSE ft. MF DOOM",
+      "song": "Drop The Bomb",
+      "label": "Caroline",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TASMAN KEITH",
+      "song": "My Pelopolees",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "song": "1999 Wildfire",
+      "label": "Fool's Gold Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JAY ROCK",
+      "song": "ES Tales",
+      "label": "Top Dawg Entertainment",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RETIREE ft. SUI ZHEN",
+      "song": "Magic Eye",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ELIZA & THE DELUSIONALS",
+      "song": "Half Empty Girl",
+      "label": "Habit Music",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALBERT HAMMOND JR.",
+      "song": "Far Away Truths",
+      "label": "Red Bull Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HILLTOP HOODS ft. ADRIAN EAGLE",
+      "song": "Clark Griswold",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "OETHA",
+      "song": "Sista Girl",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DENZEL CURRY",
+      "song": "Clout Cobain",
+      "label": "Caroline",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ROSS FROM FRIENDS",
+      "song": "Pale Blue Dot",
+      "label": "Brainfeeder",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SCHOOL DAMAGE",
+      "song": "Assimilate",
+      "label": "Chapter Music",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PHANTASTIC FERNITURE",
+      "song": "Bad Timing",
+      "label": "Caroline",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BAAUER ft. AJ TRACEY & JAE STEPHENS",
+      "song": "3AM",
+      "label": "LuckyMe",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CHAKA KHAN",
+      "song": "Like Sugar",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CITY CALM DOWN",
+      "song": "Your Fix",
+      "label": "I OH YOU",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Let Forever Be",
+      "label": "Virgin",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GOTYE",
+      "song": "Hearts A Mess",
+      "label": "Creative Vibes",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MIDDLE KIDS",
+      "song": "Edge Of Town",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALI BARTER",
+      "song": "Hypercolour",
+      "label": "Ronnie Records/MGM Distribution",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PORTISHEAD",
+      "song": "The Rip",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Wishes",
+      "label": "Mistletone",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PULP",
+      "song": "Common People",
+      "label": "Mercury",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Ubu",
+      "label": "Remote Control",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CITY CALM DOWN",
+      "song": "Pride",
+      "label": "I OH YOU",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NICOLE MILLAR",
+      "song": "All My Issues",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ARCTIC MONKEYS",
+      "song": "Tranquility Base Hotel & Casino",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RICHARD IN YOUR MIND",
+      "song": "All I Can Do",
+      "label": "Rice Is Nice",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE LIVING END",
+      "song": "Don't Lose It (short version)",
+      "label": "BMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CASH SAVAGE & THE LAST DRINKS",
+      "song": "Pack Animals",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "INTERPOL",
+      "song": "The Rover (censored version)",
+      "label": "Matador Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Need Some1 (censored version)",
+      "label": "BMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BAKER BOY ft. DALLAS WOODS",
+      "song": "Black Magic",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE INTERNET",
+      "song": "La Di Da",
+      "label": "Odd Future",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLOOD ORANGE",
+      "song": "Charcoal Baby",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HIDEOUS SUN DEMON",
+      "song": "Antithesis",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ROLLING BLACKOUTS COASTAL FEVER",
+      "song": "Time In Common",
+      "label": "Mushroom",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "The End",
+      "label": "I OH YOU",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LEISURE CENTRE",
+      "song": "You Don't Wanna Be With Me",
+      "label": "HopeStreet Recordings",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "FATHER JOHN MISTY",
+      "song": "Date Night",
+      "label": "Sub Pop",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ONEOHTRIX POINT NEVER",
+      "song": "We'll Take It",
+      "label": "Warp",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "METRIC",
+      "song": "Dark Saturday",
+      "label": "Last Gang Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DREAMS",
+      "song": "Love To Live",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

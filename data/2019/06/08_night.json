@@ -1,0 +1,615 @@
+{
+  "title": "Saturday night 8 June 2019 on ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2019-06-08",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-june-2019-on-abc/11191948",
+  "tracks": [
+    {
+      "artist": "IDLES",
+      "song": "Colossus",
+      "label": "Warp",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CROWS",
+      "song": "Whisper",
+      "label": "Telharmonium Records",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Jubliee Street",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "The Weeping Song",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GRINDERMAN",
+      "song": "No Pussy Blues",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "IGGY & THE STOOGES - LIVE",
+      "song": "I Wanna Be Your Dog",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Y Control",
+      "label": "Modular",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "HEAVY LUNGS",
+      "song": "Jealous",
+      "label": "Balley Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SPIRITUALIZED",
+      "song": "Come Together",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "Feel Good Hit Of The Summer",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Losing My Edge",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Genesis",
+      "label": "Relapse",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FUCK BUTTONS",
+      "song": "Surf Solar",
+      "label": "ATP",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BAMBARA",
+      "song": "All The Ugly Things",
+      "label": "Arrowhawk Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PARQUET COURTS",
+      "song": "Bodies Made Of",
+      "label": "Mom & Pop",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "VIET CONG",
+      "song": "Bunker Buster",
+      "label": "Jajaguwar / Inertia",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GIRL BAND",
+      "song": "Lawman",
+      "label": "Any Other City",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GIRL BAND",
+      "song": "Pears For Lunch",
+      "label": "Rough Trade",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GIRL BAND",
+      "song": "Why They Hide Their Bodies Under My Garage?",
+      "label": "Rough Trade",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEATH GRIPS",
+      "song": "Guillotine",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TYLER, THE CREATOR",
+      "song": "Yonkers",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PUSHA T",
+      "song": "Numbers On The Boards",
+      "label": "G.O.O.D. Music",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GINUWINE",
+      "song": "Pony",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VELCRO HOOKS",
+      "song": "Chinchilla Woman",
+      "label": "Howling Owl Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TURBOWOLF",
+      "song": "Rabbit's Foot",
+      "label": "Caroline",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PULLED APART BY HORSES",
+      "song": "High Five, Swan Dive, Nose Dive",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "COLD WAR KIDS",
+      "song": "Hang Me Up To Dry",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LIFE",
+      "song": "Euromillions",
+      "label": "Afghan Moon",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEATH FROM ABOVE 1979",
+      "song": "Romantic Rights",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FOALS",
+      "song": "Cassius",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE FUTUREHEADS",
+      "song": "Decent Days & Nights",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCHIE BRONSON OUTFIT",
+      "song": "Cherry Lips",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SPRING KING",
+      "song": "Rectifier",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Too Real",
+      "label": "Partisan Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "METZ",
+      "song": "Get Off",
+      "label": "Sub Pop",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE WALKMEN",
+      "song": "The Rat",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LICE",
+      "song": "Stammering Bill",
+      "label": "Balley Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SLAVES",
+      "song": "Spit It Out",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "A PLACE TO BURY STRANGERS",
+      "song": "Supermaster",
+      "label": "Dead Oceans",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BEAK>",
+      "song": "Brean Down",
+      "label": "Invada Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEATH IN VEGAS",
+      "song": "Aisha",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ARAB STRAP",
+      "song": "Cherubs",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SUUNS",
+      "song": "2020",
+      "label": "Secretly Canadian",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TV ON THE RADIO",
+      "song": "Staring At The Sun",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE ARCADE FIRE - LIVE",
+      "song": "No Cars Go",
+      "label": "Spunk",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "RADIOHEAD - LIVE",
+      "song": "Idioteque",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SPECTRES",
+      "song": "Dissolve",
+      "label": "Sonic Cathedral Recordings",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MOGWAI",
+      "song": "Batcat",
+      "label": "Spunk",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "Q. LAZZARUS",
+      "song": "Goodbye Horses",
+      "label": "Mon Amie Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Great",
+      "label": "Pod",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Danny Nedelko",
+      "label": "Partisan Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Mother",
+      "label": "Balley Records / Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Stendhal Syndrome",
+      "label": "Balley Records / Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Well Done",
+      "label": "Balley Records / Inertia",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "The Idles Chant",
+      "label": "Balley Records / Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Queens",
+      "label": "Balley Records / Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Germany",
+      "label": "Balley Records / Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "26/47",
+      "label": "Balley Records / Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IDLES",
+      "song": "Thieves",
+      "label": "Balley Records / Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FUGAZI",
+      "song": "Suggestion",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEN",
+      "song": "Inertia",
+      "label": "Rice Is Nice",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEN",
+      "song": "Eclipse",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FUTURE ISLANDS",
+      "song": "Seasons (Waiting On You)",
+      "label": "4AD",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FUTURE ISLANDS",
+      "song": "Ran",
+      "label": "4AD",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YEAH YEAH YEAHS",
+      "song": "Gold Lion",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "The Passenger",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Psycho Killer",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TEARS FOR FEARS",
+      "song": "Head Over Heels",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Love Song",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Graceless",
+      "label": "4AD",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SUUNS",
+      "song": "Edie's Dream",
+      "label": "Secretly Canadian",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Street Spirit",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EINSTURZENDE NEUBAUTEN",
+      "song": "The Garden",
+      "label": "Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DUNE RATS",
+      "song": "No Plans (censored version)",
+      "label": "Ratbag Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BAD//DREEMS",
+      "song": "Double Dreaming (censored version)",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE MURLOCS",
+      "song": "What If?",
+      "label": "Flightless",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SHAMAN EYES",
+      "song": "Find Your Mind",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BLACK KEYS",
+      "song": "Go",
+      "label": "Nonesuch",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE SABOTEURS",
+      "song": "Help Me Stranger",
+      "label": "Third Man Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT",
+      "song": "Final Form (censored version)",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BABE RAINBOW",
+      "song": "Something New",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SEEKER LOVER KEEPER",
+      "song": "Let It Out",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CLEA",
+      "song": "Insecurity",
+      "label": "Habit Music",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MAC DEMARCO",
+      "song": "On The Square",
+      "label": "Mac's Record Label",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GEORGE EZRA",
+      "song": "Pretty Shining People",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE VOIDZ",
+      "song": "Permanent High School",
+      "label": "Cult Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CAGE THE ELEPHANT & BECK",
+      "song": "Night Running",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PLEASURE CHEST",
+      "song": "Denim Dragon",
+      "label": "Phonovox Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOLY HOLY",
+      "song": "Teach Me About Dying",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MILDLIFE",
+      "song": "The Magnificent Moon",
+      "label": "Research Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GRACE JONES",
+      "song": "Private Life",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLONDIE",
+      "song": "Rapture",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HERBIE HANCOCK",
+      "song": "Rockit",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "QUANTUM JUMP",
+      "song": "The Lone Ranger",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SIMPLY RED",
+      "song": "Fairground",
+      "label": "WEA",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "10CC",
+      "song": "I'm Not In Love",
+      "label": "Polydor",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "This Must Be The Place (Naive Melody)",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CHARLES & EDDIE",
+      "song": "Would I Lie To You",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LOMBOY",
+      "song": "Loverboy (censored version)",
+      "label": "Cracki Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MILDLIFE",
+      "song": "How Long Does It Take",
+      "label": "Inertia",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "title": "Saturday morning 29 December 2018 on ABC",
+  "special": null,
+  "timeslot": "morning",
+  "date": "2018-12-29",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-december-2018-on-abc/10666700",
+  "tracks": [
+    {
+      "artist": "KYGO ft. SANDRO CAVAZZA",
+      "song": "Happy Now",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BILLIE EILISH ft. KHALID",
+      "song": "Lovely",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAI WAETFORD",
+      "song": "Friends",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SHAWN MENDES & ZEDD",
+      "song": "Lost In Japan (Remix)",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ZARA LARSSON",
+      "song": "Ruin My Life",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CNCO, MEGHAN TRAINOR & SEAN PAUL",
+      "song": "Hey DJ",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MORGAN EVANS",
+      "song": "Day Drunk",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JONAS BLUE ft. JACK & JACK",
+      "song": "Rise",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KIAN",
+      "song": "Waiting",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "POST MALONE",
+      "song": "Better Now",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Bohemian Rhapsody",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "XXXTENTACION & LIL PUMP ft. MALUMA & SWAE LEE",
+      "song": "Arms Around You",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "High Hopes",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CHARLI XCX & TROYE SIVAN",
+      "song": "1999 (censored version)",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "MAROON 5 ft. CARDI B",
+      "song": "Girls Like You",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LUKAS GRAHAM",
+      "song": "Love Someone",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CALVIN HARRIS AND SAM SMITH",
+      "song": "Promises",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "5 SECONDS OF SUMMER",
+      "song": "Youngblood",
+      "label": "EMI",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MARIAH CAREY",
+      "song": "All I Want For Christmas Is You",
+      "label": "Sony",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "POST MALONE",
+      "song": "Better Now",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "DEAN LEWIS",
+      "song": "Be Alright",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "RITA ORA",
+      "song": "Let You Love Me",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BENNY BLANCO ft. HALSEY & KHALID",
+      "song": "Eastside",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "TRAVIS SCOTT ft. DRAKE",
+      "song": "Sicko Mode (clean version)",
+      "label": "Good Music",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MARSHMELLO ft. BASTILLE",
+      "song": "Happier",
+      "label": "EMI",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "POST MALONE & SWAE LEE",
+      "song": "Sunflower",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "AVA MAX",
+      "song": "Sweet But Psycho",
+      "label": "Atlantic",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "LADY GAGA AND BRADLEY COOPER",
+      "song": "Shallow",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "GEORGE EZRA",
+      "song": "Shotgun",
+      "label": "Columbia",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "HALSEY",
+      "song": "Without Me (censored version)",
+      "label": "EMI",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ARIANA GRANDE",
+      "song": "Thank U, Next (censored version)",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE DELTA RIGGS",
+      "song": "Out Of Place",
+      "label": "Habit Music",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "THE CHATS",
+      "song": "Bus Money",
+      "label": "Independent",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "VERA BLUE",
+      "song": "All The Pretty Girls",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "CLEWS",
+      "song": "Crushed",
+      "label": "Sony",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE 1975",
+      "song": "It's Not Living (If It's Not With You)",
+      "label": "Sony",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "TRAVIS SCOTT",
+      "song": "Yosemite",
+      "label": "Sony",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BROODS",
+      "song": "Everything Goes (Wow)",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "GOLDEN VESSEL ft. ELKKLE & AKUREI",
+      "song": "Moonstone",
+      "label": "Mammal Sounds",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "PHANTASTIC FERNITURE",
+      "song": "Bad Timing",
+      "label": "Caroline",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": "Independent",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "THE DRONES",
+      "song": "Boredom (censored version)",
+      "label": "Tropical Fuck Storm Records",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PERFUME GENIUS",
+      "song": "Slip Away",
+      "label": "Remote Control",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "WOLF ALICE",
+      "song": "Don't Delete The Kisses",
+      "label": "Dirty Hit",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "This Is Love",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "MITSKI",
+      "song": "Nobody",
+      "label": "Dead Oceans",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Lucky",
+      "label": "Jive/Zomba",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Paper Bag",
+      "label": "Sony",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PHANTASTIC FERNITURE",
+      "song": "Dark Corner Dance Floor",
+      "label": "Caroline",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT ft. NADEEM DIN-GABISI",
+      "song": "Energy",
+      "label": "Independent",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "JESS RIBEIRO",
+      "song": "Love Is The Score Of Nothing",
+      "label": "Barely Dressed",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "LAST DINOSAURS",
+      "song": "Bass God",
+      "label": "Dew Process",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Free Yourself",
+      "label": "EMI",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DIGITALISM",
+      "song": "Automation",
+      "label": "Magnetism",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Pay No Mind",
+      "label": "Mistletone",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "GESAFFELSTEIN",
+      "song": "Reset (censored version)",
+      "label": "Sony",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "RUFUS DU SOL",
+      "song": "Lost In My Mind",
+      "label": "Sony",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "SAFIA",
+      "song": "Starlight",
+      "label": "Parlophone",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MONTERO",
+      "song": "Aloha",
+      "label": "Chapter Music",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Out Of Space",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "IGGY POP (ON COUNTDOWN)",
+      "song": "I'm Bored",
+      "label": "Virgin",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE CHATS",
+      "song": "Smoko",
+      "label": "Independent",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "QUEENS OF THE STONE AGE",
+      "song": "No One Knows",
+      "label": "Universal",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "TENACIOUS D",
+      "song": "Tribute",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Beat It",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ELECTRIC LIGHT ORCHESTRA",
+      "song": "Livin' Thing",
+      "label": "United Artist",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "SIOUXSIE & THE BANSHEES",
+      "song": "Spellbound",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "2 PAC ft. DR DRE",
+      "song": "California Love",
+      "label": "Mercury",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": "Independent",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "1979",
+      "label": "Virgin",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Under The Bridge",
+      "label": "Warner",
+      "timeslot": "11:00:00"
+    },
+    {
+      "artist": "THE POGUES",
+      "song": "Dirty Old Town",
+      "label": "Warner",
+      "timeslot": "11:00:00"
+    }
+  ]
+}

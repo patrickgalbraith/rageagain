@@ -1,0 +1,627 @@
+{
+  "title": "Saturday Night 9 November 2019 on ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2019-11-09",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-november-2019-on-abc/11688358",
+  "tracks": [
+    {
+      "artist": "INXS",
+      "song": "New Sensation",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TOM TOM CLUB",
+      "song": "Genius Of Love",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DEEE-LITE",
+      "song": "Groove Is In The Heart",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CHIC",
+      "song": "Le Freak",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CHAZ JANKEL",
+      "song": "Questionaire",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE KLF",
+      "song": "3AM Eternal",
+      "label": "Mushroom",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ALAN VEGA",
+      "song": "Wipeout Beat",
+      "label": "Universal (MCA)",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Robots",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SPARKS",
+      "song": "The Number One Song In Heaven",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PETER GABRIEL",
+      "song": "Sledgehammer",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Stalking To A Stranger (Planets Collide Remix)",
+      "label": "Liberation",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "LENNY KRAVITZ",
+      "song": "Are You Gonna Go My Way?",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "COLD CHISEL",
+      "song": "Saturday Night",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE JAM",
+      "song": "That's Entertainment",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "RADIO BIRDMAN",
+      "song": "TV Eye",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BIG PIG",
+      "song": "Hungry Town",
+      "label": "White Label",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "IGGY POP - ON COUNTDOWN",
+      "song": "I'm Bored",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "X-RAY SPEX",
+      "song": "Oh Bondage, Up Yours!",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SID VICIOUS",
+      "song": "My Way",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SPIDERBAIT",
+      "song": "Buy Me A Pony",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CHILDISH GAMBINO",
+      "song": "This Is America",
+      "label": "Liberator",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Fight The Power",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MICHAEL KIWANUKA",
+      "song": "Black Man In A White World",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE REELS",
+      "song": "Bad Moon Rising",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SAINTS",
+      "song": "Know Your Product",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HUNTERS and COLLECTORS",
+      "song": "Lumps Of Lead",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CRANBERRIES",
+      "song": "Zombie",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SUGARCUBES",
+      "song": "Birthday",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Street Spirit",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BLACK",
+      "song": "Wonderful Life",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Numb",
+      "label": "Mercury",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Wild Is The Wind",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Everybody Hurts",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE VERVE",
+      "song": "Bittersweet Symphony",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Subterranean Homesick Blues",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE DIRTY THREE",
+      "song": "Sue's Last Ride (Live on Recovery, 1997)",
+      "label": "Rage",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YOUSSOU N'DOUR and NENEH CHERRY",
+      "song": "7 Seconds",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NENEH CHERRY",
+      "song": "Manchild",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE BIRTHDAY PARTY",
+      "song": "Nick The Stripper",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS - LIVE IN LYON",
+      "song": "The Mercy Seat",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "Into My Arms",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROWLAND S HOWARD",
+      "song": "Shivers (Live on Studio 22)",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LEE HAZLEWOOD and NANCY SINATRA",
+      "song": "Some Velvet Morning",
+      "label": "Reprise Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Perfect Day",
+      "label": "RCA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JOHNNY CASH",
+      "song": "Hurt",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NINA SIMONE",
+      "song": "Revolution",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TANITA TIKARAM",
+      "song": "Twist In My Sobriety",
+      "label": "WEA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE ONLY ONES",
+      "song": "Another Girl, Another Planet",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ANITA LESTER",
+      "song": "Man",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HUNTERS and COLLECTORS",
+      "song": "Talking To A Stranger",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "All The Voices",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Dancing On The Jetty",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "What You Need",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Need You Tonight/Mediate",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Never Tear Us Apart",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Burn For You",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Listen Like Thieves",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Suicide Blonde",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "By My Side",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Bitter Tears",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Heaven Sent",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Taste It",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Cut Your Roses Down",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "JULES TAYLOR",
+      "song": "Rock Rock Daddy",
+      "label": "White Label Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE EARS",
+      "song": "Leap For Lunch",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "It's No Reason",
+      "label": "Parlophone",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TIM FINN",
+      "song": "Fraction Too Much Friction",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TIM FINN",
+      "song": "Staring At The Embers",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TIM FINN",
+      "song": "Through The Years",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Angel Of Harlem",
+      "label": "Polydor",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "U2",
+      "song": "Desire",
+      "label": "Mercury",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MICHAEL HUTCHENCE",
+      "song": "Rooms For The Memory",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MAX Q",
+      "song": "Way Of The World",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Guns In The Sky (Live at Brixton Academy, 1994)",
+      "label": "WEA",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MAX Q (MICHAEL HUTCHENCE)",
+      "song": "Sometimes (Director's Cut)",
+      "label": "CBS",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "The Gift (Director's Cut)",
+      "label": "East West Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RUNNING TOUCH",
+      "song": "When I'm Around You",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT ft. NADEEM DIN-GABISI",
+      "song": "Energy",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PARCELS",
+      "song": "Tieduprightnow",
+      "label": "Kitsune Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Road Trip",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Snakes",
+      "label": "I OH YOU",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BUOYS",
+      "song": "Gold",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PIST IDIOTS",
+      "song": "Motor Runnin (censored version)",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CHATS",
+      "song": "Pub Feed",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DIVINYLS",
+      "song": "Boys In Town",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "GANG OF YOUTHS",
+      "song": "The Deepest Sighs, The Frankest Shadows",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Silver",
+      "label": "I OH YOU",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Giant Tortoise (Live at Splendour in the Grass 2019)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "POND",
+      "song": "The Weather (Live at Splendour in the Grass 2019)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Daisy (Live at Splendour in the Grass 2019)",
+      "label": null,
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BAKER BOY ft. DALLAS WOODS",
+      "song": "Black Magic",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Work It",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Ms Jackson",
+      "label": "BMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "NEW KIDS ON THE BLOCK",
+      "song": "Step By Step",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JJAY DE MELO ft. PHILLIP HARDER",
+      "song": "For Life",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "J-KWON",
+      "song": "Tipsy",
+      "label": "BMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Touch The Sky",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Feel Good Inc.",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "OCEAN ALLEY",
+      "song": "Confidence",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DALLAS WOODS",
+      "song": "Hoodlum",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KOBIE DEE ft. BEA MOON",
+      "song": "This Life",
+      "label": "Bad Apples Music",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "JULIA JACKLIN",
+      "song": "Pressure To Party",
+      "label": "Liberation",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

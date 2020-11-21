@@ -1,0 +1,549 @@
+{
+  "title": "Saturday Night 14 December 2019 on ABC 1",
+  "special": null,
+  "timeslot": "night",
+  "date": "2019-12-14",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-december-2019-on-abc-1/11798684",
+  "tracks": [
+    {
+      "artist": "APOCALYPTICA",
+      "song": "For Whom The Bell Tolls (Live)",
+      "label": "Odyssey",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "The Day That Never Comes",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "One",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Painkiller",
+      "label": "CBS",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SKID ROW",
+      "song": "Youth Gone Wild",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Civil War",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Be Quick Or Be Dead",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Territory",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SLAYER",
+      "song": "Raining Blood",
+      "label": "Universal (MCA)",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Keine Lust",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Mein Teil",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ENSIFERUM",
+      "song": "One Man Army",
+      "label": "Metal Blade Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "AMON AMARTH",
+      "song": "Twilight Of The Thunder God",
+      "label": "Stomp",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARCH ENEMY",
+      "song": "We Will Rise",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ARCH ENEMY",
+      "song": "You Will Know My Name",
+      "label": "Century Media Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHILDREN OF BODOM",
+      "song": "In Your Face",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "The Blister Exists",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Coming Undone",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "Mouth For War",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IMMORTAL",
+      "song": "One By One",
+      "label": "Nuclear Blast",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DEFTONES",
+      "song": "Minerva",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BEHEMOTH",
+      "song": "Blow Your Trumpets Gabriel",
+      "label": "Nuclear Blast",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DIMMU BORGIR",
+      "song": "Progenies Of The Great Apocalypse (Live)",
+      "label": "Nuclear Blast",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "IMPALED NAZARENE",
+      "song": "Armageddon Death Squad",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NAPALM DEATH",
+      "song": "Suffer The Children",
+      "label": "Shock",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NIGHTWISH",
+      "song": "Storytime",
+      "label": "Roadrunner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AMORPHIS",
+      "song": "Silent Waters",
+      "label": "Riot",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "HIM",
+      "song": "Join Me",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BLACK VEIL BRIDES",
+      "song": "In The End",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE RASMUS",
+      "song": "In The Shadows",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OWL CITY",
+      "song": "Vanilla Twilight",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "POETS OF THE FALL",
+      "song": "Late Goodbye",
+      "label": "Big/Rajon",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CHRIS CORNELL",
+      "song": "You Know My Name",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Wild Boys",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NIK KERSHAW",
+      "song": "The Riddle",
+      "label": "MCA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Model",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BLOODHOUND GANG",
+      "song": "Fire, Water, Burn",
+      "label": "Universal (MCA)",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EMINEM",
+      "song": "Cleaning Out My Closet",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "50 CENT",
+      "song": "P.I.M.P. (Remix)",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BOMFUNK MCS",
+      "song": "B-Boys and Fly Girls",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GWEN STEFANI",
+      "song": "Hollaback Girl",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Poker Face",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DARUDE",
+      "song": "Sandstorm",
+      "label": "Central Station",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SCOOTER",
+      "song": "Nessaja",
+      "label": "Shock",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Smack My Bitch Up",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROYKSOPP",
+      "song": "Poor Leno",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Blackstar",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ENYA",
+      "song": "Only Time",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "The Man Who Sold The World",
+      "label": "Universal (MCA)",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "NICK CAVE and KYLIE MINOGUE",
+      "song": "Where The Wild Roses Grow",
+      "label": "Mushroom",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "No Surprises",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Karma Police",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Sunburn",
+      "label": "Fest/Mush",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Starlight",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "APOCALYPTICA ft. NINA HAGEN",
+      "song": "Seemann",
+      "label": "Motor Music",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "APOCALYPTICA",
+      "song": "Ashes Of The Modern World",
+      "label": "Harmageddon Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "APOCALYPTICA",
+      "song": "Cold Blood",
+      "label": "Better Noise Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "APOCALYPTICA ft. LACEY",
+      "song": "Broken Pieces",
+      "label": "Dragnet Records / Columbia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "APOCALYPTICA ft. MATT TUCK AND MAX CAVALERA",
+      "song": "Repressed",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "APOCALYPTICA ft. GAVIN ROSSDALE",
+      "song": "End Of Me",
+      "label": "Dragnet Records / Columbia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "APOCALYPTICA",
+      "song": "En Vie",
+      "label": "Vertigo / Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "APOCALYPTICA",
+      "song": "Nothing Else Matters (Live)",
+      "label": "Odyssey",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "APOCALYPTICA",
+      "song": "Rise",
+      "label": "Harmageddon Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AURORA",
+      "song": "Queendom",
+      "label": null,
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ROYKSOPP and ROBYN",
+      "song": "Monument",
+      "label": "Inertia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GHOST",
+      "song": "Cirice",
+      "label": "Loma Vista",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Two Minutes To Midnight",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Breaking The Law",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ME AND THAT MAN",
+      "song": "Ain't Much Loving",
+      "label": "Cooking Vinyl",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Save A Prayer",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MI-SEX",
+      "song": "Computer Games",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Life On Mars?",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NICOLAS GODIN ft. COLA BOYY",
+      "song": "The Foundation",
+      "label": "Because Music",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HATCHIE",
+      "song": "Her Own Heart",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JOSEPH LIDDY AND THE SKELETON HORSE",
+      "song": "Give In To Love",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SOFALA",
+      "song": "Prisoner's Cinema",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SAN CISCO",
+      "song": "Skin",
+      "label": "Island City Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "Champagne Affection",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CUB SPORT",
+      "song": "Hearts In Halves",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MARK RONSON AND ANDERSON .PAAK",
+      "song": "Then There Were Two",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BOLER MANI",
+      "song": "Cost",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TASMAN KEITH",
+      "song": "Billy Bad Again",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BAKER BOY ft. JESSB",
+      "song": "Meditjin",
+      "label": "Island Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DJ SHADOW ft. DE LA SOUL",
+      "song": "Rocket Fuel",
+      "label": "Mass Appeal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LIZZO",
+      "song": "Good As Hell (second version)",
+      "label": "Atlantic",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KATY PERRY",
+      "song": "Cosy Little Christmas",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LIAM PAYNE",
+      "song": "All I Want (For Christmas)",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Christmas Tree Farm",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "title": "Saturday night 27th May 2017 on ABC",
+  "special": "All Time Low",
+  "timeslot": "night",
+  "date": "2017-05-27",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-27th-may-2017-on-abc/9645562",
+  "tracks": [
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Dirty Laundry",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "UNWRITTEN LAW",
+      "song": "Seein' Red",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Time Bomb",
+      "label": "Shock",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SUM41",
+      "song": "Fat Lip",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JIMMY EAT WORLD",
+      "song": "Sweetness",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DASHBOARD CONFESSIONAL",
+      "song": "Vindicated",
+      "label": "Shock",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GOOD CHARLOTTE",
+      "song": "Lifestyles Of The Rich And Famous",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BIFFY CLYRO",
+      "song": "Mountains",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Everlong",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "CATFISH AND THE BOTTLEMEN",
+      "song": "Soundcheck",
+      "label": "Island Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "Feeling This",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "What's My Age Again?",
+      "label": "Universal (MCA)",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE WONDER YEARS",
+      "song": "Melrose Diner",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "YELLOWCARD",
+      "song": "Ocean Avenue",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "TONIGHT ALIVE",
+      "song": "Wasting Away",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "AFI",
+      "song": "The Days Of The Phoenix",
+      "label": "Shock",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "Death Of A Bachelor",
+      "label": null,
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PANIC! AT THE DISCO",
+      "song": "I Write Sins Not Tragedies",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BEST COAST",
+      "song": "Feeling OK",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "VAMPIRE WEEKEND",
+      "song": "A-Punk",
+      "label": "Remote Control",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE XX",
+      "song": "On Hold",
+      "label": "Young Turks",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SWMRS",
+      "song": "Palm Trees",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MOTION CITY SOUNDTRACK",
+      "song": "My Favourite Accident",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE ALL-AMERICAN REJECTS",
+      "song": "Dirty Little Secret",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "I'd Do Anything",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE ATARIS",
+      "song": "San Dimas High School Football Rules",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FALL OUT BOY",
+      "song": "Sugar, We're Goin' Down",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Humble",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Bitch, Don't Kill My Vibe",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PVRIS",
+      "song": "White Noise",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Elastic Heart",
+      "label": "Inertia Recordings / Monkey Puzzle",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "OUTKAST",
+      "song": "Hey Ya",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "J-Boy",
+      "label": "Liberator",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Purple Rain",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "WEEZER",
+      "song": "Beverly Hills",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RUN RIVER NORTH",
+      "song": "Run Or Hide",
+      "label": "Nettwerk Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TAKING BACK SUNDAY",
+      "song": "Make Damn Sure",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "COHEED and CAMBRIA",
+      "song": "Welcome Home",
+      "label": "SBME",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Shape Of You",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JOHN MAYER",
+      "song": "Waiting On The World To Change",
+      "label": "SBME",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEATH CAB FOR CUTIE",
+      "song": "Soul Meets Body",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Karma Police",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PEARL JAM",
+      "song": "Alive",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE MAINE",
+      "song": "Bad Behaviour",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE USED",
+      "song": "All That I've Got",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "Drive",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "A Sky Full Of Stars",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLEACHERS",
+      "song": "I Wanna Get Better",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PIERCE THE VEIL",
+      "song": "Circles",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Six Feet Under The Stars",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Dear Maria, Count Me In",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Poppin'",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Weightless",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Damned If I Do Ya (Damned If I Don't)",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "I Feel Like Dancin'",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Forget About It",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Dirty Laundry",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALL TIME LOW",
+      "song": "Life Of The Party",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LANA DEL REY ft. THE WEEKND",
+      "song": "Lust For Life",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ILLY ft. JENNA McDOUGALL",
+      "song": "Oh My",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "KACY HILL",
+      "song": "Like A Woman",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HONEYBLOOD",
+      "song": "Walking At Midnight",
+      "label": "Cooking Vinyl",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TREEHOUSE",
+      "song": "Hammer On The Door",
+      "label": "Bedroom Suck",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BIG SEAN",
+      "song": "Jump Out The Window",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "A.B. ORIGINAL",
+      "song": "Report To The Mist",
+      "label": "Golden Age",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BIG BOI ft. ADAM LEVINE",
+      "song": "Mic Jack",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TIRED LION",
+      "song": "Cinderella Dracula",
+      "label": "Dew Process",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DEAR SEATTLE",
+      "song": "Afterthought",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Ghost Of A Chance",
+      "label": "Epitaph Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE STRYPES",
+      "song": "Behind Closed Doors",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DUNE RATS",
+      "song": "Braindead",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Paint Me Silver",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GLAMOURATZ",
+      "song": "Club Rat",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Right Now",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SUSS CUNTS",
+      "song": "Shit Friend",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YEO ft. ASTA",
+      "song": "Never Wanted That",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ASGEIR",
+      "song": "Stardust",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LUKE MILLION ft. SAM SPARRO",
+      "song": "Back To The Rhythm",
+      "label": "Future Classic",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MILKY CHANCE",
+      "song": "Blossom",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LUPA J",
+      "song": "Put Me Back Together",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AKOUO ft. MONTAIGNE",
+      "song": "Feel That",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE JUNGLE GIANTS",
+      "song": "Feel The Way I Do",
+      "label": "Warp",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FOOD COURT",
+      "song": "Slightest Brightest",
+      "label": "Dine Alone / Cooking Vinyl",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PRESS CLUB",
+      "song": "Headwreck",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CDB",
+      "song": "Let's Groove",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KEITH SWEAT",
+      "song": "Nobody",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BELL BIV DEVOE",
+      "song": "Poison",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "NEW EDITION",
+      "song": "If It Isn't Love",
+      "label": "MCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RALPH TRESVANT",
+      "song": "Sensitivity",
+      "label": "MCA Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TONY TONI TONE",
+      "song": "Feels Good",
+      "label": "Polydor",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BLACKSTREET",
+      "song": "Fix",
+      "label": "Universal (MCA)",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SWV",
+      "song": "Right Here (Human Nature Mix)",
+      "label": "RCA",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EN VOGUE",
+      "song": "Don't Let Go (Love)",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CDB",
+      "song": "Back Then",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "K-CI and JOJO",
+      "song": "All My Life",
+      "label": "Universal (MCA)",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "J-Boy",
+      "label": "Liberator",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "DNA",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HORRORSHOW",
+      "song": "Eat The Cake",
+      "label": null,
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "K. FLAY",
+      "song": "High Enough",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALI BARTER",
+      "song": "Please Stay",
+      "label": "Inertia",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAGIC BONES",
+      "song": "Hotter Than The Sun",
+      "label": "Habit?",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FROYO",
+      "song": "Darling",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LIL YACHTY",
+      "song": "Bring It Back",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MUTO ft. DEUTSCH DUKE",
+      "song": "Wildfire",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "Divided",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE GOODS",
+      "song": "Make Your Move",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DAN SULTAN",
+      "song": "Hold It Together",
+      "label": "Liberation",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE OWLS",
+      "song": "Jesus Let Me Fly",
+      "label": "Future Popes",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Rainbow City",
+      "label": "Ivy League",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

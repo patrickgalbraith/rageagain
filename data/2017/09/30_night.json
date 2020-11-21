@@ -1,0 +1,525 @@
+{
+  "title": "Saturday night 30th September 2017 on ABC",
+  "special": "Died Pretty",
+  "timeslot": "night",
+  "date": "2017-09-30",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-30th-september-2017-on-abc/9645330",
+  "tracks": [
+    {
+      "artist": "DIED PRETTY",
+      "song": "DC",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "Jumping Jack Flash",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "It's Only Rock 'n Roll",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE ROLLING STONES - LIVE",
+      "song": "Sympathy For The Devil",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Golden Years",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Heroes",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Blackstar",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "Virginia Plain",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ROXY MUSIC",
+      "song": "In Every Dream Home A Heartache",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DR OCTAGON",
+      "song": "Trees",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JOY DIVISION - LIVE",
+      "song": "She's Lost Control",
+      "label": "Festival",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "Radioactivity",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "APHEX TWIN",
+      "song": "On",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "The Day My Baby Gave Me A Surprise",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LAUGHING CLOWNS",
+      "song": "Eternally Yours",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "INTERSTATER",
+      "song": "I Don't Feel Anything",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JON SPENCER BLUES EXPLOSION",
+      "song": "Afro",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Fire",
+      "label": "Mercury",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BRIAN JONESTOWN MASSACRE",
+      "song": "When Jokers Attack",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WARLOCKS",
+      "song": "Baby Blue",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE MORNING AFTER GIRLS",
+      "song": "Run For Our Lives",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Losing My Edge",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BETA BAND",
+      "song": "Assessment",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "UNDERGROUND LOVERS",
+      "song": "Las Vegas",
+      "label": "Rubber",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Rhinoceros",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MC5",
+      "song": "Kick Out The Jams",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MC5 - LIVE",
+      "song": "Ramblin' Rose",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MC5 - LIVE",
+      "song": "Shakin' Street",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Immigrant Song - Live at Sydney Showground 1972",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LED ZEPPELIN",
+      "song": "Communication Breakdown",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Primary",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE RESIDENTS",
+      "song": "Hello Skinny",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE HUMAN LEAGUE",
+      "song": "Love Action",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Crosseyed And Painless",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "Tupelo",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "God Is In The House - LIVE",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "NICK CAVE & THE BAD SEEDS",
+      "song": "The Singer",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PUBLIC ENEMY",
+      "song": "Fight The Power",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STEREOLAB",
+      "song": "Super-Electric",
+      "label": "Shock",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BOB DYLAN",
+      "song": "Tangled Up In Blue",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE LAS",
+      "song": "There She Goes",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PATTI SMITH",
+      "song": "Because The Night",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CAPTAIN BEEFHEART & HIS MAGIC BAND",
+      "song": "Sure 'Nuff 'n Yes I Do",
+      "label": "Astor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "HAPPY MONDAYS",
+      "song": "Wrote For Luck",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CREAM",
+      "song": "I'm So Glad",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Lust For Life",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE WHO",
+      "song": "Substitute",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE KINKS",
+      "song": "Waterloo Sunset",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Towers Of Strength",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Whitlam Square",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Winterland",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Godbless - LIVE",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Sweetheart",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Head Around",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Stoneage Cinderella",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Harness Up",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Caressing Swine",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "Out Of My Hands",
+      "label": "Fest/Mush",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "DIED PRETTY",
+      "song": "True Fools Fall",
+      "label": "Festival",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "Treetops",
+      "label": "Ivy League",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALEX CAMERON",
+      "song": "Runnin' Outta Luck",
+      "label": "Secretly Canadian",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KIRKIS",
+      "song": "Miracle",
+      "label": "Moded",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CLIENT LIAISON ft. TINA ARENA",
+      "song": "A Foreign Affair",
+      "label": "Remote Control",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CONFIDENCE MAN",
+      "song": "Better Sit Down Boy",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALEX LAHEY",
+      "song": "Ivy League",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BIG MOON",
+      "song": "Sucker (Censored)",
+      "label": "Fiction Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BLUR",
+      "song": "Coffee and TV",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HAIM",
+      "song": "Want You Back",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MEG MAC",
+      "song": "Low Blows",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HOLY HOLY",
+      "song": "True Lovers",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE JAPANESE HOUSE",
+      "song": "Face Like Thunder",
+      "label": "Dirty Hit",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TEGAN & SARA",
+      "song": "Back In Your Head",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MARIKA HACKMAN",
+      "song": "Boyfriend",
+      "label": "Nonesuch",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KING GIZZARD & THE LIZARD WIZARD ft. MILD HIGH CLUB",
+      "song": "Countdown",
+      "label": "Flightless",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Lift",
+      "label": "XL",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ASGEIR",
+      "song": "I Know You Know",
+      "label": "Pod",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BABY BLUE",
+      "song": "Soccer Ball",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE CACTUS CHANNEL",
+      "song": "Storefront",
+      "label": "HopeStreet Recordings",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GORDI",
+      "song": "Bitter End",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Colder Than Ice",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DONNY BENÉT",
+      "song": "Konichiwa",
+      "label": "Dot Dash / Remote Control",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KIRIN J. CALLINAN ft. ALEX CAMERON, MOLLY LEWIS & JIMMY BARNES",
+      "song": "Big Enough",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "NIC CESTER",
+      "song": "Psichebello",
+      "label": "Liberation",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Into The Sky",
+      "label": "Etc Etc",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GIRAFFAGE ft. JAPANESE BREAKFAST",
+      "song": "Maybes",
+      "label": "Counter Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BJÖRK",
+      "song": "The Gate",
+      "label": "Pod",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

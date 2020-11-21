@@ -1,0 +1,495 @@
+{
+  "title": "Saturday morning 31st March 2018 on ABC",
+  "special": null,
+  "timeslot": "morning",
+  "date": "2018-03-31",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-morning-31st-march-2018-on-abc/9637500",
+  "tracks": [
+    {
+      "artist": "DUA LIPA",
+      "song": "New Rules",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAROON 5",
+      "song": "Wait",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Joanne",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DAVID GUETTA & AFROJACK",
+      "song": "Dirty Sexy Money ft. CHARLI XCX & FRENCH MONTANA",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ALISON WONDERLAND",
+      "song": "Church",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KHALID",
+      "song": "Young, Dumb & Broke",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Castle On The Hill (clean)",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HAILEE STEINFELD & ALESSO",
+      "song": "Let Me Go ft. FLORIDA GEORGIA & WATT",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "G-EAZY ft. HALSEY",
+      "song": "Him & I",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MARSHMELLO & KHALID",
+      "song": "Silence",
+      "label": "RCA",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SELENA GOMEZ & MARSHMELLO",
+      "song": "Wolves",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PORTUGAL. THE MAN",
+      "song": "Feel It Still",
+      "label": "Atlantic",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TROYE SIVAN",
+      "song": "My My My!",
+      "label": "EMI",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Go Bang",
+      "label": "Etc Etc",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CLEAN BANDIT ft. JULIA MICHAELS",
+      "song": "I Miss You",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CAMILLA CABELLO ft. YOUNG THUG",
+      "song": "Havana",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "VANCE JOY",
+      "song": "We're Going Home",
+      "label": "Liberation",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "LIAM PAYNE & RITA ORA",
+      "song": "For You",
+      "label": "EMI",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Shape Of You",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BRUNO MARS & CARDI B",
+      "song": "Finesse",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BAZZI",
+      "song": "Mine",
+      "label": "Independent",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "KHALID & NORMANI",
+      "song": "Love Lies",
+      "label": "RCA",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "BEBE REXHA ft. FLORIDA GEORGIA LINE",
+      "song": "Meant To Be",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "DUA LIPA",
+      "song": "IDGAF",
+      "label": "Warner",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "ZED, MAREN MORRIS & GREY",
+      "song": "The MIddle",
+      "label": "Universal",
+      "timeslot": "07:00:00"
+    },
+    {
+      "artist": "MARSHMELLO & ANNE-MAREE",
+      "song": "Friends",
+      "label": "Asylum",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Delicate",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR ft. SZA",
+      "song": "All The Stars",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "RUDIMENTAL",
+      "song": "These Days",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Perfect",
+      "label": "Warner",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "POST MALONE",
+      "song": "Psycho",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "DRAKE",
+      "song": "God's Plan",
+      "label": "Universal",
+      "timeslot": "07:30:00"
+    },
+    {
+      "artist": "HOLIDAY SIDEWINDER",
+      "song": "Tra$h Can Love",
+      "label": "Personal Best",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "TOTALLY MILD",
+      "song": "From One Another",
+      "label": "Chapter Music",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Dive",
+      "label": "Independent",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Need A Little Time",
+      "label": "Milk! Records",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "THE ACES",
+      "song": "Volcanic Love",
+      "label": "Red Bull Records",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "REBEL YELL",
+      "song": "Pressure Drop",
+      "label": "Rice Is Nice",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "360 ft. HEIN COOPER",
+      "song": "Yesterday",
+      "label": "EMI",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "KENDRICK LAMAR",
+      "song": "Humble (censored)",
+      "label": "Universal",
+      "timeslot": "08:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Blkkk Skkkn Head",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "LOGIC ft. ALESSIA CARA & KHALID",
+      "song": "1-800-273-8255 (CENSORED)",
+      "label": "Universal",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "360 featuring GOSSLING",
+      "song": "Price Of Fame",
+      "label": "EMI",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SUNFLOWER BEAN",
+      "song": "Twentytwo",
+      "label": "Liberator",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "EVELYN IDA MORRIS",
+      "song": "The Body Appears",
+      "label": "Remote Control",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "MOD CON",
+      "song": "Neighbourhood",
+      "label": "Independent",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "RYAN DOWNEY",
+      "song": "Those Eyes That Answer",
+      "label": "Barely Dressed",
+      "timeslot": "08:30:00"
+    },
+    {
+      "artist": "SNAKE AND FRIENDS",
+      "song": "Mounting Evidence",
+      "label": "RIP Society",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "TOTAL CONTROL",
+      "song": "Luxury Vacuum",
+      "label": "Alter Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PARQUET COURTS",
+      "song": "Wide Awake",
+      "label": "Rough Trade",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "HINDS",
+      "song": "The Club",
+      "label": "Mom & Pop",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ALEX LAHEY",
+      "song": "I Love You Like A Brother",
+      "label": "Dead Oceans",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "ALICE BAG",
+      "song": "77",
+      "label": "Don Giovanni Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "SOFI TUKKER",
+      "song": "Baby I'm A Queen",
+      "label": "Ultra",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "PRESS CLUB",
+      "song": "Suburbia",
+      "label": "Poison City Records",
+      "timeslot": "09:00:00"
+    },
+    {
+      "artist": "LAURA JEAN",
+      "song": "Touchstone",
+      "label": "PIAS Australia",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "MOANING LISA",
+      "song": "Carrie (I Want A Girl)",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "ALEXIS TAYLOR",
+      "song": "Oh Baby",
+      "label": "Domino",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DICTAPHONE BLUES",
+      "song": "When Your Simulation Crossed Mine",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "JACK LADDER & THE DREAMLANDERS",
+      "song": "White Flag",
+      "label": "Barely Dressed",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "BIG WHITE",
+      "song": "How Did You Find Out",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "THE RUMINATERS",
+      "song": "Boys Off Work",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "RACKETT",
+      "song": "Alive",
+      "label": "Independent",
+      "timeslot": "09:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "(I Can't Get No) Satisfaction",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE FLYING LIZARDS",
+      "song": "Money (That's What I Want)",
+      "label": "BMG",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE GO-GOS",
+      "song": "Our Lips Are Sealed",
+      "label": "Sony",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "JOSIE COTTON",
+      "song": "He Could Be The One",
+      "label": "Elektra",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "FLOWERS",
+      "song": "We Can Get Together",
+      "label": "Festival",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "PSEUDO ECHO",
+      "song": "Listening",
+      "label": "EMI",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "YAZOO",
+      "song": "Situation",
+      "label": "Mushroom",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "SOFT CELL",
+      "song": "Bedsitter",
+      "label": "Polydor",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "ALTERED IMAGES",
+      "song": "I Could Be Happy",
+      "label": "Epic",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE B-52S",
+      "song": "Legal Tender",
+      "label": "Warner",
+      "timeslot": "10:00:00"
+    },
+    {
+      "artist": "THE CARS",
+      "song": "Just What I Needed",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "JO JO ZEP ft. JANE CLIFTON",
+      "song": "Taxi Mary",
+      "label": "Mushroom",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "EDITH BLISS",
+      "song": "Heart of Stone",
+      "label": "Grundy",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "SARDINE V",
+      "song": "Sudan",
+      "label": "Festival",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "ROMEO VOID",
+      "song": "Never Say Never",
+      "label": "Sony",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "BEARGARDEN",
+      "song": "The Finer Things",
+      "label": "Virgin",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "DEPECHE MODE",
+      "song": "Get The Balance Right",
+      "label": "Mushroom",
+      "timeslot": "10:30:00"
+    },
+    {
+      "artist": "INXS",
+      "song": "Just Keep Walking",
+      "label": "Warner",
+      "timeslot": "10:30:00"
+    }
+  ]
+}

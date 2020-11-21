@@ -1,0 +1,681 @@
+{
+  "title": "Saturday night 16 February 2019 on ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2019-02-16",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-february-2019-on-abc/10816664",
+  "tracks": [
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Real Tight",
+      "label": "Dot Dash",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "MR OIZO",
+      "song": "Flat Beat",
+      "label": "Independent",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Technologic",
+      "label": "Virgin",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Atlas",
+      "label": "Inertia",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Block Rockin' Beats",
+      "label": "Virgin",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "A Tooth For An Eye",
+      "label": "Rabid Records",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Oblivion",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "HOLY FUCK",
+      "song": "Latin America",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "LCD SOUNDSYSTEM",
+      "song": "Someone Great",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ARCA",
+      "song": "Now You Know",
+      "label": "Mute / Create/Control",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "The Robots",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Jocko Homo",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "Cars",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Girlfriend Is Better",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "My Mistake",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE GO-BETWEENS",
+      "song": "Streets Of Your Town",
+      "label": "Universal (MCA)",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JOE JACKSON",
+      "song": "Steppin' Out",
+      "label": "Fest/Mush",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "IGGY POP",
+      "song": "Lust For Life",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PRINCE",
+      "song": "Controversy",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "WARREN G and NATE DOGG",
+      "song": "Regulate",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DR DRE ft. SNOOP DOGG",
+      "song": "Still D.R.E.",
+      "label": "Universal (MCA)",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Flashing Lights",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "JUSTIN TIMBERLAKE",
+      "song": "Cry Me A River",
+      "label": "Jive/Zomba",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "EN VOGUE",
+      "song": "Don't Let Go (Love)",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DESTINY'S CHILD",
+      "song": "Survivor",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "AMERIE",
+      "song": "1 Thing",
+      "label": "SBME",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MICHAEL JACKSON",
+      "song": "Earth Song",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ashes To Ashes",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOHN LENNON",
+      "song": "#9 Dream",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JIMI HENDRIX",
+      "song": "Crosstown Traffic",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Fascination Street",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Cinnamon Girl",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Satellite Of Love",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE STROKES",
+      "song": "Hard To Explain",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NICK CAVE and THE BAD SEEDS",
+      "song": "The Mercy Seat",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "The Sensual World",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PATTI SMITH",
+      "song": "Because The Night",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE BLUE NILE",
+      "song": "Tinseltown In The Rain",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CARIBOU",
+      "song": "Melody Day",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FLYING LOTUS featuring THUNDERCAT",
+      "song": "Mmmhmm",
+      "label": "Warp",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SIA",
+      "song": "Buttons",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROBYN",
+      "song": "With Every Heartbeat",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ABBA",
+      "song": "Knowing Me, Knowing You",
+      "label": "Mercury",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JULIA HOLTER",
+      "song": "Sea Calls Me Home",
+      "label": "Domino",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LUCY PEACH",
+      "song": "Be So Good",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ANOHNI",
+      "song": "Drone Bomb Me",
+      "label": "Rough Trade / Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hidden Place",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "Porcelain",
+      "label": "Fest/Mush",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "Lotus Flower",
+      "label": "Remote Control",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "UNKNOWN MORTAL ORCHESTRA",
+      "song": "Multi-Love",
+      "label": "Jajaguwar / Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MAJICAL CLOUDZ",
+      "song": "Bugs Don't Buzz",
+      "label": "Matador Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BADBADNOTGOOD ft. KAYTRANADA",
+      "song": "Lavender",
+      "label": "Inertia",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KIRKIS",
+      "song": "Miracle",
+      "label": "Moded",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KING KRULE",
+      "song": "Dum Surfer",
+      "label": "XL",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WARPAINT",
+      "song": "Disco//Very - Keep It Healthy",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEERHUNTER",
+      "song": "Helicopter",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PERFUME GENIUS",
+      "song": "Queen",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CLEAN",
+      "song": "Anything Could Happen",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PANDA BEAR",
+      "song": "Slow Motion",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SLEEPY JACKSON",
+      "song": "I Understand What You Want But I Just Don't Agree",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DEVENDRA BANHART",
+      "song": "Fur Hildegard Von Bingen",
+      "label": "XL Recordings",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PALMBOMEN II",
+      "song": "Carina Sayles",
+      "label": "Beats In Space",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALDOUS HARDING",
+      "song": "Blend",
+      "label": "4AD",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ST. VINCENT",
+      "song": "Cheerleader",
+      "label": "Remote Control",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Zebra",
+      "label": "Mistletone",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Scream Whole",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Trip The Mains",
+      "label": "Dot Dash",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Drink Wine",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Ubu",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "No. 28",
+      "label": "Remote Control",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Twilight Driving",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Idee Fixie",
+      "label": "4AD",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Rogues",
+      "label": "4AD",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "METHYL ETHEL",
+      "song": "Poison Peach",
+      "label": "4AD",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE KNIFE",
+      "song": "Silent Shout",
+      "label": "MOS/EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ARCA",
+      "song": "Desafio",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KRAFTWERK",
+      "song": "Telephone Call",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Secret Agent Man",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "We Are Glass",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TALKING HEADS",
+      "song": "Once In A Lifetime",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE BEACH BOYS",
+      "song": "Don't Worry Baby",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Harvest Moon",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "Lullaby",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "The Gate",
+      "label": "Pod",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RUBY FIELDS",
+      "song": "Dinosaurs",
+      "label": "Tone Deaf",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SKEGSS (LANEWAY 2019)",
+      "song": "Got On My Skateboard (Live at Laneway Festival 2019)",
+      "label": "Rage",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SKEGSS (LANEWAY 2019)",
+      "song": "Spring Has Sprung (Live at Laneway Festival 2019) (censored version)",
+      "label": "Rage",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SKEGSS (LANEWAY 2019)",
+      "song": "Up In The Clouds (Live at Laneway Festival 2019)",
+      "label": "Rage",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MIDDLE KIDS",
+      "song": "Don't Be Hiding",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CHARLIE COLLINS",
+      "song": "Wish You Were Here",
+      "label": "Mirror Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Need A Little Time",
+      "label": "Milk! Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BENE",
+      "song": "Soaked",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WHAT SO NOT ft. HERIZEN (LANEWAY 2019)",
+      "song": "We Can Be Friends (Live at Laneway Festival 2019)",
+      "label": "Rage",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PARQUET COURTS",
+      "song": "Wide Awake",
+      "label": "Rough Trade",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLORENCE + THE MACHINE",
+      "song": "Big God",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CLAIRO",
+      "song": "Flaming Hot Cheetos",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BAKER BOY",
+      "song": "Marryuna",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "G FLIP (LANEWAY 2019)",
+      "song": "Drink Too Much (Live at Laneway Festival 2019)",
+      "label": "Rage",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "G FLIP (LANEWAY 2019)",
+      "song": "About You (Live at Laneway Festival 2019)",
+      "label": "Rage",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEAR SEATTLE",
+      "song": "Cut You Deep (Censored)",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TAME IMPALA",
+      "song": "Feels Like We Only Go Backwards",
+      "label": "Modular",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Freak",
+      "label": "Murmur",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COLDPLAY",
+      "song": "The Scientist",
+      "label": "EMI",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "KISSCHASY",
+      "song": "Opinions Won't Keep You Warm At Night",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Cherub Rock",
+      "label": "Virgin",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BLINK 182",
+      "song": "The Rock Show",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Learn To Fly",
+      "label": "BMG",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DEAR SEATTLE",
+      "song": "Daytime TV",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KING GIZZARD _and_ THE LIZARD WIZARD",
+      "song": "Cyboogie",
+      "label": "Flightless",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "I KNOW LEOPARD",
+      "song": "Heather",
+      "label": "Ivy League",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "RY X",
+      "song": "Foreign Tides",
+      "label": "Liberator",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BODY TYPE",
+      "song": "Dry Grass",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

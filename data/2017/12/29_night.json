@@ -1,0 +1,525 @@
+{
+  "title": "Friday night 29th December 2017 on ABC",
+  "special": null,
+  "timeslot": "night",
+  "date": "2017-12-29",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-29th-december-2017-on-abc/9637784",
+  "tracks": [
+    {
+      "artist": "MGMT",
+      "song": "When You Die",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "song": "I Love You Will You Marry Me",
+      "label": "Universal",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KING GIZZARD & THE LIZARD WIZARD",
+      "song": "Crumbling Castle",
+      "label": "Flightless",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FRANK CARTER & THE RATTLESNAKES",
+      "song": "Spray Paint Love",
+      "label": "Kobalt",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE ZEPHYR BONES",
+      "song": "Telephone",
+      "label": "La Castanya",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "POST MALONE ft. 21 SAVAGE",
+      "song": "Rockstar",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BUDDY",
+      "song": "That Much",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "J HUS",
+      "song": "Bouff Daddy",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DONNY BENET",
+      "song": "Konichiwa",
+      "label": "Dot Dash / Remote Control",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KIRA PURU",
+      "song": "Tension",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CONFIDENCE MAN",
+      "song": "Better Sit Down Boy",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SOPHIE",
+      "song": "Ponyboy",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE PRESETS",
+      "song": "Do What You Want",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DRUNK MUMS",
+      "song": "Hot Flush",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "Million Man",
+      "label": "Ivy League",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GANG OF YOUTHS",
+      "song": "The Heart Is A Muscle",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TIRED LION",
+      "song": "Dumb Days",
+      "label": "Dew Process",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TIA GOSTALOW",
+      "song": "Hunger",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "A. SWAYZE & THE GHOSTS",
+      "song": "Smooth Sailing",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ASHA JEFFERIES",
+      "song": "Coburg",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NO MONO",
+      "song": "Butterflies",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OK GO",
+      "song": "Obsession",
+      "label": "Paracadute",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HATCHIE",
+      "song": "Sure",
+      "label": "Ivy League",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MALLRAT",
+      "song": "Better",
+      "label": "Dew Process",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MEZKO",
+      "song": "Steady On",
+      "label": "Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HAIKU HANDS",
+      "song": "Not About You",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SMITH STREET BAND",
+      "song": "Passiona",
+      "label": "Remote Control",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CITY CALM DOWN",
+      "song": "In This Modern Land",
+      "label": "I OH YOU",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "STARCRAWLER",
+      "song": "I Love LA",
+      "label": "Rough Trade",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE NATIONAL",
+      "song": "Sleep Well Beast",
+      "label": "4AD",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MEN I TRUST",
+      "song": "I Hope To Be Around",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WOODES",
+      "song": "Dots",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BENJAMIN BOOKER",
+      "song": "Believe",
+      "label": "Rough Trade",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PNAU",
+      "song": "Go Bang",
+      "label": "Etc Etc",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JACK RIVER",
+      "song": "Fault Line",
+      "label": "I OH YOU",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALISON WONDERLAND",
+      "song": "Happy Place",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "The Sound Of A",
+      "label": "earMUSIC Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MARILYN MANSON",
+      "song": "Kill4Me",
+      "label": "Caroline",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MACHINE HEAD",
+      "song": "Catharsis",
+      "label": "Nuclear Blast",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MINISTRY",
+      "song": "Antifa",
+      "label": "Nuclear Blast",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "I PREVAIL",
+      "song": "Already Dead",
+      "label": "Fearless",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE L",
+      "song": "White Hot",
+      "label": "Sharptone",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CORROSION OF CONFORMITY",
+      "song": "Wolf Named Crow",
+      "label": "Nuclear Blast",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "PHANOSLAND",
+      "song": "Aphrodite's New Order",
+      "label": "Dinosaur City",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Blissing Me",
+      "label": "Pod",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WILLOW BEATS",
+      "song": "Special",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TURQUOISE PRINCE",
+      "song": "Sunday Sesh",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SPINIFEX GUM ft. PETER GARRETT & MARLIYA",
+      "song": "Malungungu",
+      "label": "Kobalt",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MUTO ft. EMERSON LEIF",
+      "song": "Say Nothing",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "End Of Things",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE BIBLE BASHERS",
+      "song": "She's A Mormon Now",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TINY LITTLE HOUSES",
+      "song": "Entitled Generation",
+      "label": "Ivy League",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TROPICAL STRENGTH",
+      "song": "Tomorrow Never Snows",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "POLISH CLUB",
+      "song": "All I Want For Christmas Is You",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Always Ascending",
+      "label": "EMI",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COUSIN TONY'S BRAND NEW FIREBIRD",
+      "song": "Morning Person",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "FALL OUT BOY",
+      "song": "Hold Me Tight Or Don't",
+      "label": "Island Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SLUM SOCIABLE",
+      "song": "Keep Up With It",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TENNIS",
+      "song": "I Miss That Feeling",
+      "label": "Mutually Detrimental",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MADDY JANE",
+      "song": "Thank You And Sorry",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GOOD BOY",
+      "song": "1972 VW Superbug",
+      "label": "Remote Control",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MONTERO",
+      "song": "Tokin' The Night Away",
+      "label": "Chapter Music",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HEAPS GOOD FRIENDS",
+      "song": "I Could Eat A Full Packet of Yo Yo's",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE LULU RAES",
+      "song": "Fake It",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PHOEBE BRIDGERS",
+      "song": "Would You Rather",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "AIRWOLF ft. SOPHIEGROPHY",
+      "song": "Blazin",
+      "label": "Etc Etc",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AUGIE MARCH",
+      "song": "Bootikins",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PARADISE CLUB",
+      "song": "Saturday Night",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TIGERILLA ft. MUKI",
+      "song": "Money In My Jeans",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "N.E.R.D. ft. FUTURE",
+      "song": "1000",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "STELLA DONNELLY",
+      "song": "Boys Will Be Boys",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DIVIDE AND DISSOLVE",
+      "song": "Assimilation",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "STRONG ASIAN MOTHERS",
+      "song": "Hard To Find",
+      "label": "Old Money Land Money Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALICE IVY ft. CAVEAUX O.S.L.O. & TIM DE COTTA",
+      "song": "Be Friends",
+      "label": "Dew Process",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "song": "Tin Pan Boy",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CHATS",
+      "song": "Smoko",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CREASES",
+      "song": "Answer To",
+      "label": "Liberation",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "STORMZY ft. MNEK",
+      "song": "Blinded By Your Grace Pt. 2",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FUTURE ISLANDS",
+      "song": "Beauty Of The Road",
+      "label": "4AD",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "Total Meltdown",
+      "label": "I OH YOU",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE BELLIGERENTS",
+      "song": "Yes Man",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DANIEL TRAKELL",
+      "song": "Paradise",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NAI PALM",
+      "song": "When The Knife (Live, At The Sydney Opera House)",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BELLE & SEBASTIAN",
+      "song": "I'll Be Your Pilot",
+      "label": "Rough Trade",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DIRTY PROJECTORS",
+      "song": "Up In Hudson",
+      "label": "Domino",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PHOENIX",
+      "song": "Goodbye Soleil",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

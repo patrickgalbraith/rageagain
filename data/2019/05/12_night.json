@@ -1,0 +1,381 @@
+{
+  "title": "Sunday night 12 May 2019 on ABC ME",
+  "special": "Charts, New Music videos, Khruangbin on Rage",
+  "timeslot": "night",
+  "date": "2019-05-12",
+  "url": "https://www.abc.net.au/rage/playlist/sunday-night-12-may-2019-on-abc-me/11102890",
+  "tracks": [
+    {
+      "artist": "SHAWN MENDES",
+      "song": "If I Can't Have You",
+      "label": "Universal",
+      "timeslot": "21:30:00"
+    },
+    {
+      "artist": "KYGO & RITA ORA",
+      "song": "Carry On",
+      "label": "Sony",
+      "timeslot": "21:30:00"
+    },
+    {
+      "artist": "LSD",
+      "song": "No New Friends",
+      "label": "Sony",
+      "timeslot": "21:30:00"
+    },
+    {
+      "artist": "LAUV",
+      "song": "Drugs & The Internet",
+      "label": "Awal",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "ZARA LARSSON",
+      "song": "Don't Worry About Me",
+      "label": "Sony",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "MADONNA ft. MALUMA",
+      "song": "Medellin",
+      "label": "Universal",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "TARON EGERTON",
+      "song": "Rocket Man",
+      "label": "EMI",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "JESSICA MAUBOY",
+      "song": "Sunday",
+      "label": "Sony",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "DEAN LEWIS",
+      "song": "Stay Awake",
+      "label": "Universal",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "DEAN LEWIS",
+      "song": "7 Minutes",
+      "label": "Universal",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "KHALID",
+      "song": "Better",
+      "label": "Sony",
+      "timeslot": "22:00:00"
+    },
+    {
+      "artist": "SZA & THE WEEKND & TRAVIS SCOTT",
+      "song": "Power Is Power",
+      "label": "Sony",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "THE CHAINSMOKERS ft. 5 SECONDS OF SUMMER",
+      "song": "Who Do You Love",
+      "label": "Sony",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "BENNY BLANCO ft. HALSEY & KHALID",
+      "song": "Eastside",
+      "label": "Universal",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "DRAX PROJECT ft. HAILEE STEINFELD",
+      "song": "Woke Up Late",
+      "label": "Universal",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "AVA MAX",
+      "song": "Sweet But Psycho",
+      "label": "Atlantic",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "BTS ft. HALSEY",
+      "song": "Boy With Luv",
+      "label": "Sony",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "ARIANA GRANDE",
+      "song": "7 Rings",
+      "label": "Universal",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "LADY GAGA AND BRADLEY COOPER",
+      "song": "Shallow",
+      "label": "Universal",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "SAM SMITH & NORMANI",
+      "song": "Dancing With A Stranger",
+      "label": "EMI",
+      "timeslot": "22:30:00"
+    },
+    {
+      "artist": "LAUV & TROYE SIVAN",
+      "song": "I'm So Tired...",
+      "label": "Independent",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "MABEL",
+      "song": "Don't Call Me Up",
+      "label": "Polydor",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "AVA MAX",
+      "song": "So Am I",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "PINK",
+      "song": "Walk Me Home",
+      "label": "Sony",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "MARSHMELLO ft. CHVRCHES",
+      "song": "Here With Me",
+      "label": "Universal",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "LEWIS CAPALDI",
+      "song": "Someone You Loved",
+      "label": "Universal",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "JONAS BROTHERS",
+      "song": "Sucker",
+      "label": "Universal",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "POST MALONE ft. RODDY RICCH & TYGA",
+      "song": "Wow. (Remix) (censored version)",
+      "label": "Universal",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "POST MALONE & SWAE LEE",
+      "song": "Sunflower",
+      "label": "Universal",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "KHALID",
+      "song": "Talk",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DOMINIC FIKE",
+      "song": "3 Nights",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BILLIE EILISH",
+      "song": "Bad Guy",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "KACEY MUSGRAVES",
+      "song": "High Horse",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT ft. BRENDON URIE",
+      "song": "ME!",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "BRIGGS ft. GREG HOLDEN",
+      "song": "Life Is Incredible (clean)",
+      "label": "Island Records",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TOUCH SENSITIVE ft. KITTEN",
+      "song": "Unconditional",
+      "label": "Future Classic",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "LPX",
+      "song": "Give Up The Ghost",
+      "label": "Independent",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TIERRA WHACK",
+      "song": "Unemployed",
+      "label": "Interscope Records",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FKA TWIGS",
+      "song": "Cellophane (censored version)",
+      "label": "Young Turks",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PEAK TWINS",
+      "song": "Water",
+      "label": "Our Golden Friend",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE DELTA RIGGS",
+      "song": "Don't You Frown",
+      "label": "Habit",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "AMYL & THE SNIFFERS",
+      "song": "Got You",
+      "label": "Flightless",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KHRUANGBIN",
+      "song": "Two Fish And An Elephant (censored)",
+      "label": "Late Night Tales",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "CHRIS ISAAK",
+      "song": "Wicked Game",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SADE",
+      "song": "The Sweetest Taboo",
+      "label": "CBS",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE WHISPERS",
+      "song": "Keep On Lovin' Me",
+      "label": "Asylum",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE SPECIALS",
+      "song": "Ghost Town",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "(I Can't Get No) Satisfaction",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "A TRIBE CALLED QUEST",
+      "song": "Can I Kick It?",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "TONI BRAXTON",
+      "song": "You're Makin' Me High",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SYLVESTER",
+      "song": "You Make Me Feel (Mighty Real)",
+      "label": "Fantasy",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KHRUANGBIN",
+      "song": "Evan Finds The Third Room",
+      "label": "Late Night Tales",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Everybody Here Hates You",
+      "label": "Milk! Records",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PSYCHEDELIC PORN CRUMPETS",
+      "song": "Bill's Mandolin",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MILDLIFE",
+      "song": "How Long Does It Take",
+      "label": "Inertia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SHAMAN EYES",
+      "song": "Find Your Mind",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CAGE THE ELEPHANT & BECK",
+      "song": "Night Running",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PARCELS",
+      "song": "Tape",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MARK RONSON ft. LYKKE LI",
+      "song": "Late Night Feelings",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALPINE",
+      "song": "Dumb",
+      "label": "Ivy League",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DOPE LEMON",
+      "song": "Hey You",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PAUL KELLY & DAN SULTAN",
+      "song": "Every Day My Mother's Voice",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    }
+  ]
+}
