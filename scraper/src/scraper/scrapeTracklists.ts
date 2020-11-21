@@ -94,26 +94,40 @@ export const scraperV2 = ($: cheerio.Root, $article: cheerio.Cheerio): PlaylistT
   return tracks
 }
 
+export const scrapeTracklistHtml = (html: string) => {
+  const $ = cheerio.load(html)
+  const $article = $('.article-text')
+
+  if (!$article.length)
+    throw new Error('Failed to find article body')
+
+  const $headings = $article.find('h2')
+
+  // Newer pages use H2 tags to seperate timeslots
+  if ($headings.length) {
+    return {
+      scraper: 2,
+      tracks: scraperV2($, $article)
+    }
+  } else {
+    return {
+      scraper: 1,
+      tracks: scraperV1($, $article)
+    }
+  }
+}
+
 export const scrapeTracklist = async (tracklistUrl: string): Promise<PlaylistTrack[]> => {
   const html = await downloadPage(tracklistUrl)
 
   if (!html)
     throw new Error('Failed to download playlist at ' + tracklistUrl)
 
-  const $ = cheerio.load(html)
-  const $article = $('.article-text')
-
-  if (!$article.length)
-    throw new Error('Failed to find article body for ' + tracklistUrl)
-
-  const $headings = $article.find('h2')
-
-  // Newer pages use H2 tags to seperate timeslots
-  if ($headings.length) {
-    console.log('Using scraperV2...')
-    return scraperV2($, $article)
-  } else {
-    console.log('Using scraperV1...')
-    return scraperV1($, $article)
+  try {
+    const result = scrapeTracklistHtml(html)
+    console.log(`Scraper v${result.scraper} found ${result.tracks.length} tracks at "${tracklistUrl}"`)
+    return result.tracks
+  } catch (e) {
+    throw new Error(e.message + ' at ' + tracklistUrl)
   }
 }

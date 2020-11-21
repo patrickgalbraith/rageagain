@@ -1,8 +1,17 @@
 import { dateFormat } from "../../lib/DateHelpers"
-import { parseDate } from "../../scraper/scrapeMonthlyArchives"
+import { extractData, parseDate } from "../../scraper/scrapeMonthlyArchives"
+import { testParser } from "../../lib/ParserTestHelper"
+
+describe('extractData', () => {
+  it('correctly parses archive for 2020-01', () => {
+    testParser('archive-1_2020-01',
+      html => extractData(html, new Date(2020, 0, 1, 0, 0, 0, 0))
+        .map(res => ({...res, date: dateFormat(res.date)})))
+  })
+})
 
 describe('parseDate', () => {
-  it('correctly parses example dates', () => {
+  it('correctly parses dates', () => {
     expect(dateFormat(parseDate("Sunday night 22 November 2020 on ABC 1", new Date(2020, 10, 1, 0))!))
       .toEqual('2020-11-22')
 

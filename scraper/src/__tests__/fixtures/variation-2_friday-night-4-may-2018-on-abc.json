@@ -1,0 +1,503 @@
+{
+  "scraper": 2,
+  "tracks": [
+    {
+      "artist": "PRINCE",
+      "song": "Nothing Compares 2 U",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE INTERNET",
+      "song": "Roll (Burbank Funk)",
+      "label": "Odd Future",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FATHER JOHN MISTY",
+      "song": "Mr. Tillman",
+      "label": "Sub Pop",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CRUMB",
+      "song": "Locket",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ONEOHTRIX POINT NEVER",
+      "song": "Black Snow",
+      "label": "Warp",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "LIL PUMP",
+      "song": "Esskeetit",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "RAE SREMMURD ft. TRAVIS SCOTT",
+      "song": "Close",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "TOTTY",
+      "song": "Uncomfortable",
+      "label": "Ratbag Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "Turn",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BILLIE EILISH ft. KHALID",
+      "song": "Lovely",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ALISON WONDERLAND",
+      "song": "Easy",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JANELLE MONAE",
+      "song": "Pynk",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SZA ft. KENDRICK LAMAR",
+      "song": "Doves In The Wind",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WEEKND",
+      "song": "Call Out My Name",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SAMPA THE GREAT",
+      "song": "Black Girl Magik",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLOCBOY JB and DRAKE",
+      "song": "Look Alive",
+      "label": "Bloc Nation",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NEW TALK",
+      "song": "Red Tuesday",
+      "label": "Habit Music",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROADHOUSES",
+      "song": "Black Lights",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JANELLE MONAE I",
+      "song": "Like That",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "B WISE",
+      "song": "The Key",
+      "label": "Elefant Traks",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PROPHET",
+      "song": "Insanity",
+      "label": "Stones Throw / Inertia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PARCELS",
+      "song": "Tieduprightnow",
+      "label": "Kitsune Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MISSY HIGGINS",
+      "song": "Cemetery",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LAST DINOSAURS",
+      "song": "Dominos",
+      "label": "Dew Process",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KORIKO TREEHOUSE ft. GABRIELLE HYDE",
+      "song": "Psychedelic Sun",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BORNEO",
+      "song": "Jesse",
+      "label": "Habit Music",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PATCHES PARADISE",
+      "song": "Fever",
+      "label": "White Label",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOHNNY MARR",
+      "song": "The Tracers",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LANKS",
+      "song": "twentyseven",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FLORENCE and THE MACHINE",
+      "song": "Sky Full Of Song",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DREAMS",
+      "song": "Silence",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DUKE DUMONT _and_ EBENEZER",
+      "song": "Inhale",
+      "label": "Etc Etc",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Prey",
+      "label": "Resist Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BURY TOMORROW",
+      "song": "Black Flame",
+      "label": "Music For Nations",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "GHOST",
+      "song": "Rats",
+      "label": "Loma Vista",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DEAFHEAVEN",
+      "song": "Honeycomb",
+      "label": "ANTI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "CONFORM",
+      "song": "Blood Eagle",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "REMI",
+      "song": "My People",
+      "label": "House Of Beige",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DRAKE",
+      "song": "Nice For What",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "J COLE",
+      "song": "ATM",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CARDI B ft.",
+      "song": "21 SAVAGE Bartier Cardi",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CLAIRO",
+      "song": "Flaming Hot Cheetos",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NAKITA",
+      "song": "Sucka",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BEACH HOUSE",
+      "song": "Dark Spring",
+      "label": "Sub Pop",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ROLLING BLACKOUTS COASTAL FEVER",
+      "song": "Talking Straight",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "COSMIC PSYCHOS",
+      "song": "Too Dumb To Die",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SKEGSS",
+      "song": "Up In The Clouds",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TROPICAL FUCK STORM",
+      "song": "Rubber Bullies",
+      "label": "Mistletone",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALEX CAMERON",
+      "song": "Studmuffin96",
+      "label": "Secretly Canadian",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Need A Little Time",
+      "label": "Milk! Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BIG WHITE",
+      "song": "Right Before Everything Dies",
+      "label": "Caroline",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GEORGIA JUNE",
+      "song": "Pressure",
+      "label": "Habit Music",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "CHERRY GLAZERR",
+      "song": "Juicy Socks",
+      "label": "Secretly Canadian",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE KITE STRING TANGLE",
+      "song": "The Heights Of Trees",
+      "label": "Warner",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KELELA",
+      "song": "Frontline",
+      "label": "Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALTA",
+      "song": "Now You Want Me",
+      "label": "Soothsayer",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BEN KAHN",
+      "song": "2000 Angels",
+      "label": "Dirty Hit",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CONFIDENCE MAN",
+      "song": "Don't You Know I'm In A Band",
+      "label": "Heavenly",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MELODY'S ECHO CHAMBER",
+      "song": "Breathe In, Breathe Out",
+      "label": "Pod / Inertia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KOTA BANKS",
+      "song": "Zoom",
+      "label": "NLV Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SPOD",
+      "song": "Day In The Sun",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MOODY BEACHES",
+      "song": "Guns",
+      "label": "Poison City",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANIC STREET PREACHERS",
+      "song": "International Blue",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PARADISE CLUB",
+      "song": "Away",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HVNCOQ ft. OSCAR KEY SUNG",
+      "song": "Mama's House",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "360",
+      "song": "Drugs",
+      "label": "EMI",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LOGIC and MARSHMELLO",
+      "song": "Everyday",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SNAKEHIPS ft. ST RULEZ",
+      "song": "Cruzin' (Stay Home Tapes - Act 1)",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VANCE JOY",
+      "song": "Saturday Sun",
+      "label": "Mushroom",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SUPERORGANISM",
+      "song": "Night Time",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BODY TYPE",
+      "song": "Arrow",
+      "label": "Inertia / Partisan",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FRANZ FERDINAND",
+      "song": "Glimpse Of Love",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BOY PABLO",
+      "song": "Losing You",
+      "label": "777 Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FASCINATOR",
+      "song": "Sex Crystals",
+      "label": "Spinning Top",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JOYRIDE",
+      "song": "Blue Batmans",
+      "label": "Dew Process",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ECCA VANDAL ft. SAMPA THE GREAT",
+      "song": "Your Orbit",
+      "label": "Dew Process",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "OKENYO",
+      "song": "20 / 20",
+      "label": "Elefant Traks",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE JUNGLE GIANTS",
+      "song": "Used To Be In Love",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "NICOLE MILLAR",
+      "song": "Gimme A Break",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DAN SULTAN ft. DAVE LE'AUPEPE",
+      "song": "Drover",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Prey",
+      "label": "Resist Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DEAD LETTER CIRCUS",
+      "song": "The Armour You Own",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ANDREW W.K.",
+      "song": "Music Is Worth Living For",
+      "label": "Universal",
+      "timeslot": "05:30:00"
+    }
+  ]
+}
