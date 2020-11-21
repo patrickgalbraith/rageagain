@@ -3,8 +3,12 @@ name: Build Server
 on:
   push:
     branches: [ master ]
+    paths:
+    - '**.rs'
   pull_request:
     branches: [ master ]
+    paths:
+    - '**.rs'
 
 env:
   CARGO_TERM_COLOR: always
