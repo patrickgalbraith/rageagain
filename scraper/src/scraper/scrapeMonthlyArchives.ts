@@ -77,8 +77,8 @@ export const extractData = (html: string, referenceDate: Date) => {
     const teaserText = $li.find('.teaser-text').text().trim()
 
     const timeslot =
-      title.includes('night') ? 'night' :
-      title.includes('morning') ? 'morning' : null
+      title.toLowerCase().includes('night') ? 'night' :
+      title.toLowerCase().includes('morning') ? 'morning' : null
 
     const special = /am|pm$/gi.test(teaserText) ? null : teaserText
 
