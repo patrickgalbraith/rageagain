@@ -2,9 +2,7 @@ use dotenv::dotenv;
 use warp::Filter;
 
 mod controller;
-mod db;
 mod routes;
-mod views;
 
 #[tokio::main]
 async fn main() {
