@@ -10,7 +10,7 @@ export type PlaylistTrack = {
   artist: string
   song: string
   label: string | null
-  timeslot: string
+  timeslot: string | null
   countdown?: number
 }
 
