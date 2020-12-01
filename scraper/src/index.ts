@@ -1,4 +1,4 @@
-import { reindex } from "./lib/DataIndexer"
+import { reindex } from "./indexer"
 import { scrapeLatest } from "./scraper"
 
 (async () => {
