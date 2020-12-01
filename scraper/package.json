@@ -1,14 +1,14 @@
 {
   "name": "rageagain-scraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "RageAgain Scraper",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "debug": "tsc && node --inspect ./dist/index.js"
   },
   "author": "Patrick Galbraith",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "dependencies": {
     "@types/normalize-path": "^3.0.0",
     "cheerio": "^1.0.0-rc.3",
