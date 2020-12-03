@@ -1,7 +1,8 @@
-name = "my-ts-project"
+name = "rageagain-dev"
 type = "webpack"
-account_id = ""
+account_id = "3182c92fb67a3893aa91d143bc6c8e57"
 workers_dev = true
-route = ""
-zone_id = ""
 webpack_config = "webpack.config.js"
+
+[env.production]
+name = "rageagain"
