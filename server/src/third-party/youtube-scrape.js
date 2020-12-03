@@ -1,16 +1,17 @@
-const request = require('request');
-
 /*************************
  * TAKEN FROM https://github.com/HermanFassett/youtube-scrape/blob/master/scraper.js
  *
  * CHANGES:
- * - Typescript support
- * - Replaced request with fetch wrapper
+ * - Typescript definition (see .d.ts file)
+ * - Replaced request import with fetch shim
+ * - Replaced require call to "package.json" with hardcoded version string
  **************************/
+
+import request from './request-shim';
 
 async function youtube(query, key, pageToken) {
     return new Promise((resolve, reject) => {
-        let json = { results: [], version: require('./package.json').version };
+        let json = { results: [], version: "0.1.5" };
 
         // Specify YouTube search url
         if (key) {

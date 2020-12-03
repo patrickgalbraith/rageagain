@@ -27,7 +27,5 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
   },
-  "dependencies": {
-    "youtube-scrape": "git+https://github.com/HermanFassett/youtube-scrape.git"
-  }
+  "dependencies": {}
 }

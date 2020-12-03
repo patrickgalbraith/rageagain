@@ -1,4 +1,4 @@
-import scraper from "youtube-scrape/scraper"
+import scraper, { isErrorResponse } from "../third-party/youtube-scrape"
 import * as cache from "./youtubeCache"
 import { MusicVideoHost, MusicVideoInfo, MusicVideoProvider, MusicVideoProviderSource } from "../types"
 
@@ -9,6 +9,9 @@ const search = async (query: string): Promise<scraper.Response> => {
     return cachedResponse.data
 
   const response = await scraper.youtube(query)
+
+  if (isErrorResponse(response))
+    throw new Error(response.error)
 
   if (response && response.results.length)
     await cache.set(query, response)
