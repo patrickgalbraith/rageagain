@@ -19,7 +19,11 @@ export async function handleRequest(request: Request): Promise<Response> {
   if (!artist || !song)
     return new Response('Missing param', { status: 400 })
 
-  const videoInfoList = await getYoutubeVideos(artist, song)
+  try {
+    const videoInfoList = await getYoutubeVideos(artist, song)
 
-  return new Response(JSON.stringify(videoInfoList))
+    return new Response(JSON.stringify(videoInfoList))
+  } catch (e) {
+    return new Response('Something went wrong', { status: 500 })
+  }
 }
