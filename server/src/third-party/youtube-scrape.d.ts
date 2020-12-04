@@ -45,9 +45,5 @@ export interface ErrorResponse {
   error: string
 }
 
-export function isErrorResponse(response: Response | ErrorResponse): response is ErrorResponse {
-  return (response as ErrorResponse).error !== undefined;
-}
-
 export function youtube(query: string): Promise<Response | ErrorResponse>
 export function youtube(query: undefined, key: string, pageToken: string): Promise<Response | ErrorResponse>

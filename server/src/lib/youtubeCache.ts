@@ -1,4 +1,4 @@
-import scraper from "youtube-scrape/scraper"
+import scraper from "../third-party/youtube-scrape"
 
 export type CachedResponse = {
   v: number,             // Version

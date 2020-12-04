@@ -1,15 +1,20 @@
 /*************************
  * TAKEN FROM https://github.com/HermanFassett/youtube-scrape/blob/master/scraper.js
  *
+ * Couldn't use the official version because it uses the nodejs "request" package,
+ * this package doesn't work with CloudFlare Workers because workers use "fetch" for
+ * network requests.
+ *
  * CHANGES:
  * - Typescript definition (see .d.ts file)
  * - Replaced request import with fetch shim
- * - Replaced require call to "package.json" with hardcoded version string
+ * - Added ES6 style export to youtube function
+ * - Replaced require call to "package.json" with hardcoded version string in youtube function
  **************************/
 
 import request from './request-shim';
 
-async function youtube(query, key, pageToken) {
+export async function youtube(query, key, pageToken) {
     return new Promise((resolve, reject) => {
         let json = { results: [], version: "0.1.5" };
 
@@ -227,5 +232,3 @@ function parseVideoRenderer(renderer) {
 function comb(a, b) {
     return a + b.text;
 }
-
-module.exports.youtube = youtube;
