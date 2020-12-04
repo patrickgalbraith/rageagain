@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>RAGEagain</title>
+
+  <meta name="description"
+    content="Since 1998 rage has posted all their episode playlists online. This website combines these playlists with YouTube allowing you to travel back through time and re-experience rage's recent history.">
+  <meta name="author" content="Patrick Galbraith">
+
+  <meta property="og:title" content="RAGEagain" />
+  <meta property="og:url" content="https://www.rageagain.com" />
+  <meta property="og:site_name" content="RAGEagain" />
+  <meta property="og:image" content="https://www.rageagain.com/static/img/fbthumb.jpg" />
+
+  <link href="static/font/roboto/stylesheet.css" rel="stylesheet">
+  <link href="static/font/androidclock/stylesheet.css" rel="stylesheet">
+
+  <link href="static/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
+  <link href="static/lib/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+  <link href="static/css/index.css" rel="stylesheet">
+
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="static/lib/jquery/jquery-1.8.2.min.js"><\/script>')</script>
+
+  <script src="static/lib/jquery/jquery.tinypubsub-0.7.js"></script>
+  <script src="static/lib/twitter-bootstrap/js/bootstrap.min.js"></script>
+  <!--        <script src="static/lib/sammy.0.7.1.min.js"></script>-->
+  <script src="static/lib/simrou.1.5.4.min.js"></script>
+
+  <script src="static/js/RageAgain.js"></script>
+  <script src="static/js/Player.js"></script>
+  <script src="static/js/TrackList.js"></script>
+  <script src="static/js/SourceList.js"></script>
+  <script src="static/js/Source.js"></script>
+
+  <script>
+    var ytIframeTag = document.createElement('script');
+    ytIframeTag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(ytIframeTag, firstScriptTag);
+
+    var ytPlayer;
+
+    function onYouTubeIframeAPIReady() {
+      ytPlayer = new YT.Player('player', {
+        height: '315',
+        width: '560',
+        videoId: 'U6VrAyhRFkg',
+        playerVars: { 'autoplay': 0, 'showinfo': 0, 'controls': 0, 'disablekb': 1, 'iv_load_policy': 3, 'wmode': 'opaque', 'modestbranding': 1, 'rel': 0 },
+        events: {
+          'onReady': Player.onPlayerReady,
+          'onStateChange': Player.onPlayerStateChange,
+          'onError': Player.onPlayerError
+        }
+      });
+    }
+  </script>
+
+  <script type="text/javascript">var switchTo5x = false;</script>
+  <script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">stLight.options({ publisher: "ur-c46a49-e3af-98b-8e2-8259ab32ac3c" }); </script>
+</head>
+<body>
+  <noscript>
+    <div>
+      <p>Please enable Javascript to continue!</p>
+    </div>
+  </noscript>
+
+  <header>
+    <div id="nav-left">
+      <a href="javascript:void(0)" class="episode-button" rel="tooltip" title="episodes" data-placement="bottom"><img
+          src="static/img/channel-btn.png" /></a>
+      <a href="javascript:void(0)" class="active now-playing-button" rel="tooltip" title="now playing"
+        data-placement="bottom"><img src="static/img/now-playing-btn.png" /></a>
+      <a href="#about-modal" data-toggle="modal" class="add-channel-button" rel="tooltip" title="about rageagain"
+        data-placement="bottom"><img src="static/img/about-btn.png" /></a>
+    </div>
+    <div id="nav-center">
+      <a href="javascript:void(0)" class="player-backward" rel="tooltip" title="previous" data-placement="bottom"><i
+          class="icon-fast-backward"></i></a>
+      <a href="javascript:void(0)" class="player-pause" rel="tooltip" title="pause/play" data-placement="bottom"><i
+          class="icon-pause"></i></a>
+      <a href="javascript:void(0)" class="player-forward" rel="tooltip" title="next" data-placement="bottom"><i
+          class="icon-fast-forward"></i></a>
+    </div>
+    <div id="nav-right" style="display:none">
+      <p><span style="color:#888">NOW</span> <span class="artist"></span> - <span class="track"></span></p>
+    </div>
+  </header>
+
+  <div id="container">
+    <div id="pop-up-container">
+      <div id="episode-container">
+        <div class="navbar navbar-inverse navbar-fixed-top" style="top: 48px; ">
+          <div class="navbar-inner">
+            <div style="width:370px; margin:0 auto;">
+              <ul class="nav">
+                <li class="active"><a href="javascript:void(0)" class="sort-by-date">By Date</a></li>
+                <li><a href="javascript:void(0)" class="sort-by-special">By Special</a></li>
+
+                <li class="dropdown">
+                  <a data-toggle="dropdown" class="dropdown-toggle skip-to-year-toggle" href="#">Year <b
+                      class="caret"></b></a>
+                  <ul class="dropdown-menu" style="min-width:100px; text-align:center">
+                    <li><a class="skip-to-year" data-year="1998" href="javascript:void(0)">1998</a></li>
+                    <li><a class="skip-to-year" data-year="1999" href="javascript:void(0)">1999</a></li>
+                    <li><a class="skip-to-year" data-year="2000" href="javascript:void(0)">2000</a></li>
+                  </ul>
+                </li>
+
+                <li class="divider-vertical"></li>
+                <li><a href="#/episode/top200/1">Top 200</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        {% include "episode-list.html" %}
+
+        {% include "special-list.html" %}
+
+      </div><!-- /episode-container -->
+    </div><!-- /pop-up-container -->
+
+    <div id="overlay"></div>
+
+    <div id="now-playing-info">
+      <div class="first_row"><span class="artist"></span></div>
+      <div class="second_row"><span class="track"></span> <span class="tracklabel"></span></div>
+    </div>
+
+    <div id="player"></div>
+  </div><!-- /container -->
+
+  <div class="modal hide" id="new-station-modal" role="dialog" aria-hidden="true">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+      <h3>Modal header</h3>
+    </div>
+    <div class="modal-body">
+      <p>One fine body…</p>
+    </div>
+    <div class="modal-footer">
+      <a href="#" class="btn" data-dismiss="modal">Close</a>
+      <a href="#" class="btn btn-primary">Save changes</a>
+    </div>
+  </div>
+
+  <div class="modal hide fade" id="about-modal" role="dialog" aria-hidden="true">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      <h3>RAGEagain</h3>
+    </div>
+    <div class="modal-body">
+      {% include "about-modal.html" %}
+    </div>
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>
+  </div>
+
+  <!-- =============== -->
+  <!--     SCRIPTS     -->
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-34407646-1']);
+    _gaq.push(['_setDomainName', 'rageagain.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+  <script type="text/javascript">
+    var $buoop = {
+      vs: { i: 7, f: 3.5, o: 10.5, s: 4, n: 9 },
+      //test:true,
+      newwindow: true
+    }
+    $buoop.ol = window.onload;
+    window.onload = function () {
+      try { if ($buoop.ol) $buoop.ol(); } catch (e) { }
+      var e = document.createElement("script");
+      e.setAttribute("type", "text/javascript");
+      e.setAttribute("src", "https://browser-update.org/update.js");
+      document.body.appendChild(e);
+    }
+  </script>
+</body>
+</html>
