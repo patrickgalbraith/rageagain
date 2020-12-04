@@ -10,12 +10,14 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "esModuleInterop": true,
+    "allowJs": true,
     "types": ["@cloudflare/workers-types"]
   },
   "include": [
     "./src/*.ts",
     "./test/*.ts",
     "./src/**/*.ts",
+    "./src/**/*.js",
     "./test/**/*.ts",
     "./node_modules/@cloudflare/workers-types/index.d.ts"
   ],
