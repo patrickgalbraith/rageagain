@@ -4,7 +4,7 @@ account_id = "3182c92fb67a3893aa91d143bc6c8e57"
 workers_dev = true
 webpack_config = "webpack.config.js"
 kv_namespaces = [
-    { binding = "YOUTUBE_REQUESTS", id = "be42270946734636abc4a21e210a20ba", preview_id = "98d7eb9fe3bd4d2c87ed94540f634a03" }
+    { binding = "YOUTUBE_REQUESTS", id = "be42270946734636abc4a21e210a20ba", preview_id = "be42270946734636abc4a21e210a20ba" }
 ]
 
 [env.production]
