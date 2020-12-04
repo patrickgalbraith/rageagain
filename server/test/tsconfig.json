@@ -5,7 +5,13 @@
     "module": "commonjs",
     "sourceMap": true,
     "experimentalDecorators": true,
+    "allowJs": true,
     "lib": ["esnext", "webworker"]
   },
-  "include": ["./*.ts", "../node_modules/@cloudflare/workers-types/index.d.ts"]
+  "include": [
+    "./*.ts",
+    "../src/*.d.ts",
+    "../src/**/*.js",
+    "../node_modules/@cloudflare/workers-types/index.d.ts"
+  ]
 }

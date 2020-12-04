@@ -1,23 +1,19 @@
 import { expect } from 'chai'
 import { handleRequest } from '../src/handler'
 
-describe('handler returns response with request method', () => {
-  const methods = [
-    'GET',
-    'HEAD',
-    'POST',
-    'PUT',
-    'DELETE',
-    'CONNECT',
-    'OPTIONS',
-    'TRACE',
-    'PATCH',
-  ]
-  methods.forEach((method) => {
-    it(method, async () => {
-      const result = await handleRequest(new Request('/', { method }))
-      const text = await result.text()
-      expect(text).to.include(method)
-    })
+describe('handler responds to request', () => {
+  it('OPTIONS Request', async () => {
+    const result = await handleRequest(new Request('/', { method: 'OPTIONS' }))
+    expect(result.status).to.eq(200)
+  })
+
+  it('Not Found Request', async () => {
+    const result = await handleRequest(new Request('/unknown/', { method: 'GET' }))
+    expect(result.status).to.eq(404)
+  })
+
+  it('Invalid DELETE Request', async () => {
+    const result = await handleRequest(new Request('/', { method: 'DELETE' }))
+    expect(result.status).to.eq(405)
   })
 })
