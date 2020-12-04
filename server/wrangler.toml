@@ -9,3 +9,6 @@ kv_namespaces = [
 
 [env.production]
 name = "rageagain"
+kv_namespaces = [
+    { binding = "YOUTUBE_REQUESTS", id = "59fe223a01f04d649649211ab4869fc4" }
+]
