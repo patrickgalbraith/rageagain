@@ -13,59 +13,16 @@
   <meta property="og:site_name" content="RAGEagain" />
   <meta property="og:image" content="https://www.rageagain.com/static/img/fbthumb.jpg" />
 
-  <link href="static/font/roboto/stylesheet.css" rel="stylesheet">
-  <link href="static/font/androidclock/stylesheet.css" rel="stylesheet">
+  <link href="./static/css/index.css" rel="stylesheet">
 
-  <link href="static/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
-  <link href="static/lib/font-awesome/css/font-awesome.css" rel="stylesheet">
+  <script defer src="https://www.youtube.com/iframe_api" crossorigin="anonymous"></script>
 
-  <link href="static/css/index.css" rel="stylesheet">
+  <script defer src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script defer src="./static/lib/jquery/jquery.tinypubsub-0.7.js"></script>
+  <script defer src="./static/lib/twitter-bootstrap/js/bootstrap.min.js"></script>
+  <script defer src="./static/lib/simrou.1.5.4.min.js"></script>
 
-  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-  <!--[if lt IE 9]>
-            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="static/lib/jquery/jquery-1.8.2.min.js"><\/script>')</script>
-
-  <script src="static/lib/jquery/jquery.tinypubsub-0.7.js"></script>
-  <script src="static/lib/twitter-bootstrap/js/bootstrap.min.js"></script>
-  <!--        <script src="static/lib/sammy.0.7.1.min.js"></script>-->
-  <script src="static/lib/simrou.1.5.4.min.js"></script>
-
-  <script src="static/js/RageAgain.js"></script>
-  <script src="static/js/Player.js"></script>
-  <script src="static/js/TrackList.js"></script>
-  <script src="static/js/SourceList.js"></script>
-  <script src="static/js/Source.js"></script>
-
-  <script>
-    var ytIframeTag = document.createElement('script');
-    ytIframeTag.src = "https://www.youtube.com/iframe_api";
-    var firstScriptTag = document.getElementsByTagName('script')[0];
-    firstScriptTag.parentNode.insertBefore(ytIframeTag, firstScriptTag);
-
-    var ytPlayer;
-
-    function onYouTubeIframeAPIReady() {
-      ytPlayer = new YT.Player('player', {
-        height: '315',
-        width: '560',
-        videoId: 'U6VrAyhRFkg',
-        playerVars: { 'autoplay': 0, 'showinfo': 0, 'controls': 0, 'disablekb': 1, 'iv_load_policy': 3, 'wmode': 'opaque', 'modestbranding': 1, 'rel': 0 },
-        events: {
-          'onReady': Player.onPlayerReady,
-          'onStateChange': Player.onPlayerStateChange,
-          'onError': Player.onPlayerError
-        }
-      });
-    }
-  </script>
-
-  <script type="text/javascript">var switchTo5x = false;</script>
-  <script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script>
-  <script type="text/javascript">stLight.options({ publisher: "ur-c46a49-e3af-98b-8e2-8259ab32ac3c" }); </script>
+  <script async src="./src/index.ts"></script>
 </head>
 <body>
   <noscript>
@@ -123,9 +80,9 @@
           </div>
         </div>
 
-        {% include "episode-list.html" %}
+        <div id="episode-list"></div>
 
-        {% include "special-list.html" %}
+        <div id="special-list"></div>
 
       </div><!-- /episode-container -->
     </div><!-- /pop-up-container -->
@@ -159,9 +116,7 @@
       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       <h3>RAGEagain</h3>
     </div>
-    <div class="modal-body">
-      {% include "about-modal.html" %}
-    </div>
+    <div class="modal-body"></div>
     <div class="modal-footer">
       <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
     </div>
@@ -183,20 +138,15 @@
     })();
   </script>
 
-  <script type="text/javascript">
-    var $buoop = {
-      vs: { i: 7, f: 3.5, o: 10.5, s: 4, n: 9 },
-      //test:true,
-      newwindow: true
-    }
-    $buoop.ol = window.onload;
-    window.onload = function () {
-      try { if ($buoop.ol) $buoop.ol(); } catch (e) { }
-      var e = document.createElement("script");
-      e.setAttribute("type", "text/javascript");
-      e.setAttribute("src", "https://browser-update.org/update.js");
-      document.body.appendChild(e);
-    }
+  <script>
+    var $buoop = {required:{e:-4,f:-3,o:-3,s:-1,c:-3},insecure:true,unsupported:true,api:2020.12 };
+    function $buo_f(){
+     var e = document.createElement("script");
+     e.src = "//browser-update.org/update.min.js";
+     document.body.appendChild(e);
+    };
+    try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+    catch(e){window.attachEvent("onload", $buo_f)}
   </script>
 </body>
 </html>

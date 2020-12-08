@@ -1,3 +1,7 @@
+@import "../font/roboto/stylesheet.css";
+@import "../font/androidclock/stylesheet.css";
+@import "../lib/twitter-bootstrap/css/bootstrap.css";
+@import "../lib/font-awesome/css/font-awesome.css";
 
 body, html {
     width: 100%;
@@ -45,7 +49,7 @@ header {
 }
 
 header > div {
-    
+
 }
 
 header #nav-left {
@@ -58,7 +62,7 @@ header #nav-left a {
     padding-bottom: 10px;
     padding-right: 15px;
     padding-left: 15px;
-    
+
     height: 27px;
     display: inline-block;
 }
@@ -67,7 +71,7 @@ header #nav-left a:first-child {
 }
 header #nav-left a img {
     opacity: 0.4;
-    
+
     -webkit-transition: opacity 0.4s ease-in-out;
 	-moz-transition: opacity 0.4s ease-in-out;
 	-o-transition: opacity 0.4s ease-in-out;
@@ -92,7 +96,7 @@ header #nav-center i {
     font-size: 20px;
     margin-left: 15px;
     margin-right: 15px;
-    
+
     -webkit-transition: opacity 0.4s ease-in-out;
 	-moz-transition: opacity 0.4s ease-in-out;
 	-o-transition: opacity 0.4s ease-in-out;
@@ -216,12 +220,12 @@ header #nav-right > p {
     background:none;
     color:white;
     font: 27px 'RobotoCondensed', Arial, sans-serif;
-    
+
     position: absolute;
     bottom:5%;
     left:5%;
     z-index:5;
-    
+
     text-shadow: 2px 2px 2px #000000;
     filter: dropshadow(color=#000000, offx=2, offy=2);
 }

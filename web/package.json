@@ -1,0 +1,21 @@
+{
+  "name": "rageagain-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Patrick Galbraith",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "@types/youtube": "0.0.41",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {}
+}
