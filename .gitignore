@@ -3,6 +3,7 @@ node_modules/
 dist/
 
 .env
+.cache/
 
 .vscode/*
 !.vscode/tasks.json
