@@ -1,12 +1,18 @@
-type PlayerEventNames = 'error'
-  | 'ready'
-  | 'playing'
-  | 'ended'
-  | 'paused'
-  | 'buffering'
-  | 'cued'
+import EventEmitter from "./EventEmitter"
 
-type PlayerQuality = 'hd720' | 'default' | 'small' | 'medium' | 'large' | 'hd1080' | 'highres'
+export type PlayerEvents = {
+  playing: { event: YT.OnStateChangeEvent },
+  ready: { event: YT.PlayerEvent },
+  error: { event: YT.OnErrorEvent },
+  ended: { event: YT.OnStateChangeEvent },
+  paused: { event: YT.OnStateChangeEvent },
+  buffering: { event: YT.OnStateChangeEvent },
+  cued: { event: YT.OnStateChangeEvent }
+}
+
+type PlayerEventNames = keyof PlayerEvents
+
+export type PlayerQuality = 'hd720' | 'default' | 'small' | 'medium' | 'large' | 'hd1080' | 'highres'
 
 export default class Player {
   private playheadInterval: number = 0
@@ -14,49 +20,50 @@ export default class Player {
   private playerReady: boolean = false
   private ytPlayer: YT.Player | null = null
   private defaultPlaybackQuality: PlayerQuality = 'hd720' //default
-  private eventSubscribers: Partial<Record<PlayerEventNames, ((...args: any[]) => void)[]>> = {}
 
-  subscribe(event: PlayerEventNames, handler: (...args: any[]) => void) {
-    this.eventSubscribers[event] = [...(this.eventSubscribers[event] ?? []), handler]
-  }
+  private emitter: EventEmitter<PlayerEvents>
+  on: <K extends PlayerEventNames>(event: K, listener: (event: PlayerEvents[K]) => void) => { dispose: () => void }
+  off: <K extends PlayerEventNames>(event: K, listener: (event: PlayerEvents[K]) => void) => void
 
-  publish(event: PlayerEventNames, args: any[]) {
-    this.eventSubscribers[event]?.forEach(handler => handler(...args))
+  constructor() {
+    this.emitter = new EventEmitter<PlayerEvents>()
+    this.on = this.emitter.on
+    this.off = this.emitter.off
   }
 
   ///////////////////////////////
   //           EVENTS
   ///////////////////////////////
   onPlayerError = (event: YT.OnErrorEvent) => {
-    this.publish('error', [event])
+    this.emitter.emit('error', {event})
   }
 
   onPlayerReady = (event: YT.PlayerEvent) => {
     this.playerReady = true
     this.ytPlayer = event.target
-    this.publish('ready', [event])
+    this.emitter.emit('ready', {event})
   }
 
   onPlayerStateChange = (event: YT.OnStateChangeEvent) => {
     /////// PLAYING ///////
     if (event.data == YT.PlayerState.PLAYING) {
       this.startPlayhead()
-      this.publish('playing', [event])
+      this.emitter.emit('playing', {event})
       /////// ENDED ///////
     } else if (event.data == YT.PlayerState.ENDED) {
       this.stopPlayhead()
-      this.publish('ended', [event])
+      this.emitter.emit('ended', {event})
       /////// PAUSED ///////
     } else if (event.data == YT.PlayerState.PAUSED) {
       this.stopPlayhead()
-      this.publish('paused', [event])
+      this.emitter.emit('paused', {event})
       /////// BUFFERING ///////
     } else if (event.data == YT.PlayerState.BUFFERING) {
       this.stopPlayhead()
-      this.publish('buffering', [event])
+      this.emitter.emit('buffering', {event})
       /////// CUED ///////
     } else if (event.data == YT.PlayerState.CUED) {
-      this.publish('cued', [event])
+      this.emitter.emit('cued', {event})
     }
   }
 
@@ -99,7 +106,7 @@ export default class Player {
 
   play() {
     if (!this.isReady()) {
-      this.subscribe("ready", () => {
+      this.on("ready", () => {
         this.play()
       })
       return
@@ -110,7 +117,7 @@ export default class Player {
 
   stop() {
     if (!this.isReady()) {
-      this.subscribe("ready", function () {
+      this.on("ready", function () {
         stop()
       })
       return
@@ -121,7 +128,7 @@ export default class Player {
 
   pause() {
     if (!this.isReady()) {
-      this.subscribe("ready", () => {
+      this.on("ready", () => {
         this.pause()
       })
       return
@@ -132,7 +139,7 @@ export default class Player {
 
   unPause() {
     if (!this.isReady()) {
-      this.subscribe("ready", () => {
+      this.on("ready", () => {
         this.unPause()
       })
       return
@@ -171,7 +178,7 @@ export default class Player {
 
   cueVideoById(videoId: string, startSeconds?: number, suggestedQuality?: PlayerQuality) {
     if (!this.isReady()) {
-      this.subscribe("ready", () => {
+      this.on("ready", () => {
         this.cueVideoById(videoId, startSeconds, suggestedQuality)
       })
       return
@@ -190,7 +197,7 @@ export default class Player {
 
   loadVideoById(videoId: string, startSeconds?: number, suggestedQuality?: PlayerQuality) {
     if (!this.isReady()) {
-      this.subscribe("ready", () => {
+      this.on("ready", () => {
         this.loadVideoById(videoId, startSeconds, suggestedQuality)
       })
       return
@@ -225,7 +232,7 @@ export default class Player {
 
   mute() {
     if (!this.isReady()) {
-      this.subscribe("ready", () => {
+      this.on("ready", () => {
         this.mute()
       })
       return
@@ -236,7 +243,7 @@ export default class Player {
 
   unMute() {
     if (!this.isReady()) {
-      this.subscribe("ready", () => {
+      this.on("ready", () => {
         this.unMute()
       })
       return
@@ -258,7 +265,7 @@ export default class Player {
 
   setVolume(volume: number) {
     if (!this.isReady()) {
-      this.subscribe("ready", () => {
+      this.on("ready", () => {
         this.setVolume(volume)
       })
       return
