@@ -35,6 +35,10 @@ export default class EventEmitter<TEvents extends Record<string, any>> {
       this.listeners[event]?.splice(callbackIndex, 1)
   }
 
-  emit = <K extends keyof TEvents>(event: K, payload: TEvents[K]): void =>
-    this.listeners[event]?.forEach(listener => listener(payload))
+  emit = <K extends keyof TEvents>(
+    event: K,
+    // Workaround to make the argument optional if the event property is undefined
+    ...payload: (TEvents[K] extends undefined ? [] : [TEvents[K]])
+  ): void =>
+    this.listeners[event]?.forEach(listener => listener(payload[0]))
 }

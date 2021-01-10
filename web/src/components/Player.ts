@@ -14,6 +14,11 @@ type PlayerEventNames = keyof PlayerEvents
 
 export type PlayerQuality = 'hd720' | 'default' | 'small' | 'medium' | 'large' | 'hd1080' | 'highres'
 
+const getIdFromYoutubeUrl = (url: string) => {
+  const re = /^(https?:\/\/)?((www\.)?(youtube(-nocookie)?|youtube.googleapis)\.com.*(v\/|v=|vi=|vi\/|e\/|embed\/|user\/.*\/u\/\d+\/)|youtu\.be\/)([_0-9a-z-]+)/i
+  return url.match(re)?.[7]
+}
+
 export default class Player {
   private playheadInterval: number = 0
   private endSeconds: number | null = null
@@ -195,6 +200,15 @@ export default class Player {
     this.ytPlayer?.cueVideoById(videoId, startSeconds, suggestedQuality)
   }
 
+  cueVideoByUrl(videoUrl: string, startSeconds?: number, suggestedQuality?: PlayerQuality) {
+    const id = getIdFromYoutubeUrl(videoUrl)
+
+    if (!id)
+      throw new Error('Failed to extract ID for videoUrl ' + videoUrl)
+
+    this.cueVideoById(id, startSeconds, suggestedQuality)
+  }
+
   loadVideoById(videoId: string, startSeconds?: number, suggestedQuality?: PlayerQuality) {
     if (!this.isReady()) {
       this.on("ready", () => {
@@ -212,6 +226,15 @@ export default class Player {
     }
 
     this.ytPlayer?.loadVideoById(videoId, startSeconds, suggestedQuality)
+  }
+
+  loadVideoByUrl(videoUrl: string, startSeconds?: number, suggestedQuality?: PlayerQuality) {
+    const id = getIdFromYoutubeUrl(videoUrl)
+
+    if (!id)
+      throw new Error('Failed to extract ID for videoUrl ' + videoUrl)
+
+    this.loadVideoById(id, startSeconds, suggestedQuality)
   }
 
   getCurrentTime() {
