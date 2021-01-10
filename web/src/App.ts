@@ -44,8 +44,8 @@ const router = new Simrou({
     get: function (_, params) {
       console.log('ROUTE: /episode/' + params.playlist_id + '/' + params.track_pos)
 
-      var playlist_id = params.playlist_id == 'top200' ? 'top200' : parseInt(params.playlist_id)
-      var track_pos = parseInt(params.track_pos)
+      const playlist_id = params.playlist_id == 'top200' ? 'top200' : parseInt(params.playlist_id)
+      const track_pos = parseInt(params.track_pos)
 
       loadPlaylist(playlist_id, function () {
         trackList.skip(track_pos - 1)
@@ -93,8 +93,8 @@ const init = () => {
   })
 
   $('.nav .skip-to-year').on('click', function (_e) {
-    var year = $(this).attr('data-year')
-    var anchor = $('a[name=episode-' + year + ']')
+    const year = $(this).attr('data-year')
+    const anchor = $('a[name=episode-' + year + ']')
 
     $('#pop-up-container').scrollTop(anchor.position().top)
   })
@@ -157,7 +157,7 @@ const init = () => {
   player.on('error', () => {
     sourceList.setCurrentError()
 
-    var result = sourceList.next() //load next alt sources, until we have tried them all
+    const result = sourceList.next() //load next alt sources, until we have tried them all
 
     if (result === null) {
       trackList.next()
@@ -220,7 +220,7 @@ const loadPlaylist = function (id: string | number, callback: (id: string | numb
     return
   }
 
-  var url = '/tracks/getByPlaylistId/' + id + '.json'
+  let url = '/tracks/getByPlaylistId/' + id + '.json'
 
   if (id == 'top200') {
     url = '/tracks/getTop200.json'
@@ -237,7 +237,7 @@ const loadPlaylist = function (id: string | number, callback: (id: string | numb
 
     currentPlaylist = id
 
-    var tracks: PlaylistTrack[] = []
+    const tracks: PlaylistTrack[] = []
 
     // Re-organise tracks data
     $.each(data.tracks, function (_key, value) {
@@ -257,7 +257,7 @@ const loadPlaylist = function (id: string | number, callback: (id: string | numb
   })
 }
 
-var onTrackChange = function ({ current: curTrack }: ChangeEventPayload) {
+const onTrackChange = function ({ current: curTrack }: ChangeEventPayload) {
   sourceList.load(curTrack)
 
   $('#nav-right').fadeIn()
@@ -280,12 +280,12 @@ var onTrackChange = function ({ current: curTrack }: ChangeEventPayload) {
   }
 }
 
-var onSourcesLoaded = function () {
+const onSourcesLoaded = function () {
   if (sourceList.current()?.url)
     player.loadVideoByUrl(sourceList.current()!.url)
 }
 
-var onSourceListLoadFailed = function () {
+const onSourceListLoadFailed = function () {
   const current = trackList.current()
 
   // Remove this track and load next one
@@ -298,7 +298,7 @@ var onSourceListLoadFailed = function () {
   trackList.next()
 }
 
-var onSourceChange = function () {
+const onSourceChange = function () {
   if (sourceList.current()?.url)
     player.loadVideoByUrl(sourceList.current()!.url)
 }
