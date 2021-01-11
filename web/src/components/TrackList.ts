@@ -7,16 +7,14 @@ export enum TrackChangeDirection {
   NONE = 0
 }
 
-export type ChangeEventPayload = {
-  current: PlaylistTrack,
-  previous: PlaylistTrack | null,
-  direction: TrackChangeDirection
-}
-
 export type TracklistEvents = {
   modified: undefined,
   finished: undefined,
-  change: ChangeEventPayload
+  change: {
+    current: PlaylistTrack,
+    previous: PlaylistTrack | null,
+    direction: TrackChangeDirection
+  }
 }
 
 export class TrackList {

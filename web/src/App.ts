@@ -1,7 +1,7 @@
 import * as $ from "jquery"
 import Player from "./components/Player"
 import { SourceList } from "./components/SourceList"
-import { ChangeEventPayload, TrackList } from "./components/TrackList"
+import { TracklistEvents, TrackList } from "./components/TrackList"
 import { PlaylistTrack } from "./Types"
 
 let currentPlaylist: string | number | null = null
@@ -257,7 +257,7 @@ const loadPlaylist = function (id: string | number, callback: (id: string | numb
   })
 }
 
-const onTrackChange = function ({ current: curTrack }: ChangeEventPayload) {
+const onTrackChange = function ({ current: curTrack }: TracklistEvents['change']) {
   sourceList.load(curTrack)
 
   $('#nav-right').fadeIn()
