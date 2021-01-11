@@ -13,6 +13,7 @@
   "author": "Patrick Galbraith",
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
+    "@types/jquery": "^3.5.5",
     "@types/youtube": "0.0.41",
     "autoprefixer": "^9.8.6",
     "parcel-bundler": "^1.12.4",
