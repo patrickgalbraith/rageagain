@@ -182,19 +182,19 @@ export default class Player {
   }
 
   cueVideoById(videoId: string, startSeconds?: number, suggestedQuality?: PlayerQuality) {
+    if (!startSeconds) {
+      startSeconds = 0
+    }
+
+    if (!suggestedQuality) {
+      suggestedQuality = this.defaultPlaybackQuality
+    }
+
     if (!this.isReady()) {
       this.on("ready", () => {
         this.cueVideoById(videoId, startSeconds, suggestedQuality)
       })
       return
-    }
-
-    if (typeof startSeconds === "undefined") {
-      startSeconds = 0
-    }
-
-    if (typeof suggestedQuality === "undefined") {
-      suggestedQuality = this.defaultPlaybackQuality
     }
 
     this.ytPlayer?.cueVideoById(videoId, startSeconds, suggestedQuality)
@@ -210,19 +210,19 @@ export default class Player {
   }
 
   loadVideoById(videoId: string, startSeconds?: number, suggestedQuality?: PlayerQuality) {
+    if (!startSeconds) {
+      startSeconds = 0
+    }
+
+    if (!suggestedQuality) {
+      suggestedQuality = this.defaultPlaybackQuality
+    }
+
     if (!this.isReady()) {
       this.on("ready", () => {
         this.loadVideoById(videoId, startSeconds, suggestedQuality)
       })
       return
-    }
-
-    if (typeof startSeconds === "undefined") {
-      startSeconds = 0
-    }
-
-    if (typeof suggestedQuality === "undefined") {
-      suggestedQuality = this.defaultPlaybackQuality
     }
 
     this.ytPlayer?.loadVideoById(videoId, startSeconds, suggestedQuality)
