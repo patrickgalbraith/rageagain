@@ -13,7 +13,10 @@ const corsHeaders = {
 }
 
 function getCorsHeaders(request: Request): Headers {
-  const { origin } = new URL(request.url)
+  const origin = request.headers.get('origin')
+
+  if (!origin)
+    return new Headers()
 
   let respHeaders: Record<string, string> = {
     ...corsHeaders,
@@ -38,7 +41,9 @@ async function handleMusicVideoSearchRequest(request: Request): Promise<Response
 
   const videoInfoList = await getYoutubeVideos(artist, song)
 
-  return new Response(JSON.stringify(videoInfoList))
+  return new Response(JSON.stringify(videoInfoList), {
+    headers: getCorsHeaders(request)
+  })
 }
 
 function handleOptionsRequest(request: Request): Response {
