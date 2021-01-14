@@ -7,7 +7,7 @@ export enum TrackChangeDirection {
   NONE = 0
 }
 
-export type TracklistEvents = {
+export type TrackListEvents = {
   modified: undefined,
   finished: undefined,
   change: {
@@ -22,12 +22,12 @@ export class TrackList {
   private pos: number = -1
   private playlist: PlaylistTrack[] = []
 
-  private emitter: EventEmitter<TracklistEvents>
-  on: <K extends keyof TracklistEvents>(event: K, listener: (event: TracklistEvents[K]) => void) => { dispose: () => void }
-  off: <K extends keyof TracklistEvents>(event: K, listener: (event: TracklistEvents[K]) => void) => void
+  private emitter: EventEmitter<TrackListEvents>
+  on: <K extends keyof TrackListEvents>(event: K, listener: (event: TrackListEvents[K]) => void) => { dispose: () => void }
+  off: <K extends keyof TrackListEvents>(event: K, listener: (event: TrackListEvents[K]) => void) => void
 
   constructor() {
-    this.emitter = new EventEmitter<TracklistEvents>()
+    this.emitter = new EventEmitter<TrackListEvents>()
     this.on = this.emitter.on
     this.off = this.emitter.off
   }

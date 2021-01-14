@@ -1,20 +1,28 @@
-import * as $ from "jquery"
-import Player from "./components/Player"
-import { SourceList } from "./components/SourceList"
-import { TracklistEvents, TrackList } from "./components/TrackList"
-import { PlaylistTrack } from "./Types"
+/**
+ * Note the code in this file was cobbled together from the
+ * original old version of the site (from around 2010) and
+ * converted to Typescript without any major refactoring.
+ */
 
-let currentPlaylist: string | number | null = null
+import Player from "./lib/Player"
+import { getPlaylist, getPlaylistIndex } from "./lib/PlaylistData"
+import { SourceList } from "./lib/SourceList"
+import { TrackListEvents, TrackList } from "./lib/TrackList"
+import renderSpecialList from "./components/SpecialList"
+import renderEpisodeList from "./components/EpisodeList"
+import renderYearDropdown from "./components/YearDropdown"
+
+let currentPlaylist: string | null = null
 
 const trackList = new TrackList()
 const sourceList = new SourceList()
 const player = new Player()
 
-window.onYouTubeIframeAPIReady = () => {
+window.onYouTubePlayerAPIReady = () => {
   new YT.Player('player', {
     height: '315',
     width: '560',
-    videoId: 'U6VrAyhRFkg',
+    videoId: 'U6VrAyhRFkg', // RAGE Intro Video ID
     playerVars: {
       autoplay: 0,
       showinfo: 0,
@@ -32,67 +40,46 @@ window.onYouTubeIframeAPIReady = () => {
   })
 }
 
-const router = new Simrou({
-  '/episode/:playlist_id': {
-    get: function (_, params) {
-      console.log('ROUTE: /episode/' + params.playlist_id)
-      router.navigate('/episode/' + params.playlist_id + '/1')
-    }
-  },
-
-  '/episode/:playlist_id/:track_pos': {
-    get: function (_, params) {
-      console.log('ROUTE: /episode/' + params.playlist_id + '/' + params.track_pos)
-
-      const playlist_id = params.playlist_id == 'top200' ? 'top200' : parseInt(params.playlist_id)
-      const track_pos = parseInt(params.track_pos)
-
-      loadPlaylist(playlist_id, function () {
-        trackList.skip(track_pos - 1)
-      })
-    }
-  },
-
-  '/home': {
-    get: function () {
-      console.log('ROUTE: /home')
-      player.play() //play intro video
-    }
-  }
-})
-
 const init = () => {
-  ///// TOOLTIPS /////
-  $(document).tooltip({
-    selector: 'a[rel=tooltip]',
-    placement: function (_tooltip: any, target: any) {
-      return $(target).attr('data-placement') || 'top'
-    },
-    trigger: 'manual'
-  })
-
-  $('a[rel=tooltip]').on('mouseenter', function (e) {
-    $(this).tooltip('show')
-
-    if ($('body').children('.tooltip').offset()?.left ?? 0 < 0) {
-      $('body').children('.tooltip').offset({ left: 0 })
-    }
-
-    setTimeout(function () {
-      if ($('body').children('.tooltip').offset()?.left ?? 0 < 0) {
-        $('body').children('.tooltip').animate({ left: 0 }, 50)
+  // ROUTER
+  const router = new Simrou({
+    '/episode/top200': {
+      get: () => {
+        router.navigate(`/episode/top200/1`)
       }
-    }, 200)
+    },
 
-    e.preventDefault()
-    e.stopImmediatePropagation()
+    '/episode/top200/:track': {
+      get: (_, { track}) => {
+        loadPlaylist('top200', () => {
+          trackList.skip(track - 1)
+        })
+      }
+    },
+
+    '/episode/:year/:month/:day': {
+      get: (_, { year, month, day}) => {
+        router.navigate(`/episode/${year}/${month}/${day}/1`)
+      }
+    },
+
+    '/episode/:year/:month/:day/:track': {
+      get: (_, { year, month, day, track}) => {
+        loadPlaylist(`${year}/${month}/${day}`, () => {
+          trackList.skip(track - 1)
+        })
+      }
+    },
+
+    '/home': {
+      get: () => {
+        player.play(true) //play intro video
+      }
+    }
   })
 
-  $('a[rel=tooltip]').on('mouseleave', function (_e) {
-    $(this).tooltip('hide')
-  })
-
-  $('.nav .skip-to-year').on('click', function (_e) {
+  // EPISODE/SPECIAL TAB
+  $('body').on('click', '.nav .skip-to-year', function (_e) {
     const year = $(this).attr('data-year')
     const anchor = $('a[name=episode-' + year + ']')
 
@@ -119,7 +106,18 @@ const init = () => {
     $('.skip-to-year-toggle').parent().addClass('disabled')
   })
 
-  ///// TOP MENU /////
+  // Load playlist data, then render episodes tabs
+  getPlaylistIndex().then(data => {
+    $('#episodes').empty().append(renderEpisodeList(data.playlists))
+    $('#specials').empty().append(renderSpecialList(data.playlists))
+    $('#year-dropdown .dropdown-menu').append(renderYearDropdown())
+
+    $('[data-playlist-count]').text(data.playlists.length)
+
+    initTooltips()
+  })
+
+  // TOP MENU
   $('.episode-button').on('click', function (_e) {
     changeTab('episodeList')
   })
@@ -136,7 +134,6 @@ const init = () => {
   })
 
   $('.player-forward').on('click', function (_e) {
-    //trackList.next()
     if (trackList.hasNext()) {
       router.navigate('/episode/' + currentPlaylist + '/' + (trackList.getPosition() + 2))
     }
@@ -150,14 +147,15 @@ const init = () => {
   trackList.on('change', onTrackChange)
   trackList.on('finished', () => changeTab('episodeList'))
 
-  sourceList.on('loadSuccess', onSourcesLoaded)
   sourceList.on('change', onSourceChange)
-  sourceList.on('loadSuccess', onSourceListLoadFailed)
+  sourceList.on('loadError', onSourceListLoadFailed)
 
-  player.on('error', () => {
+  player.on('error', (error) => {
+    console.log('Failed to load video', sourceList.current()?.url, error)
+
     sourceList.setCurrentError()
 
-    const result = sourceList.next() //load next alt sources, until we have tried them all
+    const result = sourceList.next() // load next alt sources, until we have tried them all
 
     if (result === null) {
       trackList.next()
@@ -204,60 +202,80 @@ const init = () => {
 
     return true
   })
+
+  router.start('/home')
 }
 
-const loadPlaylist = function (id: string | number, callback: (id: string | number) => void) {
-  if (typeof id == "undefined") {
+const loadPlaylist = function (id: string, callback: (id: string) => void) {
+  if (typeof id == 'undefined') {
     throw "RageAgain.loadPlaylist() id is undefined."
   }
 
-  if (currentPlaylist == id) {
-    console.log('This playlist is already playing...')
+  const path = id + '.json'
 
+  if (currentPlaylist == id) {
     if (typeof callback === 'function')
       callback(currentPlaylist)
-
     return
   }
 
-  let url = '/tracks/getByPlaylistId/' + id + '.json'
-
-  if (id == 'top200') {
-    url = '/tracks/getTop200.json'
-  }
-
-  $.getJSON(url, function (data) {
-
+  getPlaylist(path).then(data => {
     $('#fullscreen-loader').hide()
 
-    if (!data || data.length < 1 || !data.tracks) {
-      alert('Failed to load selected playlist. Empty server response.')
+    if (!data || !data.tracks) {
+      alert('Failed to load selected playlist. No tracks found.')
       return
     }
 
     currentPlaylist = id
 
-    const tracks: PlaylistTrack[] = []
-
-    // Re-organise tracks data
-    $.each(data.tracks, function (_key, value) {
-      tracks.push(value)
-    })
-
     trackList.clear()
-    trackList.add(tracks)
+    trackList.add(data.tracks)
 
     if (typeof callback === 'function')
       callback(currentPlaylist)
 
     $('a span.now-playing-label').remove()
-    $('a[data-playlist_id=' + id + ']').append('<span class="label label-important now-playing-label">p</span>')
+    $('a[data-playlist_id="' + id + '"]')
+      .append('<span class="label label-important now-playing-label">p</span>')
 
     changeTab('nowPlaying')
   })
 }
 
-const onTrackChange = function ({ current: curTrack }: TracklistEvents['change']) {
+const initTooltips = () => {
+  $(document).tooltip({
+    selector: 'a[rel=tooltip]',
+    placement: function (_tooltip: any, target: any) {
+      return $(target).attr('data-placement') || 'top'
+    },
+    trigger: 'manual'
+  })
+
+  const checkTooltipOffset = () => {
+    const leftOffset = $('body').children('.tooltip').offset()?.left
+
+    if ((leftOffset ?? 0) < 0) {
+      $('body').children('.tooltip').offset({ left: 0 })
+    }
+  }
+
+  $('a[rel=tooltip]').on('mouseenter', function (e) {
+    $(this).tooltip('show')
+
+    checkTooltipOffset()
+    setTimeout(checkTooltipOffset, 100)
+
+    e.preventDefault()
+    e.stopImmediatePropagation()
+  })
+
+  $('a[rel=tooltip]').on('mouseleave', function (_e) {
+    $(this).tooltip('hide')
+  })
+}
+
+const onTrackChange = function ({ current: curTrack }: TrackListEvents['change']) {
   sourceList.load(curTrack)
 
   $('#nav-right').fadeIn()
@@ -273,19 +291,19 @@ const onTrackChange = function ({ current: curTrack }: TracklistEvents['change']
     $('.tracklabel').text('')
   }
 
-  $('#now-playing-info').hide().delay(1500).fadeIn('slow').delay(8000).fadeOut()
+  $('#now-playing-info').hide()
+    .delay(1500)
+    .fadeIn('slow')
+    .delay(8000)
+    .fadeOut()
 
   if (!player.isPlaying()) {
     player.play()
   }
 }
 
-const onSourcesLoaded = function () {
-  if (sourceList.current()?.url)
-    player.loadVideoByUrl(sourceList.current()!.url)
-}
-
 const onSourceListLoadFailed = function () {
+  console.log('onSourceListLoadFailed')
   const current = trackList.current()
 
   // Remove this track and load next one
@@ -299,6 +317,7 @@ const onSourceListLoadFailed = function () {
 }
 
 const onSourceChange = function () {
+  console.log('onSourceChange')
   if (sourceList.current()?.url)
     player.loadVideoByUrl(sourceList.current()!.url)
 }
@@ -322,7 +341,20 @@ const changeTab = function (tabName: 'episodeList' | 'nowPlaying') {
   }
 }
 
+/**
+ * Starts up the app.
+ * Note: we check that jQuery has loaded before proceeding.
+ */
 export default function () {
-  init()
-  router.start('/home')
+  if (!!window.$ && !!window.Simrou) {
+    $(() => init())
+    return
+  }
+
+  const timer = setInterval(() => {
+    if (!!window.$ && !!window.Simrou) {
+      clearInterval(timer)
+      $(() => init())
+    }
+  }, 100)
 }

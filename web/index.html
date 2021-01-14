@@ -15,14 +15,13 @@
 
   <link href="./static/css/index.css" rel="stylesheet">
 
-  <script defer src="https://www.youtube.com/iframe_api" crossorigin="anonymous"></script>
+  <script defer src="https://www.youtube.com/iframe_api"></script>
 
   <script defer src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-  <script defer src="./static/lib/jquery/jquery.tinypubsub-0.7.js"></script>
   <script defer src="./static/lib/twitter-bootstrap/js/bootstrap.min.js"></script>
   <script defer src="./static/lib/simrou.1.5.4.min.js"></script>
 
-  <script async src="./src/index.ts"></script>
+  <script src="./src/index.ts"></script>
 </head>
 <body>
   <noscript>
@@ -63,14 +62,10 @@
                 <li class="active"><a href="javascript:void(0)" class="sort-by-date">By Date</a></li>
                 <li><a href="javascript:void(0)" class="sort-by-special">By Special</a></li>
 
-                <li class="dropdown">
+                <li id="year-dropdown" class="dropdown">
                   <a data-toggle="dropdown" class="dropdown-toggle skip-to-year-toggle" href="#">Year <b
                       class="caret"></b></a>
-                  <ul class="dropdown-menu" style="min-width:100px; text-align:center">
-                    <li><a class="skip-to-year" data-year="1998" href="javascript:void(0)">1998</a></li>
-                    <li><a class="skip-to-year" data-year="1999" href="javascript:void(0)">1999</a></li>
-                    <li><a class="skip-to-year" data-year="2000" href="javascript:void(0)">2000</a></li>
-                  </ul>
+                  <ul class="dropdown-menu" style="min-width:100px; text-align:center"></ul>
                 </li>
 
                 <li class="divider-vertical"></li>
@@ -80,9 +75,13 @@
           </div>
         </div>
 
-        <div id="episode-list"></div>
+        <div id="episodes">
+          <p class="loading">Loading...</p>
+        </div>
 
-        <div id="special-list"></div>
+        <div id="specials">
+          <p class="loading">Loading...</p>
+        </div>
 
       </div><!-- /episode-container -->
     </div><!-- /pop-up-container -->
@@ -97,26 +96,45 @@
     <div id="player"></div>
   </div><!-- /container -->
 
-  <div class="modal hide" id="new-station-modal" role="dialog" aria-hidden="true">
-    <div class="modal-header">
-      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-      <h3>Modal header</h3>
-    </div>
-    <div class="modal-body">
-      <p>One fine body…</p>
-    </div>
-    <div class="modal-footer">
-      <a href="#" class="btn" data-dismiss="modal">Close</a>
-      <a href="#" class="btn btn-primary">Save changes</a>
-    </div>
-  </div>
-
   <div class="modal hide fade" id="about-modal" role="dialog" aria-hidden="true">
     <div class="modal-header">
       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       <h3>RAGEagain</h3>
     </div>
-    <div class="modal-body"></div>
+    <div class="modal-body">
+      <p><a href="http://www.abc.net.au/rage" target="_blank">Rage</a> is a popular all-night Australian music video
+        program broadcast on ABC1 on Friday nights, Saturday mornings and Saturday nights. It was first screened on the
+        weekend of Friday, 17 April 1987.</p>
+      <p>Since 1998 rage has posted all their episode playlists online. This website combines these playlists with YouTube
+        allowing you to travel back through time and re-experience rage's recent history.</p>
+      <p><em>Please note: all the matching of track to video is done programmatically so some videos, particularly older
+          ones may not be available (depending on whether someone has uploaded them).</em></p>
+      <br>
+      <p><strong>Keyboard Shortcuts:</strong> play/pause <span class="label">spacebar</span>, prev <span class="label"><i
+            class="icon-arrow-left" style="background:none"></i></span>, next <span class="label"><i
+            class="icon-arrow-right" style="background:none"></i></span></p>
+      <br>
+      <p>
+        <strong>Playlists:</strong>
+        <span data-playlist-count>loading...</span><br><br>
+        <a href="https://github.com/patrickgalbraith/rageagain/" target="_blank">View project on Github</a>
+      </p>
+      <br>
+      <div style="float:left;">
+        <span class='st_sharethis_large' displayText='ShareThis'></span>
+        <span class='st_facebook_large' displayText='Facebook'></span>
+        <span class='st_twitter_large' displayText='Tweet'></span>
+        <span class='st_pinterest_large' displayText='Pinterest'></span>
+        <span class='st_linkedin_large' displayText='LinkedIn'></span>
+        <span class='st_email_large' displayText='Email'></span>
+      </div>
+      <div style="float:right; text-align: right">
+        <a href="http://www.pjgalbraith.com" target="_blank"><img src="static/img/sig.png" title="Created by Patrick Galbraith"
+            alt="Created by Patrick Galbraith" /></a><br>
+        <span style="font-size:10px; margin-right: 5px"><a href="http://www.pjgalbraith.com">VIEW MY OTHER
+            WORKS</a></span>
+      </div>
+    </div>
     <div class="modal-footer">
       <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
     </div>

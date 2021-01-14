@@ -21,3 +21,15 @@ export type SourceInfo = {
   url: string
   title?: string
 }
+
+export type IndexedPlaylist = {
+  special: string | null
+  timeslot: string | null
+  date: string
+  path: string
+  url?: string
+}
+
+export type DataIndex = {
+  playlists: IndexedPlaylist[]
+}

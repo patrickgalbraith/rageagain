@@ -1,4 +1,5 @@
 import { PlaylistTrack } from '../Types'
+import { getTrackSources } from './API'
 import EventEmitter from './EventEmitter'
 
 export type Source = {
@@ -12,7 +13,7 @@ export type SourceListEvents = {
   cleared: undefined,
   loadBegin: { track: PlaylistTrack },
   loadSuccess: { track: PlaylistTrack },
-  loadError: { track: PlaylistTrack }
+  loadError: { track: PlaylistTrack, error: string }
 }
 
 export class SourceList {
@@ -94,44 +95,34 @@ export class SourceList {
     this.sourcelist[this.pos].error = true
   }
 
-  //load new sources from Youtube
-  load(track: PlaylistTrack) {
+  /**
+   * Clears sources list and loads new sources from the API.
+   * @param track PlaylistTrack
+   */
+  async load(track: PlaylistTrack) {
     this.clear()
 
     this.emitter.emit('loadBegin', { track })
 
-    const request_data = {
-      artist: track.artist,
-      song: track.song
-    }
+    try {
+      const sources = await getTrackSources(track.artist, track.song)
 
-    $.ajax({
-      method: 'GET',
-      url: '/youtube/get_sources.json',
-      dataType: 'json',
-      data: request_data,
-      success: (data) => {
-        if (typeof (data.error) !== 'undefined') {
-          console.log('RageAgain.SourceList: loadError: Returned result error. ' + data.error)
-          this.emitter.emit('loadError', { track })
-        }
-
-        $.each(data.sources, (_, value) => {
-          this.add({
-            'title': value.title,
-            'url': value.url
-          })
+      sources.forEach(source => {
+        this.add({
+          title: source.title ?? 'Unknown title',
+          url: source.url
         })
+      })
 
-        this.pos = 0
+      this.pos = 0
 
-        this.emitter.emit('change')
-        this.emitter.emit('loadSuccess', { track })
-      },
-      error: (_jqXHR, textStatus, _errorThrown) => {
-        this.emitter.emit('loadError', { track })
-        console.log('RageAgain.SourceList: loadError: ' + textStatus)
-      }
-    })
+      this.emitter.emit('change')
+      this.emitter.emit('loadSuccess', { track })
+    } catch (e) {
+      this.emitter.emit('loadError', {
+        track,
+        error: e.message
+      })
+    }
   }
 }

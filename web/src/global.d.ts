@@ -1,5 +1,7 @@
 interface Window {
-  onYouTubeIframeAPIReady: () => void
+  onYouTubePlayerAPIReady: () => void
+  $: JQueryStatic,
+  Simrou: Simrou
 }
 
 type SimrouRoute = {

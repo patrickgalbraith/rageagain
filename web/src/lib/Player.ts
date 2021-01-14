@@ -24,7 +24,6 @@ export default class Player {
   private endSeconds: number | null = null
   private playerReady: boolean = false
   private ytPlayer: YT.Player | null = null
-  private defaultPlaybackQuality: PlayerQuality = 'hd720' //default
 
   private emitter: EventEmitter<PlayerEvents>
   on: <K extends PlayerEventNames>(event: K, listener: (event: PlayerEvents[K]) => void) => { dispose: () => void }
@@ -44,12 +43,16 @@ export default class Player {
   }
 
   onPlayerReady = (event: YT.PlayerEvent) => {
+    console.log('Player is ready')
+
     this.playerReady = true
     this.ytPlayer = event.target
     this.emitter.emit('ready', {event})
   }
 
   onPlayerStateChange = (event: YT.OnStateChangeEvent) => {
+    console.log('Player state change', event.data)
+
     /////// PLAYING ///////
     if (event.data == YT.PlayerState.PLAYING) {
       this.startPlayhead()
@@ -109,13 +112,16 @@ export default class Player {
     return this.playerReady
   }
 
-  play() {
+  play(reset: boolean = false) {
     if (!this.isReady()) {
       this.on("ready", () => {
-        this.play()
+        this.play(reset)
       })
       return
     }
+
+    if (reset)
+      this.ytPlayer?.seekTo(0, true)
 
     this.ytPlayer?.playVideo()
   }
@@ -182,14 +188,6 @@ export default class Player {
   }
 
   cueVideoById(videoId: string, startSeconds?: number, suggestedQuality?: PlayerQuality) {
-    if (!startSeconds) {
-      startSeconds = 0
-    }
-
-    if (!suggestedQuality) {
-      suggestedQuality = this.defaultPlaybackQuality
-    }
-
     if (!this.isReady()) {
       this.on("ready", () => {
         this.cueVideoById(videoId, startSeconds, suggestedQuality)
@@ -210,16 +208,12 @@ export default class Player {
   }
 
   loadVideoById(videoId: string, startSeconds?: number, suggestedQuality?: PlayerQuality) {
-    if (!startSeconds) {
-      startSeconds = 0
-    }
-
-    if (!suggestedQuality) {
-      suggestedQuality = this.defaultPlaybackQuality
-    }
+    console.log('loadVideoById', videoId, startSeconds, suggestedQuality)
 
     if (!this.isReady()) {
+      console.log('Player is not ready')
       this.on("ready", () => {
+        console.log('After ready triggered', videoId)
         this.loadVideoById(videoId, startSeconds, suggestedQuality)
       })
       return
