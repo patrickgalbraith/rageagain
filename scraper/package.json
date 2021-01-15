@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "debug": "tsc && node --inspect ./dist/index.js"
+    "debug": "tsc && node --inspect ./dist/index.js",
+    "start": "tsc && node ./dist/index.js"
   },
   "author": "Patrick Galbraith",
   "license": "AGPL-3.0-only",
