@@ -1,6 +1,7 @@
 import { DataIndex, Playlist } from "../Types"
 
-const baseUrl = '/data/' // Must have trailing slash
+//const baseUrl = 'http://localhost:8787/api/data/' // Default local dev url of ../api project
+const baseUrl = 'https://rageagain.pjgalbraith.workers.dev/api/data/' // Must have trailing slash
 
 let dataIndex: DataIndex = {
   playlists: []
