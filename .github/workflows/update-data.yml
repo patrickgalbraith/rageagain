@@ -5,6 +5,8 @@ on:
     # At 12:00pm on Sunday, Monday, and Wednesday
     - cron: '0 12 * * 0,1,3'
 
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
