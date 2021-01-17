@@ -1,4 +1,5 @@
 import getYoutubeVideos from "./lib/youtubeProvider"
+import getDataFromGithub from "./lib/githubDataProvider"
 
 const allowedOrigins = [
   /^https?:\/\/(www\.)?rageagain.com$/,
@@ -46,6 +47,20 @@ async function handleMusicVideoSearchRequest(request: Request): Promise<Response
   })
 }
 
+async function handleDataRequest(request: Request): Promise<Response> {
+  const { pathname } = new URL(request.url)
+  const pathParts = pathname.replace('..', '').match(/\/data\/(.*)/)
+
+  if (!pathParts || (pathParts && !pathParts[0]))
+    return new Response('Empty data path param', { status: 400 })
+
+  const data = await getDataFromGithub(pathParts[0])
+
+  return new Response(data, {
+    headers: getCorsHeaders(request)
+  })
+}
+
 function handleOptionsRequest(request: Request): Response {
   let headers = request.headers
 
@@ -79,6 +94,8 @@ export async function handleRequest(request: Request): Promise<Response> {
 
       if (/\/api\/musicvideosearch\/?/.test(pathname)) {
         return await handleMusicVideoSearchRequest(request)
+      } else if (/\/api\/data\/?/.test(pathname)) {
+        return await handleDataRequest(request)
       } else {
         return new Response(null, {
           status: 404,

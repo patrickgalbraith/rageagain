@@ -18,7 +18,6 @@ wrangler generate my-ts-project https://github.com/EverlastingBugstopper/worker-
 
 Run the following command to start a local dev server:
 
-
 ```
 npm start
 ```
