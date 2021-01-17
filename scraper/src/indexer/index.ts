@@ -22,7 +22,7 @@ export const reindex = async (): Promise<DataIndex> => {
   console.log('Re-index started')
 
   const searchPath = normalize(path.join(DATA_DIRECTORY, './**/*.json'))
-  const files = await glob([searchPath, '!**/index.json'])
+  const files = await glob([searchPath, '!**/index.json', '!**/top200.json'])
 
   console.log(`Found ${files.length} playlist files in '${searchPath}'`)
 
