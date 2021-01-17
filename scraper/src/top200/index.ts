@@ -11,7 +11,7 @@ const writeFile = promisify(fs.writeFile)
 
 export const generateTop200 = async () => {
   const searchPath = normalize(path.join(DATA_DIRECTORY, './**/*.json'))
-  const files = await glob([searchPath, '!**/index.json'])
+  const files = await glob([searchPath, '!**/index.json', '!**.top200.json'])
 
   const tracks: Record<string, PlaylistTrack & { count: number }> = {}
 
