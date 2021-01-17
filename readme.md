@@ -7,4 +7,4 @@ This project is broken down into multiple directories:
 - **/data** - Latest data scraped from ABC website.
 - **/scraper** - Source code of scraper. Runs using Github workflows on a scheduled timer.
 - **/api** - Cloudflare worker that searches Youtube for music videos.
-- **/web** - Sourcecode of static website that is deployed to rageagain.com.
+- **/web** - Source code of static website that is deployed to rageagain.com.
