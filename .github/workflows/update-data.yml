@@ -26,8 +26,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: cd api && npm ci
-    - run: cd api && npm start
+    - run: cd scraper && npm ci
+    - run: cd scraper && npm start
 
     - name: Commit changes
       run: |
