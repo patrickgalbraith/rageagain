@@ -23402,6 +23402,13 @@
       "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-january-2020-on-abc-1/11877486"
     },
     {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-01-18",
+      "path": "2020/01/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-january-2020-on-abc-1/13066698"
+    },
+    {
       "special": null,
       "timeslot": "night",
       "date": "2020-01-19",
@@ -25073,6 +25080,34 @@
       "date": "2021-01-11",
       "path": "2021/01/11_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-11-january-2021-on-abc-1/13005140"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-01-15",
+      "path": "2021/01/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-january-2021-on-abc-1/13005380"
+    },
+    {
+      "special": "Charts, Rage Around The World Special",
+      "timeslot": "morning",
+      "date": "2021-01-16",
+      "path": "2021/01/16_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16-january-2021-on-abc-1/13005392"
+    },
+    {
+      "special": "Rage Around The World Special",
+      "timeslot": "night",
+      "date": "2021-01-16",
+      "path": "2021/01/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-january-2021-on-abc-1/13005398"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-01-17",
+      "path": "2021/01/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-january-2021-on-abc-1/13005402"
     }
   ]
 }
