@@ -25108,6 +25108,34 @@
       "date": "2021-01-17",
       "path": "2021/01/17_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-january-2021-on-abc-1/13005402"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-01-22",
+      "path": "2021/01/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-january-2021-on-abc-1/13082136"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Metallica Special on rage",
+      "timeslot": "morning",
+      "date": "2021-01-23",
+      "path": "2021/01/23_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23-january-2021-on-abc-1/13082190"
+    },
+    {
+      "special": "Metallica Special on rage",
+      "timeslot": "night",
+      "date": "2021-01-23",
+      "path": "2021/01/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-january-2021-on-abc-1/13082210"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-01-24",
+      "path": "2021/01/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-january-2021-on-abc-1/13082214"
     }
   ]
 }
