@@ -23444,11 +23444,39 @@
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-january-2020-on-abc-1/11898856"
     },
     {
+      "special": "triple j's Hottest 100 of 2020...on rage!",
+      "timeslot": "night",
+      "date": "2020-01-29",
+      "path": "2020/01/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-29-january-2020-on-abc-1/13103218"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-01-30",
+      "path": "2020/01/30_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30-january-2020-on-abc-1/13103252"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-01-30",
+      "path": "2020/01/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-january-2020-on-abc-1/13103318"
+    },
+    {
       "special": "New Music Show",
       "timeslot": "night",
       "date": "2020-01-31",
       "path": "2020/01/31_night.json",
       "url": "https://www.abc.net.au/rage/playlist/friday-night-31-january-2020-on-abc-1/11919086"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-01-31",
+      "path": "2020/01/31_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-31-january-2020-on-abc-1/13103364"
     },
     {
       "special": "Charts, New Music Videos, RedHook on Rage, triple j's Hottest 100 of 1989",
