@@ -1949,6 +1949,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2000-10-06",
+      "path": "2000/10/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001006.htm"
+    },
+    {
+      "special": "The Fauves guest program",
+      "timeslot": null,
+      "date": "2000-10-07",
+      "path": "2000/10/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001007.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-13",
+      "path": "2000/10/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001013.htm"
+    },
+    {
+      "special": "Livid Festival Special",
+      "timeslot": null,
+      "date": "2000-10-14",
+      "path": "2000/10/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001014.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-20",
+      "path": "2000/10/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001020.htm"
+    },
+    {
+      "special": "Radiohead & U2 Special",
+      "timeslot": null,
+      "date": "2000-10-21",
+      "path": "2000/10/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001021.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-27",
+      "path": "2000/10/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001027.htm"
+    },
+    {
+      "special": "Christine Anu guest programs",
+      "timeslot": null,
+      "date": "2000-10-28",
+      "path": "2000/10/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001028.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2000-09-01",
       "path": "2000/09/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000901.htm"
@@ -2015,62 +2071,6 @@
       "date": "2000-09-30",
       "path": "2000/09/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000930.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-06",
-      "path": "2000/10/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001006.htm"
-    },
-    {
-      "special": "The Fauves guest program",
-      "timeslot": null,
-      "date": "2000-10-07",
-      "path": "2000/10/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001007.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-13",
-      "path": "2000/10/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001013.htm"
-    },
-    {
-      "special": "Livid Festival Special",
-      "timeslot": null,
-      "date": "2000-10-14",
-      "path": "2000/10/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001014.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-20",
-      "path": "2000/10/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001020.htm"
-    },
-    {
-      "special": "Radiohead & U2 Special",
-      "timeslot": null,
-      "date": "2000-10-21",
-      "path": "2000/10/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001021.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-27",
-      "path": "2000/10/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001027.htm"
-    },
-    {
-      "special": "Christine Anu guest programs",
-      "timeslot": null,
-      "date": "2000-10-28",
-      "path": "2000/10/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001028.htm"
     },
     {
       "special": null,
