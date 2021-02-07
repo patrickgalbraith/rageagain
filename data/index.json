@@ -1949,62 +1949,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2000-10-06",
-      "path": "2000/10/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001006.htm"
-    },
-    {
-      "special": "The Fauves guest program",
-      "timeslot": null,
-      "date": "2000-10-07",
-      "path": "2000/10/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001007.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-13",
-      "path": "2000/10/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001013.htm"
-    },
-    {
-      "special": "Livid Festival Special",
-      "timeslot": null,
-      "date": "2000-10-14",
-      "path": "2000/10/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001014.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-20",
-      "path": "2000/10/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001020.htm"
-    },
-    {
-      "special": "Radiohead & U2 Special",
-      "timeslot": null,
-      "date": "2000-10-21",
-      "path": "2000/10/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001021.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-10-27",
-      "path": "2000/10/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001027.htm"
-    },
-    {
-      "special": "Christine Anu guest programs",
-      "timeslot": null,
-      "date": "2000-10-28",
-      "path": "2000/10/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001028.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2000-09-01",
       "path": "2000/09/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000901.htm"
@@ -2071,6 +2015,62 @@
       "date": "2000-09-30",
       "path": "2000/09/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000930.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-06",
+      "path": "2000/10/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001006.htm"
+    },
+    {
+      "special": "The Fauves guest program",
+      "timeslot": null,
+      "date": "2000-10-07",
+      "path": "2000/10/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001007.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-13",
+      "path": "2000/10/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001013.htm"
+    },
+    {
+      "special": "Livid Festival Special",
+      "timeslot": null,
+      "date": "2000-10-14",
+      "path": "2000/10/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001014.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-20",
+      "path": "2000/10/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001020.htm"
+    },
+    {
+      "special": "Radiohead & U2 Special",
+      "timeslot": null,
+      "date": "2000-10-21",
+      "path": "2000/10/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001021.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-10-27",
+      "path": "2000/10/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001027.htm"
+    },
+    {
+      "special": "Christine Anu guest programs",
+      "timeslot": null,
+      "date": "2000-10-28",
+      "path": "2000/10/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001028.htm"
     },
     {
       "special": null,
@@ -25178,6 +25178,34 @@
       "date": "2021-02-01",
       "path": "2021/02/01_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-1-february-2021-on-abc-1/13109966"
+    },
+    {
+      "special": "SOPHIE Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2021-02-05",
+      "path": "2021/02/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-5-february-2021-on-abc-1/13125314"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Retro Month 2021: Week One",
+      "timeslot": "morning",
+      "date": "2021-02-06",
+      "path": "2021/02/06_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-6-february-2021-on-abc-1/13125372"
+    },
+    {
+      "special": "Retro Month 2021: Week One",
+      "timeslot": "night",
+      "date": "2021-02-06",
+      "path": "2021/02/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-6-february-2021-on-abc-1/13125374"
+    },
+    {
+      "special": "SOPHIE Tribute, New Music Videos",
+      "timeslot": "night",
+      "date": "2021-02-07",
+      "path": "2021/02/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-7-february-2021-on-abc-1/13125392"
     }
   ]
 }
