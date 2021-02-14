@@ -25213,6 +25213,34 @@
       "date": "2021-02-08",
       "path": "2021/02/08_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-8-february-2021-on-abc-1/13132442"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-02-12",
+      "path": "2021/02/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-12-february-2021-on-abc-1/13149208"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Retro Month 2021: Week Two",
+      "timeslot": "morning",
+      "date": "2021-02-13",
+      "path": "2021/02/13_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-13-february-2021-on-abc-1/13149398"
+    },
+    {
+      "special": "Retro Month 2021: Week Two",
+      "timeslot": "night",
+      "date": "2021-02-13",
+      "path": "2021/02/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-13-february-2021-on-abc-1/13149428"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-02-14",
+      "path": "2021/02/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-14-february-2021-on-abc-1/13149482"
     }
   ]
 }
