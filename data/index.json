@@ -18083,6 +18083,118 @@
     },
     {
       "special": null,
+      "timeslot": "night",
+      "date": "2017-08-04",
+      "path": "2017/08/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-4th-august-2017-on-abc/9645434"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-08-05",
+      "path": "2017/08/05_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5th-august-2017-on-abc/9645428"
+    },
+    {
+      "special": "Warren Fu",
+      "timeslot": "night",
+      "date": "2017-08-05",
+      "path": "2017/08/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5th-august-2017-on-abc/9645430"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-08-06",
+      "path": "2017/08/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6th-august-2017-on-abc/9645422"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-08-11",
+      "path": "2017/08/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-11th-august-2017-on-abc/9645420"
+    },
+    {
+      "special": "Hanson",
+      "timeslot": "morning",
+      "date": "2017-08-12",
+      "path": "2017/08/12_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-12th-august-2017-on-abc/9645418"
+    },
+    {
+      "special": "Hanson",
+      "timeslot": "night",
+      "date": "2017-08-12",
+      "path": "2017/08/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-12th-august-2017-on-abc/9645416"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-08-13",
+      "path": "2017/08/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-13th-august-2017-on-abc/9645410"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-08-18",
+      "path": "2017/08/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-18th-august-2017-on-abc/9645408"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2017-08-19",
+      "path": "2017/08/19_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19th-august-2017-on-abc/9645404"
+    },
+    {
+      "special": "Corey Taylor",
+      "timeslot": "night",
+      "date": "2017-08-19",
+      "path": "2017/08/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19th-august-2017-on-abc/9645402"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-08-20",
+      "path": "2017/08/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20th-august-2017-on-abc/9645396"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-08-25",
+      "path": "2017/08/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-25th-august-2017-on-abc/9645394"
+    },
+    {
+      "special": "Steve Lucas",
+      "timeslot": "morning",
+      "date": "2017-08-26",
+      "path": "2017/08/26_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-26th-august-2017-on-abc/9645392"
+    },
+    {
+      "special": "Steve Lucas",
+      "timeslot": "night",
+      "date": "2017-08-26",
+      "path": "2017/08/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-26th-august-2017-on-abc/9645390"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2017-08-27",
+      "path": "2017/08/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-27th-august-2017-on-abc/9645384"
+    },
+    {
+      "special": null,
       "timeslot": "morning",
       "date": "2017-07-01",
       "path": "2017/07/01_morning.json",
@@ -18213,118 +18325,6 @@
       "date": "2017-07-30",
       "path": "2017/07/30_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-30th-july-2017-on-abc/9645436"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-08-04",
-      "path": "2017/08/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-4th-august-2017-on-abc/9645434"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-08-05",
-      "path": "2017/08/05_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5th-august-2017-on-abc/9645428"
-    },
-    {
-      "special": "Warren Fu",
-      "timeslot": "night",
-      "date": "2017-08-05",
-      "path": "2017/08/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5th-august-2017-on-abc/9645430"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-08-06",
-      "path": "2017/08/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6th-august-2017-on-abc/9645422"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-08-11",
-      "path": "2017/08/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-11th-august-2017-on-abc/9645420"
-    },
-    {
-      "special": "Hanson",
-      "timeslot": "morning",
-      "date": "2017-08-12",
-      "path": "2017/08/12_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-12th-august-2017-on-abc/9645418"
-    },
-    {
-      "special": "Hanson",
-      "timeslot": "night",
-      "date": "2017-08-12",
-      "path": "2017/08/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-12th-august-2017-on-abc/9645416"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-08-13",
-      "path": "2017/08/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-13th-august-2017-on-abc/9645410"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-08-18",
-      "path": "2017/08/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-18th-august-2017-on-abc/9645408"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2017-08-19",
-      "path": "2017/08/19_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19th-august-2017-on-abc/9645404"
-    },
-    {
-      "special": "Corey Taylor",
-      "timeslot": "night",
-      "date": "2017-08-19",
-      "path": "2017/08/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19th-august-2017-on-abc/9645402"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-08-20",
-      "path": "2017/08/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20th-august-2017-on-abc/9645396"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-08-25",
-      "path": "2017/08/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-25th-august-2017-on-abc/9645394"
-    },
-    {
-      "special": "Steve Lucas",
-      "timeslot": "morning",
-      "date": "2017-08-26",
-      "path": "2017/08/26_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-26th-august-2017-on-abc/9645392"
-    },
-    {
-      "special": "Steve Lucas",
-      "timeslot": "night",
-      "date": "2017-08-26",
-      "path": "2017/08/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-26th-august-2017-on-abc/9645390"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2017-08-27",
-      "path": "2017/08/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-27th-august-2017-on-abc/9645384"
     },
     {
       "special": null,
@@ -25248,6 +25248,34 @@
       "date": "2021-02-15",
       "path": "2021/02/15_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-15-february-2021-on-abc-1/13156236"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-02-19",
+      "path": "2021/02/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-19-february-2021-on-abc-1/13171968"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Retro Month 2021: Week Three",
+      "timeslot": "morning",
+      "date": "2021-02-20",
+      "path": "2021/02/20_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-20-february-2021-on-abc-1/13171984"
+    },
+    {
+      "special": "Retro Month 2021: Week Three",
+      "timeslot": "night",
+      "date": "2021-02-20",
+      "path": "2021/02/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-february-2021-on-abc-1/13171996"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-02-21",
+      "path": "2021/02/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-21-february-2021-on-abc-1/13172018"
     }
   ]
 }
