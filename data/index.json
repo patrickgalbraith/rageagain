@@ -3041,6 +3041,69 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2002-04-05",
+      "path": "2002/04/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020405.htm"
+    },
+    {
+      "special": "Incubus guest program",
+      "timeslot": null,
+      "date": "2002-04-06",
+      "path": "2002/04/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020406.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-04-12",
+      "path": "2002/04/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020412.htm"
+    },
+    {
+      "special": "George guest program",
+      "timeslot": null,
+      "date": "2002-04-13",
+      "path": "2002/04/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020413.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2002-04-18",
+      "path": "2002/04/18_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-april-2002-on-abc-1/12158496"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-04-19",
+      "path": "2002/04/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020419.htm"
+    },
+    {
+      "special": "They Might Be Giants guest program",
+      "timeslot": null,
+      "date": "2002-04-20",
+      "path": "2002/04/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020420.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-04-26",
+      "path": "2002/04/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020426.htm"
+    },
+    {
+      "special": "Jurassic 5 guest program",
+      "timeslot": null,
+      "date": "2002-04-27",
+      "path": "2002/04/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020427.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2002-03-01",
       "path": "2002/03/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020301.htm"
@@ -3107,69 +3170,6 @@
       "date": "2002-03-30",
       "path": "2002/03/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020330.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-04-05",
-      "path": "2002/04/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020405.htm"
-    },
-    {
-      "special": "Incubus guest program",
-      "timeslot": null,
-      "date": "2002-04-06",
-      "path": "2002/04/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020406.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-04-12",
-      "path": "2002/04/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020412.htm"
-    },
-    {
-      "special": "George guest program",
-      "timeslot": null,
-      "date": "2002-04-13",
-      "path": "2002/04/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020413.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2002-04-18",
-      "path": "2002/04/18_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-april-2002-on-abc-1/12158496"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-04-19",
-      "path": "2002/04/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020419.htm"
-    },
-    {
-      "special": "They Might Be Giants guest program",
-      "timeslot": null,
-      "date": "2002-04-20",
-      "path": "2002/04/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020420.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-04-26",
-      "path": "2002/04/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020426.htm"
-    },
-    {
-      "special": "Jurassic 5 guest program",
-      "timeslot": null,
-      "date": "2002-04-27",
-      "path": "2002/04/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020427.htm"
     },
     {
       "special": null,
@@ -20973,216 +20973,6 @@
       "url": "https://www.abc.net.au/rage/playlist/friday-night-30-november-2018-on-abc/10570722"
     },
     {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-12-01",
-      "path": "2018/12/01_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-december-2018-on-abc/10570736"
-    },
-    {
-      "special": "Aussie 80s Special on Rage",
-      "timeslot": "night",
-      "date": "2018-12-01",
-      "path": "2018/12/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-december-2018-on-abc/10570756"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-07",
-      "path": "2018/12/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-december-2018-on-abc/10595566"
-    },
-    {
-      "special": "Charts, Retiree on Rage & Rage Selects",
-      "timeslot": "morning",
-      "date": "2018-12-08",
-      "path": "2018/12/08_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-december-2018-on-abc/10595616"
-    },
-    {
-      "special": "Rage Selects special",
-      "timeslot": "night",
-      "date": "2018-12-08",
-      "path": "2018/12/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-december-2018-on-abc/10595664"
-    },
-    {
-      "special": "VAULT",
-      "timeslot": "night",
-      "date": "2018-12-10",
-      "path": "2018/12/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-december-2018-on-abc/10602298"
-    },
-    {
-      "special": "Charts, Bleeding Knees Club on Rage & New Music Videos",
-      "timeslot": "morning",
-      "date": "2018-12-14",
-      "path": "2018/12/14_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-december-2018-on-abc/10621776"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-14",
-      "path": "2018/12/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-december-2018-on-abc/10621690"
-    },
-    {
-      "special": "Rage FIFTY special",
-      "timeslot": "night",
-      "date": "2018-12-15",
-      "path": "2018/12/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-december-2018-on-abc/10622006"
-    },
-    {
-      "special": "Bleeding Knees club on Rage, New Music",
-      "timeslot": "night",
-      "date": "2018-12-16",
-      "path": "2018/12/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-december-2018-on-abc/10622668"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-17",
-      "path": "2018/12/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-december-17-2018-on-abc3/10628414"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-18",
-      "path": "2018/12/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-18-december-2018-on-abc3/10628446"
-    },
-    {
-      "special": "Rage FIFTY Top Ten, New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-18",
-      "path": "2018/12/18_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-18-december-2018-on-abc/10628426"
-    },
-    {
-      "special": "Best of the Wild Ones 2018",
-      "timeslot": "night",
-      "date": "2018-12-19",
-      "path": "2018/12/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-19-december-2018-on-abc3/10628464"
-    },
-    {
-      "special": "Bleeding Knees Club on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-19",
-      "path": "2018/12/19_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-19-december-2018-on-abc/10628456"
-    },
-    {
-      "special": "Rage FIFTY: Best of the Wild Ones",
-      "timeslot": "night",
-      "date": "2018-12-20",
-      "path": "2018/12/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-20-december-2018-on-abc3/10628496"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-21",
-      "path": "2018/12/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-december-2018-on-abc/10646320"
-    },
-    {
-      "special": "Charts, Broods on Rage, Morning Rage Christmas Special",
-      "timeslot": "morning",
-      "date": "2018-12-22",
-      "path": "2018/12/22_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-december-2018-on-abc/10646978"
-    },
-    {
-      "special": "'Bad Santa' Rage Christmas,",
-      "timeslot": "night",
-      "date": "2018-12-22",
-      "path": "2018/12/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-december-2018-on-abc/10647012"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-24",
-      "path": "2018/12/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-december-24-on-abc-me/10666628"
-    },
-    {
-      "special": "'Bad Santa' Rage Christmas Special Repeat",
-      "timeslot": "night",
-      "date": "2018-12-25",
-      "path": "2018/12/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-25-december-2018-on-abc/10666632"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-26",
-      "path": "2018/12/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-26-december-2018-on-abc-me/10666668"
-    },
-    {
-      "special": "Broods on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-26",
-      "path": "2018/12/26_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-26-december-2018-on-abc/10666654"
-    },
-    {
-      "special": "'Bad Santa' Rage Christmas Special Repeat",
-      "timeslot": null,
-      "date": "2018-12-27",
-      "path": "2018/12/27.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-24-december-2018-on-abc-me/10666682"
-    },
-    {
-      "special": "Broods on Rage, Best of the Wild Ones and Feature Videos",
-      "timeslot": null,
-      "date": "2018-12-27",
-      "path": "2018/12/27_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-27-december-2018-on-abc/10666674"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": null,
-      "date": "2018-12-28",
-      "path": "2018/12/28.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-28-december-2018-on-abc/10666692"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-12-29",
-      "path": "2018/12/29_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-december-2018-on-abc/10666700"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-12-29",
-      "path": "2018/12/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-december-2018-on-abc/10666736"
-    },
-    {
-      "special": "Phantastic Ferniture on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2018-12-30",
-      "path": "2018/12/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-30-december-2018-on-abc/10666766"
-    },
-    {
-      "special": "Rage New Year's Special",
-      "timeslot": "night",
-      "date": "2018-12-31",
-      "path": "2018/12/31_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-31-december-2018-on-abc/10672398"
-    },
-    {
       "special": "Rage Guest favourites",
       "timeslot": "night",
       "date": "2019-01-01",
@@ -21454,6 +21244,216 @@
       "date": "2019-01-29",
       "path": "2019/01/29_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/tuesday-night-29-january-2019-on-abc/10751516"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-12-01",
+      "path": "2018/12/01_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-december-2018-on-abc/10570736"
+    },
+    {
+      "special": "Aussie 80s Special on Rage",
+      "timeslot": "night",
+      "date": "2018-12-01",
+      "path": "2018/12/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-december-2018-on-abc/10570756"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-07",
+      "path": "2018/12/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-december-2018-on-abc/10595566"
+    },
+    {
+      "special": "Charts, Retiree on Rage & Rage Selects",
+      "timeslot": "morning",
+      "date": "2018-12-08",
+      "path": "2018/12/08_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-december-2018-on-abc/10595616"
+    },
+    {
+      "special": "Rage Selects special",
+      "timeslot": "night",
+      "date": "2018-12-08",
+      "path": "2018/12/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-december-2018-on-abc/10595664"
+    },
+    {
+      "special": "VAULT",
+      "timeslot": "night",
+      "date": "2018-12-10",
+      "path": "2018/12/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-december-2018-on-abc/10602298"
+    },
+    {
+      "special": "Charts, Bleeding Knees Club on Rage & New Music Videos",
+      "timeslot": "morning",
+      "date": "2018-12-14",
+      "path": "2018/12/14_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-december-2018-on-abc/10621776"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-14",
+      "path": "2018/12/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-december-2018-on-abc/10621690"
+    },
+    {
+      "special": "Rage FIFTY special",
+      "timeslot": "night",
+      "date": "2018-12-15",
+      "path": "2018/12/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-december-2018-on-abc/10622006"
+    },
+    {
+      "special": "Bleeding Knees club on Rage, New Music",
+      "timeslot": "night",
+      "date": "2018-12-16",
+      "path": "2018/12/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-december-2018-on-abc/10622668"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-17",
+      "path": "2018/12/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-december-17-2018-on-abc3/10628414"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-18",
+      "path": "2018/12/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-18-december-2018-on-abc3/10628446"
+    },
+    {
+      "special": "Rage FIFTY Top Ten, New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-18",
+      "path": "2018/12/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-18-december-2018-on-abc/10628426"
+    },
+    {
+      "special": "Best of the Wild Ones 2018",
+      "timeslot": "night",
+      "date": "2018-12-19",
+      "path": "2018/12/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-19-december-2018-on-abc3/10628464"
+    },
+    {
+      "special": "Bleeding Knees Club on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-19",
+      "path": "2018/12/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-19-december-2018-on-abc/10628456"
+    },
+    {
+      "special": "Rage FIFTY: Best of the Wild Ones",
+      "timeslot": "night",
+      "date": "2018-12-20",
+      "path": "2018/12/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-20-december-2018-on-abc3/10628496"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-21",
+      "path": "2018/12/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-december-2018-on-abc/10646320"
+    },
+    {
+      "special": "Charts, Broods on Rage, Morning Rage Christmas Special",
+      "timeslot": "morning",
+      "date": "2018-12-22",
+      "path": "2018/12/22_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-december-2018-on-abc/10646978"
+    },
+    {
+      "special": "'Bad Santa' Rage Christmas,",
+      "timeslot": "night",
+      "date": "2018-12-22",
+      "path": "2018/12/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-december-2018-on-abc/10647012"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-24",
+      "path": "2018/12/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-december-24-on-abc-me/10666628"
+    },
+    {
+      "special": "'Bad Santa' Rage Christmas Special Repeat",
+      "timeslot": "night",
+      "date": "2018-12-25",
+      "path": "2018/12/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-25-december-2018-on-abc/10666632"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-26",
+      "path": "2018/12/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-26-december-2018-on-abc-me/10666668"
+    },
+    {
+      "special": "Broods on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-26",
+      "path": "2018/12/26_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-26-december-2018-on-abc/10666654"
+    },
+    {
+      "special": "'Bad Santa' Rage Christmas Special Repeat",
+      "timeslot": null,
+      "date": "2018-12-27",
+      "path": "2018/12/27.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-24-december-2018-on-abc-me/10666682"
+    },
+    {
+      "special": "Broods on Rage, Best of the Wild Ones and Feature Videos",
+      "timeslot": null,
+      "date": "2018-12-27",
+      "path": "2018/12/27_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-27-december-2018-on-abc/10666674"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": null,
+      "date": "2018-12-28",
+      "path": "2018/12/28.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-28-december-2018-on-abc/10666692"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-12-29",
+      "path": "2018/12/29_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-december-2018-on-abc/10666700"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-12-29",
+      "path": "2018/12/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-december-2018-on-abc/10666736"
+    },
+    {
+      "special": "Phantastic Ferniture on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2018-12-30",
+      "path": "2018/12/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-30-december-2018-on-abc/10666766"
+    },
+    {
+      "special": "Rage New Year's Special",
+      "timeslot": "night",
+      "date": "2018-12-31",
+      "path": "2018/12/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-31-december-2018-on-abc/10672398"
     },
     {
       "special": "New Music Videos",
@@ -25283,6 +25283,34 @@
       "date": "2021-02-22",
       "path": "2021/02/22_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-22-february-2021-on-abc-1/13178200"
+    },
+    {
+      "special": "Daft Punk Special, New Music Show",
+      "timeslot": "night",
+      "date": "2021-02-26",
+      "path": "2021/02/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-26-february-2021-on-abc-1/13196998"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Daft Punk Special, Retro Month 2021: Week Four",
+      "timeslot": "morning",
+      "date": "2021-02-27",
+      "path": "2021/02/27_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-27-february-2021-on-abc-1/13197070"
+    },
+    {
+      "special": "Retro Month 2021: Week Four",
+      "timeslot": "night",
+      "date": "2021-02-27",
+      "path": "2021/02/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-27-february-2021-on-abc-1/13197090"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-02-28",
+      "path": "2021/02/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-28-february-2021-on-abc-1/13197112"
     }
   ]
 }
