@@ -25318,6 +25318,34 @@
       "date": "2021-03-01",
       "path": "2021/03/01_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-1-march-2021-on-abc-1/13202822"
+    },
+    {
+      "special": "Michael Gudinski Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2021-03-05",
+      "path": "2021/03/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-5-march-2021-on-abc-1/13222054"
+    },
+    {
+      "special": "Charts, Michael Gudinski Tribute, Mardi Gras Special",
+      "timeslot": "morning",
+      "date": "2021-03-06",
+      "path": "2021/03/06_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-6-march-2021-on-abc-1/13222056"
+    },
+    {
+      "special": "Mardi Gras Special",
+      "timeslot": "night",
+      "date": "2021-03-06",
+      "path": "2021/03/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-6-march-2021-on-abc-1/13222064"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-03-07",
+      "path": "2021/03/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-7-march-2021-on-abc-1/13222068"
     }
   ]
 }

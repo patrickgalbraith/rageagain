@@ -1,0 +1,501 @@
+{
+  "title": "Friday night 5 March 2021 on ABC 1",
+  "special": "Michael Gudinski Tribute, New Music Show",
+  "timeslot": "night",
+  "date": "2021-03-05",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-5-march-2021-on-abc-1/13222054",
+  "tracks": [
+    {
+      "artist": "INXS & JIMMY BARNES",
+      "song": "Good Times",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "THE LOVED ONES",
+      "song": "The Loved One",
+      "label": "Mushroom",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SKYHOOKS",
+      "song": "Living In The '70s",
+      "label": "Fest/Mush",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SKYHOOKS",
+      "song": "You Just Like Me 'Cos I'm Good In Bed",
+      "label": "Fest/Mush",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SPLIT ENZ",
+      "song": "I See Red",
+      "label": "Fest/Mush",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "TIM FINN",
+      "song": "Fraction Too Much Friction",
+      "label": "Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Message In A Bottle",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "RENEE GEYER",
+      "song": "Say I Love You",
+      "label": null,
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE SPORTS",
+      "song": "Who Listens To The Radio",
+      "label": "Mushroom",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DYNAMIC HEPNOTICS",
+      "song": "Soul Kind Of Feeling",
+      "label": "White Label Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MUDDY WATERS",
+      "song": "Got My Mojo Working (Live at Sydney University, 1973)",
+      "label": "Castle Communications (Australasia) Limited",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TRAVELING WILBURYS",
+      "song": "Handle With Care",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE SUNNYBOYS",
+      "song": "Alone With You",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DEBORAH CONWAY",
+      "song": "It's Only The Beginning",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "CHRISTINE ANU",
+      "song": "Party",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Better The Devil You Know",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN",
+      "song": "We Take Care Of Our Own",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "PAUL KELLY & THE COLOURED GIRLS",
+      "song": "Before Too Long",
+      "label": "Mushroom",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE ANGELS",
+      "song": "Night Attack",
+      "label": "Epic",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SAINTS",
+      "song": "(I'm) Stranded",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE SAINTS",
+      "song": "Just Like Fire Would",
+      "label": "Festival",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "IAN MOSS",
+      "song": "Tucker's Daughter",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "JIMMY BARNES",
+      "song": "Working Class Man",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ARCHIE ROACH",
+      "song": "Took The Children Away",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Treaty",
+      "label": "Mushroom",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAN SULTAN",
+      "song": "Under Your Skin",
+      "label": "Liberation",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DMA's",
+      "song": "Lay Down",
+      "label": "I OH YOU",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MODELS",
+      "song": "Out Of Mind Out Of Sight",
+      "label": "Festival",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE MAVIS'S",
+      "song": "Cry",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YOUTH GROUP",
+      "song": "Forever Young",
+      "label": "Ivy League",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JACK RIVER",
+      "song": "Fools Gold",
+      "label": "Liberation",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KATE CEBERANO",
+      "song": "Pash",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GARBAGE",
+      "song": "Vow",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Covered In Chrome",
+      "label": "Illusive",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLISS 'N ESO",
+      "song": "The Sea Is Rising",
+      "label": "Lib/Illusive",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TZU",
+      "song": "Computer Love",
+      "label": "Liberation",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PETER ANDRE",
+      "song": "Mysterious Girl",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ROCKMELONS featuring DENI HINES",
+      "song": "That Word (L.O.V.E.)",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FRENTE",
+      "song": "Accidently Kelly Street",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PAINTERS AND DOCKERS",
+      "song": "Die Yuppie Die",
+      "label": "Mushroom",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NEIL YOUNG",
+      "song": "Harvest Moon",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "CLOUD CONTROL",
+      "song": "There's Nothing In The Water We Can't Fight",
+      "label": "Ivy League",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE TEMPER TRAP",
+      "song": "Sweet Disposition",
+      "label": "Liberation",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Muscle Museum",
+      "label": "Fest/Mush",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHOIRBOYS",
+      "song": "Run To Paradise",
+      "label": "Mushroom",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ADALITA",
+      "song": "Hot Air",
+      "label": "Liberation",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE AVALANCHES",
+      "song": "Stalking To A Stranger (Planets Collide Remix)",
+      "label": "Liberation",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HUNTERS & COLLECTORS",
+      "song": "When The River Runs Dry",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "NICK CAVE & KYLIE MINOGUE",
+      "song": "Where The Wild Roses Grow",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BOYS NEXT DOOR",
+      "song": "Shivers",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE ROLLING STONES",
+      "song": "It's Only Rock & Roll",
+      "label": "Virgin",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Best Of You",
+      "label": "SBME",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE RUBENS",
+      "song": "My Gun",
+      "label": "Ivy League",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BRUCE SPRINGSTEEN AND THE E-STREET BAND",
+      "song": "Born To Run",
+      "label": "Columbia",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ST. VINCENT",
+      "song": "Pay Your Way In Pain",
+      "label": "Loma Vista",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Appointment",
+      "label": "I OH YOU",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "MANSIONAIR",
+      "song": "More",
+      "label": "Liberation",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SHANNEN JAMES",
+      "song": "Superstitious",
+      "label": "Ivy League",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "JUAN WAUTERS ft. MAC DEMARCO",
+      "song": "Real",
+      "label": "Captured Tracks",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HAYLEY MARY",
+      "song": "Would You Throw A Diamond?",
+      "label": "I OH YOU",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MR. TEENAGE",
+      "song": "Automatic Love",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Canada",
+      "label": "I OH YOU",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DREGG",
+      "song": "Evolve",
+      "label": "Epitaph",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "VOID OF VISION ft. ECCA VANDAL",
+      "song": "Decay",
+      "label": "UNFD",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SYCCO",
+      "song": "My Ways",
+      "label": "Future Classic",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MIA WRAY",
+      "song": "Never Gonna Be The Same",
+      "label": "Ivy League",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "KING GIZZARD & THE LIZARD WIZARD",
+      "song": "Pleura",
+      "label": "Flightless",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PEKING DUK ft. TOMMY TRASH",
+      "song": "Lil Bit",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LALKA ft. BRUX",
+      "song": "Atomic Blonde",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JULIA STONE ft. MATT BERNINGER",
+      "song": "We All Have",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BENNY BLANCO, MARSHMELLO, & VANCE JOY",
+      "song": "You",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PEACH TREE RASCALS",
+      "song": "OOZ",
+      "label": "Homemade Projects",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JESSWAR",
+      "song": "Medusa",
+      "label": "Golden Era Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HOPE D",
+      "song": "Addict",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GORDI & ALEX LAHEY",
+      "song": "Dino's",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SUFJAN STEVENS",
+      "song": "Tell Me You Love Me",
+      "label": "Asthmatic Kitty Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BIG SCARY",
+      "song": "Stay",
+      "label": "Pieater",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LIZ STRINGER",
+      "song": "First Time Really Feeling",
+      "label": "Milk! Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "AEROPLANE MODE",
+      "song": "In A State",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ODETTE",
+      "song": "Herald",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CROWDED HOUSE",
+      "song": "To The Island",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "TEX CRICK",
+      "song": "Sometimes I Forget",
+      "label": "Mac's Record Label",
+      "timeslot": "05:30:00"
+    }
+  ]
+}
