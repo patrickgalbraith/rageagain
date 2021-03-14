@@ -25089,6 +25089,13 @@
       "url": "https://www.abc.net.au/rage/playlist/friday-night-8-january-2021-on-abc-1/13005108"
     },
     {
+      "special": "Best Music Videos of 2019",
+      "timeslot": "night",
+      "date": "2021-01-08",
+      "path": "2021/01/08_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/2020-12-21/friday-night-8-january-2021-on-abc-1/13005108"
+    },
+    {
       "special": "Best of the Charts 2020, VAULT, Best New Music Videos of 2020, New Wave Special",
       "timeslot": "morning",
       "date": "2021-01-09",
@@ -25353,6 +25360,34 @@
       "date": "2021-03-08",
       "path": "2021/03/08_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-8-march-2021-on-abc-1/13226960"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-03-12",
+      "path": "2021/03/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-12-march-2021-on-abc-1/13242210"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-03-13",
+      "path": "2021/03/13_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-13-march-2021-on-abc-1/13242230"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-03-13",
+      "path": "2021/03/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-13-march-2021-on-abc-1/13242348"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-03-14",
+      "path": "2021/03/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-14-march-2021-on-abc-1/13242356"
     }
   ]
 }
