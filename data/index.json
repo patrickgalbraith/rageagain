@@ -25395,6 +25395,34 @@
       "date": "2021-03-15",
       "path": "2021/03/15_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-15-march-2021-on-abc-1/13249150"
+    },
+    {
+      "special": "Doug Parkinson Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2021-03-19",
+      "path": "2021/03/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-19-march-2021-on-abc-1/13262888"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-03-20",
+      "path": "2021/03/20_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-20-march-2021-on-abc-1/13263026"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-03-20",
+      "path": "2021/03/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-march-2021-on-abc-1/13263028"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-03-21",
+      "path": "2021/03/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-21-march-2021-on-abc-1/13263140"
     }
   ]
 }

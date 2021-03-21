@@ -1,0 +1,615 @@
+{
+  "title": "Saturday night 20 March 2021 on ABC 1",
+  "special": null,
+  "timeslot": "night",
+  "date": "2021-03-20",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-20-march-2021-on-abc-1/13263028",
+  "tracks": [
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Down Again",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SHIHAD",
+      "song": "Pacifier",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "PLACEBO",
+      "song": "Every You, Every Me",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE BREEDERS",
+      "song": "Cannonball",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PJ HARVEY",
+      "song": "Sheela-Na-Gig",
+      "label": "Shock",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Criminal",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "TANITA TIKARAM",
+      "song": "Twist In My Sobriety",
+      "label": "WEA",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SWERVEDRIVER",
+      "song": "Last Train To Satansville",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ELASTICA",
+      "song": "Connection",
+      "label": "Universal (MCA)",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FAKER",
+      "song": "Love For Sale",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GIN BLOSSOMS",
+      "song": "Hey Jealousy",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "VERUCA SALT",
+      "song": "Volcano Girls",
+      "label": "Universal (MCA)",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE BANGLES",
+      "song": "Hazy Shade Of Winter",
+      "label": "Liberation",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JILL SOBULE",
+      "song": "Supermodel",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SPICE GIRLS",
+      "song": "Wannabe",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BEYONCE featuring JAY-Z",
+      "song": "Crazy In Love",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KELIS",
+      "song": "Milkshake",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JENNIFER LOPEZ",
+      "song": "Jenny From The Block",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "A-HA",
+      "song": "Take On Me",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HOWARD JONES",
+      "song": "Like To Get To Know You Well",
+      "label": "WEA",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE CURE",
+      "song": "In Between Days",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "RAY PARKER JR",
+      "song": "The Other Woman",
+      "label": null,
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Modern Love",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MODERN ENGLISH",
+      "song": "I Melt With You",
+      "label": "4AD",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BIG COUNTRY",
+      "song": "In A Big Country",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BELINDA CARLISLE",
+      "song": "Summer Rain",
+      "label": "Virgin",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KIM CARNES",
+      "song": "Bette Davis Eyes",
+      "label": "EMI",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KENNY ROGERS & SHEENA EASTON",
+      "song": "We've Got Tonight",
+      "label": "Liberty",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BARBRA STREISAND",
+      "song": "Woman In Love",
+      "label": "CBS",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROD STEWART",
+      "song": "Sailing",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ELVIS PRESLEY",
+      "song": "If I Can Dream",
+      "label": "BMG",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BETTE MIDLER",
+      "song": "Beast Of Burden",
+      "label": null,
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "JOE COCKER",
+      "song": "You Can Leave Your Hat On",
+      "label": "Capitol",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SAM BROWN",
+      "song": "Stop",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NENEH CHERRY",
+      "song": "Buffalo Stance",
+      "label": "Virgin",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BEATS INTERNATIONAL",
+      "song": "Dub Be Good To Me",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EMF",
+      "song": "Unbelievable",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ELECTRIC SIX",
+      "song": "Gay Bar",
+      "label": "Remote Control",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TRICKY",
+      "song": "Makes Me Wanna Die",
+      "label": "Mercury",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THELMA PLUM",
+      "song": "Better In Blak",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALEX LAHEY",
+      "song": "I Haven't Been Taking Care Of Myself",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE SMITHS",
+      "song": "How Soon Is Now",
+      "label": "Festival",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "STONE ROSES",
+      "song": "She Bangs The Drums",
+      "label": "Universal (MCA)",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS",
+      "song": "Block Rockin' Beats",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LADYHAWKE",
+      "song": "Paris Is Burning",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SCREAMING BIKINI",
+      "song": "Dirty Beats Disco Bass",
+      "label": "MGM",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DUA LIPA",
+      "song": "Don't Start Now",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Bad Romance",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "B.O.B featuring HAYLEY WILLIAMS",
+      "song": "Airplanes",
+      "label": "Warner",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BRIGHT EYES",
+      "song": "Lover I Don't Have To Love",
+      "label": "Spunk/Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KESHA",
+      "song": "Praying",
+      "label": "RCA",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "LANA DEL REY",
+      "song": "Born To Die",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "IOTA",
+      "song": "Come Back For Me",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THE FALLING JOYS",
+      "song": "Lock It",
+      "label": "BMG",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SUZANNE VEGA",
+      "song": "Luka",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JOHN MAYER",
+      "song": "Who Says",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BOB EVANS",
+      "song": "Don't You Think It's Time",
+      "label": "EMI",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "LISA LOEB",
+      "song": "Stay",
+      "label": "BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BIC RUNGA",
+      "song": "Sway",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SARAH MCLEOD",
+      "song": "Bad Valentine",
+      "label": "Revolution Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SARAH MCLEOD",
+      "song": "Giants",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SARAH MCLEOD",
+      "song": "Wild Hearts",
+      "label": "Revolution Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "SARAH McLEOD",
+      "song": "Dancing In The Dark",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Over & Out",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "POUND SYSTEM featuring SARAH MCLEOD",
+      "song": "More Than You Need",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Gravity",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Now & Then",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Secret Agent Man",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Shut My Eyes",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE SUPERJESUS",
+      "song": "Enough To Know",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TAKA PERRY ft. STEVAN",
+      "song": "Twenty",
+      "label": "Risque",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SYCCO",
+      "song": "My Ways",
+      "label": "Future Classic",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "H.E.R.",
+      "song": "Fight For You",
+      "label": "RCA",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "SKELETEN",
+      "song": "Walking On Your Name",
+      "label": "Astral People",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CONG JOSIE",
+      "song": "Persephone",
+      "label": "It Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "DZ DEATHRAYS",
+      "song": "All Or Nothing (censored version)",
+      "label": "I OH YOU",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "YA TSEEN ft. PORTUGAL. THE MAN",
+      "song": "Knives",
+      "label": "Sub Pop",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Void",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CIVIC",
+      "song": "Tell The Papers",
+      "label": "Flightless",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "DMA'S",
+      "song": "Appointment",
+      "label": "I OH YOU",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "JUAN WAUTERS ft. MAC DEMARCO",
+      "song": "Real",
+      "label": "Captured Tracks",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MR. TEENAGE",
+      "song": "Automatic Love",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "VOID OF VISION ft. ECCA VANDAL",
+      "song": "Decay",
+      "label": "UNFD",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BIG SCARY",
+      "song": "Stay",
+      "label": "Pieater",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MANSIONAIR",
+      "song": "More",
+      "label": "Liberation",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BECCA HATCH ft. PLANET VEGETA",
+      "song": "Please U",
+      "label": "Forever Ever",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MIA WRAY",
+      "song": "Never Gonna Be The Same",
+      "label": "Ivy League",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MAHALIA ft. RICO NASTY",
+      "song": "Jealous",
+      "label": "East West Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LADYHAWKE & BROODS",
+      "song": "Guilty Love",
+      "label": "BMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PIST IDIOTS",
+      "song": "Juliet",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JARRYD JAMES",
+      "song": "Don't Forget",
+      "label": "Island Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TIA GOSTELOW",
+      "song": "Two Lovers",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAPANESE BREAKFAST",
+      "song": "Be Sweet",
+      "label": "Dead Oceans",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GORDI & ALEX LAHEY",
+      "song": "Dino's",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ST. VINCENT",
+      "song": "Pay Your Way In Pain",
+      "label": "Loma Vista",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "VIOLENT SOHO",
+      "song": "Canada",
+      "label": "I OH YOU",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE LAZY EYES",
+      "song": "Where's My Brain??",
+      "label": "Independent",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SHANNEN JAMES",
+      "song": "Superstitious",
+      "label": "Ivy League",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PEEL",
+      "song": "Dyna",
+      "label": "Third Eye Stimuli",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "SUFJAN STEVENS",
+      "song": "Tell Me You Love Me",
+      "label": "Asthmatic Kitty Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT",
+      "song": "Willow",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    }
+  ]
+}
