@@ -25465,6 +25465,41 @@
       "date": "2021-03-29",
       "path": "2021/03/29_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-29-march-2021-on-abc-1/13280270"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-04-01",
+      "path": "2021/04/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-1-april-2021-on-abc-1/13286486"
+    },
+    {
+      "special": "Charts, The VAULT, Best New Music Videos, 2006 Big Day Out Special, The Mars Volta on rage",
+      "timeslot": "morning",
+      "date": "2021-04-02",
+      "path": "2021/04/02_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-april-2021-on-abc-1/13286530"
+    },
+    {
+      "special": "The Mars Volta on rage",
+      "timeslot": "night",
+      "date": "2021-04-03",
+      "path": "2021/04/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-april-2021-on-abc-1/13286808"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-04-04",
+      "path": "2021/04/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-4-april-2021-on-abc-1/13286830"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-04-05",
+      "path": "2021/04/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-5-april-2021-on-abc-1/13286918"
     }
   ]
 }
