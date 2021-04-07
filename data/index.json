@@ -10753,97 +10753,6 @@
       "url": "http://www.abc.net.au/rage/archive/s3303407.htm"
     },
     {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-02",
-      "path": "2011/09/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3308745.htm"
-    },
-    {
-      "special": "Toby Creswell, Craig Mathieson & John O'Donnell",
-      "timeslot": "morning",
-      "date": "2011-09-03",
-      "path": "2011/09/03_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3308759.htm"
-    },
-    {
-      "special": "Toby Creswell, Craig Mathieson & John O'Donnell",
-      "timeslot": "night",
-      "date": "2011-09-03",
-      "path": "2011/09/03_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3308761.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-09",
-      "path": "2011/09/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3314295.htm"
-    },
-    {
-      "special": "Cold Chisel",
-      "timeslot": "morning",
-      "date": "2011-09-10",
-      "path": "2011/09/10_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3314301.htm"
-    },
-    {
-      "special": "Cold Chisel",
-      "timeslot": "night",
-      "date": "2011-09-10",
-      "path": "2011/09/10_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3314304.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-16",
-      "path": "2011/09/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3319506.htm"
-    },
-    {
-      "special": "Breaking Up With rage Special!",
-      "timeslot": "morning",
-      "date": "2011-09-17",
-      "path": "2011/09/17_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3319509.htm"
-    },
-    {
-      "special": "Breaking Up With rage Special!",
-      "timeslot": "night",
-      "date": "2011-09-17",
-      "path": "2011/09/17_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3319510.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-23",
-      "path": "2011/09/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3324600.htm"
-    },
-    {
-      "special": "Kimbra",
-      "timeslot": "morning",
-      "date": "2011-09-24",
-      "path": "2011/09/24_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3324604.htm"
-    },
-    {
-      "special": "Kimbra",
-      "timeslot": "night",
-      "date": "2011-09-24",
-      "path": "2011/09/24_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3324608.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2011-09-30",
-      "path": "2011/09/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3329734.htm"
-    },
-    {
       "special": "Phrase",
       "timeslot": "morning",
       "date": "2011-10-01",
@@ -10940,6 +10849,97 @@
       "date": "2011-10-29",
       "path": "2011/10/29_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3350755.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-02",
+      "path": "2011/09/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3308745.htm"
+    },
+    {
+      "special": "Toby Creswell, Craig Mathieson & John O'Donnell",
+      "timeslot": "morning",
+      "date": "2011-09-03",
+      "path": "2011/09/03_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3308759.htm"
+    },
+    {
+      "special": "Toby Creswell, Craig Mathieson & John O'Donnell",
+      "timeslot": "night",
+      "date": "2011-09-03",
+      "path": "2011/09/03_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3308761.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-09",
+      "path": "2011/09/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3314295.htm"
+    },
+    {
+      "special": "Cold Chisel",
+      "timeslot": "morning",
+      "date": "2011-09-10",
+      "path": "2011/09/10_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3314301.htm"
+    },
+    {
+      "special": "Cold Chisel",
+      "timeslot": "night",
+      "date": "2011-09-10",
+      "path": "2011/09/10_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3314304.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-16",
+      "path": "2011/09/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3319506.htm"
+    },
+    {
+      "special": "Breaking Up With rage Special!",
+      "timeslot": "morning",
+      "date": "2011-09-17",
+      "path": "2011/09/17_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3319509.htm"
+    },
+    {
+      "special": "Breaking Up With rage Special!",
+      "timeslot": "night",
+      "date": "2011-09-17",
+      "path": "2011/09/17_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3319510.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-23",
+      "path": "2011/09/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3324600.htm"
+    },
+    {
+      "special": "Kimbra",
+      "timeslot": "morning",
+      "date": "2011-09-24",
+      "path": "2011/09/24_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3324604.htm"
+    },
+    {
+      "special": "Kimbra",
+      "timeslot": "night",
+      "date": "2011-09-24",
+      "path": "2011/09/24_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3324608.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2011-09-30",
+      "path": "2011/09/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3329734.htm"
     },
     {
       "special": null,
