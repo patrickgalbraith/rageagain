@@ -25535,6 +25535,55 @@
       "date": "2021-04-12",
       "path": "2021/04/12_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-12-april-2021-on-abc-21/13299148"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-04-16",
+      "path": "2021/04/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-april-2021-on-abc-1/13305598"
+    },
+    {
+      "special": "Charts, The VAULT, Best New Music Videos, UK Bands Special",
+      "timeslot": "morning",
+      "date": "2021-04-17",
+      "path": "2021/04/17_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-17-april-2021-on-abc-1/13305618"
+    },
+    {
+      "special": "UK Bands Special",
+      "timeslot": "night",
+      "date": "2021-04-17",
+      "path": "2021/04/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-april-2021-on-abc-1-(wa)/13305640"
+    },
+    {
+      "special": "UK Bands Special",
+      "timeslot": "night",
+      "date": "2021-04-17",
+      "path": "2021/04/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-april-2021-(sa)/13306152"
+    },
+    {
+      "special": "UK Bands Special",
+      "timeslot": "night",
+      "date": "2021-04-17",
+      "path": "2021/04/17_night_3.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-april-2021-on-abc-1-(sa,-nt)/13305636"
+    },
+    {
+      "special": "UK Bands Special",
+      "timeslot": "night",
+      "date": "2021-04-17",
+      "path": "2021/04/17_night_4.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-april-2021-on-abc-1-(nsw,-vic,-act,-qld,-tas)/13305632"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-04-18",
+      "path": "2021/04/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-18-april-2021-on-abc-1/13305644"
     }
   ]
 }
