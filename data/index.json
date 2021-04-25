@@ -1646,6 +1646,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000331.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-05",
+      "path": "2000/05/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000505.htm"
+    },
+    {
+      "special": "sonicanimation guest program\nfollowed by sonicanimation videos",
+      "timeslot": null,
+      "date": "2000-05-06",
+      "path": "2000/05/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000506.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-12",
+      "path": "2000/05/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000512.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-13",
+      "path": "2000/05/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000513.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-19",
+      "path": "2000/05/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000519.htm"
+    },
+    {
+      "special": "Norman Cook aka. Fatboy Slim special\nincluding videos from Beats International, Pizzaman, Freakpower, The Housemartins & others",
+      "timeslot": null,
+      "date": "2000-05-20",
+      "path": "2000/05/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000520.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-26",
+      "path": "2000/05/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000526.htm"
+    },
+    {
+      "special": "Jeff Buckley, Ben Harper & Red Hot Chili Peppers",
+      "timeslot": null,
+      "date": "2000-05-27",
+      "path": "2000/05/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000527.htm"
+    },
+    {
       "special": "Beth Orton guest programs\nfollowed by Portishead & PJ Harvey videos.",
       "timeslot": null,
       "date": "2000-04-01",
@@ -1707,62 +1763,6 @@
       "date": "2000-04-29",
       "path": "2000/04/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000429.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-05",
-      "path": "2000/05/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000505.htm"
-    },
-    {
-      "special": "sonicanimation guest program\nfollowed by sonicanimation videos",
-      "timeslot": null,
-      "date": "2000-05-06",
-      "path": "2000/05/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000506.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-12",
-      "path": "2000/05/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000512.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-13",
-      "path": "2000/05/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000513.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-19",
-      "path": "2000/05/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000519.htm"
-    },
-    {
-      "special": "Norman Cook aka. Fatboy Slim special\nincluding videos from Beats International, Pizzaman, Freakpower, The Housemartins & others",
-      "timeslot": null,
-      "date": "2000-05-20",
-      "path": "2000/05/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000520.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-26",
-      "path": "2000/05/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000526.htm"
-    },
-    {
-      "special": "Jeff Buckley, Ben Harper & Red Hot Chili Peppers",
-      "timeslot": null,
-      "date": "2000-05-27",
-      "path": "2000/05/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000527.htm"
     },
     {
       "special": null,
@@ -25591,6 +25591,55 @@
       "date": "2021-04-19",
       "path": "2021/04/19_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-19-april-2021-on-abc-1/13308670"
+    },
+    {
+      "special": "Jim Steinman Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2021-04-23",
+      "path": "2021/04/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-23-april-2021-on-abc-1/13315396"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-04-24",
+      "path": "2021/04/24_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-24-april-2021-on-abc-1/13315516"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-04-24",
+      "path": "2021/04/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-april-2021-on-abc-1-(wa)/13315548"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-04-24",
+      "path": "2021/04/24_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-april-2021-on-abc-1-(sa)/13315546"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-04-24",
+      "path": "2021/04/24_night_3.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-april-2021-on-abc-1-(nt)/13315540"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-04-24",
+      "path": "2021/04/24_night_4.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-april-2021-on-abc-1-(nsw,-vic,-act,-qld,-tas)/13315536"
+    },
+    {
+      "special": "Aussie & Kiwi Classics",
+      "timeslot": "night",
+      "date": "2021-04-25",
+      "path": "2021/04/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-25-april-2021-on-abc-1/13315634"
     }
   ]
 }
