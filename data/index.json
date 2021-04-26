@@ -1646,62 +1646,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000331.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-05",
-      "path": "2000/05/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000505.htm"
-    },
-    {
-      "special": "sonicanimation guest program\nfollowed by sonicanimation videos",
-      "timeslot": null,
-      "date": "2000-05-06",
-      "path": "2000/05/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000506.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-12",
-      "path": "2000/05/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000512.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-13",
-      "path": "2000/05/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000513.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-19",
-      "path": "2000/05/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000519.htm"
-    },
-    {
-      "special": "Norman Cook aka. Fatboy Slim special\nincluding videos from Beats International, Pizzaman, Freakpower, The Housemartins & others",
-      "timeslot": null,
-      "date": "2000-05-20",
-      "path": "2000/05/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000520.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-26",
-      "path": "2000/05/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000526.htm"
-    },
-    {
-      "special": "Jeff Buckley, Ben Harper & Red Hot Chili Peppers",
-      "timeslot": null,
-      "date": "2000-05-27",
-      "path": "2000/05/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000527.htm"
-    },
-    {
       "special": "Beth Orton guest programs\nfollowed by Portishead & PJ Harvey videos.",
       "timeslot": null,
       "date": "2000-04-01",
@@ -1763,6 +1707,62 @@
       "date": "2000-04-29",
       "path": "2000/04/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000429.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-05",
+      "path": "2000/05/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000505.htm"
+    },
+    {
+      "special": "sonicanimation guest program\nfollowed by sonicanimation videos",
+      "timeslot": null,
+      "date": "2000-05-06",
+      "path": "2000/05/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000506.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-12",
+      "path": "2000/05/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000512.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-13",
+      "path": "2000/05/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000513.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-19",
+      "path": "2000/05/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000519.htm"
+    },
+    {
+      "special": "Norman Cook aka. Fatboy Slim special\nincluding videos from Beats International, Pizzaman, Freakpower, The Housemartins & others",
+      "timeslot": null,
+      "date": "2000-05-20",
+      "path": "2000/05/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000520.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-26",
+      "path": "2000/05/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000526.htm"
+    },
+    {
+      "special": "Jeff Buckley, Ben Harper & Red Hot Chili Peppers",
+      "timeslot": null,
+      "date": "2000-05-27",
+      "path": "2000/05/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000527.htm"
     },
     {
       "special": null,
@@ -25640,6 +25640,13 @@
       "date": "2021-04-25",
       "path": "2021/04/25_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-25-april-2021-on-abc-1/13315634"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-04-26",
+      "path": "2021/04/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-26-april-2021-on-abc-1/13318130"
     }
   ]
 }
