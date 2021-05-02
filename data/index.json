@@ -25647,6 +25647,34 @@
       "date": "2021-04-26",
       "path": "2021/04/26_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-26-april-2021-on-abc-1/13318130"
+    },
+    {
+      "special": "Les McKeown Tribute, Anita Lane Tribute, Nick Weaver Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2021-04-30",
+      "path": "2021/04/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-april-2021-on-abc-1/13324962"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-05-01",
+      "path": "2021/05/01_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-may-2021-on-abc-1/13324970"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-05-01",
+      "path": "2021/05/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-may-2021-on-abc-1/13324978"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-05-02",
+      "path": "2021/05/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-may-2021-on-abc-1/13324980"
     }
   ]
 }
