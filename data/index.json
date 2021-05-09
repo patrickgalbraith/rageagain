@@ -25682,6 +25682,34 @@
       "date": "2021-05-03",
       "path": "2021/05/03_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-3-may-2021-on-abc-1/13327306"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-05-07",
+      "path": "2021/05/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-may-2020-on-abc-1/13334084"
+    },
+    {
+      "special": "Charts, The VAULT, Best New Music Videos, rage Punk Special",
+      "timeslot": "morning",
+      "date": "2021-05-08",
+      "path": "2021/05/08_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-may-2021-on-abc-1/13334090"
+    },
+    {
+      "special": "rage Punk Special",
+      "timeslot": "night",
+      "date": "2021-05-08",
+      "path": "2021/05/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-may-2021-on-abc-1/13334110"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-05-09",
+      "path": "2021/05/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-9-may-2021-on-abc-1/13334120"
     }
   ]
 }
