@@ -25717,6 +25717,41 @@
       "date": "2021-05-10",
       "path": "2021/05/10_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-10-may-2021-on-abc-1/13337244"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-05-14",
+      "path": "2021/05/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-may-2021-on-abc-1/13344726"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-05-15",
+      "path": "2021/05/15_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-may-2021-on-abc-1/13344738"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-05-15",
+      "path": "2021/05/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-may-2021-on-abc-1/13344742"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-05-16",
+      "path": "2021/05/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-may-2021-on-abc-1/13344746"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-05-17",
+      "path": "2021/05/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-may-2021-on-abc-1/13345282"
     }
   ]
 }
