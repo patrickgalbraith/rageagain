@@ -25822,6 +25822,34 @@
       "date": "2021-06-01",
       "path": "2021/06/01_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-1-june-2021-on-abc-tv/13364168"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-06-04",
+      "path": "2021/06/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-june-2021-on-abc-1/13374254"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-06-05",
+      "path": "2021/06/05_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-june-2021-on-abc-1/13374356"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-06-05",
+      "path": "2021/06/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-june-2021-on-abc-1/13374358"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-06-06",
+      "path": "2021/06/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-june-2021-on-abc-1/13374362"
     }
   ]
 }
