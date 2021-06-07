@@ -25850,6 +25850,20 @@
       "date": "2021-06-06",
       "path": "2021/06/06_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-june-2021-on-abc-1/13374362"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-06-07",
+      "path": "2021/06/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-7-june-2021-on-abc-1-(wa)/13376510"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-06-07",
+      "path": "2021/06/07_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-7-june-2021-on-abc-1/13376456"
     }
   ]
 }
