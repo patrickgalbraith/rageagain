@@ -1583,69 +1583,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000226.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-03-03",
-      "path": "2000/03/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000303.htm"
-    },
-    {
-      "special": "Mardi Gras Dance Music",
-      "timeslot": null,
-      "date": "2000-03-04",
-      "path": "2000/03/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000304.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-03-10",
-      "path": "2000/03/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000310.htm"
-    },
-    {
-      "special": "Gomez guest program\nfollowed by Smashing Pumpkins' videos.",
-      "timeslot": null,
-      "date": "2000-03-11",
-      "path": "2000/03/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000311.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-03-17",
-      "path": "2000/03/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000317.htm"
-    },
-    {
-      "special": "Slipknot guest program\nfollowed by Korn & Limp Bizkit videos.",
-      "timeslot": null,
-      "date": "2000-03-18",
-      "path": "2000/03/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000318.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-03-24",
-      "path": "2000/03/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000324.htm"
-    },
-    {
-      "special": "Apollo 440 guest program\nfollowed by Chemical Brothers videos.",
-      "timeslot": null,
-      "date": "2000-03-25",
-      "path": "2000/03/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000325.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-03-31",
-      "path": "2000/03/31.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000331.htm"
-    },
-    {
       "special": "Beth Orton guest programs\nfollowed by Portishead & PJ Harvey videos.",
       "timeslot": null,
       "date": "2000-04-01",
@@ -1707,6 +1644,69 @@
       "date": "2000-04-29",
       "path": "2000/04/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000429.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-03-03",
+      "path": "2000/03/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000303.htm"
+    },
+    {
+      "special": "Mardi Gras Dance Music",
+      "timeslot": null,
+      "date": "2000-03-04",
+      "path": "2000/03/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000304.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-03-10",
+      "path": "2000/03/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000310.htm"
+    },
+    {
+      "special": "Gomez guest program\nfollowed by Smashing Pumpkins' videos.",
+      "timeslot": null,
+      "date": "2000-03-11",
+      "path": "2000/03/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000311.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-03-17",
+      "path": "2000/03/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000317.htm"
+    },
+    {
+      "special": "Slipknot guest program\nfollowed by Korn & Limp Bizkit videos.",
+      "timeslot": null,
+      "date": "2000-03-18",
+      "path": "2000/03/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000318.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-03-24",
+      "path": "2000/03/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000324.htm"
+    },
+    {
+      "special": "Apollo 440 guest program\nfollowed by Chemical Brothers videos.",
+      "timeslot": null,
+      "date": "2000-03-25",
+      "path": "2000/03/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000325.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-03-31",
+      "path": "2000/03/31.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000331.htm"
     },
     {
       "special": null,
