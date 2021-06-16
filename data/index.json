@@ -1284,6 +1284,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "1999-11-05",
+      "path": "1999/11/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991105.htm"
+    },
+    {
+      "special": "Mercury Rev guest program rage",
+      "timeslot": null,
+      "date": "1999-11-06",
+      "path": "1999/11/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991106.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-12",
+      "path": "1999/11/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991112.htm"
+    },
+    {
+      "special": "Garbage guest program rage",
+      "timeslot": null,
+      "date": "1999-11-13",
+      "path": "1999/11/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991113.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-19",
+      "path": "1999/11/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991119.htm"
+    },
+    {
+      "special": "The Songs Most Chosen by rage Guest Programmers",
+      "timeslot": null,
+      "date": "1999-11-20",
+      "path": "1999/11/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991120.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-26",
+      "path": "1999/11/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991126.htm"
+    },
+    {
+      "special": "repeat of silverchair guest programming rage",
+      "timeslot": null,
+      "date": "1999-11-27",
+      "path": "1999/11/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991127.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "1999-10-01",
       "path": "1999/10/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991001.htm"
@@ -1350,62 +1406,6 @@
       "date": "1999-10-30",
       "path": "1999/10/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991030.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-05",
-      "path": "1999/11/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991105.htm"
-    },
-    {
-      "special": "Mercury Rev guest program rage",
-      "timeslot": null,
-      "date": "1999-11-06",
-      "path": "1999/11/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991106.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-12",
-      "path": "1999/11/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991112.htm"
-    },
-    {
-      "special": "Garbage guest program rage",
-      "timeslot": null,
-      "date": "1999-11-13",
-      "path": "1999/11/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991113.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-19",
-      "path": "1999/11/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991119.htm"
-    },
-    {
-      "special": "The Songs Most Chosen by rage Guest Programmers",
-      "timeslot": null,
-      "date": "1999-11-20",
-      "path": "1999/11/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991120.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-26",
-      "path": "1999/11/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991126.htm"
-    },
-    {
-      "special": "repeat of silverchair guest programming rage",
-      "timeslot": null,
-      "date": "1999-11-27",
-      "path": "1999/11/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991127.htm"
     },
     {
       "special": null,
@@ -1583,69 +1583,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000226.htm"
     },
     {
-      "special": "Beth Orton guest programs\nfollowed by Portishead & PJ Harvey videos.",
-      "timeslot": null,
-      "date": "2000-04-01",
-      "path": "2000/04/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000401.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-04-07",
-      "path": "2000/04/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000407.htm"
-    },
-    {
-      "special": "Ed Kowalczyk from Live guest programs\nfollowed by Live & Nirvana videos",
-      "timeslot": null,
-      "date": "2000-04-08",
-      "path": "2000/04/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000408.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-04-14",
-      "path": "2000/04/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000414.htm"
-    },
-    {
-      "special": "Area-7 guest program\nfollowed by Area-7 videos",
-      "timeslot": null,
-      "date": "2000-04-15",
-      "path": "2000/04/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000415.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-04-21",
-      "path": "2000/04/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000421.htm"
-    },
-    {
-      "special": "rage features BLUR, RADIOHEAD, PULP, SUEDE, GOMEZ, TRAVIS, OASIS, SUPERGRASS, ASH and others",
-      "timeslot": null,
-      "date": "2000-04-22",
-      "path": "2000/04/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000422.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-04-28",
-      "path": "2000/04/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000428.htm"
-    },
-    {
-      "special": "Sugar Ray guest program\nplus Sugar Ray's videos",
-      "timeslot": null,
-      "date": "2000-04-29",
-      "path": "2000/04/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000429.htm"
-    },
-    {
       "special": null,
       "timeslot": null,
       "date": "2000-03-03",
@@ -1707,6 +1644,69 @@
       "date": "2000-03-31",
       "path": "2000/03/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000331.htm"
+    },
+    {
+      "special": "Beth Orton guest programs\nfollowed by Portishead & PJ Harvey videos.",
+      "timeslot": null,
+      "date": "2000-04-01",
+      "path": "2000/04/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000401.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-04-07",
+      "path": "2000/04/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000407.htm"
+    },
+    {
+      "special": "Ed Kowalczyk from Live guest programs\nfollowed by Live & Nirvana videos",
+      "timeslot": null,
+      "date": "2000-04-08",
+      "path": "2000/04/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000408.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-04-14",
+      "path": "2000/04/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000414.htm"
+    },
+    {
+      "special": "Area-7 guest program\nfollowed by Area-7 videos",
+      "timeslot": null,
+      "date": "2000-04-15",
+      "path": "2000/04/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000415.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-04-21",
+      "path": "2000/04/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000421.htm"
+    },
+    {
+      "special": "rage features BLUR, RADIOHEAD, PULP, SUEDE, GOMEZ, TRAVIS, OASIS, SUPERGRASS, ASH and others",
+      "timeslot": null,
+      "date": "2000-04-22",
+      "path": "2000/04/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000422.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-04-28",
+      "path": "2000/04/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000428.htm"
+    },
+    {
+      "special": "Sugar Ray guest program\nplus Sugar Ray's videos",
+      "timeslot": null,
+      "date": "2000-04-29",
+      "path": "2000/04/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000429.htm"
     },
     {
       "special": null,
