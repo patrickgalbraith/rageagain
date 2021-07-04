@@ -12799,83 +12799,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2013-09-06",
-      "path": "2013/09/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3842783.htm"
-    },
-    {
-      "special": "MS MR",
-      "timeslot": "morning",
-      "date": "2013-09-07",
-      "path": "2013/09/07_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3843067.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-09-08",
-      "path": "2013/09/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3843072.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-09-13",
-      "path": "2013/09/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3848334.htm"
-    },
-    {
-      "special": "Cosmic Psychos",
-      "timeslot": "morning",
-      "date": "2013-09-14",
-      "path": "2013/09/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3848392.htm"
-    },
-    {
-      "special": "Cosmic Psychos",
-      "timeslot": "night",
-      "date": "2013-09-14",
-      "path": "2013/09/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3848389.htm"
-    },
-    {
-      "special": "Of Monsters And Men",
-      "timeslot": "morning",
-      "date": "2013-09-21",
-      "path": "2013/09/21_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3853247.htm"
-    },
-    {
-      "special": "Of Monsters And Men",
-      "timeslot": "night",
-      "date": "2013-09-21",
-      "path": "2013/09/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3853241.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-09-27",
-      "path": "2013/09/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3857900.htm"
-    },
-    {
-      "special": "Vault Special",
-      "timeslot": "morning",
-      "date": "2013-09-28",
-      "path": "2013/09/28_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3857988.htm"
-    },
-    {
-      "special": "Vault Special",
-      "timeslot": "night",
-      "date": "2013-09-28",
-      "path": "2013/09/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3857979.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2013-08-02",
       "path": "2013/08/02_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3816887.htm"
@@ -12977,6 +12900,83 @@
       "date": "2013-08-31",
       "path": "2013/08/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3837927.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-09-06",
+      "path": "2013/09/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3842783.htm"
+    },
+    {
+      "special": "MS MR",
+      "timeslot": "morning",
+      "date": "2013-09-07",
+      "path": "2013/09/07_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3843067.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-09-08",
+      "path": "2013/09/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3843072.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-09-13",
+      "path": "2013/09/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3848334.htm"
+    },
+    {
+      "special": "Cosmic Psychos",
+      "timeslot": "morning",
+      "date": "2013-09-14",
+      "path": "2013/09/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3848392.htm"
+    },
+    {
+      "special": "Cosmic Psychos",
+      "timeslot": "night",
+      "date": "2013-09-14",
+      "path": "2013/09/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3848389.htm"
+    },
+    {
+      "special": "Of Monsters And Men",
+      "timeslot": "morning",
+      "date": "2013-09-21",
+      "path": "2013/09/21_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3853247.htm"
+    },
+    {
+      "special": "Of Monsters And Men",
+      "timeslot": "night",
+      "date": "2013-09-21",
+      "path": "2013/09/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3853241.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-09-27",
+      "path": "2013/09/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3857900.htm"
+    },
+    {
+      "special": "Vault Special",
+      "timeslot": "morning",
+      "date": "2013-09-28",
+      "path": "2013/09/28_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3857988.htm"
+    },
+    {
+      "special": "Vault Special",
+      "timeslot": "night",
+      "date": "2013-09-28",
+      "path": "2013/09/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3857979.htm"
     },
     {
       "special": null,
@@ -25969,6 +25969,34 @@
       "date": "2021-06-28",
       "path": "2021/06/28_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-28-june-2021-on-abc-1/13421922"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-07-02",
+      "path": "2021/07/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-2-july-2021-on-abc-1/13429622"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-07-03",
+      "path": "2021/07/03_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-morning-4-july-2021-on-abc-1/13429788"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-07-03",
+      "path": "2021/07/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-july-3-2021-on-abc-1/13429632"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-07-04",
+      "path": "2021/07/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-4-july-2021-on-abc-1/13429668"
     }
   ]
 }
