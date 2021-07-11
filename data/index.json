@@ -26004,6 +26004,34 @@
       "date": "2021-07-04",
       "path": "2021/07/04_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-july-4-2021-on-abc1/13431738"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-07-09",
+      "path": "2021/07/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-july-9-2021-on-abc-1/13438914"
+    },
+    {
+      "special": "Charts, The VAULT, Best New Music Videos, NAIDOC Week Special",
+      "timeslot": "morning",
+      "date": "2021-07-10",
+      "path": "2021/07/10_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-july-10-2021-on-abc-1/13438924"
+    },
+    {
+      "special": "NAIDOC Week Special",
+      "timeslot": "night",
+      "date": "2021-07-10",
+      "path": "2021/07/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-july-10-2021-on-abc-1/13438926"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-07-11",
+      "path": "2021/07/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-morning-11-july-2021-on-abc-1/13438928"
     }
   ]
 }
