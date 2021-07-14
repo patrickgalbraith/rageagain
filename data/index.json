@@ -12715,90 +12715,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2013-07-05",
-      "path": "2013/07/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3796794.htm"
-    },
-    {
-      "special": "Bliss N Eso",
-      "timeslot": "morning",
-      "date": "2013-07-06",
-      "path": "2013/07/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3796804.htm"
-    },
-    {
-      "special": "Bliss N Eso",
-      "timeslot": "night",
-      "date": "2013-07-06",
-      "path": "2013/07/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3796034.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-12",
-      "path": "2013/07/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3801814.htm"
-    },
-    {
-      "special": "Wayne Blair guest programs rage",
-      "timeslot": "morning",
-      "date": "2013-07-13",
-      "path": "2013/07/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3801816.htm"
-    },
-    {
-      "special": "Wayne Blair guest programs rage",
-      "timeslot": "night",
-      "date": "2013-07-13",
-      "path": "2013/07/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3802092.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-19",
-      "path": "2013/07/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3806657.htm"
-    },
-    {
-      "special": "Bill Oddie from The Goodies",
-      "timeslot": "morning",
-      "date": "2013-07-20",
-      "path": "2013/07/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3806662.htm"
-    },
-    {
-      "special": "Bill Oddie from The Goodies",
-      "timeslot": "night",
-      "date": "2013-07-20",
-      "path": "2013/07/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3806826.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-07-26",
-      "path": "2013/07/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3811796.htm"
-    },
-    {
-      "special": "Special : Fifty Shades Of rage.",
-      "timeslot": "morning",
-      "date": "2013-07-27",
-      "path": "2013/07/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3811798.htm"
-    },
-    {
-      "special": "Special : Fifty Shades Of rage.",
-      "timeslot": "night",
-      "date": "2013-07-27",
-      "path": "2013/07/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3812040.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2013-08-02",
       "path": "2013/08/02_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3816887.htm"
@@ -12900,6 +12816,90 @@
       "date": "2013-08-31",
       "path": "2013/08/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3837927.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-05",
+      "path": "2013/07/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3796794.htm"
+    },
+    {
+      "special": "Bliss N Eso",
+      "timeslot": "morning",
+      "date": "2013-07-06",
+      "path": "2013/07/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3796804.htm"
+    },
+    {
+      "special": "Bliss N Eso",
+      "timeslot": "night",
+      "date": "2013-07-06",
+      "path": "2013/07/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3796034.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-12",
+      "path": "2013/07/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3801814.htm"
+    },
+    {
+      "special": "Wayne Blair guest programs rage",
+      "timeslot": "morning",
+      "date": "2013-07-13",
+      "path": "2013/07/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3801816.htm"
+    },
+    {
+      "special": "Wayne Blair guest programs rage",
+      "timeslot": "night",
+      "date": "2013-07-13",
+      "path": "2013/07/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3802092.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-19",
+      "path": "2013/07/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3806657.htm"
+    },
+    {
+      "special": "Bill Oddie from The Goodies",
+      "timeslot": "morning",
+      "date": "2013-07-20",
+      "path": "2013/07/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3806662.htm"
+    },
+    {
+      "special": "Bill Oddie from The Goodies",
+      "timeslot": "night",
+      "date": "2013-07-20",
+      "path": "2013/07/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3806826.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-07-26",
+      "path": "2013/07/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3811796.htm"
+    },
+    {
+      "special": "Special : Fifty Shades Of rage.",
+      "timeslot": "morning",
+      "date": "2013-07-27",
+      "path": "2013/07/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3811798.htm"
+    },
+    {
+      "special": "Special : Fifty Shades Of rage.",
+      "timeslot": "night",
+      "date": "2013-07-27",
+      "path": "2013/07/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3812040.htm"
     },
     {
       "special": null,
