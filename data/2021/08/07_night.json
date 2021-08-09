@@ -1,0 +1,663 @@
+{
+  "title": "Saturday night 7 August 2021 on ABC 1",
+  "special": null,
+  "timeslot": "night",
+  "date": "2021-08-07",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-7-august-2021-on-abc-1/13487594",
+  "tracks": [
+    {
+      "artist": "SOUTHEAST DESERT METAL",
+      "song": "Desert Metal",
+      "label": "The Black Wreath",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "BLACK LABEL SOCIETY",
+      "song": "In This River",
+      "label": "Riot",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "NOKTURNL",
+      "song": "Neva Mend",
+      "label": "Fest/Mush",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "TWISTED SISTER",
+      "song": "I Wanna Rock",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "Fool For Your Loving",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ALICE COOPER",
+      "song": "Poison",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Killing In The Name",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Whiskey In The Jar",
+      "label": "Mercury",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "Mouth For War",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Painkiller",
+      "label": "CBS",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DIO",
+      "song": "Holy Diver",
+      "label": "Mercury",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DOKKEN",
+      "song": "Mirror Mirror",
+      "label": "Geffen",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "JOE SATRIANI",
+      "song": "Surfing With The Alien",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "ROXUS",
+      "song": "Where Are You Now",
+      "label": "Fest/Mush",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "WHITE LION",
+      "song": "Wait",
+      "label": "Atlantic",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Sweating Bullets",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Number Of The Beast",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "The Trooper",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ADRENALINE MOB",
+      "song": "Indifferent",
+      "label": "Century Media Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "MIAZMA",
+      "song": "North",
+      "label": "The Black Wreath",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "HAMMERFALL",
+      "song": "Last Man Standing",
+      "label": "Riot",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "Sweet Child O' Mine",
+      "label": "BMG",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "POISON",
+      "song": "Every Rose Has Its Thorn",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EUROPE",
+      "song": "Open Your Heart",
+      "label": "Epic",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FIVE FINGER DEATH PUNCH",
+      "song": "Bad Company",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DROWNING POOL",
+      "song": "Bodies",
+      "label": "Sony",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BLACK LABEL SOCIETY",
+      "song": "Stillborn",
+      "label": "Riot",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "HEAVEN THE AXE",
+      "song": "Good Things Come To Those Who Hate",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "EXDEMISSION",
+      "song": "Third World War (1984)",
+      "label": "The Black Wreath",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ANTHRAX & PUBLIC ENEMY",
+      "song": "Bring Tha Noise",
+      "label": "Polydor",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Crazy Train",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ROSE TATTOO",
+      "song": "We Can't Be Beaten",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ICED EARTH",
+      "song": "Anthem",
+      "label": "Riot",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "Make Me Bad",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE HORROR",
+      "song": "Mutilated Memories",
+      "label": "The Black Wreath",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Before I Forget",
+      "label": "Roadrunner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Wait & Bleed",
+      "label": "Roadrunner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LIMP BIZKIT",
+      "song": "Rollin'",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "YOTHU YINDI",
+      "song": "Treaty",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "WARUMPI BAND",
+      "song": "Waru (Fire)",
+      "label": "CAAMA",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ALANNAH MYLES",
+      "song": "Black Velvet",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DRAGON",
+      "song": "Rain",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LIVING COLOUR",
+      "song": "Cult Of Personality",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PANTERA",
+      "song": "Walk",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "VELVET REVOLVER",
+      "song": "Slither",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THUNDERSTONE",
+      "song": "Tool Of The Devil",
+      "label": "Riot",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "SKID ROW",
+      "song": "I Remember You",
+      "label": "Atlantic",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WHITESNAKE",
+      "song": "The Deeper The Love",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "WINGER",
+      "song": "Miles Away",
+      "label": "Atlantic",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BLACK SABBATH",
+      "song": "Feels Good To Me",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Forever",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CULT",
+      "song": "Sweet Soul Sister",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MANOWAR - LIVE",
+      "song": "Metal Warriors",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HELLOWEEN",
+      "song": "As Long As I Fall",
+      "label": "Riot",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "NIGHTWISH",
+      "song": "I Wish I Had An Angel",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Long Long Way To Go",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE POLICE",
+      "song": "Every Breath You Take",
+      "label": "Polydor",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Blue Sky Mine",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOUTHEAST DESERT METAL",
+      "song": "Eagle",
+      "label": "The Black Wreath",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOUTHEAST DESERT METAL",
+      "song": "Rainmaker",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SOUTHEAST DESERT METAL",
+      "song": "Break The Silence",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THY ART IS MURDER",
+      "song": "Make America Hate Again",
+      "label": "Unified",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THY ART IS MURDER",
+      "song": "Human Target",
+      "label": "Human Warfare",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THY ART IS MURDER",
+      "song": "Holy War",
+      "label": "UNFD",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "THY ART IS MURDER",
+      "song": "Shadow Of Eternal Sin",
+      "label": "Nuclear Blast",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PSYCROPTIC",
+      "song": "Cold",
+      "label": "EVP",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PSYCROPTIC",
+      "song": "Echoes To Come",
+      "label": "EVP",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PSYCROPTIC",
+      "song": "Initiate",
+      "label": "Stomp",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLOWNS",
+      "song": "Does It Matter",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLOWNS",
+      "song": "Destroy The Evidence",
+      "label": "Poison City",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLOWNS",
+      "song": "Soul For Sale",
+      "label": "Fat Wreck Chords",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "CLOWNS",
+      "song": "Destroy The Evidence",
+      "label": "Poison City",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Security",
+      "label": "B2B Records / Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Guided By Angels",
+      "label": "B2B Records / Virgin",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Some Mutts (Can't Be Muzzled)",
+      "label": "Flightless",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Got You",
+      "label": "Flightless",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LO!",
+      "song": "Gods Of Ruin",
+      "label": "Pelagic Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DIPLOID",
+      "song": "Corrections",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BLACK RHENO",
+      "song": "Battle Ready",
+      "label": "Dead Set Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "DEFTONES",
+      "song": "Minerva",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GARY NUMAN",
+      "song": "My Name Is Ruin",
+      "label": "BMG",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Scar Tissue",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "THE CARDIGANS",
+      "song": "My Favourite Game",
+      "label": "Polydor",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "M.I.A.",
+      "song": "Bad Girls",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Dirty Harry",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "2 PAC ft. DR DRE",
+      "song": "California Love",
+      "label": "Mercury",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MADONNA",
+      "song": "Frozen",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MIDNIGHT OIL",
+      "song": "Beds Are Burning",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "MEN AT WORK",
+      "song": "Downunder",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SHAKIRA",
+      "song": "Whenever, Wherever",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SPICE GIRLS",
+      "song": "Say You'll Be There",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "S CLUB 7",
+      "song": "S Club Party",
+      "label": "Universal (MCA)",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SHANIA TWAIN",
+      "song": "That Don't Impress Me Much",
+      "label": "Mercury",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "POP SMOKE ft. DUA LIPA",
+      "song": "Demeanor (censored version)",
+      "label": "Republic Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CAMILA CABELLO",
+      "song": "Don't Go Yet",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TESHER & JASON DERULO",
+      "song": "Jalebi Baby (censored version)",
+      "label": "Capitol",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "ANNE-MARIE & LITTLE MIX",
+      "song": "Kiss My (Uh Oh)",
+      "label": "Major Toms / Asylum Records / Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "TOPIC & BEBE REXHA",
+      "song": "Chain My Heart",
+      "label": "CSR / UMA",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "VANCE JOY",
+      "song": "Missing Piece",
+      "label": "Liberation",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MASKED WOLF",
+      "song": "Astronaut In The Ocean",
+      "label": "Elektra",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WEEKND, THE ft. ARIANA GRANDE",
+      "song": "Save Your Tears",
+      "label": "Universal",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DUA LIPA ft. MADONNA & MISSY ELLIOTT",
+      "song": "Levitating",
+      "label": "Warner",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "Heat Waves",
+      "label": "Universal",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LIL NAS X ft. JACK HARLOW",
+      "song": "Industry Baby (censored version)",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DOJA CAT ft. SZA",
+      "song": "Kiss Me More (censored version)",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "OLIVIA RODRIGO",
+      "song": "Good 4 U (censored version)",
+      "label": "Interscope Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ED SHEERAN",
+      "song": "Bad Habits",
+      "label": "Asylum",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "BILLIE EILISH",
+      "song": "Happier Than Ever (censored version)",
+      "label": "Darkroom/Interscope Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "THE KID LAROI & JUSTIN BIEBER",
+      "song": "Stay (censored version)",
+      "label": "Columbia",
+      "timeslot": "06:30:00"
+    }
+  ]
+}
