@@ -26179,6 +26179,34 @@
       "date": "2021-08-09",
       "path": "2021/08/09_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-9-august-2021-on-abc-1/13488632"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-08-13",
+      "path": "2021/08/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-august-2021-on-abc-1/13496246"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-08-14",
+      "path": "2021/08/14_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-august-2021-on-abc-1/13496248"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-08-14",
+      "path": "2021/08/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-august-2021-on-abc-1/13496250"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-08-15",
+      "path": "2021/08/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-august-2021-on-abc-1/13496252"
     }
   ]
 }
