@@ -3041,69 +3041,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2002-04-05",
-      "path": "2002/04/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020405.htm"
-    },
-    {
-      "special": "Incubus guest program",
-      "timeslot": null,
-      "date": "2002-04-06",
-      "path": "2002/04/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020406.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-04-12",
-      "path": "2002/04/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020412.htm"
-    },
-    {
-      "special": "George guest program",
-      "timeslot": null,
-      "date": "2002-04-13",
-      "path": "2002/04/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020413.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2002-04-18",
-      "path": "2002/04/18_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-april-2002-on-abc-1/12158496"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-04-19",
-      "path": "2002/04/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020419.htm"
-    },
-    {
-      "special": "They Might Be Giants guest program",
-      "timeslot": null,
-      "date": "2002-04-20",
-      "path": "2002/04/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020420.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2002-04-26",
-      "path": "2002/04/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020426.htm"
-    },
-    {
-      "special": "Jurassic 5 guest program",
-      "timeslot": null,
-      "date": "2002-04-27",
-      "path": "2002/04/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020427.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2002-03-01",
       "path": "2002/03/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020301.htm"
@@ -3170,6 +3107,69 @@
       "date": "2002-03-30",
       "path": "2002/03/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020330.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-04-05",
+      "path": "2002/04/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020405.htm"
+    },
+    {
+      "special": "Incubus guest program",
+      "timeslot": null,
+      "date": "2002-04-06",
+      "path": "2002/04/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020406.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-04-12",
+      "path": "2002/04/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020412.htm"
+    },
+    {
+      "special": "George guest program",
+      "timeslot": null,
+      "date": "2002-04-13",
+      "path": "2002/04/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020413.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2002-04-18",
+      "path": "2002/04/18_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-april-2002-on-abc-1/12158496"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-04-19",
+      "path": "2002/04/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020419.htm"
+    },
+    {
+      "special": "They Might Be Giants guest program",
+      "timeslot": null,
+      "date": "2002-04-20",
+      "path": "2002/04/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020420.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2002-04-26",
+      "path": "2002/04/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020426.htm"
+    },
+    {
+      "special": "Jurassic 5 guest program",
+      "timeslot": null,
+      "date": "2002-04-27",
+      "path": "2002/04/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2002/20020427.htm"
     },
     {
       "special": null,
