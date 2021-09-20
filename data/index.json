@@ -21456,6 +21456,251 @@
       "url": "https://www.abc.net.au/rage/playlist/tuesday-night-29-january-2019-on-abc/10751516"
     },
     {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-01",
+      "path": "2019/02/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-1-february-2019-on-abc/10770550"
+    },
+    {
+      "special": "Charts, Parcels on Rage, Best of triple j and Double J Hottest 100 of 1998",
+      "timeslot": "morning",
+      "date": "2019-02-02",
+      "path": "2019/02/02_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-february-2019-on-abc/10770694"
+    },
+    {
+      "special": "triple j Hottest 100, Parcels on Rage, New Music",
+      "timeslot": "night",
+      "date": "2019-02-02",
+      "path": "2019/02/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-february-2019-on-abc/10770814"
+    },
+    {
+      "special": "Parcels on Rage",
+      "timeslot": "night",
+      "date": "2019-02-03",
+      "path": "2019/02/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3-february-2019-on-abc/10770840"
+    },
+    {
+      "special": "Rage goes to Laneway Festival, New Music, Skegss on Rage, New Music, Richard In Your Mind on Rage",
+      "timeslot": "night",
+      "date": "2019-02-08",
+      "path": "2019/02/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-february-2019-on-abc/10793928"
+    },
+    {
+      "special": "New Music, Parcels on Rage",
+      "timeslot": "night",
+      "date": "2019-02-08",
+      "path": "2019/02/08_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-8-february-2019-on-abc/10793876"
+    },
+    {
+      "special": "Charts, Richard In Your Mind on Rage, Rage goes to Laneway Festival Special",
+      "timeslot": "morning",
+      "date": "2019-02-09",
+      "path": "2019/02/09_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-february-2019-on-abc/10793900"
+    },
+    {
+      "special": "Richard In Your Mind on Rage, a tiny bit of New Music",
+      "timeslot": "night",
+      "date": "2019-02-10",
+      "path": "2019/02/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10-february-2019-on-rage/10793984"
+    },
+    {
+      "special": "The Vault - 1999",
+      "timeslot": "night",
+      "date": "2019-02-11",
+      "path": "2019/02/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-february-2019-on-abc/10794010"
+    },
+    {
+      "special": "Rage goes to Laneway (Repeat)",
+      "timeslot": "night",
+      "date": "2019-02-12",
+      "path": "2019/02/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-12-february-2019-on-abc/10794046"
+    },
+    {
+      "special": "Richard In Your Mind on Rage, New Music",
+      "timeslot": null,
+      "date": "2019-02-13",
+      "path": "2019/02/13.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-13-february-2019-on-abc-me/10799554"
+    },
+    {
+      "special": "Richard In Your Mind, New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-13",
+      "path": "2019/02/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-13-february-2019-on-abc/10799492"
+    },
+    {
+      "special": "Rage goes to Laneway Festival (repeat)",
+      "timeslot": "night",
+      "date": "2019-02-14",
+      "path": "2019/02/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-14-february-2019-on-abc-me/10799558"
+    },
+    {
+      "special": "New Music, Rage goes to Laneway Festival (Repeat)",
+      "timeslot": "night",
+      "date": "2019-02-15",
+      "path": "2019/02/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-february-2019-on-abc/10816574"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2019-02-16",
+      "path": "2019/02/16_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16-february-2019-on-abc/10816608"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2019-02-16",
+      "path": "2019/02/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-february-2019-on-abc/10816664"
+    },
+    {
+      "special": "Dear Seattle on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-17",
+      "path": "2019/02/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-february-2019-on-abc/10816796"
+    },
+    {
+      "special": "Rage Goes To Laneway Festival (Repeat)",
+      "timeslot": "night",
+      "date": "2019-02-18",
+      "path": "2019/02/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-february-2019-on-abc-me/10822704"
+    },
+    {
+      "special": "The VAULT: Oz Pop and Rock 1990",
+      "timeslot": "night",
+      "date": "2019-02-18",
+      "path": "2019/02/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-february-2019-on-abc/10822682"
+    },
+    {
+      "special": "Rage Goes To Laneway Festival (Repeat)",
+      "timeslot": "night",
+      "date": "2019-02-19",
+      "path": "2019/02/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-19-february-2019-on-abc-me/10822802"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2019-02-19",
+      "path": "2019/02/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-19-february-2019-on-abc/10822786"
+    },
+    {
+      "special": "Dear Seattle on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-20",
+      "path": "2019/02/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-20-february-2019-on-abc-me/10822830"
+    },
+    {
+      "special": "Dear Seattle on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-20",
+      "path": "2019/02/20_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-20-february-2019-on-abc/10822812"
+    },
+    {
+      "special": "Methyl Ethel On Rage (repeat)",
+      "timeslot": "night",
+      "date": "2019-02-21",
+      "path": "2019/02/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-21-february-2019-on-abc-me/10822858"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-22",
+      "path": "2019/02/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-february-2019-on-abc/10839172"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2019-02-23",
+      "path": "2019/02/23_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23-february-2019-on-abc/10839184"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2019-02-23",
+      "path": "2019/02/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-february-2019-on-abc/10839208"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-24",
+      "path": "2019/02/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-february-2019-on-abc-me/10839282"
+    },
+    {
+      "special": "Bene on Rage, New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-24",
+      "path": "2019/02/24_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-february-2019-on-abc/10839278"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-25",
+      "path": "2019/02/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-25-february-2019-on-abc/10848042"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-26",
+      "path": "2019/02/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-26-february-2019-on-abc-me/10848052"
+    },
+    {
+      "special": "BENE on Rage (repeat)",
+      "timeslot": null,
+      "date": "2019-02-27",
+      "path": "2019/02/27.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-27-february-2019-on-abc-me/10848078"
+    },
+    {
+      "special": "BENE on Rage (repeat)",
+      "timeslot": null,
+      "date": "2019-02-27",
+      "path": "2019/02/27_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-27-february-2019-on-abc/10848060"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2019-02-28",
+      "path": "2019/02/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-28-february-2019-on-abc-me/10848094"
+    },
+    {
+      "special": "BENE on Rage (repeat), New Music Videos",
+      "timeslot": "night",
+      "date": "2019-02-28",
+      "path": "2019/02/28_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-28-february-2019-on-abc/10848086"
+    },
+    {
       "special": "Mark Hollis/Talk Talk tribute, New Music Videos",
       "timeslot": "night",
       "date": "2019-03-01",
@@ -21979,251 +22224,6 @@
       "date": "2019-04-29",
       "path": "2019/04/29_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-29-april-2019-on-abc/11055244"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-01",
-      "path": "2019/02/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-1-february-2019-on-abc/10770550"
-    },
-    {
-      "special": "Charts, Parcels on Rage, Best of triple j and Double J Hottest 100 of 1998",
-      "timeslot": "morning",
-      "date": "2019-02-02",
-      "path": "2019/02/02_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-february-2019-on-abc/10770694"
-    },
-    {
-      "special": "triple j Hottest 100, Parcels on Rage, New Music",
-      "timeslot": "night",
-      "date": "2019-02-02",
-      "path": "2019/02/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-february-2019-on-abc/10770814"
-    },
-    {
-      "special": "Parcels on Rage",
-      "timeslot": "night",
-      "date": "2019-02-03",
-      "path": "2019/02/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3-february-2019-on-abc/10770840"
-    },
-    {
-      "special": "Rage goes to Laneway Festival, New Music, Skegss on Rage, New Music, Richard In Your Mind on Rage",
-      "timeslot": "night",
-      "date": "2019-02-08",
-      "path": "2019/02/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-february-2019-on-abc/10793928"
-    },
-    {
-      "special": "New Music, Parcels on Rage",
-      "timeslot": "night",
-      "date": "2019-02-08",
-      "path": "2019/02/08_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-8-february-2019-on-abc/10793876"
-    },
-    {
-      "special": "Charts, Richard In Your Mind on Rage, Rage goes to Laneway Festival Special",
-      "timeslot": "morning",
-      "date": "2019-02-09",
-      "path": "2019/02/09_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-february-2019-on-abc/10793900"
-    },
-    {
-      "special": "Richard In Your Mind on Rage, a tiny bit of New Music",
-      "timeslot": "night",
-      "date": "2019-02-10",
-      "path": "2019/02/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-10-february-2019-on-rage/10793984"
-    },
-    {
-      "special": "The Vault - 1999",
-      "timeslot": "night",
-      "date": "2019-02-11",
-      "path": "2019/02/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-february-2019-on-abc/10794010"
-    },
-    {
-      "special": "Rage goes to Laneway (Repeat)",
-      "timeslot": "night",
-      "date": "2019-02-12",
-      "path": "2019/02/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-12-february-2019-on-abc/10794046"
-    },
-    {
-      "special": "Richard In Your Mind on Rage, New Music",
-      "timeslot": null,
-      "date": "2019-02-13",
-      "path": "2019/02/13.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-13-february-2019-on-abc-me/10799554"
-    },
-    {
-      "special": "Richard In Your Mind, New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-13",
-      "path": "2019/02/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-13-february-2019-on-abc/10799492"
-    },
-    {
-      "special": "Rage goes to Laneway Festival (repeat)",
-      "timeslot": "night",
-      "date": "2019-02-14",
-      "path": "2019/02/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-14-february-2019-on-abc-me/10799558"
-    },
-    {
-      "special": "New Music, Rage goes to Laneway Festival (Repeat)",
-      "timeslot": "night",
-      "date": "2019-02-15",
-      "path": "2019/02/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-february-2019-on-abc/10816574"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2019-02-16",
-      "path": "2019/02/16_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16-february-2019-on-abc/10816608"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2019-02-16",
-      "path": "2019/02/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-february-2019-on-abc/10816664"
-    },
-    {
-      "special": "Dear Seattle on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-17",
-      "path": "2019/02/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-february-2019-on-abc/10816796"
-    },
-    {
-      "special": "Rage Goes To Laneway Festival (Repeat)",
-      "timeslot": "night",
-      "date": "2019-02-18",
-      "path": "2019/02/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-february-2019-on-abc-me/10822704"
-    },
-    {
-      "special": "The VAULT: Oz Pop and Rock 1990",
-      "timeslot": "night",
-      "date": "2019-02-18",
-      "path": "2019/02/18_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-18-february-2019-on-abc/10822682"
-    },
-    {
-      "special": "Rage Goes To Laneway Festival (Repeat)",
-      "timeslot": "night",
-      "date": "2019-02-19",
-      "path": "2019/02/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-19-february-2019-on-abc-me/10822802"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2019-02-19",
-      "path": "2019/02/19_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-19-february-2019-on-abc/10822786"
-    },
-    {
-      "special": "Dear Seattle on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-20",
-      "path": "2019/02/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-20-february-2019-on-abc-me/10822830"
-    },
-    {
-      "special": "Dear Seattle on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-20",
-      "path": "2019/02/20_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-20-february-2019-on-abc/10822812"
-    },
-    {
-      "special": "Methyl Ethel On Rage (repeat)",
-      "timeslot": "night",
-      "date": "2019-02-21",
-      "path": "2019/02/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-21-february-2019-on-abc-me/10822858"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-22",
-      "path": "2019/02/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-february-2019-on-abc/10839172"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2019-02-23",
-      "path": "2019/02/23_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23-february-2019-on-abc/10839184"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2019-02-23",
-      "path": "2019/02/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-february-2019-on-abc/10839208"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-24",
-      "path": "2019/02/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-february-2019-on-abc-me/10839282"
-    },
-    {
-      "special": "Bene on Rage, New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-24",
-      "path": "2019/02/24_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-february-2019-on-abc/10839278"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-25",
-      "path": "2019/02/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-25-february-2019-on-abc/10848042"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-26",
-      "path": "2019/02/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-26-february-2019-on-abc-me/10848052"
-    },
-    {
-      "special": "BENE on Rage (repeat)",
-      "timeslot": null,
-      "date": "2019-02-27",
-      "path": "2019/02/27.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-27-february-2019-on-abc-me/10848078"
-    },
-    {
-      "special": "BENE on Rage (repeat)",
-      "timeslot": null,
-      "date": "2019-02-27",
-      "path": "2019/02/27_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-27-february-2019-on-abc/10848060"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2019-02-28",
-      "path": "2019/02/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-28-february-2019-on-abc-me/10848094"
-    },
-    {
-      "special": "BENE on Rage (repeat), New Music Videos",
-      "timeslot": "night",
-      "date": "2019-02-28",
-      "path": "2019/02/28_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-28-february-2019-on-abc/10848086"
     },
     {
       "special": "New Music Videos",
@@ -26382,6 +26382,13 @@
       "date": "2021-09-19",
       "path": "2021/09/19_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-september-2021-on-abc-1/13546502"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-09-20",
+      "path": "2021/09/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-20-september-2021-on-abc-1/13546504"
     }
   ]
 }
