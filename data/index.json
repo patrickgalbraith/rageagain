@@ -26389,6 +26389,34 @@
       "date": "2021-09-20",
       "path": "2021/09/20_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-20-september-2021-on-abc-1/13546504"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-09-24",
+      "path": "2021/09/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-september-2021-on-abc-1/13556994"
+    },
+    {
+      "special": "The Charts, The VAULT, Best New Music Videos, Double J's 50 Best Debut Singles special",
+      "timeslot": "morning",
+      "date": "2021-09-25",
+      "path": "2021/09/25_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-25-september-2021-on-abc-1/13557002"
+    },
+    {
+      "special": "Double J's 50 Best Debut Singles special",
+      "timeslot": "night",
+      "date": "2021-09-25",
+      "path": "2021/09/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-september-2021-on-abc-1/13556998"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-09-26",
+      "path": "2021/09/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-26-september-2021-on-abc-1/13557004"
     }
   ]
 }
