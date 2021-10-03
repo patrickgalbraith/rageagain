@@ -14346,90 +14346,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2015-02-06",
-      "path": "2015/02/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4175610.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2015-02-07",
-      "path": "2015/02/07_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4175616.htm"
-    },
-    {
-      "special": "The Meanies",
-      "timeslot": "night",
-      "date": "2015-02-07",
-      "path": "2015/02/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4175620.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2015-02-13",
-      "path": "2015/02/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4179777.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2015-02-14",
-      "path": "2015/02/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4179801.htm"
-    },
-    {
-      "special": "This Week's Lists",
-      "timeslot": "night",
-      "date": "2015-02-14",
-      "path": "2015/02/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4179778.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2015-02-20",
-      "path": "2015/02/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4183968.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2015-02-21",
-      "path": "2015/02/21_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4183983.htm"
-    },
-    {
-      "special": "This Week's Lists",
-      "timeslot": "night",
-      "date": "2015-02-21",
-      "path": "2015/02/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4183970.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2015-02-27",
-      "path": "2015/02/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4188460.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2015-02-28",
-      "path": "2015/02/28_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4188470.htm"
-    },
-    {
-      "special": "Neneh Cherry",
-      "timeslot": "night",
-      "date": "2015-02-28",
-      "path": "2015/02/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4188476.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2015-01-02",
       "path": "2015/01/02_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4156923.htm"
@@ -14531,6 +14447,90 @@
       "date": "2015-01-31",
       "path": "2015/01/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4171428.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2015-02-06",
+      "path": "2015/02/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4175610.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2015-02-07",
+      "path": "2015/02/07_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4175616.htm"
+    },
+    {
+      "special": "The Meanies",
+      "timeslot": "night",
+      "date": "2015-02-07",
+      "path": "2015/02/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4175620.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2015-02-13",
+      "path": "2015/02/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4179777.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2015-02-14",
+      "path": "2015/02/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4179801.htm"
+    },
+    {
+      "special": "This Week's Lists",
+      "timeslot": "night",
+      "date": "2015-02-14",
+      "path": "2015/02/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4179778.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2015-02-20",
+      "path": "2015/02/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4183968.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2015-02-21",
+      "path": "2015/02/21_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4183983.htm"
+    },
+    {
+      "special": "This Week's Lists",
+      "timeslot": "night",
+      "date": "2015-02-21",
+      "path": "2015/02/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4183970.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2015-02-27",
+      "path": "2015/02/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4188460.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2015-02-28",
+      "path": "2015/02/28_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4188470.htm"
+    },
+    {
+      "special": "Neneh Cherry",
+      "timeslot": "night",
+      "date": "2015-02-28",
+      "path": "2015/02/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4188476.htm"
     },
     {
       "special": null,
@@ -26424,6 +26424,41 @@
       "date": "2021-09-27",
       "path": "2021/09/27_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-27-september-2021-on-abc-1/13557008"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-10-01",
+      "path": "2021/10/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-1-october-2021-on-abc-1/13566890"
+    },
+    {
+      "special": "The Charts, The VAULT, Best New Music Videos, Grunge Special on rage",
+      "timeslot": "morning",
+      "date": "2021-10-02",
+      "path": "2021/10/02_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-october-2021-on-abc-1/13566894"
+    },
+    {
+      "special": "Grunge Special",
+      "timeslot": "night",
+      "date": "2021-10-02",
+      "path": "2021/10/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-october-2021-on-abc-1-(nt,-qld,-wa)/13566904"
+    },
+    {
+      "special": "Grunge Special",
+      "timeslot": "night",
+      "date": "2021-10-02",
+      "path": "2021/10/02_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-october-2021-on-abc-1-(act,-nsw,-sa,-tas,-vic)/13566902"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-10-03",
+      "path": "2021/10/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3-october-2021-on-abc-1/13566914"
     }
   ]
 }
