@@ -1,0 +1,651 @@
+{
+  "title": "Saturday night 9 October 2021 on ABC 1",
+  "special": "Space Special",
+  "timeslot": "night",
+  "date": "2021-10-09",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-october-2021-on-abc-1/13576864",
+  "tracks": [
+    {
+      "artist": "EUROPE",
+      "song": "The Final Countdown",
+      "label": "Epic",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Speed Of Light",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "QUEEN",
+      "song": "Flash",
+      "label": "EMI",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "PETER SCHILLING",
+      "song": "Major Tom",
+      "label": "Elektra",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "MI-SEX",
+      "song": "Space Race (Live On Countdown, 1980)",
+      "label": "CBS",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SPACE",
+      "song": "Magic Fly",
+      "label": "Vogue",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "PLAYER ONE",
+      "song": "Space Invaders",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DEVO",
+      "song": "Beautiful World",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "RICK SPRINGFIELD",
+      "song": "Human Touch",
+      "label": null,
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DURAN DURAN",
+      "song": "Planet Earth",
+      "label": "EMI",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "A FLOCK OF SEAGULLS",
+      "song": "Space Age Love Song",
+      "label": "Jive/Zomba",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE CARPENTERS",
+      "song": "Calling Occupants Of Interplanetary Craft",
+      "label": "Polydor",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "MONTY PYTHON",
+      "song": "Galaxy Song",
+      "label": "CBS",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Space Oddity",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Ashes To Ashes",
+      "label": "EMI",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Life On Mars?",
+      "label": "Independent",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "DAVID BOWIE",
+      "song": "Blackstar",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "Next Year",
+      "label": "BMG",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Rocket",
+      "label": "Virgin",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MOBY",
+      "song": "We Are All Made Of Stars",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE POSTAL SERVICE",
+      "song": "Such Great Heights",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "BATTLES",
+      "song": "Atlas",
+      "label": "Inertia",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PUBLIC SERVICE BROADCASTING",
+      "song": "Gargarin",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KING GIZZARD _&_ THE LIZARD WIZARD",
+      "song": "Cyboogie",
+      "label": "Flightless",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Digital Love",
+      "label": "Virgin",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GERLING",
+      "song": "Enter Space Capsule",
+      "label": "Festival",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GORILLAZ",
+      "song": "Saturnz Barz (Spirit House)",
+      "label": "Parlophone",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BEASTIE BOYS",
+      "song": "Intergalactic",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "MISSY ELLIOTT",
+      "song": "Sock It 2 Me",
+      "label": "Warner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LADY GAGA",
+      "song": "Born This Way",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JAMIROQUAI",
+      "song": "Automaton",
+      "label": "EMI",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DAFT PUNK",
+      "song": "Robot Rock",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "EMPIRE OF THE SUN",
+      "song": "Walking On A Dream",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DJ JEAN",
+      "song": "The Launch",
+      "label": "Central Station",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PPK",
+      "song": "ResuRection",
+      "label": "Fest/Mush",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "M.A.R.R.S.",
+      "song": "Pump Up The Volume",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SUPERMEN LOVERS",
+      "song": "Starlight",
+      "label": "BMG",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "SNEAKY SOUND SYSTEM",
+      "song": "UFO",
+      "label": "MGM",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BABYLON ZOO",
+      "song": "Spaceman",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KYLIE MINOGUE",
+      "song": "Put Yourself In My Place",
+      "label": "Mushroom",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "Stellar",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "POWERMAN 5000",
+      "song": "When Worlds Collide",
+      "label": "Universal (MCA)",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Aerials",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Starlight",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Supermassive Black Hole",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SHAKESPEAR'S SISTER",
+      "song": "Stay",
+      "label": "Polydor",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "I Don't Want To Miss A Thing",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "THE DARKNESS",
+      "song": "I Believe In A Thing Called Love",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "PINK FLOYD",
+      "song": "The Great Gig In The Sky",
+      "label": "Polydor",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LOU REED",
+      "song": "Satellite Of Love",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "R.E.M.",
+      "song": "Man On The Moon",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "TROPICAL FUCK STORM",
+      "song": "New Romeo Agent",
+      "label": "Tropical F*ck Storm Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "STANDING ON THE CORNER",
+      "song": "Angel (Life And Death Of The Eath In The Key Of F)",
+      "label": "Creative Mysteries",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Out Of Space",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BANANARAMA",
+      "song": "Venus",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SAVAGE GARDEN",
+      "song": "To The Moon & Back",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "TRAIN",
+      "song": "Drops Of Jupiter",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OASIS",
+      "song": "Champagne Supernova",
+      "label": "SBME",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SMASHING PUMPKINS",
+      "song": "Tonight Tonight",
+      "label": "Virgin",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ECHO & THE BUNNYMEN",
+      "song": "The Killing Moon",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE CHURCH",
+      "song": "Under The Milky Way",
+      "label": "Mushroom",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "KATE BUSH",
+      "song": "Rocket Man",
+      "label": "Mercury",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "JACK LADDER & THE DREAMLANDERS",
+      "song": "Astronaut",
+      "label": "Endless Recordings",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "Hyperballad",
+      "label": "Polydor",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BJORK",
+      "song": "The Gate",
+      "label": "Pod",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ROYKSOPP & ROBYN",
+      "song": "Monument",
+      "label": "Inertia",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Delete Forever",
+      "label": "4AD",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "FIONA APPLE",
+      "song": "Across The Universe",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TWELVE FOOT NINJA",
+      "song": "Start The Fire",
+      "label": "Volkanik",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "A Certain Shade Of Green",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Amerika",
+      "label": "Universal",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TOOL",
+      "song": "Vicarious",
+      "label": "Sony / BMG",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GOJIRA",
+      "song": "The Shooting Star",
+      "label": "Roadrunner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MONSTER MAGNET",
+      "song": "Space Lord",
+      "label": "Polydor",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MASTODON",
+      "song": "Asleep In The Deep",
+      "label": "Warner Bros Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "M83",
+      "song": "Midnight City",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "M83",
+      "song": "Reunion",
+      "label": "Inertia",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BRITNEY SPEARS",
+      "song": "Oops! I Did It Again",
+      "label": "Jive/Zomba",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BACKSTREET BOYS",
+      "song": "Larger Than Life",
+      "label": "Jive/Zomba",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "WILL SMITH",
+      "song": "Men In Black",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "ONE DIRECTION",
+      "song": "Drag Me Down",
+      "label": "Sony",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TAYLOR SWIFT ft. KENDRICK LAMAR",
+      "song": "Bad Blood",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RIHANNA",
+      "song": "Sledgehammer",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "KATY PERRY feat KANYE WEST",
+      "song": "E.T.",
+      "label": "EMI",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "POLO & PAN ft. CHANNEL TRES",
+      "song": "Tunnel",
+      "label": "Virgin Music France/Virgin Music Australia",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BROODS",
+      "song": "Piece Of My Mind (censored version)",
+      "label": "Island Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHUSAP ft DR. BAZIL",
+      "song": "Baboon",
+      "label": "Hussle",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "THE CHEMICAL BROTHERS ft. AURORA",
+      "song": "Eve Of Destruction",
+      "label": "EMI",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "EIFFEL 65",
+      "song": "Blue",
+      "label": "Central Station",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CHVRCHES",
+      "song": "Leave A Trace",
+      "label": "Liberator",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "HIATUS KAIYOTE ft. ARTHUR VEROCAI",
+      "song": "Get Sun",
+      "label": "Brainfeeder",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Need A Little Time",
+      "label": "Milk! Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "FLIGHT FACILITIES ft. BROODS",
+      "song": "Forever",
+      "label": "Future Classic",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RUFUS DU SOL",
+      "song": "On My Knees",
+      "label": "Reprise",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "PARCELS",
+      "song": "Somethinggreater",
+      "label": "Because Music",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HIATUS KAIYOTE",
+      "song": "Chivalry Is Not Dead",
+      "label": "Brainfeeder",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "LE SHIV",
+      "song": "I'm Fine, I've Said Too Much, But How Are You?",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "If You Say The Word",
+      "label": "XL",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "CELLER DWELLERS",
+      "song": "Gas Station Art",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "DRUID FLUIDS",
+      "song": "Flutter By",
+      "label": "Flow Process",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Write A List Of Things To Look Forward To",
+      "label": "Milk! Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CURTIS HARDING",
+      "song": "Can't Hide It",
+      "label": "Anti-",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "B WISE ft. SAMPA THE GREAT & MILAN RING",
+      "song": "Ezinna",
+      "label": "Semi Pro Sound",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KYE ft. JEROME FARAH",
+      "song": "Tuesday",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "LIME CORDIALE & IDRIS ALBA",
+      "song": "Apple Crumble",
+      "label": "Chugg Music / 7Wallace Music",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "Strictly Business",
+      "label": "Warner",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "KELI HOLIDAY",
+      "song": "December",
+      "label": "Sony",
+      "timeslot": "06:30:00"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "title": "Friday night 8 October 2021 on ABC 1",
+  "special": "New Music Show",
+  "timeslot": "night",
+  "date": "2021-10-08",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-8-october-2021-on-abc-1/13576858",
+  "tracks": [
+    {
+      "artist": "TAME IMPALA ft. LIL YACHTY",
+      "song": "Breathe Deeper (Lil Yachty Remix)",
+      "label": "Island Records",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "SPACEY JANE",
+      "song": "Lunchtime",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "Strictly Business",
+      "label": "Warner",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KELI HOLIDAY",
+      "song": "December",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "HIATUS KAIYOTE",
+      "song": "Chivalry Is Not Dead",
+      "label": "Brainfeeder",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DRUID FLUIDS",
+      "song": "Flutter By",
+      "label": "Flow Process",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FERLA",
+      "song": "Rita",
+      "label": "Independent",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "PARQUET COURTS",
+      "song": "Black Widow Spider",
+      "label": "Rough Trade",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LE SHIV",
+      "song": "I'm Fine, I've Said Too Much, But How Are You?",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TANYA TAGAQ",
+      "song": "Tongues",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "ANESU",
+      "song": "Crown",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "NULL HYPOTHESIS",
+      "song": "Cynic",
+      "label": "Heavy Machinery",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GLASS ANIMALS",
+      "song": "I Don't Wanna Talk (I Just Wanna Dance)",
+      "label": "Wolf Tone",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "WALLACE",
+      "song": "Venus, The Birth Of",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JAALA",
+      "song": "Workhorse",
+      "label": "Heavy Machinery",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KALI UCHIS ft. SZA",
+      "song": "Fue Mejor",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "OH BOY ft. NINAJIRACHI",
+      "song": "viBrAtE",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "CUMGIRL8",
+      "song": "Pluck Me",
+      "label": "Dero Arcade",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FLIGHT FACILITIES ft. BROODS",
+      "song": "Forever",
+      "label": "Future Classic",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LISI",
+      "song": "Til The Death",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HARLEY ALASKA",
+      "song": "Lose You Too",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "DAVE",
+      "song": "Verdansk (Survival Mode)",
+      "label": "Neighbourhood Recordings/Virgin Music Australia",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "AITCH ft. AVELINO & TODDLA T",
+      "song": "Party Round My Place",
+      "label": "Virgin",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "KHI'LEB",
+      "song": "Voices",
+      "label": "Elefant Traks",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KANYE WEST",
+      "song": "Come To Life",
+      "label": "Getting Out Your Dreams",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GHOST",
+      "song": "Hunter's Moon",
+      "label": "Loma Vista",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Rainbow Veins",
+      "label": "Spinefarm",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PIST IDIOTS",
+      "song": "Idiocracy",
+      "label": "Space 44",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "GRAACE",
+      "song": "Sentimental",
+      "label": "Sony",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "T. TRUMAN",
+      "song": "Vanity Jones",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "POND",
+      "song": "Human Touch",
+      "label": "Spinning Top",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CONVENIENCE STORE",
+      "song": "Peas",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ROMDERFUL",
+      "song": "Aliens",
+      "label": "EMA",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "DOPE LEMON",
+      "song": "Stingray Pete",
+      "label": "BMG",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JUNGLE",
+      "song": "What D'You Know About Me?",
+      "label": "Caiola Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "LIL NAS X",
+      "song": "That's What I Want",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Through The Mists Of Time",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MINISTRY",
+      "song": "Disinformation",
+      "label": "Nuclear Blast",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "BRING ME THE HORIZON",
+      "song": "DiE4u",
+      "label": "RCA / Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "THE WASHING LINE ECONOMY",
+      "song": "Mirrors",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MILD ORANGE",
+      "song": "This Kinda Day",
+      "label": "AWAL",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "RUBY FIELDS",
+      "song": "Bottle'O",
+      "label": "Space 44",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HALIDAY",
+      "song": "Phase Me",
+      "label": "Habit",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GABRIELLA COHEN",
+      "song": "Frangelico Dreams",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WET LEG",
+      "song": "Wet Dream",
+      "label": "Domino",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "THE AMITY AFFLICTION",
+      "song": "Like Love",
+      "label": "Warner",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "DRAPHT ft. ELI GREENEYES",
+      "song": "Hypocrite",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BIG SKEEZ & GOLD FANG",
+      "song": "Where Yuh From",
+      "label": null,
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "WIKI ft. NAVY BLUE",
+      "song": "Can't Do This Alone",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TRIPLE ONE",
+      "song": "Blood Rave",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "XAVIER RUDD",
+      "song": "We Deserve To Dream",
+      "label": "Virgin",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HALF ALIVE",
+      "song": "Make Of It",
+      "label": null,
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SASSY 009",
+      "song": "Mystery Boy",
+      "label": "Luft Recordings",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GREATEST HITS",
+      "song": "Spicy",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ANDY CLOCKWISE ft. JADE MacRAE",
+      "song": "On The Waterfront",
+      "label": "Exhibition Records",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HATCHIE",
+      "song": "This Enchanted",
+      "label": "Ivy League",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "HAAI",
+      "song": "The Sun Made For A Soft Landing",
+      "label": "Mute",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "STALE CAKES",
+      "song": "Findo",
+      "label": "Coward Lunch",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "PILLOW QUEENS",
+      "song": "Rats",
+      "label": "Royal Mountain Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BALU BRIGADA",
+      "song": "Number One",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "RUBY 9100M",
+      "song": "Screaming",
+      "label": "Avastar",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "HIGHSCHOOL",
+      "song": "Jerry",
+      "label": "Dalliance",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "YORKE ft. JOAN",
+      "song": "Window Shopping",
+      "label": "Island Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TRUE VIBENATION ft. JAMARZONMARZ",
+      "song": "Solar",
+      "label": "Soul Modern",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "OCEAN SLEEPER",
+      "song": "Forever Sinking",
+      "label": "BMG",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "PLANET",
+      "song": "Ship Won't Change",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TWELVE FOOT NINJA ft. TATIANA SHMAYLUK",
+      "song": "Over And Out",
+      "label": "Volkanik",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SMRTDEATH",
+      "song": "Everything's Fucked",
+      "label": "Epitaph",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "SNAIL MAIL",
+      "song": "Valentine",
+      "label": "Matador / Remote Control",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HAVIAH MIGHTY",
+      "song": "Tesla",
+      "label": "Mighty Gang",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "MUNA ft. PHOEBE BRIDGERS",
+      "song": "Silk Chiffon",
+      "label": "Saddest Factory / Dead Oceans",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HOOLIGAN HEFS ft. DAY 1",
+      "song": "Hoodstar",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALT-J",
+      "song": "U & ME",
+      "label": "Liberator",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "BUDJERAH ft. MAY-A",
+      "song": "Talk",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RUFUS DU SOL",
+      "song": "On My Knees",
+      "label": "Reprise",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "PARCELS",
+      "song": "Somethinggreater",
+      "label": "Because Music",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "JYE",
+      "song": "On My Own",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "AMYL AND THE SNIFFERS",
+      "song": "Hertz",
+      "label": "B2B Records",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RADIOHEAD",
+      "song": "If You Say The Word",
+      "label": "XL",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "COURTNEY BARNETT",
+      "song": "Write A List Of Things To Look Forward To",
+      "label": "Milk! Records",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CURTIS HARDING",
+      "song": "Can't Hide It",
+      "label": "Anti-",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "B WISE ft. SAMPA THE GREAT & MILAN RING",
+      "song": "Ezinna",
+      "label": "Semi Pro Sound",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KYE ft. JEROME FARAH",
+      "song": "Tuesday",
+      "label": "Sony",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "LIME CORDIALE & IDRIS ALBA",
+      "song": "Apple Crumble",
+      "label": "Chugg Music / 7Wallace Music",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CLIENT LIAISON",
+      "song": "Elevator Up (censored version)",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "ST. VINCENT",
+      "song": "Daddy's Home",
+      "label": "Loma Vista",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "BEN LEE",
+      "song": "Born For This Bullshit",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    }
+  ]
+}
