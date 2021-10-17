@@ -1,0 +1,663 @@
+{
+  "title": "Saturday night 16 October 2021 on ABC 1",
+  "special": null,
+  "timeslot": "night",
+  "date": "2021-10-16",
+  "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-october-2021-on-abc-1/13588362",
+  "tracks": [
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Rainbow Veins",
+      "label": "Spinefarm",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "Breaking The Habit",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "LINKIN PARK",
+      "song": "Numb",
+      "label": "Warner",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "KORN",
+      "song": "A.D.I.D.A.S.",
+      "label": "Sony",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "INCUBUS",
+      "song": "A Certain Shade Of Green",
+      "label": "Sony",
+      "timeslot": "23:00:00"
+    },
+    {
+      "artist": "RAGE AGAINST THE MACHINE",
+      "song": "Sleep Now In The Fire",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "FAITH NO MORE - LIVE",
+      "song": "From Out Of Nowhere",
+      "label": "Festival",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "RANCID",
+      "song": "Ruby Soho",
+      "label": "Shock",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Geek Stink Breath",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "GREEN DAY",
+      "song": "Stuck With Me",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "SYSTEM OF A DOWN",
+      "song": "Sugar",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "LIMP BIZKIT",
+      "song": "Break Stuff",
+      "label": "Universal",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "THE PRODIGY",
+      "song": "Smack My Bitch Up",
+      "label": "Sony",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "ORGY",
+      "song": "Blue Monday",
+      "label": "Warner",
+      "timeslot": "23:30:00"
+    },
+    {
+      "artist": "JUDAS PRIEST",
+      "song": "Painkiller",
+      "label": "CBS",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MOTORHEAD",
+      "song": "Killed By Death",
+      "label": "Festival",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Sad But True",
+      "label": "Polydor",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "You Shook Me All Night (Live)",
+      "label": "Sony",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "KISS",
+      "song": "Shout It Out Loud",
+      "label": "Mercury",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "MOTLEY CRUE",
+      "song": "Wild Side",
+      "label": "Warner",
+      "timeslot": "00:00:00"
+    },
+    {
+      "artist": "AEROSMITH",
+      "song": "Crazy",
+      "label": "Geffen",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GUNS 'N' ROSES",
+      "song": "November Rain",
+      "label": "BMG",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "DEF LEPPARD",
+      "song": "Photograph",
+      "label": "Polydor",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "OZZY OSBOURNE",
+      "song": "Perry Mason",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "30 SECONDS TO MARS",
+      "song": "Closer To The Edge",
+      "label": "EMI",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "A PERFECT CIRCLE",
+      "song": "Imagine",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "FAITH NO MORE",
+      "song": "Last Cup Of Sorrow",
+      "label": "Polydor",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SLIPKNOT",
+      "song": "Sulfur",
+      "label": "Roadrunner",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "RAMMSTEIN",
+      "song": "Sonne",
+      "label": "Universal",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SEPULTURA",
+      "song": "Attitude",
+      "label": "Shock",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "GOJIRA",
+      "song": "Silvera",
+      "label": null,
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "LAMB OF GOD",
+      "song": "Redneck",
+      "label": "SBME",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TRIVIUM",
+      "song": "Strife",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "HATEBREED",
+      "song": "I Will Be Heard",
+      "label": "Universal",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Boneyards",
+      "label": "Shock",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "PARKWAY DRIVE",
+      "song": "Prey",
+      "label": "Resist Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "A DAY TO REMEMBER",
+      "song": "Bad Vibrations",
+      "label": "Epitaph Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "I PREVAIL",
+      "song": "Breaking Down",
+      "label": "Fearless",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "MEGADETH",
+      "song": "Sweating Bullets",
+      "label": "EMI",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ANTHRAX",
+      "song": "Nothing",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "AVENGED SEVENFOLD",
+      "song": "Almost Easy",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KILLSWITCH ENGAGE",
+      "song": "Fixation On The Darkness",
+      "label": "Roadrunner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "KILLSWITCH ENGAGE",
+      "song": "My Last Serenade",
+      "label": "Roadrunner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEFTONES",
+      "song": "Change (In The House Of Flies)",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "DEFTONES",
+      "song": "Diamond Eyes",
+      "label": "Warner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "36 CRAZYFISTS",
+      "song": "At The End Of August",
+      "label": "Roadrunner",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "PENDULUM",
+      "song": "Crush",
+      "label": "Warner",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Hysteria",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "MUSE",
+      "song": "Plug In Baby",
+      "label": "Fest/Mush",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NIRVANA",
+      "song": "Heart-Shaped Box",
+      "label": "Universal (MCA)",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "ALICE IN CHAINS",
+      "song": "Rooster",
+      "label": "Sony",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FOO FIGHTERS",
+      "song": "My Hero",
+      "label": "EMI",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JIMMY EAT WORLD",
+      "song": "Work",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "METALLICA",
+      "song": "Nothing Else Matters",
+      "label": "Mercury",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "IRON MAIDEN",
+      "song": "Wasted Years",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "EVANESCENCE - LIVE",
+      "song": "My Immortal",
+      "label": "Sony",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SILVERCHAIR",
+      "song": "Ana's Song (Open Fire)",
+      "label": "Murmur",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Parasite",
+      "label": "Spinefarm / Search & Destroy",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Knives",
+      "label": "Spinefarm",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Letting You Go",
+      "label": "Spinefarm",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Don't Need You",
+      "label": "Spinefarm",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Worthless",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Venom",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "You Want a Battle? (Here's a War)",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Riot",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Temper Temper",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Bittersweet Memories",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Your Betrayal",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "The Last Fight",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Hearts Burst Into Fire",
+      "label": "SBME",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Waking The Demon",
+      "label": "SBME",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Scream, Aim, Fire",
+      "label": "SBME",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Tears Don't Fall",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "4 Words To Choke Upon",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "BULLET FOR MY VALENTINE",
+      "song": "Hand Of Blood",
+      "label": "SBME",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "EVANESCENCE",
+      "song": "Use My Voice",
+      "label": "Sony",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "POLARIS",
+      "song": "Vagabond",
+      "label": "Resist Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "TWELVE FOOT NINJA ft. TATIANA SHMAYLUK",
+      "song": "Over And Out",
+      "label": "Volkanik",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "CLOWNS",
+      "song": "Does It Matter",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Give It Away",
+      "label": "Warner",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Breaking The Girl",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Under The Bridge",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Scar Tissue",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Otherside",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Soul To Squeeze",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "My Friends",
+      "label": "Warner",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Californication",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Road Trippin'",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "By The Way",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Can't Stop",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "The Zephyr Song",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Dani California",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "RED HOT CHILI PEPPERS",
+      "song": "Hump De Bump",
+      "label": "Warner",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "COIN",
+      "song": "Chapstick",
+      "label": "10k Projects",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "MILD HIGH CLUB",
+      "song": "It's Over Again",
+      "label": "Stones Throw Records",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "THE BELLIGERENTS",
+      "song": "Emily",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "SPACEY JANE",
+      "song": "Lunchtime (clean version)",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HOPE D",
+      "song": "Happy Hangover",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "WINSTON SURFSHIRT ft. YOUNG FRANCO",
+      "song": "Complicated",
+      "label": "Sweat It Out / BMG",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "JAGUAR JONZE",
+      "song": "Who Died And Made You King?",
+      "label": "Nettwork Music Group",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "HOLY HOLY ft. CLEWS",
+      "song": "The Aftergone",
+      "label": "Sony",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "FELIVAND",
+      "song": "Where Were You",
+      "label": "Independent",
+      "timeslot": "06:00:00"
+    },
+    {
+      "artist": "BAKER BOY ft. UNCLE JACK CHARLES",
+      "song": "Survive",
+      "label": "Island Records",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "GEORGE ALICE",
+      "song": "Mid Years",
+      "label": "Loma Vista",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "PSYCHEDELIC PORN CRUMPETS",
+      "song": "Lava Lamp Pisco",
+      "label": "What Reality? / Virgin",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "DRUID FLUIDS",
+      "song": "Flutter By",
+      "label": "Flow Process",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "TORA",
+      "song": "Inundated",
+      "label": "Believe",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "CATE LE BON",
+      "song": "Running Away",
+      "label": "Mexican Summer",
+      "timeslot": "06:30:00"
+    },
+    {
+      "artist": "ANNA LUNOE ft. GENESIS OWUSU",
+      "song": "Back Seat",
+      "label": "NLV Records",
+      "timeslot": "06:30:00"
+    }
+  ]
+}
