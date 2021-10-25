@@ -2199,6 +2199,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001230.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-01-05",
+      "path": "2001/01/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010105.htm"
+    },
+    {
+      "special": "music from the 50's, 60's, 70's, 80's & 90's",
+      "timeslot": null,
+      "date": "2001-01-06",
+      "path": "2001/01/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010106.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-01-12",
+      "path": "2001/01/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010112.htm"
+    },
+    {
+      "special": "GTK, Hitscene, Countdown & Rock Arena episodes",
+      "timeslot": null,
+      "date": "2001-01-13",
+      "path": "2001/01/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010113.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-01-19",
+      "path": "2001/01/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010119.htm"
+    },
+    {
+      "special": "Big Day Out special",
+      "timeslot": null,
+      "date": "2001-01-20",
+      "path": "2001/01/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010120.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-01-26",
+      "path": "2001/01/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010126.htm"
+    },
+    {
+      "special": "GTK, Hitscene, Countdown & Rock Arena episodes",
+      "timeslot": null,
+      "date": "2001-01-27",
+      "path": "2001/01/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010127.htm"
+    },
+    {
       "special": "Triple j's Hottest 100",
       "timeslot": null,
       "date": "2001-02-02",
@@ -2323,62 +2379,6 @@
       "date": "2001-03-31",
       "path": "2001/03/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010331.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-01-05",
-      "path": "2001/01/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010105.htm"
-    },
-    {
-      "special": "music from the 50's, 60's, 70's, 80's & 90's",
-      "timeslot": null,
-      "date": "2001-01-06",
-      "path": "2001/01/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010106.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-01-12",
-      "path": "2001/01/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010112.htm"
-    },
-    {
-      "special": "GTK, Hitscene, Countdown & Rock Arena episodes",
-      "timeslot": null,
-      "date": "2001-01-13",
-      "path": "2001/01/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010113.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-01-19",
-      "path": "2001/01/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010119.htm"
-    },
-    {
-      "special": "Big Day Out special",
-      "timeslot": null,
-      "date": "2001-01-20",
-      "path": "2001/01/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010120.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-01-26",
-      "path": "2001/01/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010126.htm"
-    },
-    {
-      "special": "GTK, Hitscene, Countdown & Rock Arena episodes",
-      "timeslot": null,
-      "date": "2001-01-27",
-      "path": "2001/01/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010127.htm"
     },
     {
       "special": null,
