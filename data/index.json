@@ -26564,6 +26564,48 @@
       "date": "2021-10-24",
       "path": "2021/10/24_night.json",
       "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-october-2021-on-abc-1/13599210"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-10-25",
+      "path": "2021/10/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-25-october-2021-on-abc-1/13602262"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-10-29",
+      "path": "2021/10/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-29-october-2021-on-abc-1/13609438"
+    },
+    {
+      "special": "Charts, The VAULT, Best New Music Videos, Halloween Special",
+      "timeslot": "morning",
+      "date": "2021-10-30",
+      "path": "2021/10/30_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-30-october-2021-on-abc-1/13609440"
+    },
+    {
+      "special": "Halloween Special",
+      "timeslot": "night",
+      "date": "2021-10-30",
+      "path": "2021/10/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-october-2021-on-abc-1/13609442"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2021-10-31",
+      "path": "2021/10/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-31-october-2021-on-abc-1/13609444"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-11-01",
+      "path": "2021/11/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-1-november-2021-on-abc-1/13609710"
     }
   ]
 }
