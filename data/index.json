@@ -26606,6 +26606,34 @@
       "date": "2021-11-01",
       "path": "2021/11/01_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-1-november-2021-on-abc-1/13609710"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-11-05",
+      "path": "2021/11/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-5-november-2021-on-abc-1/13619042"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-11-06",
+      "path": "2021/11/06_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-6-november-on-abc-1/13619048"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-11-06",
+      "path": "2021/11/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-6-november-on-abc-1/13619052"
+    },
+    {
+      "special": "Best New Music Videos",
+      "timeslot": "night",
+      "date": "2021-11-07",
+      "path": "2021/11/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-7-november-2021-on-abc-1/13619056"
     }
   ]
 }
