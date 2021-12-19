@@ -26816,6 +26816,34 @@
       "date": "2021-12-13",
       "path": "2021/12/13_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-13-december-2021-on-abc-1/13674500"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-12-17",
+      "path": "2021/12/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-17-december-2021-on-abc-1/13681924"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2021-12-18",
+      "path": "2021/12/18_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-18-december-2021-on-abc-1/13681934"
+    },
+    {
+      "special": "Rage FIFTY Countdown 2021",
+      "timeslot": "night",
+      "date": "2021-12-18",
+      "path": "2021/12/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-18-december-2021-on-abc-1/13681928"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-12-19",
+      "path": "2021/12/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-19-december-2021/13682064"
     }
   ]
 }
