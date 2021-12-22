@@ -9488,90 +9488,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2010-08-06",
-      "path": "2010/08/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2975884.htm"
-    },
-    {
-      "special": "The Cat Empire",
-      "timeslot": "morning",
-      "date": "2010-08-07",
-      "path": "2010/08/07_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2975871.htm"
-    },
-    {
-      "special": "The Cat Empire",
-      "timeslot": "night",
-      "date": "2010-08-07",
-      "path": "2010/08/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2975888.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-08-13",
-      "path": "2010/08/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2982246.htm"
-    },
-    {
-      "special": "Sally Seltmann",
-      "timeslot": "morning",
-      "date": "2010-08-14",
-      "path": "2010/08/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2982238.htm"
-    },
-    {
-      "special": "Sally Seltmann",
-      "timeslot": "night",
-      "date": "2010-08-14",
-      "path": "2010/08/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2982247.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-08-20",
-      "path": "2010/08/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2988760.htm"
-    },
-    {
-      "special": "Head To Head",
-      "timeslot": "morning",
-      "date": "2010-08-21",
-      "path": "2010/08/21_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2988758.htm"
-    },
-    {
-      "special": "Head To Head",
-      "timeslot": "night",
-      "date": "2010-08-21",
-      "path": "2010/08/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2988762.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2010-08-27",
-      "path": "2010/08/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2993433.htm"
-    },
-    {
-      "special": "K-OS",
-      "timeslot": "morning",
-      "date": "2010-08-28",
-      "path": "2010/08/28_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s2993427.htm"
-    },
-    {
-      "special": "K-OS",
-      "timeslot": "night",
-      "date": "2010-08-28",
-      "path": "2010/08/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s2993434.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2010-07-02",
       "path": "2010/07/02_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2943359.htm"
@@ -9673,6 +9589,90 @@
       "date": "2010-07-31",
       "path": "2010/07/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s2968688.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-08-06",
+      "path": "2010/08/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2975884.htm"
+    },
+    {
+      "special": "The Cat Empire",
+      "timeslot": "morning",
+      "date": "2010-08-07",
+      "path": "2010/08/07_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2975871.htm"
+    },
+    {
+      "special": "The Cat Empire",
+      "timeslot": "night",
+      "date": "2010-08-07",
+      "path": "2010/08/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2975888.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-08-13",
+      "path": "2010/08/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2982246.htm"
+    },
+    {
+      "special": "Sally Seltmann",
+      "timeslot": "morning",
+      "date": "2010-08-14",
+      "path": "2010/08/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2982238.htm"
+    },
+    {
+      "special": "Sally Seltmann",
+      "timeslot": "night",
+      "date": "2010-08-14",
+      "path": "2010/08/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2982247.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-08-20",
+      "path": "2010/08/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2988760.htm"
+    },
+    {
+      "special": "Head To Head",
+      "timeslot": "morning",
+      "date": "2010-08-21",
+      "path": "2010/08/21_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2988758.htm"
+    },
+    {
+      "special": "Head To Head",
+      "timeslot": "night",
+      "date": "2010-08-21",
+      "path": "2010/08/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2988762.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2010-08-27",
+      "path": "2010/08/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2993433.htm"
+    },
+    {
+      "special": "K-OS",
+      "timeslot": "morning",
+      "date": "2010-08-28",
+      "path": "2010/08/28_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s2993427.htm"
+    },
+    {
+      "special": "K-OS",
+      "timeslot": "night",
+      "date": "2010-08-28",
+      "path": "2010/08/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s2993434.htm"
     },
     {
       "special": null,
