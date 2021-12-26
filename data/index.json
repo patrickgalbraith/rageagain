@@ -26851,6 +26851,34 @@
       "date": "2021-12-20",
       "path": "2021/12/20_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-20-december-2021-on-abc-1/13683834"
+    },
+    {
+      "special": "Christmas Special",
+      "timeslot": "night",
+      "date": "2021-12-24",
+      "path": "2021/12/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-24-december-2021-on-abc-1/13683910"
+    },
+    {
+      "special": "Christmas Special",
+      "timeslot": "morning",
+      "date": "2021-12-25",
+      "path": "2021/12/25_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-25-december-2021-on-abc-1/13683914"
+    },
+    {
+      "special": "Rage FIFTY 2021",
+      "timeslot": "night",
+      "date": "2021-12-25",
+      "path": "2021/12/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-25-december-2021-on-abc-1/13683918"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-12-27",
+      "path": "2021/12/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-27-december-2021-on-abc-1/13683928"
     }
   ]
 }
