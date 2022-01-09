@@ -1284,62 +1284,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1999-11-05",
-      "path": "1999/11/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991105.htm"
-    },
-    {
-      "special": "Mercury Rev guest program rage",
-      "timeslot": null,
-      "date": "1999-11-06",
-      "path": "1999/11/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991106.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-12",
-      "path": "1999/11/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991112.htm"
-    },
-    {
-      "special": "Garbage guest program rage",
-      "timeslot": null,
-      "date": "1999-11-13",
-      "path": "1999/11/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991113.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-19",
-      "path": "1999/11/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991119.htm"
-    },
-    {
-      "special": "The Songs Most Chosen by rage Guest Programmers",
-      "timeslot": null,
-      "date": "1999-11-20",
-      "path": "1999/11/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991120.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-26",
-      "path": "1999/11/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991126.htm"
-    },
-    {
-      "special": "repeat of silverchair guest programming rage",
-      "timeslot": null,
-      "date": "1999-11-27",
-      "path": "1999/11/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991127.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1999-10-01",
       "path": "1999/10/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991001.htm"
@@ -1406,6 +1350,62 @@
       "date": "1999-10-30",
       "path": "1999/10/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991030.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-05",
+      "path": "1999/11/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991105.htm"
+    },
+    {
+      "special": "Mercury Rev guest program rage",
+      "timeslot": null,
+      "date": "1999-11-06",
+      "path": "1999/11/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991106.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-12",
+      "path": "1999/11/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991112.htm"
+    },
+    {
+      "special": "Garbage guest program rage",
+      "timeslot": null,
+      "date": "1999-11-13",
+      "path": "1999/11/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991113.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-19",
+      "path": "1999/11/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991119.htm"
+    },
+    {
+      "special": "The Songs Most Chosen by rage Guest Programmers",
+      "timeslot": null,
+      "date": "1999-11-20",
+      "path": "1999/11/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991120.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-26",
+      "path": "1999/11/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991126.htm"
+    },
+    {
+      "special": "repeat of silverchair guest programming rage",
+      "timeslot": null,
+      "date": "1999-11-27",
+      "path": "1999/11/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991127.htm"
     },
     {
       "special": null,
@@ -26914,6 +26914,34 @@
       "date": "2022-01-03",
       "path": "2022/01/03_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-3-january-2022-on-abc-1/13684188"
+    },
+    {
+      "special": "Music Videos of 2021",
+      "timeslot": "night",
+      "date": "2022-01-07",
+      "path": "2022/01/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-january-2022-on-abc-1/13684192"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2022-01-08",
+      "path": "2022/01/08_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-january-2022-on-abc-1/13684194"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2022-01-08",
+      "path": "2022/01/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-january-2022-on-abc-1/13684196"
+    },
+    {
+      "special": "Music Videos of 2021",
+      "timeslot": "night",
+      "date": "2022-01-09",
+      "path": "2022/01/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-9-january-2022-on-abc-1/13684198"
     }
   ]
 }
