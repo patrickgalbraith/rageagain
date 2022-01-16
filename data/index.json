@@ -26949,6 +26949,34 @@
       "date": "2022-01-10",
       "path": "2022/01/10_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-10-january-2022-on-abc-1/13686366"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2022-01-14",
+      "path": "2022/01/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-january-2022-on-abc-1/13705902"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2022-01-15",
+      "path": "2022/01/15_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-january-2022-on-abc-1/13705916"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2022-01-15",
+      "path": "2022/01/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-january-2022-on-abc-1/13705922"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-01-16",
+      "path": "2022/01/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-january-2022-on-abc-1/13705926"
     }
   ]
 }
