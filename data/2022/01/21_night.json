@@ -1,0 +1,531 @@
+{
+  "title": "Friday night 21 January 2022 on ABC 1",
+  "special": "New Music Show",
+  "timeslot": "night",
+  "date": "2022-01-21",
+  "url": "https://www.abc.net.au/rage/playlist/friday-night-21-january-2022-on-abc-1/13723752",
+  "tracks": [
+    {
+      "artist": "ALEX CAMERON",
+      "song": "Best Life",
+      "label": "Secretly Canadian",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "TNGHT",
+      "song": "Brick Figures",
+      "label": "Warp",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "ALT-J",
+      "song": "Hard Drive Gold",
+      "label": "Liberator",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "THE WEEKND",
+      "song": "Gasoline",
+      "label": "Universal",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "GRIMES",
+      "song": "Player Of Games",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "KELI HOLIDAY",
+      "song": "off my mind",
+      "label": "Sony",
+      "timeslot": "00:30:00"
+    },
+    {
+      "artist": "FERLA",
+      "song": "Too Dark To See",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TASMAN KEITH",
+      "song": "5ft Freestyle",
+      "label": "AWAL",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "KING GIZZARD & THE LIZARD WIZARD",
+      "song": "Black Hot Soup (DJ Shadow Re-Write)",
+      "label": "Virgin",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "DALLAS WOODS",
+      "song": "Grime",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "BOING BOING",
+      "song": "Go The Mongrel",
+      "label": "Independent",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "TOTALLY UNICORN ft. JAY WHALLEY",
+      "song": "Fri(ends)",
+      "label": "Farmer And The Owl",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "SOUL GLO",
+      "song": "Jump!! (Or Get Jumped!!!) ((By The Future))",
+      "label": "Epitaph",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "JOEY BADA$$",
+      "song": "The Rev3nge",
+      "label": "Columbia",
+      "timeslot": "01:00:00"
+    },
+    {
+      "artist": "THE WOMBATS",
+      "song": "This Car Drives All By Itself",
+      "label": "Warner",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "LIME CORDIALE & IDRIS ELBA",
+      "song": "What's Not To Like",
+      "label": "Chugg",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "THE LAZY EYES",
+      "song": "Hippo",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ALDOUS HARDING",
+      "song": "Lawn",
+      "label": "4AD",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "FATHER JOHN MISTY",
+      "song": "Funny Girl",
+      "label": "Sub Pop",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "BROODS",
+      "song": "Like A Woman",
+      "label": "Island Records",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "METHYL ETHEL ft. STELLA DONNELLY",
+      "song": "Proof",
+      "label": "Independent",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "ADELE",
+      "song": "Oh My God",
+      "label": "Sony",
+      "timeslot": "01:30:00"
+    },
+    {
+      "artist": "TESKEY BROTHERS, THE ft. EMMA DONOVAN",
+      "song": "Get Back To The Land",
+      "label": "Ivy League",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "LORDE",
+      "song": "Leader Of A New Regime",
+      "label": "Universal",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "FONTAINES D.C.",
+      "song": "Jackie Down The Line",
+      "label": "Liberator",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "MITSKI",
+      "song": "Love Me More",
+      "label": "Dead Oceans",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SPOON",
+      "song": "Wild",
+      "label": "Matador Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "ED SCHRADER'S MUSIC BEAT",
+      "song": "This Thirst",
+      "label": "Carpark Records",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SIMPLE PLAN",
+      "song": "The Antidote",
+      "label": "Independent",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "SIS",
+      "song": "Wooie",
+      "label": "Native Cat Recordings",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "CATE LE BON",
+      "song": "Remembering Me",
+      "label": "Mexican Summer",
+      "timeslot": "02:00:00"
+    },
+    {
+      "artist": "TIERRA WHACK",
+      "song": "Heaven",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "EARTHGANG",
+      "song": "All Eyes On Me",
+      "label": "Universal",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "NICK WARD",
+      "song": "Princess",
+      "label": "Hunnydew Recordings",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JACK WHITE",
+      "song": "Love Is Selfish",
+      "label": "Third Man Records",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "OCEAN GROVE",
+      "song": "Silver Lining",
+      "label": "UNFD",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "KATE BOLLINGER",
+      "song": "Yards / Gardens",
+      "label": "Ghostly International",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JAGUAR JONZE",
+      "song": "Cut",
+      "label": "Independent",
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "FKA TWIGS ft. THE WEEKND",
+      "song": "Tears In The Club",
+      "label": null,
+      "timeslot": "02:30:00"
+    },
+    {
+      "artist": "JUICE WRLD",
+      "song": "Already Dead",
+      "label": "Universal",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "ALISON WONDERLAND",
+      "song": "Fear Of Dying",
+      "label": "EMI",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "JAMO",
+      "song": "One More Time",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "HERMITUDE",
+      "song": "St. Claire",
+      "label": "Elefant Traks",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "OTIUH",
+      "song": "Die So Young",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MORGUES",
+      "song": "Outer Space",
+      "label": "Broth Records",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "MIDLAKE",
+      "song": "Bethel Woods",
+      "label": "Bella Union",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "FALLING IN REVERSE",
+      "song": "Zombified",
+      "label": "Epitaph",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "GEORGIA MAQ",
+      "song": "Joe Rogan",
+      "label": "Independent",
+      "timeslot": "03:00:00"
+    },
+    {
+      "artist": "SZA",
+      "song": "I Hate U",
+      "label": "Sony",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "REMI WOLF",
+      "song": "Street You Live On",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "MADAM AND THE MAFIA",
+      "song": "Riding High",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "BARKAA",
+      "song": "Blak Matriarchy",
+      "label": "Bad Apples Music",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "J.I.D ft. 21 SAVAGE & BABY TATE",
+      "song": "Surround Sound",
+      "label": "Universal",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "TRIPLE ONE ft. NERVE, MULALO, CULT SHOTTA",
+      "song": "Mr. Whippy ft. LIL GOLO",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "ALLDAY",
+      "song": "Eyes On The Prize",
+      "label": "Independent",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "GOOD PASH",
+      "song": "The F.J. Reading Bridge",
+      "label": "Viscera Arts",
+      "timeslot": "03:30:00"
+    },
+    {
+      "artist": "SCREAM MOUNTAIN",
+      "song": "Runaways",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "WET LEG",
+      "song": "Too Late Now",
+      "label": "Domino",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KYE",
+      "song": "Finest Quality",
+      "label": "Sony",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "ALISA XAYALITH",
+      "song": "High Fidelity",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "KAITLIN KEEGAN",
+      "song": "Separate",
+      "label": "Independent",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "GRACE CUMMINGS",
+      "song": "Storm Queen",
+      "label": "Sugar Mountain Records",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "THE BUOYS",
+      "song": "Drive Me Home",
+      "label": "Spunk!",
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "A PLACE TO BURY STRANGERS",
+      "song": "Hold On Tight",
+      "label": null,
+      "timeslot": "04:00:00"
+    },
+    {
+      "artist": "TV DREAMS",
+      "song": "Hard To Say",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "THE RIONS",
+      "song": "Disassociation",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "FUTURE STATIC",
+      "song": "Waves",
+      "label": "Independent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALICE GLASS",
+      "song": "Fair Game",
+      "label": "Eating Glass Records",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "HAIKU HANDS",
+      "song": "Conclusions",
+      "label": "Mad Decent",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LOOSE FIT",
+      "song": "Exhale",
+      "label": "Spunk!",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "IBEYI ft. PA SALIEU",
+      "song": "Made Of Gold",
+      "label": "XL",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "LORDE",
+      "song": "Leader Of A New Regime",
+      "label": "Universal",
+      "timeslot": "04:30:00"
+    },
+    {
+      "artist": "ALT-J",
+      "song": "Hard Drive Gold",
+      "label": "Liberator",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "LIME CORDIALE & IDRIS ELBA",
+      "song": "What's Not To Like",
+      "label": "Chugg",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "GENESIS OWUSU",
+      "song": "Waitin' On Ya (Remix) (censored version)",
+      "label": "Ourness",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "FATHER JOHN MISTY",
+      "song": "Funny Girl",
+      "label": "Sub Pop",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TIERRA WHACK",
+      "song": "Heaven",
+      "label": "Universal",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "HAYLEY MARY",
+      "song": "Fall In Love",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "CONFIDENCE MAN",
+      "song": "Holiday",
+      "label": "I OH YOU",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "MYLEE GRACE",
+      "song": "Any Road",
+      "label": "Independent",
+      "timeslot": "05:00:00"
+    },
+    {
+      "artist": "TNGHT",
+      "song": "Brick Figures",
+      "label": "Warp",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "METHYL ETHEL ft. STELLA DONNELLY",
+      "song": "Proof",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "PARCELS",
+      "song": "Famous",
+      "label": "Because Music",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "CATE LE BON",
+      "song": "Remembering Me",
+      "label": "Mexican Summer",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "SEASONING",
+      "song": "Friends",
+      "label": "Independent",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KHRUANGBIN & LEON BRIDGES",
+      "song": "B-Side",
+      "label": "Dead Oceans",
+      "timeslot": "05:30:00"
+    },
+    {
+      "artist": "KING GIZZARD & THE LIZARD WIZARD",
+      "song": "Black Hot Soup (DJ Shadow Re-Write) (censored version)",
+      "label": "Virgin",
+      "timeslot": "05:30:00"
+    }
+  ]
+}

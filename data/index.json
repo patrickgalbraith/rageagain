@@ -19678,6 +19678,139 @@
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-31-may-2018-on-abc-me/9825462"
     },
     {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-07-01",
+      "path": "2018/07/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-1-july-2018-on-abc/9925858"
+    },
+    {
+      "special": "VAULT",
+      "timeslot": "night",
+      "date": "2018-07-02",
+      "path": "2018/07/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-july-2018-on-abc/9931400"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-07-06",
+      "path": "2018/07/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-6-july-2018-on-abc/9950308"
+    },
+    {
+      "special": "Charts, New Music Videos, Didirri and Luca Brasi",
+      "timeslot": "morning",
+      "date": "2018-07-07",
+      "path": "2018/07/07_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-7-july-2018-on-abc/9951184"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-07-07",
+      "path": "2018/07/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-7-july-2018-on-abc/9951212"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-07-13",
+      "path": "2018/07/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-july-2018-on-abc/9991272"
+    },
+    {
+      "special": "Charts, Fascinator and NAIDOC Week Special",
+      "timeslot": "morning",
+      "date": "2018-07-14",
+      "path": "2018/07/14_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-july-2018-on-abc/9991302"
+    },
+    {
+      "special": "NAIDOC Week Special",
+      "timeslot": "night",
+      "date": "2018-07-14",
+      "path": "2018/07/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-july-2018-on-abc/9991370"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-07-15",
+      "path": "2018/07/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-july-2018-on-abc/9991406"
+    },
+    {
+      "special": "New music videos",
+      "timeslot": "night",
+      "date": "2018-07-20",
+      "path": "2018/07/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-20-july-2018-on-abc/10013984"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-07-21",
+      "path": "2018/07/21_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-21-july-2018-on-abc/10014002"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-07-21",
+      "path": "2018/07/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-july-2018-on-abc/10013944"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-07-22",
+      "path": "2018/07/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-22-july-on-abc/10013968"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-07-27",
+      "path": "2018/07/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-27-july-2018-on-abc/10045512"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-07-28",
+      "path": "2018/07/28_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-28-july-2018-on-abc/10045546"
+    },
+    {
+      "special": "Splendour in the Grass 2018",
+      "timeslot": "night",
+      "date": "2018-07-28",
+      "path": "2018/07/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-july-28-on-abc/10062304"
+    },
+    {
+      "special": "Splendour in the Grass 2018 + New Clips",
+      "timeslot": "night",
+      "date": "2018-07-28",
+      "path": "2018/07/28_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-28-july-2018-on-abc/10061918"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-07-29",
+      "path": "2018/07/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-29-july-2018-on-abc/10045532"
+    },
+    {
+      "special": "VAULT - Pink Floyd",
+      "timeslot": "night",
+      "date": "2018-07-30",
+      "path": "2018/07/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-30-july-2019-on-abc---vault/10045536"
+    },
+    {
       "special": "New Release Music Videos",
       "timeslot": "night",
       "date": "2018-06-01",
@@ -19879,139 +20012,6 @@
       "date": "2018-06-30",
       "path": "2018/06/30_night.json",
       "url": "https://www.abc.net.au/rage/playlist/saturday-night-30-june-2018-on-abc/9925756"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-07-01",
-      "path": "2018/07/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-1-july-2018-on-abc/9925858"
-    },
-    {
-      "special": "VAULT",
-      "timeslot": "night",
-      "date": "2018-07-02",
-      "path": "2018/07/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-2-july-2018-on-abc/9931400"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-07-06",
-      "path": "2018/07/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-6-july-2018-on-abc/9950308"
-    },
-    {
-      "special": "Charts, New Music Videos, Didirri and Luca Brasi",
-      "timeslot": "morning",
-      "date": "2018-07-07",
-      "path": "2018/07/07_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-7-july-2018-on-abc/9951184"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-07-07",
-      "path": "2018/07/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-7-july-2018-on-abc/9951212"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-07-13",
-      "path": "2018/07/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-13-july-2018-on-abc/9991272"
-    },
-    {
-      "special": "Charts, Fascinator and NAIDOC Week Special",
-      "timeslot": "morning",
-      "date": "2018-07-14",
-      "path": "2018/07/14_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-14-july-2018-on-abc/9991302"
-    },
-    {
-      "special": "NAIDOC Week Special",
-      "timeslot": "night",
-      "date": "2018-07-14",
-      "path": "2018/07/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-14-july-2018-on-abc/9991370"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-07-15",
-      "path": "2018/07/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-15-july-2018-on-abc/9991406"
-    },
-    {
-      "special": "New music videos",
-      "timeslot": "night",
-      "date": "2018-07-20",
-      "path": "2018/07/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-20-july-2018-on-abc/10013984"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-07-21",
-      "path": "2018/07/21_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-21-july-2018-on-abc/10014002"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-07-21",
-      "path": "2018/07/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-21-july-2018-on-abc/10013944"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-07-22",
-      "path": "2018/07/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-22-july-on-abc/10013968"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-07-27",
-      "path": "2018/07/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-27-july-2018-on-abc/10045512"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-07-28",
-      "path": "2018/07/28_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-28-july-2018-on-abc/10045546"
-    },
-    {
-      "special": "Splendour in the Grass 2018",
-      "timeslot": "night",
-      "date": "2018-07-28",
-      "path": "2018/07/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-july-28-on-abc/10062304"
-    },
-    {
-      "special": "Splendour in the Grass 2018 + New Clips",
-      "timeslot": "night",
-      "date": "2018-07-28",
-      "path": "2018/07/28_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-28-july-2018-on-abc/10061918"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-07-29",
-      "path": "2018/07/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-29-july-2018-on-abc/10045532"
-    },
-    {
-      "special": "VAULT - Pink Floyd",
-      "timeslot": "night",
-      "date": "2018-07-30",
-      "path": "2018/07/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-30-july-2019-on-abc---vault/10045536"
     },
     {
       "special": null,
@@ -26984,6 +26984,34 @@
       "date": "2022-01-17",
       "path": "2022/01/17_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-17-january-2022-on-abc-1/13706030"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2022-01-21",
+      "path": "2022/01/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-january-2022-on-abc-1/13723752"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2022-01-22",
+      "path": "2022/01/22_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-january-2022-on-abc-1/13723754"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2022-01-22",
+      "path": "2022/01/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-january-2022-on-abc-1/13723758"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-01-23",
+      "path": "2022/01/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-january-2022-on-abc-1/13723778"
     }
   ]
 }
