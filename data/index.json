@@ -27019,6 +27019,34 @@
       "date": "2022-01-24",
       "path": "2022/01/24_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-24-january-2022-on-abc-1/13723890"
+    },
+    {
+      "special": "rage presents triple j's Hottest 100 of 2021",
+      "timeslot": "night",
+      "date": "2022-01-28",
+      "path": "2022/01/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-28-january-2022-on-abc-1/13732022"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2022-01-29",
+      "path": "2022/01/29_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-january-29-2022-on-abc-1/13732044"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2022-01-29",
+      "path": "2022/01/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-january-2022-on-abc-1/13732050"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-01-30",
+      "path": "2022/01/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-30-january-2022-on-abc-1/13732236"
     }
   ]
 }
