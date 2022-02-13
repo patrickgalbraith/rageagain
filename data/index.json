@@ -20015,237 +20015,6 @@
     },
     {
       "special": null,
-      "timeslot": "morning",
-      "date": "2018-09-01",
-      "path": "2018/09/01_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-september-2018-on-abc/10187374"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-09-01",
-      "path": "2018/09/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-september-2018-on-abc/10187882"
-    },
-    {
-      "special": "Spencer P. Jones tribute",
-      "timeslot": "night",
-      "date": "2018-09-02",
-      "path": "2018/09/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-september-2018-on-abc/10187924"
-    },
-    {
-      "special": "VAULT",
-      "timeslot": "night",
-      "date": "2018-09-03",
-      "path": "2018/09/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-september-2018-on-abc/10195936"
-    },
-    {
-      "special": "Conway Savage Tribute and New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-07",
-      "path": "2018/09/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-september-2018-on-abc/10214050"
-    },
-    {
-      "special": "Charts, New Music, SG Lewis on Rage and Nine Inch Nails Special on Rage",
-      "timeslot": "morning",
-      "date": "2018-09-08",
-      "path": "2018/09/08_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-september-2018-on-abc/10214188"
-    },
-    {
-      "special": "Nine Inch Nails Special on Rage, Conway Savage Tribute, SG Lewis on Rage and New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-08",
-      "path": "2018/09/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-september-2018-on-rage/10214212"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-10",
-      "path": "2018/09/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-september-2018-on-abc-me/10221512"
-    },
-    {
-      "special": "VAULT",
-      "timeslot": "night",
-      "date": "2018-09-10",
-      "path": "2018/09/10_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-september-2018-on-abc/10221314"
-    },
-    {
-      "special": "Conway Savage Tribute",
-      "timeslot": "night",
-      "date": "2018-09-11",
-      "path": "2018/09/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-11-september-2018-on-abc-me/10221572"
-    },
-    {
-      "special": "Nine Inch Nails Special on Rage",
-      "timeslot": "night",
-      "date": "2018-09-11",
-      "path": "2018/09/11_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-11-september-2018-on-abc/10221550"
-    },
-    {
-      "special": "SG Lewis on Rage and New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-12",
-      "path": "2018/09/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-12-september-2018-on-abc-me/10221616"
-    },
-    {
-      "special": "SG Lewis on Rage and New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-12",
-      "path": "2018/09/12_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-12-september-2018-on-abc/10221600"
-    },
-    {
-      "special": "Nine Inch Nails Special on Rage",
-      "timeslot": "night",
-      "date": "2018-09-13",
-      "path": "2018/09/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-13-september-2018-on-abc-me/10221660"
-    },
-    {
-      "special": "SG Lewis on Rage and New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-13",
-      "path": "2018/09/13_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-13-september-2018-on-abc/10221636"
-    },
-    {
-      "special": "Mac Miller tribute and New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-14",
-      "path": "2018/09/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-september-2018-on-abc/10247858"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-09-15",
-      "path": "2018/09/15_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-september-2018-on-abc/10247890"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-09-15",
-      "path": "2018/09/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/satuday-night-15-september-2018-on-abc/10248974"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-17",
-      "path": "2018/09/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-september-2018-on-abc-me/10255710"
-    },
-    {
-      "special": "VAULT",
-      "timeslot": "night",
-      "date": "2018-09-17",
-      "path": "2018/09/17_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-september-2018-on-abc/10255304"
-    },
-    {
-      "special": "BIGSOUND Special on Rage",
-      "timeslot": "night",
-      "date": "2018-09-18",
-      "path": "2018/09/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-18-september-2018-on-abc-me/10255744"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-09-18",
-      "path": "2018/09/18_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-18-september-2018-on-abc/10255716"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-19",
-      "path": "2018/09/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-19-september-2018-on-abc-me/10255818"
-    },
-    {
-      "special": "BIGSOUND Special on Rage",
-      "timeslot": "night",
-      "date": "2018-09-19",
-      "path": "2018/09/19_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-19-september-2018-on-abc/10255768"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-09-20",
-      "path": "2018/09/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-20-september-2018-on-abc-me/10255868"
-    },
-    {
-      "special": "BIGSOUND special on Rage",
-      "timeslot": "night",
-      "date": "2018-09-20",
-      "path": "2018/09/20_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-20-september-2018-on-abc/10255832"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-21",
-      "path": "2018/09/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-september-2018-on-abc/10291748"
-    },
-    {
-      "special": "Charts, Cash Savage on Rage and The Best 50 Australian Albums of the 90s Special",
-      "timeslot": "morning",
-      "date": "2018-09-22",
-      "path": "2018/09/22_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-september-2018-on-abc/10291760"
-    },
-    {
-      "special": "Best 50 Australian Albums of the 90s Special on Rage, Cash Savage on Rage and New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-22",
-      "path": "2018/09/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-september-2018-on-abc/10291788"
-    },
-    {
-      "special": "VAULT",
-      "timeslot": "night",
-      "date": "2018-09-24",
-      "path": "2018/09/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-september-2018-on-abc/10298804"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-09-28",
-      "path": "2018/09/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-28-september-2018-on-abc/10317948"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-09-29",
-      "path": "2018/09/29_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-september-2018-on-abc/10317978"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-09-29",
-      "path": "2018/09/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-september-2018-on-abc/10318180"
-    },
-    {
-      "special": null,
       "timeslot": "night",
       "date": "2018-08-01",
       "path": "2018/08/01_night.json",
@@ -20481,6 +20250,237 @@
       "date": "2018-08-31",
       "path": "2018/08/31_night.json",
       "url": "https://www.abc.net.au/rage/playlist/friday-night-31-august-2018-on-abc/10187332"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-09-01",
+      "path": "2018/09/01_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-september-2018-on-abc/10187374"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-09-01",
+      "path": "2018/09/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-september-2018-on-abc/10187882"
+    },
+    {
+      "special": "Spencer P. Jones tribute",
+      "timeslot": "night",
+      "date": "2018-09-02",
+      "path": "2018/09/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-september-2018-on-abc/10187924"
+    },
+    {
+      "special": "VAULT",
+      "timeslot": "night",
+      "date": "2018-09-03",
+      "path": "2018/09/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-september-2018-on-abc/10195936"
+    },
+    {
+      "special": "Conway Savage Tribute and New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-07",
+      "path": "2018/09/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-september-2018-on-abc/10214050"
+    },
+    {
+      "special": "Charts, New Music, SG Lewis on Rage and Nine Inch Nails Special on Rage",
+      "timeslot": "morning",
+      "date": "2018-09-08",
+      "path": "2018/09/08_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-september-2018-on-abc/10214188"
+    },
+    {
+      "special": "Nine Inch Nails Special on Rage, Conway Savage Tribute, SG Lewis on Rage and New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-08",
+      "path": "2018/09/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-september-2018-on-rage/10214212"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-10",
+      "path": "2018/09/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-september-2018-on-abc-me/10221512"
+    },
+    {
+      "special": "VAULT",
+      "timeslot": "night",
+      "date": "2018-09-10",
+      "path": "2018/09/10_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-september-2018-on-abc/10221314"
+    },
+    {
+      "special": "Conway Savage Tribute",
+      "timeslot": "night",
+      "date": "2018-09-11",
+      "path": "2018/09/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-11-september-2018-on-abc-me/10221572"
+    },
+    {
+      "special": "Nine Inch Nails Special on Rage",
+      "timeslot": "night",
+      "date": "2018-09-11",
+      "path": "2018/09/11_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-11-september-2018-on-abc/10221550"
+    },
+    {
+      "special": "SG Lewis on Rage and New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-12",
+      "path": "2018/09/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-12-september-2018-on-abc-me/10221616"
+    },
+    {
+      "special": "SG Lewis on Rage and New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-12",
+      "path": "2018/09/12_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-12-september-2018-on-abc/10221600"
+    },
+    {
+      "special": "Nine Inch Nails Special on Rage",
+      "timeslot": "night",
+      "date": "2018-09-13",
+      "path": "2018/09/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-13-september-2018-on-abc-me/10221660"
+    },
+    {
+      "special": "SG Lewis on Rage and New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-13",
+      "path": "2018/09/13_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-13-september-2018-on-abc/10221636"
+    },
+    {
+      "special": "Mac Miller tribute and New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-14",
+      "path": "2018/09/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-september-2018-on-abc/10247858"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-09-15",
+      "path": "2018/09/15_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-september-2018-on-abc/10247890"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-09-15",
+      "path": "2018/09/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/satuday-night-15-september-2018-on-abc/10248974"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-17",
+      "path": "2018/09/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-september-2018-on-abc-me/10255710"
+    },
+    {
+      "special": "VAULT",
+      "timeslot": "night",
+      "date": "2018-09-17",
+      "path": "2018/09/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-september-2018-on-abc/10255304"
+    },
+    {
+      "special": "BIGSOUND Special on Rage",
+      "timeslot": "night",
+      "date": "2018-09-18",
+      "path": "2018/09/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-18-september-2018-on-abc-me/10255744"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-09-18",
+      "path": "2018/09/18_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-18-september-2018-on-abc/10255716"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-19",
+      "path": "2018/09/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-19-september-2018-on-abc-me/10255818"
+    },
+    {
+      "special": "BIGSOUND Special on Rage",
+      "timeslot": "night",
+      "date": "2018-09-19",
+      "path": "2018/09/19_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-19-september-2018-on-abc/10255768"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-09-20",
+      "path": "2018/09/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-20-september-2018-on-abc-me/10255868"
+    },
+    {
+      "special": "BIGSOUND special on Rage",
+      "timeslot": "night",
+      "date": "2018-09-20",
+      "path": "2018/09/20_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-20-september-2018-on-abc/10255832"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-21",
+      "path": "2018/09/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-september-2018-on-abc/10291748"
+    },
+    {
+      "special": "Charts, Cash Savage on Rage and The Best 50 Australian Albums of the 90s Special",
+      "timeslot": "morning",
+      "date": "2018-09-22",
+      "path": "2018/09/22_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-september-2018-on-abc/10291760"
+    },
+    {
+      "special": "Best 50 Australian Albums of the 90s Special on Rage, Cash Savage on Rage and New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-22",
+      "path": "2018/09/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-september-2018-on-abc/10291788"
+    },
+    {
+      "special": "VAULT",
+      "timeslot": "night",
+      "date": "2018-09-24",
+      "path": "2018/09/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-september-2018-on-abc/10298804"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-09-28",
+      "path": "2018/09/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-28-september-2018-on-abc/10317948"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-09-29",
+      "path": "2018/09/29_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-29-september-2018-on-abc/10317978"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-09-29",
+      "path": "2018/09/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-september-2018-on-abc/10318180"
     },
     {
       "special": "New Music Videos",
@@ -27089,6 +27089,34 @@
       "date": "2022-02-07",
       "path": "2022/02/07_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-7-february-2022-on-abc-tv/13741540"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2022-02-11",
+      "path": "2022/02/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-11-february-2022-on-abc-tv/13751028"
+    },
+    {
+      "special": "Charts, rage Goes Retro, Best New Music Videos, The VAULT",
+      "timeslot": "morning",
+      "date": "2022-02-12",
+      "path": "2022/02/12_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-12-february-2022-on-abc-tv/13751052"
+    },
+    {
+      "special": "Retro Month 2022: Week Two",
+      "timeslot": "night",
+      "date": "2022-02-12",
+      "path": "2022/02/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-12-february-2022-on-abc-tv/13751054"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-02-13",
+      "path": "2022/02/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-13-february-2022-on-abc-tv/13751056"
     }
   ]
 }
