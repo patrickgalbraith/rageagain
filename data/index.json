@@ -11581,83 +11581,6 @@
     {
       "special": null,
       "timeslot": "night",
-      "date": "2012-07-06",
-      "path": "2012/07/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3540478.htm"
-    },
-    {
-      "special": "Keith Urban guest programs rage",
-      "timeslot": "morning",
-      "date": "2012-07-07",
-      "path": "2012/07/07_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3495548.htm"
-    },
-    {
-      "special": "Keith Urban guest programs rage",
-      "timeslot": "night",
-      "date": "2012-07-07",
-      "path": "2012/07/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3540508.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2012-07-13",
-      "path": "2012/07/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3545513.htm"
-    },
-    {
-      "special": "Van She",
-      "timeslot": "morning",
-      "date": "2012-07-14",
-      "path": "2012/07/14_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3545522.htm"
-    },
-    {
-      "special": "Van She",
-      "timeslot": "night",
-      "date": "2012-07-14",
-      "path": "2012/07/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3545422.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2012-07-20",
-      "path": "2012/07/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3550001.htm"
-    },
-    {
-      "special": "The Bamboos",
-      "timeslot": "morning",
-      "date": "2012-07-21",
-      "path": "2012/07/21_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3550007.htm"
-    },
-    {
-      "special": "The Bamboos",
-      "timeslot": "night",
-      "date": "2012-07-21",
-      "path": "2012/07/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3550014.htm"
-    },
-    {
-      "special": "25 years of rage 1987-1990",
-      "timeslot": "morning",
-      "date": "2012-07-28",
-      "path": "2012/07/28_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3555227.htm"
-    },
-    {
-      "special": "25 years of rage 1987-1990",
-      "timeslot": "night",
-      "date": "2012-07-28",
-      "path": "2012/07/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3555041.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
       "date": "2012-06-01",
       "path": "2012/06/01_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3516211.htm"
@@ -11759,6 +11682,83 @@
       "date": "2012-06-30",
       "path": "2012/06/30_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3535756.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-07-06",
+      "path": "2012/07/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3540478.htm"
+    },
+    {
+      "special": "Keith Urban guest programs rage",
+      "timeslot": "morning",
+      "date": "2012-07-07",
+      "path": "2012/07/07_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3495548.htm"
+    },
+    {
+      "special": "Keith Urban guest programs rage",
+      "timeslot": "night",
+      "date": "2012-07-07",
+      "path": "2012/07/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3540508.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-07-13",
+      "path": "2012/07/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3545513.htm"
+    },
+    {
+      "special": "Van She",
+      "timeslot": "morning",
+      "date": "2012-07-14",
+      "path": "2012/07/14_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3545522.htm"
+    },
+    {
+      "special": "Van She",
+      "timeslot": "night",
+      "date": "2012-07-14",
+      "path": "2012/07/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3545422.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2012-07-20",
+      "path": "2012/07/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3550001.htm"
+    },
+    {
+      "special": "The Bamboos",
+      "timeslot": "morning",
+      "date": "2012-07-21",
+      "path": "2012/07/21_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3550007.htm"
+    },
+    {
+      "special": "The Bamboos",
+      "timeslot": "night",
+      "date": "2012-07-21",
+      "path": "2012/07/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3550014.htm"
+    },
+    {
+      "special": "25 years of rage 1987-1990",
+      "timeslot": "morning",
+      "date": "2012-07-28",
+      "path": "2012/07/28_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3555227.htm"
+    },
+    {
+      "special": "25 years of rage 1987-1990",
+      "timeslot": "night",
+      "date": "2012-07-28",
+      "path": "2012/07/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3555041.htm"
     },
     {
       "special": null,
