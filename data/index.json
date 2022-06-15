@@ -619,62 +619,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1998-11-06",
-      "path": "1998/11/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981106.htm"
-    },
-    {
-      "special": "The Living End guest program rage",
-      "timeslot": null,
-      "date": "1998-11-07",
-      "path": "1998/11/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981107.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-13",
-      "path": "1998/11/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981113.htm"
-    },
-    {
-      "special": "The Cruel Sea guest program rage",
-      "timeslot": null,
-      "date": "1998-11-14",
-      "path": "1998/11/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981114.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-20",
-      "path": "1998/11/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981120.htm"
-    },
-    {
-      "special": "Rage Album special, INXS mini-special, followed by The Dandy Warhols guest programming",
-      "timeslot": null,
-      "date": "1998-11-21",
-      "path": "1998/11/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981121.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-27",
-      "path": "1998/11/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981127.htm"
-    },
-    {
-      "special": "Richard Kingsmill guest programs rage for Australian Music Week",
-      "timeslot": null,
-      "date": "1998-11-28",
-      "path": "1998/11/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981128.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1998-12-04",
       "path": "1998/12/04.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981204.htm"
@@ -727,6 +671,62 @@
       "date": "1998-12-26",
       "path": "1998/12/26.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981226.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-06",
+      "path": "1998/11/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981106.htm"
+    },
+    {
+      "special": "The Living End guest program rage",
+      "timeslot": null,
+      "date": "1998-11-07",
+      "path": "1998/11/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981107.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-13",
+      "path": "1998/11/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981113.htm"
+    },
+    {
+      "special": "The Cruel Sea guest program rage",
+      "timeslot": null,
+      "date": "1998-11-14",
+      "path": "1998/11/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981114.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-20",
+      "path": "1998/11/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981120.htm"
+    },
+    {
+      "special": "Rage Album special, INXS mini-special, followed by The Dandy Warhols guest programming",
+      "timeslot": null,
+      "date": "1998-11-21",
+      "path": "1998/11/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981121.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-27",
+      "path": "1998/11/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981127.htm"
+    },
+    {
+      "special": "Richard Kingsmill guest programs rage for Australian Music Week",
+      "timeslot": null,
+      "date": "1998-11-28",
+      "path": "1998/11/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981128.htm"
     },
     {
       "special": null,
@@ -864,6 +864,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "1999-03-05",
+      "path": "1999/03/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990305.htm"
+    },
+    {
+      "special": "silverchair, Grinspoon and Korn Special",
+      "timeslot": null,
+      "date": "1999-03-06",
+      "path": "1999/03/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990306.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-12",
+      "path": "1999/03/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990312.htm"
+    },
+    {
+      "special": "Triple J Hottest 100",
+      "timeslot": null,
+      "date": "1999-03-13",
+      "path": "1999/03/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990313.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-19",
+      "path": "1999/03/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990319.htm"
+    },
+    {
+      "special": "Huey from Fun Lovin' Criminals guest programs rage",
+      "timeslot": null,
+      "date": "1999-03-20",
+      "path": "1999/03/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990320.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-26",
+      "path": "1999/03/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990326.htm"
+    },
+    {
+      "special": "James & Nicky from Manic Street Preachers guest program rage",
+      "timeslot": null,
+      "date": "1999-03-27",
+      "path": "1999/03/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990327.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "1999-04-02",
       "path": "1999/04/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990402.htm"
@@ -923,62 +979,6 @@
       "date": "1999-04-30",
       "path": "1999/04/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990430.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-05",
-      "path": "1999/03/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990305.htm"
-    },
-    {
-      "special": "silverchair, Grinspoon and Korn Special",
-      "timeslot": null,
-      "date": "1999-03-06",
-      "path": "1999/03/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990306.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-12",
-      "path": "1999/03/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990312.htm"
-    },
-    {
-      "special": "Triple J Hottest 100",
-      "timeslot": null,
-      "date": "1999-03-13",
-      "path": "1999/03/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990313.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-19",
-      "path": "1999/03/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990319.htm"
-    },
-    {
-      "special": "Huey from Fun Lovin' Criminals guest programs rage",
-      "timeslot": null,
-      "date": "1999-03-20",
-      "path": "1999/03/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990320.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-26",
-      "path": "1999/03/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990326.htm"
-    },
-    {
-      "special": "James & Nicky from Manic Street Preachers guest program rage",
-      "timeslot": null,
-      "date": "1999-03-27",
-      "path": "1999/03/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990327.htm"
     },
     {
       "special": "Billy Bragg guest programs rage",
@@ -1765,69 +1765,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000527.htm"
     },
     {
-      "special": "rage plays A Perfect Circle, Tool & Others",
-      "timeslot": null,
-      "date": "2000-07-01",
-      "path": "2000/07/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000701.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-07-07",
-      "path": "2000/07/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000707.htm"
-    },
-    {
-      "special": "Moby guest programs rage",
-      "timeslot": null,
-      "date": "2000-07-08",
-      "path": "2000/07/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000708.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-07-14",
-      "path": "2000/07/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000714.htm"
-    },
-    {
-      "special": "rage plays a covers special.",
-      "timeslot": null,
-      "date": "2000-07-15",
-      "path": "2000/07/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000715.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-07-21",
-      "path": "2000/07/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000721.htm"
-    },
-    {
-      "special": "Friendly guest program rage",
-      "timeslot": null,
-      "date": "2000-07-22",
-      "path": "2000/07/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000722.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-07-28",
-      "path": "2000/07/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000728.htm"
-    },
-    {
-      "special": "28 Days guest program rage",
-      "timeslot": null,
-      "date": "2000-07-29",
-      "path": "2000/07/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000729.htm"
-    },
-    {
       "special": null,
       "timeslot": null,
       "date": "2000-06-02",
@@ -1889,6 +1826,69 @@
       "date": "2000-06-30",
       "path": "2000/06/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000630.htm"
+    },
+    {
+      "special": "rage plays A Perfect Circle, Tool & Others",
+      "timeslot": null,
+      "date": "2000-07-01",
+      "path": "2000/07/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000701.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-07-07",
+      "path": "2000/07/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000707.htm"
+    },
+    {
+      "special": "Moby guest programs rage",
+      "timeslot": null,
+      "date": "2000-07-08",
+      "path": "2000/07/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000708.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-07-14",
+      "path": "2000/07/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000714.htm"
+    },
+    {
+      "special": "rage plays a covers special.",
+      "timeslot": null,
+      "date": "2000-07-15",
+      "path": "2000/07/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000715.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-07-21",
+      "path": "2000/07/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000721.htm"
+    },
+    {
+      "special": "Friendly guest program rage",
+      "timeslot": null,
+      "date": "2000-07-22",
+      "path": "2000/07/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000722.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-07-28",
+      "path": "2000/07/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000728.htm"
+    },
+    {
+      "special": "28 Days guest program rage",
+      "timeslot": null,
+      "date": "2000-07-29",
+      "path": "2000/07/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000729.htm"
     },
     {
       "special": null,
@@ -24468,160 +24468,6 @@
     {
       "special": "New Music Show",
       "timeslot": "night",
-      "date": "2020-10-02",
-      "path": "2020/10/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-2-october-2020-on-abc-1/12726632"
-    },
-    {
-      "special": "Charts, The VAULT, NIDA x triple j unearthed videos, No Doubt Special",
-      "timeslot": "morning",
-      "date": "2020-10-03",
-      "path": "2020/10/03_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-3-october-2020-on-abc-1/12726662"
-    },
-    {
-      "special": "No Doubt Special on rage",
-      "timeslot": "night",
-      "date": "2020-10-03",
-      "path": "2020/10/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-october-2020-on-abc-1-(nt,-qld,-wa)/12726994"
-    },
-    {
-      "special": "No Doubt Special on rage",
-      "timeslot": "night",
-      "date": "2020-10-03",
-      "path": "2020/10/03_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-october-2020-on-abc-1-(act,-nsw,-sa,-tas,-vic)/12726950"
-    },
-    {
-      "special": "Charts",
-      "timeslot": "night",
-      "date": "2020-10-04",
-      "path": "2020/10/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-4-october-2020-on-abc-1/12727034"
-    },
-    {
-      "special": "The VAULT - Max Merritt Tribute, Helen Reddy Tribute",
-      "timeslot": "night",
-      "date": "2020-10-05",
-      "path": "2020/10/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-5-october-2020-on-abc-1/12727110"
-    },
-    {
-      "special": "Eddie Van Halen Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2020-10-09",
-      "path": "2020/10/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-october-2020-on-abc-1/12748774"
-    },
-    {
-      "special": "Charts, The VAULT, 80s & 90s Hip Hop Special",
-      "timeslot": "morning",
-      "date": "2020-10-10",
-      "path": "2020/10/10_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-october-2020-on-abc-1/12748790"
-    },
-    {
-      "special": "80s & 90s Hip Hop Special",
-      "timeslot": "night",
-      "date": "2020-10-10",
-      "path": "2020/10/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-october-2020-on-abc-1/12748866"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2020-10-11",
-      "path": "2020/10/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-11-october-2020-on-abc-1/12748910"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2020-10-12",
-      "path": "2020/10/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-october-2020-on-abc-1/12758384"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-10-16",
-      "path": "2020/10/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-october-2020-on-abc-1/12775512"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-10-17",
-      "path": "2020/10/17_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-17-october-2020-on-abc-1/12775644"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-10-17",
-      "path": "2020/10/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2020-on-abc-1-(act)/12775726"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-10-17",
-      "path": "2020/10/17_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2020-on-abc-1/12775682"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-10-23",
-      "path": "2020/10/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-23-october-2020-on-abc-1/12807816"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2020-10-24",
-      "path": "2020/10/24_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-24-october-2020-on-abc-1/12807864"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2020-10-24",
-      "path": "2020/10/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-october-2020-on-abc-1/12807920"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2020-10-30",
-      "path": "2020/10/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-october-2020-on-abc-1/12831532"
-    },
-    {
-      "special": "Charts, VAULT, New Music Videos, Rage Halloween Special with Alice Cooper",
-      "timeslot": "morning",
-      "date": "2020-10-31",
-      "path": "2020/10/31_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-31-october-2020-on-abc-1/12831666"
-    },
-    {
-      "special": "Rage Halloween Special with Alice Cooper",
-      "timeslot": "night",
-      "date": "2020-10-31",
-      "path": "2020/10/31_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2020-on-abc-1-(qld)/12831724"
-    },
-    {
-      "special": "Rage Halloween Special with Alice Cooper",
-      "timeslot": "night",
-      "date": "2020-10-31",
-      "path": "2020/10/31_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2020-on-abc-1/12831716"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
       "date": "2020-09-04",
       "path": "2020/09/04_night.json",
       "url": "https://www.abc.net.au/rage/playlist/friday-night-4-september-2020-on-abc-1/12630438"
@@ -24884,6 +24730,160 @@
       "date": "2020-11-30",
       "path": "2020/11/30_night.json",
       "url": "https://www.abc.net.au/rage/playlist/monday-night-30-november-2020-on-abc-1/12935988"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-02",
+      "path": "2020/10/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-2-october-2020-on-abc-1/12726632"
+    },
+    {
+      "special": "Charts, The VAULT, NIDA x triple j unearthed videos, No Doubt Special",
+      "timeslot": "morning",
+      "date": "2020-10-03",
+      "path": "2020/10/03_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-3-october-2020-on-abc-1/12726662"
+    },
+    {
+      "special": "No Doubt Special on rage",
+      "timeslot": "night",
+      "date": "2020-10-03",
+      "path": "2020/10/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-october-2020-on-abc-1-(nt,-qld,-wa)/12726994"
+    },
+    {
+      "special": "No Doubt Special on rage",
+      "timeslot": "night",
+      "date": "2020-10-03",
+      "path": "2020/10/03_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-october-2020-on-abc-1-(act,-nsw,-sa,-tas,-vic)/12726950"
+    },
+    {
+      "special": "Charts",
+      "timeslot": "night",
+      "date": "2020-10-04",
+      "path": "2020/10/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-4-october-2020-on-abc-1/12727034"
+    },
+    {
+      "special": "The VAULT - Max Merritt Tribute, Helen Reddy Tribute",
+      "timeslot": "night",
+      "date": "2020-10-05",
+      "path": "2020/10/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-5-october-2020-on-abc-1/12727110"
+    },
+    {
+      "special": "Eddie Van Halen Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-09",
+      "path": "2020/10/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-october-2020-on-abc-1/12748774"
+    },
+    {
+      "special": "Charts, The VAULT, 80s & 90s Hip Hop Special",
+      "timeslot": "morning",
+      "date": "2020-10-10",
+      "path": "2020/10/10_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-october-2020-on-abc-1/12748790"
+    },
+    {
+      "special": "80s & 90s Hip Hop Special",
+      "timeslot": "night",
+      "date": "2020-10-10",
+      "path": "2020/10/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-october-2020-on-abc-1/12748866"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2020-10-11",
+      "path": "2020/10/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-11-october-2020-on-abc-1/12748910"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2020-10-12",
+      "path": "2020/10/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-october-2020-on-abc-1/12758384"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-16",
+      "path": "2020/10/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-october-2020-on-abc-1/12775512"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-10-17",
+      "path": "2020/10/17_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-17-october-2020-on-abc-1/12775644"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-10-17",
+      "path": "2020/10/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2020-on-abc-1-(act)/12775726"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-10-17",
+      "path": "2020/10/17_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-october-2020-on-abc-1/12775682"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-23",
+      "path": "2020/10/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-23-october-2020-on-abc-1/12807816"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2020-10-24",
+      "path": "2020/10/24_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-24-october-2020-on-abc-1/12807864"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2020-10-24",
+      "path": "2020/10/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-october-2020-on-abc-1/12807920"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2020-10-30",
+      "path": "2020/10/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-october-2020-on-abc-1/12831532"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Rage Halloween Special with Alice Cooper",
+      "timeslot": "morning",
+      "date": "2020-10-31",
+      "path": "2020/10/31_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-31-october-2020-on-abc-1/12831666"
+    },
+    {
+      "special": "Rage Halloween Special with Alice Cooper",
+      "timeslot": "night",
+      "date": "2020-10-31",
+      "path": "2020/10/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2020-on-abc-1-(qld)/12831724"
+    },
+    {
+      "special": "Rage Halloween Special with Alice Cooper",
+      "timeslot": "night",
+      "date": "2020-10-31",
+      "path": "2020/10/31_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-31-october-2020-on-abc-1/12831716"
     },
     {
       "special": "New Music Show",
