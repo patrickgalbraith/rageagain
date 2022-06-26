@@ -491,6 +491,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980829.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-04",
+      "path": "1998/09/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
+    },
+    {
+      "special": "Female Bands, Artists & Lead Singers special",
+      "timeslot": null,
+      "date": "1998-09-05",
+      "path": "1998/09/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-11",
+      "path": "1998/09/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
+    },
+    {
+      "special": "Snout guest program rage followed by a Powderfinger special ",
+      "timeslot": null,
+      "date": "1998-09-12",
+      "path": "1998/09/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-18",
+      "path": "1998/09/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
+    },
+    {
+      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
+      "timeslot": null,
+      "date": "1998-09-19",
+      "path": "1998/09/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-25",
+      "path": "1998/09/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
+    },
+    {
+      "special": "Jeff Buckley special followed by Livid Festival special",
+      "timeslot": null,
+      "date": "1998-09-26",
+      "path": "1998/09/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
+    },
+    {
       "special": "Paul McDermott & Mikey Robins guest program rage",
       "timeslot": null,
       "date": "1998-10-03",
@@ -559,62 +615,6 @@
       "date": "1998-10-31",
       "path": "1998/10/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981031.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-04",
-      "path": "1998/09/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
-    },
-    {
-      "special": "Female Bands, Artists & Lead Singers special",
-      "timeslot": null,
-      "date": "1998-09-05",
-      "path": "1998/09/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-11",
-      "path": "1998/09/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
-    },
-    {
-      "special": "Snout guest program rage followed by a Powderfinger special ",
-      "timeslot": null,
-      "date": "1998-09-12",
-      "path": "1998/09/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-18",
-      "path": "1998/09/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
-    },
-    {
-      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
-      "timeslot": null,
-      "date": "1998-09-19",
-      "path": "1998/09/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-25",
-      "path": "1998/09/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
-    },
-    {
-      "special": "Jeff Buckley special followed by Livid Festival special",
-      "timeslot": null,
-      "date": "1998-09-26",
-      "path": "1998/09/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
     },
     {
       "special": null,
@@ -1354,62 +1354,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1999-12-03",
-      "path": "1999/12/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991203.htm"
-    },
-    {
-      "special": "Beastie Boys Special followed by a repeat of Blink 182's guest programming",
-      "timeslot": null,
-      "date": "1999-12-04",
-      "path": "1999/12/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991204.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-12-10",
-      "path": "1999/12/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991210.htm"
-    },
-    {
-      "special": "Act Your Rage - songs as voted on the net",
-      "timeslot": null,
-      "date": "1999-12-11",
-      "path": "1999/12/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991211.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-12-17",
-      "path": "1999/12/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991217.htm"
-    },
-    {
-      "special": "Killing Heidi guest program rage",
-      "timeslot": null,
-      "date": "1999-12-18",
-      "path": "1999/12/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991218.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-12-24",
-      "path": "1999/12/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991224.htm"
-    },
-    {
-      "special": "Best of 1999 rage Guest Programmers",
-      "timeslot": null,
-      "date": "1999-12-25",
-      "path": "1999/12/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991225.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1999-11-05",
       "path": "1999/11/05.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991105.htm"
@@ -1462,6 +1406,62 @@
       "date": "1999-11-27",
       "path": "1999/11/27.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991127.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-12-03",
+      "path": "1999/12/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991203.htm"
+    },
+    {
+      "special": "Beastie Boys Special followed by a repeat of Blink 182's guest programming",
+      "timeslot": null,
+      "date": "1999-12-04",
+      "path": "1999/12/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991204.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-12-10",
+      "path": "1999/12/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991210.htm"
+    },
+    {
+      "special": "Act Your Rage - songs as voted on the net",
+      "timeslot": null,
+      "date": "1999-12-11",
+      "path": "1999/12/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991211.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-12-17",
+      "path": "1999/12/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991217.htm"
+    },
+    {
+      "special": "Killing Heidi guest program rage",
+      "timeslot": null,
+      "date": "1999-12-18",
+      "path": "1999/12/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991218.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-12-24",
+      "path": "1999/12/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991224.htm"
+    },
+    {
+      "special": "Best of 1999 rage Guest Programmers",
+      "timeslot": null,
+      "date": "1999-12-25",
+      "path": "1999/12/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991225.htm"
     },
     {
       "special": "music from the 50's, 60's, 70's, 80's & 90's",
@@ -2255,6 +2255,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010127.htm"
     },
     {
+      "special": "Triple j's Hottest 100",
+      "timeslot": null,
+      "date": "2001-02-02",
+      "path": "2001/02/02.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010202.htm"
+    },
+    {
+      "special": "Triple j's Hottest 100 (Part 2)",
+      "timeslot": null,
+      "date": "2001-02-03",
+      "path": "2001/02/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010203.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-02-09",
+      "path": "2001/02/09.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010209.htm"
+    },
+    {
+      "special": "GTK, Hitscene, Countdown & Rock Arena episodes",
+      "timeslot": null,
+      "date": "2001-02-10",
+      "path": "2001/02/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010210.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-02-16",
+      "path": "2001/02/16.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010216.htm"
+    },
+    {
+      "special": "Boss Hog guest program",
+      "timeslot": null,
+      "date": "2001-02-17",
+      "path": "2001/02/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010217.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-02-23",
+      "path": "2001/02/23.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010223.htm"
+    },
+    {
+      "special": "Coldplay guest program",
+      "timeslot": null,
+      "date": "2001-02-24",
+      "path": "2001/02/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010224.htm"
+    },
+    {
       "special": null,
       "timeslot": null,
       "date": "2001-03-02",
@@ -2323,62 +2379,6 @@
       "date": "2001-03-31",
       "path": "2001/03/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010331.htm"
-    },
-    {
-      "special": "Triple j's Hottest 100",
-      "timeslot": null,
-      "date": "2001-02-02",
-      "path": "2001/02/02.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010202.htm"
-    },
-    {
-      "special": "Triple j's Hottest 100 (Part 2)",
-      "timeslot": null,
-      "date": "2001-02-03",
-      "path": "2001/02/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010203.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-02-09",
-      "path": "2001/02/09.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010209.htm"
-    },
-    {
-      "special": "GTK, Hitscene, Countdown & Rock Arena episodes",
-      "timeslot": null,
-      "date": "2001-02-10",
-      "path": "2001/02/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010210.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-02-16",
-      "path": "2001/02/16.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010216.htm"
-    },
-    {
-      "special": "Boss Hog guest program",
-      "timeslot": null,
-      "date": "2001-02-17",
-      "path": "2001/02/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010217.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-02-23",
-      "path": "2001/02/23.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010223.htm"
-    },
-    {
-      "special": "Coldplay guest program",
-      "timeslot": null,
-      "date": "2001-02-24",
-      "path": "2001/02/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010224.htm"
     },
     {
       "special": null,
