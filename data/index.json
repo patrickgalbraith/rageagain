@@ -185,6 +185,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "1998-04-03",
+      "path": "1998/04/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980403.htm"
+    },
+    {
+      "special": "The Whitlams guest program rage",
+      "timeslot": null,
+      "date": "1998-04-04",
+      "path": "1998/04/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980404.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-04-10",
+      "path": "1998/04/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980410.htm"
+    },
+    {
+      "special": "Repeat of Devo guest programming",
+      "timeslot": null,
+      "date": "1998-04-11",
+      "path": "1998/04/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980411.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-04-17",
+      "path": "1998/04/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980417.htm"
+    },
+    {
+      "special": "Garbage special + Tanya Donelly guest programs rage",
+      "timeslot": null,
+      "date": "1998-04-18",
+      "path": "1998/04/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980418.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-04-24",
+      "path": "1998/04/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980424.htm"
+    },
+    {
+      "special": "Green Day guest program rage",
+      "timeslot": null,
+      "date": "1998-04-25",
+      "path": "1998/04/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980425.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "1998-05-01",
       "path": "1998/05/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980501.htm"
@@ -251,62 +307,6 @@
       "date": "1998-05-30",
       "path": "1998/05/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980530.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-04-03",
-      "path": "1998/04/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980403.htm"
-    },
-    {
-      "special": "The Whitlams guest program rage",
-      "timeslot": null,
-      "date": "1998-04-04",
-      "path": "1998/04/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980404.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-04-10",
-      "path": "1998/04/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980410.htm"
-    },
-    {
-      "special": "Repeat of Devo guest programming",
-      "timeslot": null,
-      "date": "1998-04-11",
-      "path": "1998/04/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980411.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-04-17",
-      "path": "1998/04/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980417.htm"
-    },
-    {
-      "special": "Garbage special + Tanya Donelly guest programs rage",
-      "timeslot": null,
-      "date": "1998-04-18",
-      "path": "1998/04/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980418.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-04-24",
-      "path": "1998/04/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980424.htm"
-    },
-    {
-      "special": "Green Day guest program rage",
-      "timeslot": null,
-      "date": "1998-04-25",
-      "path": "1998/04/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980425.htm"
     },
     {
       "special": "Triple J Hottest 100 Of All Time (100 to 51)",
@@ -491,6 +491,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980829.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-04",
+      "path": "1998/09/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
+    },
+    {
+      "special": "Female Bands, Artists & Lead Singers special",
+      "timeslot": null,
+      "date": "1998-09-05",
+      "path": "1998/09/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-11",
+      "path": "1998/09/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
+    },
+    {
+      "special": "Snout guest program rage followed by a Powderfinger special ",
+      "timeslot": null,
+      "date": "1998-09-12",
+      "path": "1998/09/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-18",
+      "path": "1998/09/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
+    },
+    {
+      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
+      "timeslot": null,
+      "date": "1998-09-19",
+      "path": "1998/09/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-25",
+      "path": "1998/09/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
+    },
+    {
+      "special": "Jeff Buckley special followed by Livid Festival special",
+      "timeslot": null,
+      "date": "1998-09-26",
+      "path": "1998/09/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
+    },
+    {
       "special": "Paul McDermott & Mikey Robins guest program rage",
       "timeslot": null,
       "date": "1998-10-03",
@@ -559,62 +615,6 @@
       "date": "1998-10-31",
       "path": "1998/10/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981031.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-04",
-      "path": "1998/09/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
-    },
-    {
-      "special": "Female Bands, Artists & Lead Singers special",
-      "timeslot": null,
-      "date": "1998-09-05",
-      "path": "1998/09/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-11",
-      "path": "1998/09/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
-    },
-    {
-      "special": "Snout guest program rage followed by a Powderfinger special ",
-      "timeslot": null,
-      "date": "1998-09-12",
-      "path": "1998/09/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-18",
-      "path": "1998/09/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
-    },
-    {
-      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
-      "timeslot": null,
-      "date": "1998-09-19",
-      "path": "1998/09/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-25",
-      "path": "1998/09/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
-    },
-    {
-      "special": "Jeff Buckley special followed by Livid Festival special",
-      "timeslot": null,
-      "date": "1998-09-26",
-      "path": "1998/09/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
     },
     {
       "special": null,
