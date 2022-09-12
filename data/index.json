@@ -12531,90 +12531,6 @@
       "url": "http://www.abc.net.au/rage/archive/s3745952.htm"
     },
     {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-03",
-      "path": "2013/05/03_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3751096.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2013-05-04",
-      "path": "2013/05/04_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3751260.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-04",
-      "path": "2013/05/04_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3751284.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-10",
-      "path": "2013/05/10_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3756457.htm"
-    },
-    {
-      "special": "Vampire Weekend",
-      "timeslot": "morning",
-      "date": "2013-05-11",
-      "path": "2013/05/11_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3756466.htm"
-    },
-    {
-      "special": "Vampire Weekend",
-      "timeslot": "night",
-      "date": "2013-05-11",
-      "path": "2013/05/11_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3756488.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-17",
-      "path": "2013/05/17_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3761690.htm"
-    },
-    {
-      "special": "Chris Bailey from The Saints",
-      "timeslot": "night",
-      "date": "2013-05-18",
-      "path": "2013/05/18_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3761718.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-24",
-      "path": "2013/05/24_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3766847.htm"
-    },
-    {
-      "special": "Liars",
-      "timeslot": "morning",
-      "date": "2013-05-25",
-      "path": "2013/05/25_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3766853.htm"
-    },
-    {
-      "special": "Liars",
-      "timeslot": "night",
-      "date": "2013-05-25",
-      "path": "2013/05/25_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3766862.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-05-31",
-      "path": "2013/05/31_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3772056.htm"
-    },
-    {
       "special": "FOALS guest program rage",
       "timeslot": "morning",
       "date": "2013-06-01",
@@ -12711,6 +12627,90 @@
       "date": "2013-06-29",
       "path": "2013/06/29_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3790718.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-03",
+      "path": "2013/05/03_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3751096.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2013-05-04",
+      "path": "2013/05/04_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3751260.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-04",
+      "path": "2013/05/04_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3751284.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-10",
+      "path": "2013/05/10_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3756457.htm"
+    },
+    {
+      "special": "Vampire Weekend",
+      "timeslot": "morning",
+      "date": "2013-05-11",
+      "path": "2013/05/11_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3756466.htm"
+    },
+    {
+      "special": "Vampire Weekend",
+      "timeslot": "night",
+      "date": "2013-05-11",
+      "path": "2013/05/11_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3756488.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-17",
+      "path": "2013/05/17_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3761690.htm"
+    },
+    {
+      "special": "Chris Bailey from The Saints",
+      "timeslot": "night",
+      "date": "2013-05-18",
+      "path": "2013/05/18_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3761718.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-24",
+      "path": "2013/05/24_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3766847.htm"
+    },
+    {
+      "special": "Liars",
+      "timeslot": "morning",
+      "date": "2013-05-25",
+      "path": "2013/05/25_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3766853.htm"
+    },
+    {
+      "special": "Liars",
+      "timeslot": "night",
+      "date": "2013-05-25",
+      "path": "2013/05/25_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3766862.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-05-31",
+      "path": "2013/05/31_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3772056.htm"
     },
     {
       "special": null,
