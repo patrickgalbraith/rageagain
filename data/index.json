@@ -619,62 +619,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1998-11-06",
-      "path": "1998/11/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981106.htm"
-    },
-    {
-      "special": "The Living End guest program rage",
-      "timeslot": null,
-      "date": "1998-11-07",
-      "path": "1998/11/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981107.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-13",
-      "path": "1998/11/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981113.htm"
-    },
-    {
-      "special": "The Cruel Sea guest program rage",
-      "timeslot": null,
-      "date": "1998-11-14",
-      "path": "1998/11/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981114.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-20",
-      "path": "1998/11/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981120.htm"
-    },
-    {
-      "special": "Rage Album special, INXS mini-special, followed by The Dandy Warhols guest programming",
-      "timeslot": null,
-      "date": "1998-11-21",
-      "path": "1998/11/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981121.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-27",
-      "path": "1998/11/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981127.htm"
-    },
-    {
-      "special": "Richard Kingsmill guest programs rage for Australian Music Week",
-      "timeslot": null,
-      "date": "1998-11-28",
-      "path": "1998/11/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981128.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1998-12-04",
       "path": "1998/12/04.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981204.htm"
@@ -727,6 +671,62 @@
       "date": "1998-12-26",
       "path": "1998/12/26.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981226.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-06",
+      "path": "1998/11/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981106.htm"
+    },
+    {
+      "special": "The Living End guest program rage",
+      "timeslot": null,
+      "date": "1998-11-07",
+      "path": "1998/11/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981107.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-13",
+      "path": "1998/11/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981113.htm"
+    },
+    {
+      "special": "The Cruel Sea guest program rage",
+      "timeslot": null,
+      "date": "1998-11-14",
+      "path": "1998/11/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981114.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-20",
+      "path": "1998/11/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981120.htm"
+    },
+    {
+      "special": "Rage Album special, INXS mini-special, followed by The Dandy Warhols guest programming",
+      "timeslot": null,
+      "date": "1998-11-21",
+      "path": "1998/11/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981121.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-27",
+      "path": "1998/11/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981127.htm"
+    },
+    {
+      "special": "Richard Kingsmill guest programs rage for Australian Music Week",
+      "timeslot": null,
+      "date": "1998-11-28",
+      "path": "1998/11/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981128.htm"
     },
     {
       "special": null,
@@ -1529,62 +1529,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2000-02-04",
-      "path": "2000/02/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000204.htm"
-    },
-    {
-      "special": "Suede guest program rage (repeat)",
-      "timeslot": null,
-      "date": "2000-02-05",
-      "path": "2000/02/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000205.htm"
-    },
-    {
-      "special": "Triple j's Hottest 100",
-      "timeslot": null,
-      "date": "2000-02-11",
-      "path": "2000/02/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000211.htm"
-    },
-    {
-      "special": "Triple j's Hottest 100 (Part 2)",
-      "timeslot": null,
-      "date": "2000-02-12",
-      "path": "2000/02/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000212.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-02-18",
-      "path": "2000/02/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000218.htm"
-    },
-    {
-      "special": "1.5 hour Madonna special\nfollowed by Female Artists, Bands & Lead Singers.",
-      "timeslot": null,
-      "date": "2000-02-19",
-      "path": "2000/02/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000219.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-02-25",
-      "path": "2000/02/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000225.htm"
-    },
-    {
-      "special": "Trent Reznor from NIN guest programs rage",
-      "timeslot": null,
-      "date": "2000-02-26",
-      "path": "2000/02/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000226.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2000-03-03",
       "path": "2000/03/03.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000303.htm"
@@ -1644,6 +1588,62 @@
       "date": "2000-03-31",
       "path": "2000/03/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000331.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-02-04",
+      "path": "2000/02/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000204.htm"
+    },
+    {
+      "special": "Suede guest program rage (repeat)",
+      "timeslot": null,
+      "date": "2000-02-05",
+      "path": "2000/02/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000205.htm"
+    },
+    {
+      "special": "Triple j's Hottest 100",
+      "timeslot": null,
+      "date": "2000-02-11",
+      "path": "2000/02/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000211.htm"
+    },
+    {
+      "special": "Triple j's Hottest 100 (Part 2)",
+      "timeslot": null,
+      "date": "2000-02-12",
+      "path": "2000/02/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000212.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-02-18",
+      "path": "2000/02/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000218.htm"
+    },
+    {
+      "special": "1.5 hour Madonna special\nfollowed by Female Artists, Bands & Lead Singers.",
+      "timeslot": null,
+      "date": "2000-02-19",
+      "path": "2000/02/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000219.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-02-25",
+      "path": "2000/02/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000225.htm"
+    },
+    {
+      "special": "Trent Reznor from NIN guest programs rage",
+      "timeslot": null,
+      "date": "2000-02-26",
+      "path": "2000/02/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000226.htm"
     },
     {
       "special": "Beth Orton guest programs\nfollowed by Portishead & PJ Harvey videos.",
