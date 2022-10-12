@@ -241,6 +241,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "1998-06-05",
+      "path": "1998/06/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980605.htm"
+    },
+    {
+      "special": "Smashing Pumpkins special",
+      "timeslot": null,
+      "date": "1998-06-06",
+      "path": "1998/06/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980606.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-12",
+      "path": "1998/06/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980612.htm"
+    },
+    {
+      "special": "Frenzal Rhomb guest program rage",
+      "timeslot": null,
+      "date": "1998-06-13",
+      "path": "1998/06/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980613.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-19",
+      "path": "1998/06/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980619.htm"
+    },
+    {
+      "special": "Nick Cave Short Film + Australian Music special",
+      "timeslot": null,
+      "date": "1998-06-20",
+      "path": "1998/06/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980620.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-26",
+      "path": "1998/06/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980626.htm"
+    },
+    {
+      "special": "Blink 182 guest program rage",
+      "timeslot": null,
+      "date": "1998-06-27",
+      "path": "1998/06/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980627.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "1998-05-01",
       "path": "1998/05/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980501.htm"
@@ -307,62 +363,6 @@
       "date": "1998-05-30",
       "path": "1998/05/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980530.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-05",
-      "path": "1998/06/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980605.htm"
-    },
-    {
-      "special": "Smashing Pumpkins special",
-      "timeslot": null,
-      "date": "1998-06-06",
-      "path": "1998/06/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980606.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-12",
-      "path": "1998/06/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980612.htm"
-    },
-    {
-      "special": "Frenzal Rhomb guest program rage",
-      "timeslot": null,
-      "date": "1998-06-13",
-      "path": "1998/06/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980613.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-19",
-      "path": "1998/06/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980619.htm"
-    },
-    {
-      "special": "Nick Cave Short Film + Australian Music special",
-      "timeslot": null,
-      "date": "1998-06-20",
-      "path": "1998/06/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980620.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-26",
-      "path": "1998/06/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980626.htm"
-    },
-    {
-      "special": "Blink 182 guest program rage",
-      "timeslot": null,
-      "date": "1998-06-27",
-      "path": "1998/06/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980627.htm"
     },
     {
       "special": "Triple J Hottest 100 Of All Time (100 to 51)",
@@ -547,6 +547,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-06",
+      "path": "1998/11/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981106.htm"
+    },
+    {
+      "special": "The Living End guest program rage",
+      "timeslot": null,
+      "date": "1998-11-07",
+      "path": "1998/11/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981107.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-13",
+      "path": "1998/11/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981113.htm"
+    },
+    {
+      "special": "The Cruel Sea guest program rage",
+      "timeslot": null,
+      "date": "1998-11-14",
+      "path": "1998/11/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981114.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-20",
+      "path": "1998/11/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981120.htm"
+    },
+    {
+      "special": "Rage Album special, INXS mini-special, followed by The Dandy Warhols guest programming",
+      "timeslot": null,
+      "date": "1998-11-21",
+      "path": "1998/11/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981121.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-27",
+      "path": "1998/11/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981127.htm"
+    },
+    {
+      "special": "Richard Kingsmill guest programs rage for Australian Music Week",
+      "timeslot": null,
+      "date": "1998-11-28",
+      "path": "1998/11/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981128.htm"
+    },
+    {
       "special": "Paul McDermott & Mikey Robins guest program rage",
       "timeslot": null,
       "date": "1998-10-03",
@@ -615,62 +671,6 @@
       "date": "1998-10-31",
       "path": "1998/10/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981031.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-06",
-      "path": "1998/11/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981106.htm"
-    },
-    {
-      "special": "The Living End guest program rage",
-      "timeslot": null,
-      "date": "1998-11-07",
-      "path": "1998/11/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981107.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-13",
-      "path": "1998/11/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981113.htm"
-    },
-    {
-      "special": "The Cruel Sea guest program rage",
-      "timeslot": null,
-      "date": "1998-11-14",
-      "path": "1998/11/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981114.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-20",
-      "path": "1998/11/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981120.htm"
-    },
-    {
-      "special": "Rage Album special, INXS mini-special, followed by The Dandy Warhols guest programming",
-      "timeslot": null,
-      "date": "1998-11-21",
-      "path": "1998/11/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981121.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-27",
-      "path": "1998/11/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981127.htm"
-    },
-    {
-      "special": "Richard Kingsmill guest programs rage for Australian Music Week",
-      "timeslot": null,
-      "date": "1998-11-28",
-      "path": "1998/11/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981128.htm"
     },
     {
       "special": null,
@@ -1284,62 +1284,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1999-11-05",
-      "path": "1999/11/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991105.htm"
-    },
-    {
-      "special": "Mercury Rev guest program rage",
-      "timeslot": null,
-      "date": "1999-11-06",
-      "path": "1999/11/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991106.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-12",
-      "path": "1999/11/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991112.htm"
-    },
-    {
-      "special": "Garbage guest program rage",
-      "timeslot": null,
-      "date": "1999-11-13",
-      "path": "1999/11/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991113.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-19",
-      "path": "1999/11/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991119.htm"
-    },
-    {
-      "special": "The Songs Most Chosen by rage Guest Programmers",
-      "timeslot": null,
-      "date": "1999-11-20",
-      "path": "1999/11/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991120.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-11-26",
-      "path": "1999/11/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991126.htm"
-    },
-    {
-      "special": "repeat of silverchair guest programming rage",
-      "timeslot": null,
-      "date": "1999-11-27",
-      "path": "1999/11/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991127.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1999-10-01",
       "path": "1999/10/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991001.htm"
@@ -1406,6 +1350,62 @@
       "date": "1999-10-30",
       "path": "1999/10/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991030.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-05",
+      "path": "1999/11/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991105.htm"
+    },
+    {
+      "special": "Mercury Rev guest program rage",
+      "timeslot": null,
+      "date": "1999-11-06",
+      "path": "1999/11/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991106.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-12",
+      "path": "1999/11/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991112.htm"
+    },
+    {
+      "special": "Garbage guest program rage",
+      "timeslot": null,
+      "date": "1999-11-13",
+      "path": "1999/11/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991113.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-19",
+      "path": "1999/11/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991119.htm"
+    },
+    {
+      "special": "The Songs Most Chosen by rage Guest Programmers",
+      "timeslot": null,
+      "date": "1999-11-20",
+      "path": "1999/11/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991120.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-11-26",
+      "path": "1999/11/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991126.htm"
+    },
+    {
+      "special": "repeat of silverchair guest programming rage",
+      "timeslot": null,
+      "date": "1999-11-27",
+      "path": "1999/11/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19991127.htm"
     },
     {
       "special": null,
@@ -2019,62 +2019,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2000-11-03",
-      "path": "2000/11/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001103.htm"
-    },
-    {
-      "special": "Aria Top 30 only due to short program",
-      "timeslot": null,
-      "date": "2000-11-04",
-      "path": "2000/11/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001104.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-11-10",
-      "path": "2000/11/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001110.htm"
-    },
-    {
-      "special": "Fatboy Slim guest programs",
-      "timeslot": null,
-      "date": "2000-11-11",
-      "path": "2000/11/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001111.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-11-17",
-      "path": "2000/11/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001117.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-11-18",
-      "path": "2000/11/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001118.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-11-24",
-      "path": "2000/11/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001124.htm"
-    },
-    {
-      "special": "Australian bands & artists",
-      "timeslot": null,
-      "date": "2000-11-25",
-      "path": "2000/11/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001125.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2000-10-06",
       "path": "2000/10/06.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001006.htm"
@@ -2127,6 +2071,62 @@
       "date": "2000-10-28",
       "path": "2000/10/28.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001028.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-11-03",
+      "path": "2000/11/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001103.htm"
+    },
+    {
+      "special": "Aria Top 30 only due to short program",
+      "timeslot": null,
+      "date": "2000-11-04",
+      "path": "2000/11/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001104.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-11-10",
+      "path": "2000/11/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001110.htm"
+    },
+    {
+      "special": "Fatboy Slim guest programs",
+      "timeslot": null,
+      "date": "2000-11-11",
+      "path": "2000/11/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001111.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-11-17",
+      "path": "2000/11/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001117.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-11-18",
+      "path": "2000/11/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001118.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-11-24",
+      "path": "2000/11/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001124.htm"
+    },
+    {
+      "special": "Australian bands & artists",
+      "timeslot": null,
+      "date": "2000-11-25",
+      "path": "2000/11/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001125.htm"
     },
     {
       "special": null,
@@ -25048,272 +25048,6 @@
     },
     {
       "special": null,
-      "timeslot": "morning",
-      "date": "2022-01-01",
-      "path": "2022/01/01_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-january-2022-on-abc-1/13684160"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2022-01-01",
-      "path": "2022/01/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-january-2022-on-abc-1/13684176"
-    },
-    {
-      "special": "Music Videos of 2021",
-      "timeslot": "night",
-      "date": "2022-01-02",
-      "path": "2022/01/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-january-2022-on-abc-1/13684184"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2022-01-03",
-      "path": "2022/01/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-january-2022-on-abc-1/13684188"
-    },
-    {
-      "special": "Music Videos of 2021",
-      "timeslot": "night",
-      "date": "2022-01-07",
-      "path": "2022/01/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-january-2022-on-abc-1/13684192"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2022-01-08",
-      "path": "2022/01/08_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-january-2022-on-abc-1/13684194"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2022-01-08",
-      "path": "2022/01/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-january-2022-on-abc-1/13684196"
-    },
-    {
-      "special": "Music Videos of 2021",
-      "timeslot": "night",
-      "date": "2022-01-09",
-      "path": "2022/01/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-9-january-2022-on-abc-1/13684198"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2022-01-10",
-      "path": "2022/01/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-january-2022-on-abc-1/13686366"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2022-01-14",
-      "path": "2022/01/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-january-2022-on-abc-1/13705902"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2022-01-15",
-      "path": "2022/01/15_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-january-2022-on-abc-1/13705916"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2022-01-15",
-      "path": "2022/01/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-january-2022-on-abc-1/13705922"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2022-01-16",
-      "path": "2022/01/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-january-2022-on-abc-1/13705926"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2022-01-17",
-      "path": "2022/01/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-january-2022-on-abc-1/13706030"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2022-01-21",
-      "path": "2022/01/21_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-january-2022-on-abc-1/13723752"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2022-01-22",
-      "path": "2022/01/22_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-january-2022-on-abc-1/13723754"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2022-01-22",
-      "path": "2022/01/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-january-2022-on-abc-1/13723758"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2022-01-23",
-      "path": "2022/01/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-january-2022-on-abc-1/13723778"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2022-01-24",
-      "path": "2022/01/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-january-2022-on-abc-1/13723890"
-    },
-    {
-      "special": "rage presents triple j's Hottest 100 of 2021",
-      "timeslot": "night",
-      "date": "2022-01-28",
-      "path": "2022/01/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-28-january-2022-on-abc-1/13732022"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2022-01-29",
-      "path": "2022/01/29_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-january-29-2022-on-abc-1/13732044"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2022-01-29",
-      "path": "2022/01/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-january-2022-on-abc-1/13732050"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2022-01-30",
-      "path": "2022/01/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-30-january-2022-on-abc-1/13732236"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2022-01-31",
-      "path": "2022/01/31_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-31-january-2022-on-abc-1/13732274"
-    },
-    {
-      "special": "Glenn Wheatley Tribute, New Music Show",
-      "timeslot": "night",
-      "date": "2022-02-04",
-      "path": "2022/02/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-february-2022-on-abc-tv/13741522"
-    },
-    {
-      "special": "Charts, rage Goes Retro, Best New Music Videos, The VAULT",
-      "timeslot": "morning",
-      "date": "2022-02-05",
-      "path": "2022/02/05_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-february-2022-on-abc-tv/13741524"
-    },
-    {
-      "special": "Retro Month 2022: Week One",
-      "timeslot": "night",
-      "date": "2022-02-05",
-      "path": "2022/02/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-february-2022-on-abc-tv/13741526"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2022-02-06",
-      "path": "2022/02/06_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-february-2022-on-abc-tv/13741530"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2022-02-07",
-      "path": "2022/02/07_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-7-february-2022-on-abc-tv/13741540"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2022-02-11",
-      "path": "2022/02/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-11-february-2022-on-abc-tv/13751028"
-    },
-    {
-      "special": "Charts, rage Goes Retro, Best New Music Videos, The VAULT",
-      "timeslot": "morning",
-      "date": "2022-02-12",
-      "path": "2022/02/12_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-12-february-2022-on-abc-tv/13751052"
-    },
-    {
-      "special": "Retro Month 2022: Week Two",
-      "timeslot": "night",
-      "date": "2022-02-12",
-      "path": "2022/02/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-12-february-2022-on-abc-tv/13751054"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2022-02-13",
-      "path": "2022/02/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-13-february-2022-on-abc-tv/13751056"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2022-02-14",
-      "path": "2022/02/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-14-febrary-2022-on-abc-tv/13751060"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2022-02-18",
-      "path": "2022/02/18_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-february-2022-on-abc-tv/13760908"
-    },
-    {
-      "special": "Charts, rage Goes Retro, Best New Music Videos, The VAULT",
-      "timeslot": "morning",
-      "date": "2022-02-19",
-      "path": "2022/02/19_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19-february-2022-on-abc-tv/13760920"
-    },
-    {
-      "special": "Retro Month 2022: Week Three",
-      "timeslot": "night",
-      "date": "2022-02-19",
-      "path": "2022/02/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-february-2022-on-abc-tv/13760928"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2022-02-20",
-      "path": "2022/02/20_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-february-2022-on-abc-1/13761232"
-    },
-    {
-      "special": null,
       "timeslot": "night",
       "date": "2021-01-01",
       "path": "2021/01/01_night.json",
@@ -27152,6 +26886,272 @@
       "date": "2021-12-31",
       "path": "2021/12/31_night.json",
       "url": "https://www.abc.net.au/rage/playlist/friday-night-31-december-2021-on-abc-1/13683932"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2022-01-01",
+      "path": "2022/01/01_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-1-january-2022-on-abc-1/13684160"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2022-01-01",
+      "path": "2022/01/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-1-january-2022-on-abc-1/13684176"
+    },
+    {
+      "special": "Music Videos of 2021",
+      "timeslot": "night",
+      "date": "2022-01-02",
+      "path": "2022/01/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-2-january-2022-on-abc-1/13684184"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2022-01-03",
+      "path": "2022/01/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-3-january-2022-on-abc-1/13684188"
+    },
+    {
+      "special": "Music Videos of 2021",
+      "timeslot": "night",
+      "date": "2022-01-07",
+      "path": "2022/01/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-7-january-2022-on-abc-1/13684192"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2022-01-08",
+      "path": "2022/01/08_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-8-january-2022-on-abc-1/13684194"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2022-01-08",
+      "path": "2022/01/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-8-january-2022-on-abc-1/13684196"
+    },
+    {
+      "special": "Music Videos of 2021",
+      "timeslot": "night",
+      "date": "2022-01-09",
+      "path": "2022/01/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-9-january-2022-on-abc-1/13684198"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2022-01-10",
+      "path": "2022/01/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-10-january-2022-on-abc-1/13686366"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2022-01-14",
+      "path": "2022/01/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-14-january-2022-on-abc-1/13705902"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2022-01-15",
+      "path": "2022/01/15_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-15-january-2022-on-abc-1/13705916"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2022-01-15",
+      "path": "2022/01/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-15-january-2022-on-abc-1/13705922"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-01-16",
+      "path": "2022/01/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-16-january-2022-on-abc-1/13705926"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2022-01-17",
+      "path": "2022/01/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-17-january-2022-on-abc-1/13706030"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2022-01-21",
+      "path": "2022/01/21_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-21-january-2022-on-abc-1/13723752"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2022-01-22",
+      "path": "2022/01/22_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-22-january-2022-on-abc-1/13723754"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2022-01-22",
+      "path": "2022/01/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-22-january-2022-on-abc-1/13723758"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-01-23",
+      "path": "2022/01/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-23-january-2022-on-abc-1/13723778"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2022-01-24",
+      "path": "2022/01/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-24-january-2022-on-abc-1/13723890"
+    },
+    {
+      "special": "rage presents triple j's Hottest 100 of 2021",
+      "timeslot": "night",
+      "date": "2022-01-28",
+      "path": "2022/01/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-28-january-2022-on-abc-1/13732022"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2022-01-29",
+      "path": "2022/01/29_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-january-29-2022-on-abc-1/13732044"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2022-01-29",
+      "path": "2022/01/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-january-2022-on-abc-1/13732050"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-01-30",
+      "path": "2022/01/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-30-january-2022-on-abc-1/13732236"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2022-01-31",
+      "path": "2022/01/31_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-31-january-2022-on-abc-1/13732274"
+    },
+    {
+      "special": "Glenn Wheatley Tribute, New Music Show",
+      "timeslot": "night",
+      "date": "2022-02-04",
+      "path": "2022/02/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-4-february-2022-on-abc-tv/13741522"
+    },
+    {
+      "special": "Charts, rage Goes Retro, Best New Music Videos, The VAULT",
+      "timeslot": "morning",
+      "date": "2022-02-05",
+      "path": "2022/02/05_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-5-february-2022-on-abc-tv/13741524"
+    },
+    {
+      "special": "Retro Month 2022: Week One",
+      "timeslot": "night",
+      "date": "2022-02-05",
+      "path": "2022/02/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-5-february-2022-on-abc-tv/13741526"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-02-06",
+      "path": "2022/02/06_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-6-february-2022-on-abc-tv/13741530"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2022-02-07",
+      "path": "2022/02/07_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-7-february-2022-on-abc-tv/13741540"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2022-02-11",
+      "path": "2022/02/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-11-february-2022-on-abc-tv/13751028"
+    },
+    {
+      "special": "Charts, rage Goes Retro, Best New Music Videos, The VAULT",
+      "timeslot": "morning",
+      "date": "2022-02-12",
+      "path": "2022/02/12_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-12-february-2022-on-abc-tv/13751052"
+    },
+    {
+      "special": "Retro Month 2022: Week Two",
+      "timeslot": "night",
+      "date": "2022-02-12",
+      "path": "2022/02/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-12-february-2022-on-abc-tv/13751054"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-02-13",
+      "path": "2022/02/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-13-february-2022-on-abc-tv/13751056"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2022-02-14",
+      "path": "2022/02/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-14-febrary-2022-on-abc-tv/13751060"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2022-02-18",
+      "path": "2022/02/18_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-18-february-2022-on-abc-tv/13760908"
+    },
+    {
+      "special": "Charts, rage Goes Retro, Best New Music Videos, The VAULT",
+      "timeslot": "morning",
+      "date": "2022-02-19",
+      "path": "2022/02/19_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-19-february-2022-on-abc-tv/13760920"
+    },
+    {
+      "special": "Retro Month 2022: Week Three",
+      "timeslot": "night",
+      "date": "2022-02-19",
+      "path": "2022/02/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-19-february-2022-on-abc-tv/13760928"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2022-02-20",
+      "path": "2022/02/20_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-20-february-2022-on-abc-1/13761232"
     }
   ]
 }
