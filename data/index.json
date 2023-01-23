@@ -73,62 +73,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1998-02-06",
-      "path": "1998/02/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980206.htm"
-    },
-    {
-      "special": "INXS Special",
-      "timeslot": null,
-      "date": "1998-02-07",
-      "path": "1998/02/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980207.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-02-13",
-      "path": "1998/02/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980213.htm"
-    },
-    {
-      "special": "Ben Harper & The Innocent Criminals guest program rage",
-      "timeslot": null,
-      "date": "1998-02-14",
-      "path": "1998/02/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980214.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 (100 to 51)",
-      "timeslot": null,
-      "date": "1998-02-20",
-      "path": "1998/02/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980220.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 (50 to 1)",
-      "timeslot": null,
-      "date": "1998-02-21",
-      "path": "1998/02/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980221.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-02-27",
-      "path": "1998/02/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980227.htm"
-    },
-    {
-      "special": "Mardi Gras Dance Music Special",
-      "timeslot": null,
-      "date": "1998-02-28",
-      "path": "1998/02/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980228.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1998-03-06",
       "path": "1998/03/06.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980306.htm"
@@ -181,6 +125,62 @@
       "date": "1998-03-28",
       "path": "1998/03/28.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980328.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-02-06",
+      "path": "1998/02/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980206.htm"
+    },
+    {
+      "special": "INXS Special",
+      "timeslot": null,
+      "date": "1998-02-07",
+      "path": "1998/02/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980207.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-02-13",
+      "path": "1998/02/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980213.htm"
+    },
+    {
+      "special": "Ben Harper & The Innocent Criminals guest program rage",
+      "timeslot": null,
+      "date": "1998-02-14",
+      "path": "1998/02/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980214.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 (100 to 51)",
+      "timeslot": null,
+      "date": "1998-02-20",
+      "path": "1998/02/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980220.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 (50 to 1)",
+      "timeslot": null,
+      "date": "1998-02-21",
+      "path": "1998/02/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980221.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-02-27",
+      "path": "1998/02/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980227.htm"
+    },
+    {
+      "special": "Mardi Gras Dance Music Special",
+      "timeslot": null,
+      "date": "1998-02-28",
+      "path": "1998/02/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980228.htm"
     },
     {
       "special": null,
