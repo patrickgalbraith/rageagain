@@ -73,62 +73,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1998-02-06",
-      "path": "1998/02/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980206.htm"
-    },
-    {
-      "special": "INXS Special",
-      "timeslot": null,
-      "date": "1998-02-07",
-      "path": "1998/02/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980207.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-02-13",
-      "path": "1998/02/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980213.htm"
-    },
-    {
-      "special": "Ben Harper & The Innocent Criminals guest program rage",
-      "timeslot": null,
-      "date": "1998-02-14",
-      "path": "1998/02/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980214.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 (100 to 51)",
-      "timeslot": null,
-      "date": "1998-02-20",
-      "path": "1998/02/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980220.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 (50 to 1)",
-      "timeslot": null,
-      "date": "1998-02-21",
-      "path": "1998/02/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980221.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-02-27",
-      "path": "1998/02/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980227.htm"
-    },
-    {
-      "special": "Mardi Gras Dance Music Special",
-      "timeslot": null,
-      "date": "1998-02-28",
-      "path": "1998/02/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980228.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1998-03-06",
       "path": "1998/03/06.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980306.htm"
@@ -181,6 +125,62 @@
       "date": "1998-03-28",
       "path": "1998/03/28.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980328.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-02-06",
+      "path": "1998/02/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980206.htm"
+    },
+    {
+      "special": "INXS Special",
+      "timeslot": null,
+      "date": "1998-02-07",
+      "path": "1998/02/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980207.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-02-13",
+      "path": "1998/02/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980213.htm"
+    },
+    {
+      "special": "Ben Harper & The Innocent Criminals guest program rage",
+      "timeslot": null,
+      "date": "1998-02-14",
+      "path": "1998/02/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980214.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 (100 to 51)",
+      "timeslot": null,
+      "date": "1998-02-20",
+      "path": "1998/02/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980220.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 (50 to 1)",
+      "timeslot": null,
+      "date": "1998-02-21",
+      "path": "1998/02/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980221.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-02-27",
+      "path": "1998/02/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980227.htm"
+    },
+    {
+      "special": "Mardi Gras Dance Music Special",
+      "timeslot": null,
+      "date": "1998-02-28",
+      "path": "1998/02/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980228.htm"
     },
     {
       "special": null,
@@ -309,6 +309,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980530.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-05",
+      "path": "1998/06/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980605.htm"
+    },
+    {
+      "special": "Smashing Pumpkins special",
+      "timeslot": null,
+      "date": "1998-06-06",
+      "path": "1998/06/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980606.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-12",
+      "path": "1998/06/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980612.htm"
+    },
+    {
+      "special": "Frenzal Rhomb guest program rage",
+      "timeslot": null,
+      "date": "1998-06-13",
+      "path": "1998/06/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980613.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-19",
+      "path": "1998/06/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980619.htm"
+    },
+    {
+      "special": "Nick Cave Short Film + Australian Music special",
+      "timeslot": null,
+      "date": "1998-06-20",
+      "path": "1998/06/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980620.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-26",
+      "path": "1998/06/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980626.htm"
+    },
+    {
+      "special": "Blink 182 guest program rage",
+      "timeslot": null,
+      "date": "1998-06-27",
+      "path": "1998/06/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980627.htm"
+    },
+    {
       "special": "Triple J Hottest 100 Of All Time (100 to 51)",
       "timeslot": null,
       "date": "1998-07-03",
@@ -370,62 +426,6 @@
       "date": "1998-07-31",
       "path": "1998/07/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980731.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-05",
-      "path": "1998/06/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980605.htm"
-    },
-    {
-      "special": "Smashing Pumpkins special",
-      "timeslot": null,
-      "date": "1998-06-06",
-      "path": "1998/06/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980606.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-12",
-      "path": "1998/06/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980612.htm"
-    },
-    {
-      "special": "Frenzal Rhomb guest program rage",
-      "timeslot": null,
-      "date": "1998-06-13",
-      "path": "1998/06/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980613.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-19",
-      "path": "1998/06/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980619.htm"
-    },
-    {
-      "special": "Nick Cave Short Film + Australian Music special",
-      "timeslot": null,
-      "date": "1998-06-20",
-      "path": "1998/06/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980620.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-26",
-      "path": "1998/06/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980626.htm"
-    },
-    {
-      "special": "Blink 182 guest program rage",
-      "timeslot": null,
-      "date": "1998-06-27",
-      "path": "1998/06/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980627.htm"
     },
     {
       "special": "Repeat of Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest programming ",
@@ -1711,62 +1711,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2000-05-05",
-      "path": "2000/05/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000505.htm"
-    },
-    {
-      "special": "sonicanimation guest program\nfollowed by sonicanimation videos",
-      "timeslot": null,
-      "date": "2000-05-06",
-      "path": "2000/05/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000506.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-12",
-      "path": "2000/05/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000512.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-13",
-      "path": "2000/05/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000513.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-19",
-      "path": "2000/05/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000519.htm"
-    },
-    {
-      "special": "Norman Cook aka. Fatboy Slim special\nincluding videos from Beats International, Pizzaman, Freakpower, The Housemartins & others",
-      "timeslot": null,
-      "date": "2000-05-20",
-      "path": "2000/05/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000520.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-05-26",
-      "path": "2000/05/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000526.htm"
-    },
-    {
-      "special": "Jeff Buckley, Ben Harper & Red Hot Chili Peppers",
-      "timeslot": null,
-      "date": "2000-05-27",
-      "path": "2000/05/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000527.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2000-06-02",
       "path": "2000/06/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000602.htm"
@@ -1826,6 +1770,62 @@
       "date": "2000-06-30",
       "path": "2000/06/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000630.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-05",
+      "path": "2000/05/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000505.htm"
+    },
+    {
+      "special": "sonicanimation guest program\nfollowed by sonicanimation videos",
+      "timeslot": null,
+      "date": "2000-05-06",
+      "path": "2000/05/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000506.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-12",
+      "path": "2000/05/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000512.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-13",
+      "path": "2000/05/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000513.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-19",
+      "path": "2000/05/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000519.htm"
+    },
+    {
+      "special": "Norman Cook aka. Fatboy Slim special\nincluding videos from Beats International, Pizzaman, Freakpower, The Housemartins & others",
+      "timeslot": null,
+      "date": "2000-05-20",
+      "path": "2000/05/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000520.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-05-26",
+      "path": "2000/05/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000526.htm"
+    },
+    {
+      "special": "Jeff Buckley, Ben Harper & Red Hot Chili Peppers",
+      "timeslot": null,
+      "date": "2000-05-27",
+      "path": "2000/05/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000527.htm"
     },
     {
       "special": "rage plays A Perfect Circle, Tool & Others",
