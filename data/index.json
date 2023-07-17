@@ -808,62 +808,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1999-03-05",
-      "path": "1999/03/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990305.htm"
-    },
-    {
-      "special": "silverchair, Grinspoon and Korn Special",
-      "timeslot": null,
-      "date": "1999-03-06",
-      "path": "1999/03/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990306.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-12",
-      "path": "1999/03/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990312.htm"
-    },
-    {
-      "special": "Triple J Hottest 100",
-      "timeslot": null,
-      "date": "1999-03-13",
-      "path": "1999/03/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990313.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-19",
-      "path": "1999/03/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990319.htm"
-    },
-    {
-      "special": "Huey from Fun Lovin' Criminals guest programs rage",
-      "timeslot": null,
-      "date": "1999-03-20",
-      "path": "1999/03/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990320.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-26",
-      "path": "1999/03/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990326.htm"
-    },
-    {
-      "special": "James & Nicky from Manic Street Preachers guest program rage",
-      "timeslot": null,
-      "date": "1999-03-27",
-      "path": "1999/03/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990327.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1999-02-05",
       "path": "1999/02/05.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990205.htm"
@@ -916,6 +860,62 @@
       "date": "1999-02-27",
       "path": "1999/02/27.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990227.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-05",
+      "path": "1999/03/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990305.htm"
+    },
+    {
+      "special": "silverchair, Grinspoon and Korn Special",
+      "timeslot": null,
+      "date": "1999-03-06",
+      "path": "1999/03/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990306.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-12",
+      "path": "1999/03/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990312.htm"
+    },
+    {
+      "special": "Triple J Hottest 100",
+      "timeslot": null,
+      "date": "1999-03-13",
+      "path": "1999/03/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990313.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-19",
+      "path": "1999/03/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990319.htm"
+    },
+    {
+      "special": "Huey from Fun Lovin' Criminals guest programs rage",
+      "timeslot": null,
+      "date": "1999-03-20",
+      "path": "1999/03/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990320.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-26",
+      "path": "1999/03/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990326.htm"
+    },
+    {
+      "special": "James & Nicky from Manic Street Preachers guest program rage",
+      "timeslot": null,
+      "date": "1999-03-27",
+      "path": "1999/03/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990327.htm"
     },
     {
       "special": null,
@@ -5685,6 +5685,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050930.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-04",
+      "path": "2005/11/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051104.htm"
+    },
+    {
+      "special": "Sarah Blasko guest programs",
+      "timeslot": null,
+      "date": "2005-11-05",
+      "path": "2005/11/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051105.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-11",
+      "path": "2005/11/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051111.htm"
+    },
+    {
+      "special": "Spiderbait guest programs",
+      "timeslot": null,
+      "date": "2005-11-12",
+      "path": "2005/11/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051112.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-18",
+      "path": "2005/11/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051118.htm"
+    },
+    {
+      "special": "New Releases only due to tennis coverage",
+      "timeslot": null,
+      "date": "2005-11-19",
+      "path": "2005/11/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051119.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-25",
+      "path": "2005/11/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051125.htm"
+    },
+    {
+      "special": "Bernard Fanning guest programs",
+      "timeslot": null,
+      "date": "2005-11-26",
+      "path": "2005/11/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051126.htm"
+    },
+    {
       "special": "Queens Of The Stone Age guest program",
       "timeslot": null,
       "date": "2005-10-01",
@@ -5746,62 +5802,6 @@
       "date": "2005-10-29",
       "path": "2005/10/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051029.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-04",
-      "path": "2005/11/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051104.htm"
-    },
-    {
-      "special": "Sarah Blasko guest programs",
-      "timeslot": null,
-      "date": "2005-11-05",
-      "path": "2005/11/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051105.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-11",
-      "path": "2005/11/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051111.htm"
-    },
-    {
-      "special": "Spiderbait guest programs",
-      "timeslot": null,
-      "date": "2005-11-12",
-      "path": "2005/11/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051112.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-18",
-      "path": "2005/11/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051118.htm"
-    },
-    {
-      "special": "New Releases only due to tennis coverage",
-      "timeslot": null,
-      "date": "2005-11-19",
-      "path": "2005/11/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051119.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-25",
-      "path": "2005/11/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051125.htm"
-    },
-    {
-      "special": "Bernard Fanning guest programs",
-      "timeslot": null,
-      "date": "2005-11-26",
-      "path": "2005/11/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051126.htm"
     },
     {
       "special": null,
@@ -8263,62 +8263,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2009-04-03",
-      "path": "2009/04/03.json",
-      "url": "http://www.abc.net.au/rage/archive/s2534147.htm"
-    },
-    {
-      "special": "Lawrence Leung",
-      "timeslot": null,
-      "date": "2009-04-04",
-      "path": "2009/04/04.json",
-      "url": "http://www.abc.net.au/rage/archive/s2534151.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-04-10",
-      "path": "2009/04/10.json",
-      "url": "http://www.abc.net.au/rage/archive/s2539733.htm"
-    },
-    {
-      "special": "Bullet For My Valentine",
-      "timeslot": null,
-      "date": "2009-04-11",
-      "path": "2009/04/11.json",
-      "url": "http://www.abc.net.au/rage/archive/s2539749.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-04-17",
-      "path": "2009/04/17.json",
-      "url": "http://www.abc.net.au/rage/archive/s2545772.htm"
-    },
-    {
-      "special": "Justin Vernon from Bon Iver",
-      "timeslot": null,
-      "date": "2009-04-18",
-      "path": "2009/04/18.json",
-      "url": "http://www.abc.net.au/rage/archive/s2545783.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2009-04-24",
-      "path": "2009/04/24.json",
-      "url": "http://www.abc.net.au/rage/archive/s2551669.htm"
-    },
-    {
-      "special": "Wildcard Special #3",
-      "timeslot": null,
-      "date": "2009-04-25",
-      "path": "2009/04/25.json",
-      "url": "http://www.abc.net.au/rage/archive/s2551677.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2009-05-01",
       "path": "2009/05/01.json",
       "url": "http://www.abc.net.au/rage/archive/s2558080.htm"
@@ -8385,6 +8329,62 @@
       "date": "2009-05-30",
       "path": "2009/05/30.json",
       "url": "http://www.abc.net.au/rage/archive/s2584300.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-04-03",
+      "path": "2009/04/03.json",
+      "url": "http://www.abc.net.au/rage/archive/s2534147.htm"
+    },
+    {
+      "special": "Lawrence Leung",
+      "timeslot": null,
+      "date": "2009-04-04",
+      "path": "2009/04/04.json",
+      "url": "http://www.abc.net.au/rage/archive/s2534151.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-04-10",
+      "path": "2009/04/10.json",
+      "url": "http://www.abc.net.au/rage/archive/s2539733.htm"
+    },
+    {
+      "special": "Bullet For My Valentine",
+      "timeslot": null,
+      "date": "2009-04-11",
+      "path": "2009/04/11.json",
+      "url": "http://www.abc.net.au/rage/archive/s2539749.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-04-17",
+      "path": "2009/04/17.json",
+      "url": "http://www.abc.net.au/rage/archive/s2545772.htm"
+    },
+    {
+      "special": "Justin Vernon from Bon Iver",
+      "timeslot": null,
+      "date": "2009-04-18",
+      "path": "2009/04/18.json",
+      "url": "http://www.abc.net.au/rage/archive/s2545783.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2009-04-24",
+      "path": "2009/04/24.json",
+      "url": "http://www.abc.net.au/rage/archive/s2551669.htm"
+    },
+    {
+      "special": "Wildcard Special #3",
+      "timeslot": null,
+      "date": "2009-04-25",
+      "path": "2009/04/25.json",
+      "url": "http://www.abc.net.au/rage/archive/s2551677.htm"
     },
     {
       "special": null,
