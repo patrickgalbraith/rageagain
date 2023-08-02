@@ -309,6 +309,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980530.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-05",
+      "path": "1998/06/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980605.htm"
+    },
+    {
+      "special": "Smashing Pumpkins special",
+      "timeslot": null,
+      "date": "1998-06-06",
+      "path": "1998/06/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980606.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-12",
+      "path": "1998/06/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980612.htm"
+    },
+    {
+      "special": "Frenzal Rhomb guest program rage",
+      "timeslot": null,
+      "date": "1998-06-13",
+      "path": "1998/06/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980613.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-19",
+      "path": "1998/06/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980619.htm"
+    },
+    {
+      "special": "Nick Cave Short Film + Australian Music special",
+      "timeslot": null,
+      "date": "1998-06-20",
+      "path": "1998/06/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980620.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-26",
+      "path": "1998/06/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980626.htm"
+    },
+    {
+      "special": "Blink 182 guest program rage",
+      "timeslot": null,
+      "date": "1998-06-27",
+      "path": "1998/06/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980627.htm"
+    },
+    {
       "special": "Triple J Hottest 100 Of All Time (100 to 51)",
       "timeslot": null,
       "date": "1998-07-03",
@@ -370,62 +426,6 @@
       "date": "1998-07-31",
       "path": "1998/07/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980731.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-05",
-      "path": "1998/06/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980605.htm"
-    },
-    {
-      "special": "Smashing Pumpkins special",
-      "timeslot": null,
-      "date": "1998-06-06",
-      "path": "1998/06/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980606.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-12",
-      "path": "1998/06/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980612.htm"
-    },
-    {
-      "special": "Frenzal Rhomb guest program rage",
-      "timeslot": null,
-      "date": "1998-06-13",
-      "path": "1998/06/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980613.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-19",
-      "path": "1998/06/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980619.htm"
-    },
-    {
-      "special": "Nick Cave Short Film + Australian Music special",
-      "timeslot": null,
-      "date": "1998-06-20",
-      "path": "1998/06/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980620.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-26",
-      "path": "1998/06/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980626.htm"
-    },
-    {
-      "special": "Blink 182 guest program rage",
-      "timeslot": null,
-      "date": "1998-06-27",
-      "path": "1998/06/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980627.htm"
     },
     {
       "special": "Repeat of Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest programming ",
@@ -5134,76 +5134,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2005-01-01",
-      "path": "2005/01/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-01",
-      "path": "2005/01/01_2.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-07",
-      "path": "2005/01/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050107.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-08",
-      "path": "2005/01/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050108.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-14",
-      "path": "2005/01/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050114.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-15",
-      "path": "2005/01/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050115.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-21",
-      "path": "2005/01/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050121.htm"
-    },
-    {
-      "special": "Big Day Out Special",
-      "timeslot": null,
-      "date": "2005-01-22",
-      "path": "2005/01/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050122.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-01-28",
-      "path": "2005/01/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050128.htm"
-    },
-    {
-      "special": "Episodes of Countdown & Rock Arena",
-      "timeslot": null,
-      "date": "2005-01-29",
-      "path": "2005/01/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050129.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2005-02-04",
       "path": "2005/02/04.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050204.htm"
@@ -5312,6 +5242,76 @@
       "date": "2005-03-26",
       "path": "2005/03/26.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050326.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-01",
+      "path": "2005/01/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-01",
+      "path": "2005/01/01_2.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050101.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-07",
+      "path": "2005/01/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050107.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-08",
+      "path": "2005/01/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050108.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-14",
+      "path": "2005/01/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050114.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-15",
+      "path": "2005/01/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050115.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-21",
+      "path": "2005/01/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050121.htm"
+    },
+    {
+      "special": "Big Day Out Special",
+      "timeslot": null,
+      "date": "2005-01-22",
+      "path": "2005/01/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050122.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-01-28",
+      "path": "2005/01/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050128.htm"
+    },
+    {
+      "special": "Episodes of Countdown & Rock Arena",
+      "timeslot": null,
+      "date": "2005-01-29",
+      "path": "2005/01/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20050129.htm"
     },
     {
       "special": null,
