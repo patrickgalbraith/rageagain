@@ -808,62 +808,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1999-03-05",
-      "path": "1999/03/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990305.htm"
-    },
-    {
-      "special": "silverchair, Grinspoon and Korn Special",
-      "timeslot": null,
-      "date": "1999-03-06",
-      "path": "1999/03/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990306.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-12",
-      "path": "1999/03/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990312.htm"
-    },
-    {
-      "special": "Triple J Hottest 100",
-      "timeslot": null,
-      "date": "1999-03-13",
-      "path": "1999/03/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990313.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-19",
-      "path": "1999/03/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990319.htm"
-    },
-    {
-      "special": "Huey from Fun Lovin' Criminals guest programs rage",
-      "timeslot": null,
-      "date": "1999-03-20",
-      "path": "1999/03/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990320.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1999-03-26",
-      "path": "1999/03/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990326.htm"
-    },
-    {
-      "special": "James & Nicky from Manic Street Preachers guest program rage",
-      "timeslot": null,
-      "date": "1999-03-27",
-      "path": "1999/03/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990327.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1999-02-05",
       "path": "1999/02/05.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990205.htm"
@@ -916,6 +860,62 @@
       "date": "1999-02-27",
       "path": "1999/02/27.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990227.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-05",
+      "path": "1999/03/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990305.htm"
+    },
+    {
+      "special": "silverchair, Grinspoon and Korn Special",
+      "timeslot": null,
+      "date": "1999-03-06",
+      "path": "1999/03/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990306.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-12",
+      "path": "1999/03/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990312.htm"
+    },
+    {
+      "special": "Triple J Hottest 100",
+      "timeslot": null,
+      "date": "1999-03-13",
+      "path": "1999/03/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990313.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-19",
+      "path": "1999/03/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990319.htm"
+    },
+    {
+      "special": "Huey from Fun Lovin' Criminals guest programs rage",
+      "timeslot": null,
+      "date": "1999-03-20",
+      "path": "1999/03/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990320.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1999-03-26",
+      "path": "1999/03/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990326.htm"
+    },
+    {
+      "special": "James & Nicky from Manic Street Preachers guest program rage",
+      "timeslot": null,
+      "date": "1999-03-27",
+      "path": "1999/03/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990327.htm"
     },
     {
       "special": null,
