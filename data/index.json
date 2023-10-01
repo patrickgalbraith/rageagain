@@ -1828,6 +1828,62 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000630.htm"
     },
     {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-08-04",
+      "path": "2000/08/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000804.htm"
+    },
+    {
+      "special": "Gomez guest program",
+      "timeslot": null,
+      "date": "2000-08-05",
+      "path": "2000/08/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000805.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-08-11",
+      "path": "2000/08/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000811.htm"
+    },
+    {
+      "special": "A Perfect Circle guest program",
+      "timeslot": null,
+      "date": "2000-08-12",
+      "path": "2000/08/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000812.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-08-18",
+      "path": "2000/08/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000818.htm"
+    },
+    {
+      "special": "80's Special",
+      "timeslot": null,
+      "date": "2000-08-19",
+      "path": "2000/08/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000819.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2000-08-25",
+      "path": "2000/08/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000825.htm"
+    },
+    {
+      "special": "Scottish & Welsh Bands Special",
+      "timeslot": null,
+      "date": "2000-08-26",
+      "path": "2000/08/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000826.htm"
+    },
+    {
       "special": "rage plays A Perfect Circle, Tool & Others",
       "timeslot": null,
       "date": "2000-07-01",
@@ -1889,62 +1945,6 @@
       "date": "2000-07-29",
       "path": "2000/07/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000729.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-08-04",
-      "path": "2000/08/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000804.htm"
-    },
-    {
-      "special": "Gomez guest program",
-      "timeslot": null,
-      "date": "2000-08-05",
-      "path": "2000/08/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000805.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-08-11",
-      "path": "2000/08/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000811.htm"
-    },
-    {
-      "special": "A Perfect Circle guest program",
-      "timeslot": null,
-      "date": "2000-08-12",
-      "path": "2000/08/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000812.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-08-18",
-      "path": "2000/08/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000818.htm"
-    },
-    {
-      "special": "80's Special",
-      "timeslot": null,
-      "date": "2000-08-19",
-      "path": "2000/08/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000819.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2000-08-25",
-      "path": "2000/08/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000825.htm"
-    },
-    {
-      "special": "Scottish & Welsh Bands Special",
-      "timeslot": null,
-      "date": "2000-08-26",
-      "path": "2000/08/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2000/20000826.htm"
     },
     {
       "special": null,
