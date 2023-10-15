@@ -16390,6 +16390,118 @@
     {
       "special": null,
       "timeslot": "night",
+      "date": "2016-08-05",
+      "path": "2016/08/05_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4514232.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2016-08-06",
+      "path": "2016/08/06_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4514233.htm"
+    },
+    {
+      "special": "Gypsy and the Cat",
+      "timeslot": "night",
+      "date": "2016-08-06",
+      "path": "2016/08/06_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4514239.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-08-07",
+      "path": "2016/08/07_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4514240.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-08-12",
+      "path": "2016/08/12_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4518729.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2016-08-13",
+      "path": "2016/08/13_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4518741.htm"
+    },
+    {
+      "special": "The Recovery Special",
+      "timeslot": "night",
+      "date": "2016-08-13",
+      "path": "2016/08/13_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4518736.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-08-14",
+      "path": "2016/08/14_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4518745.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-08-19",
+      "path": "2016/08/19_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4523305.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2016-08-20",
+      "path": "2016/08/20_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4523307.htm"
+    },
+    {
+      "special": "Bernard Fanning",
+      "timeslot": "night",
+      "date": "2016-08-20",
+      "path": "2016/08/20_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4523314.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-08-21",
+      "path": "2016/08/21_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4523318.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-08-26",
+      "path": "2016/08/26_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4527560.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2016-08-27",
+      "path": "2016/08/27_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s4527564.htm"
+    },
+    {
+      "special": "James Vincent McMorrow",
+      "timeslot": "night",
+      "date": "2016-08-27",
+      "path": "2016/08/27_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4527562.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2016-08-28",
+      "path": "2016/08/28_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s4527565.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
       "date": "2016-07-01",
       "path": "2016/07/01_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4492949.htm"
@@ -16526,118 +16638,6 @@
       "date": "2016-07-31",
       "path": "2016/07/31_night.json",
       "url": "http://www.abc.net.au/rage/archive/s4510224.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-08-05",
-      "path": "2016/08/05_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4514232.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2016-08-06",
-      "path": "2016/08/06_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4514233.htm"
-    },
-    {
-      "special": "Gypsy and the Cat",
-      "timeslot": "night",
-      "date": "2016-08-06",
-      "path": "2016/08/06_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4514239.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-08-07",
-      "path": "2016/08/07_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4514240.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-08-12",
-      "path": "2016/08/12_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4518729.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2016-08-13",
-      "path": "2016/08/13_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4518741.htm"
-    },
-    {
-      "special": "The Recovery Special",
-      "timeslot": "night",
-      "date": "2016-08-13",
-      "path": "2016/08/13_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4518736.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-08-14",
-      "path": "2016/08/14_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4518745.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-08-19",
-      "path": "2016/08/19_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4523305.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2016-08-20",
-      "path": "2016/08/20_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4523307.htm"
-    },
-    {
-      "special": "Bernard Fanning",
-      "timeslot": "night",
-      "date": "2016-08-20",
-      "path": "2016/08/20_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4523314.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-08-21",
-      "path": "2016/08/21_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4523318.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-08-26",
-      "path": "2016/08/26_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4527560.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2016-08-27",
-      "path": "2016/08/27_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s4527564.htm"
-    },
-    {
-      "special": "James Vincent McMorrow",
-      "timeslot": "night",
-      "date": "2016-08-27",
-      "path": "2016/08/27_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4527562.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2016-08-28",
-      "path": "2016/08/28_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s4527565.htm"
     },
     {
       "special": null,
