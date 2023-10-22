@@ -2313,6 +2313,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2001-04-06",
+      "path": "2001/04/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010406.htm"
+    },
+    {
+      "special": "Nick Cave special",
+      "timeslot": null,
+      "date": "2001-04-07",
+      "path": "2001/04/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010407.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-04-13",
+      "path": "2001/04/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010413.htm"
+    },
+    {
+      "special": "Lo-Tel guest program",
+      "timeslot": null,
+      "date": "2001-04-14",
+      "path": "2001/04/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010414.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-04-20",
+      "path": "2001/04/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010420.htm"
+    },
+    {
+      "special": "New Releases only due to short program",
+      "timeslot": null,
+      "date": "2001-04-21",
+      "path": "2001/04/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010421.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-04-27",
+      "path": "2001/04/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010427.htm"
+    },
+    {
+      "special": "At The Drive-In guest program",
+      "timeslot": null,
+      "date": "2001-04-28",
+      "path": "2001/04/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010428.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2001-03-02",
       "path": "2001/03/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010302.htm"
@@ -2379,62 +2435,6 @@
       "date": "2001-03-31",
       "path": "2001/03/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010331.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-04-06",
-      "path": "2001/04/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010406.htm"
-    },
-    {
-      "special": "Nick Cave special",
-      "timeslot": null,
-      "date": "2001-04-07",
-      "path": "2001/04/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010407.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-04-13",
-      "path": "2001/04/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010413.htm"
-    },
-    {
-      "special": "Lo-Tel guest program",
-      "timeslot": null,
-      "date": "2001-04-14",
-      "path": "2001/04/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010414.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-04-20",
-      "path": "2001/04/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010420.htm"
-    },
-    {
-      "special": "New Releases only due to short program",
-      "timeslot": null,
-      "date": "2001-04-21",
-      "path": "2001/04/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010421.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-04-27",
-      "path": "2001/04/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010427.htm"
-    },
-    {
-      "special": "At The Drive-In guest program",
-      "timeslot": null,
-      "date": "2001-04-28",
-      "path": "2001/04/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010428.htm"
     },
     {
       "special": null,
