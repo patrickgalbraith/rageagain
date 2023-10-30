@@ -73,62 +73,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "1998-03-06",
-      "path": "1998/03/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980306.htm"
-    },
-    {
-      "special": "Phil & Ed from Radiohead guest program rage",
-      "timeslot": null,
-      "date": "1998-03-07",
-      "path": "1998/03/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980307.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-03-13",
-      "path": "1998/03/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980313.htm"
-    },
-    {
-      "special": "Phil Jamieson & Joe Hansen from Grinspoon guest program rage",
-      "timeslot": null,
-      "date": "1998-03-14",
-      "path": "1998/03/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980314.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-03-20",
-      "path": "1998/03/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980320.htm"
-    },
-    {
-      "special": "Dave Grohl & Franz Stahl from Foo Fighters guest program rage",
-      "timeslot": null,
-      "date": "1998-03-21",
-      "path": "1998/03/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980321.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-03-27",
-      "path": "1998/03/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980327.htm"
-    },
-    {
-      "special": "Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest program rage",
-      "timeslot": null,
-      "date": "1998-03-28",
-      "path": "1998/03/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980328.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "1998-02-06",
       "path": "1998/02/06.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980206.htm"
@@ -181,6 +125,62 @@
       "date": "1998-02-28",
       "path": "1998/02/28.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980228.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-03-06",
+      "path": "1998/03/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980306.htm"
+    },
+    {
+      "special": "Phil & Ed from Radiohead guest program rage",
+      "timeslot": null,
+      "date": "1998-03-07",
+      "path": "1998/03/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980307.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-03-13",
+      "path": "1998/03/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980313.htm"
+    },
+    {
+      "special": "Phil Jamieson & Joe Hansen from Grinspoon guest program rage",
+      "timeslot": null,
+      "date": "1998-03-14",
+      "path": "1998/03/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980314.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-03-20",
+      "path": "1998/03/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980320.htm"
+    },
+    {
+      "special": "Dave Grohl & Franz Stahl from Foo Fighters guest program rage",
+      "timeslot": null,
+      "date": "1998-03-21",
+      "path": "1998/03/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980321.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-03-27",
+      "path": "1998/03/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980327.htm"
+    },
+    {
+      "special": "Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest program rage",
+      "timeslot": null,
+      "date": "1998-03-28",
+      "path": "1998/03/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980328.htm"
     },
     {
       "special": null,
@@ -7773,6 +7773,62 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "2008-09-05",
+      "path": "2008/09/05.json",
+      "url": "http://www.abc.net.au/rage/archive/s2356348.htm"
+    },
+    {
+      "special": "Tricky",
+      "timeslot": null,
+      "date": "2008-09-06",
+      "path": "2008/09/06.json",
+      "url": "http://www.abc.net.au/rage/archive/s2356352.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-09-12",
+      "path": "2008/09/12.json",
+      "url": "http://www.abc.net.au/rage/archive/s2362850.htm"
+    },
+    {
+      "special": "WILD CARD Special #2",
+      "timeslot": null,
+      "date": "2008-09-13",
+      "path": "2008/09/13.json",
+      "url": "http://www.abc.net.au/rage/archive/s2362858.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-09-19",
+      "path": "2008/09/19.json",
+      "url": "http://www.abc.net.au/rage/archive/s2368965.htm"
+    },
+    {
+      "special": "The Herd",
+      "timeslot": null,
+      "date": "2008-09-20",
+      "path": "2008/09/20.json",
+      "url": "http://www.abc.net.au/rage/archive/s2369002.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2008-09-26",
+      "path": "2008/09/26.json",
+      "url": "http://www.abc.net.au/rage/archive/s2375109.htm"
+    },
+    {
+      "special": "The Fratellis",
+      "timeslot": null,
+      "date": "2008-09-27",
+      "path": "2008/09/27.json",
+      "url": "http://www.abc.net.au/rage/archive/s2375119.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "2008-08-01",
       "path": "2008/08/01.json",
       "url": "http://www.abc.net.au/rage/archive/s2320191.htm"
@@ -7839,62 +7895,6 @@
       "date": "2008-08-30",
       "path": "2008/08/30.json",
       "url": "http://www.abc.net.au/rage/archive/s2349928.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-09-05",
-      "path": "2008/09/05.json",
-      "url": "http://www.abc.net.au/rage/archive/s2356348.htm"
-    },
-    {
-      "special": "Tricky",
-      "timeslot": null,
-      "date": "2008-09-06",
-      "path": "2008/09/06.json",
-      "url": "http://www.abc.net.au/rage/archive/s2356352.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-09-12",
-      "path": "2008/09/12.json",
-      "url": "http://www.abc.net.au/rage/archive/s2362850.htm"
-    },
-    {
-      "special": "WILD CARD Special #2",
-      "timeslot": null,
-      "date": "2008-09-13",
-      "path": "2008/09/13.json",
-      "url": "http://www.abc.net.au/rage/archive/s2362858.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-09-19",
-      "path": "2008/09/19.json",
-      "url": "http://www.abc.net.au/rage/archive/s2368965.htm"
-    },
-    {
-      "special": "The Herd",
-      "timeslot": null,
-      "date": "2008-09-20",
-      "path": "2008/09/20.json",
-      "url": "http://www.abc.net.au/rage/archive/s2369002.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2008-09-26",
-      "path": "2008/09/26.json",
-      "url": "http://www.abc.net.au/rage/archive/s2375109.htm"
-    },
-    {
-      "special": "The Fratellis",
-      "timeslot": null,
-      "date": "2008-09-27",
-      "path": "2008/09/27.json",
-      "url": "http://www.abc.net.au/rage/archive/s2375119.htm"
     },
     {
       "special": null,
