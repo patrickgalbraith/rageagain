@@ -12344,6 +12344,111 @@
     {
       "special": null,
       "timeslot": "night",
+      "date": "2013-03-01",
+      "path": "2013/03/01_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3104300.htm"
+    },
+    {
+      "special": "Mardi Gras on rage.",
+      "timeslot": "morning",
+      "date": "2013-03-02",
+      "path": "2013/03/02_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3701401.htm"
+    },
+    {
+      "special": "Mardi Gras on rage.",
+      "timeslot": "night",
+      "date": "2013-03-02",
+      "path": "2013/03/02_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3701477.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-03-08",
+      "path": "2013/03/08_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3710974.htm"
+    },
+    {
+      "special": "Mike Patton guest programs rage Saturday March 9th on ABC 1 from 11.30pm.",
+      "timeslot": "morning",
+      "date": "2013-03-09",
+      "path": "2013/03/09_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3711120.htm"
+    },
+    {
+      "special": "Mike Patton guest programs rage Saturday March 9th on ABC 1 from 11.30pm.",
+      "timeslot": "night",
+      "date": "2013-03-09",
+      "path": "2013/03/09_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3711234.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-03-15",
+      "path": "2013/03/15_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3716547.htm"
+    },
+    {
+      "special": "The Presets",
+      "timeslot": "morning",
+      "date": "2013-03-16",
+      "path": "2013/03/16_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3716553.htm"
+    },
+    {
+      "special": "The Presets",
+      "timeslot": "night",
+      "date": "2013-03-16",
+      "path": "2013/03/16_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s1975168.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-03-22",
+      "path": "2013/03/22_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3104315.htm"
+    },
+    {
+      "special": "Beach House",
+      "timeslot": "morning",
+      "date": "2013-03-23",
+      "path": "2013/03/23_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3721669.htm"
+    },
+    {
+      "special": "Beach House",
+      "timeslot": "night",
+      "date": "2013-03-23",
+      "path": "2013/03/23_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3604808.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2013-03-29",
+      "path": "2013/03/29_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3726072.htm"
+    },
+    {
+      "special": "Passion Of The Rage",
+      "timeslot": "morning",
+      "date": "2013-03-30",
+      "path": "2013/03/30_morning.json",
+      "url": "http://www.abc.net.au/rage/archive/s3726040.htm"
+    },
+    {
+      "special": "Passion Of The Rage",
+      "timeslot": "night",
+      "date": "2013-03-30",
+      "path": "2013/03/30_night.json",
+      "url": "http://www.abc.net.au/rage/archive/s3726037.htm"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
       "date": "2013-04-05",
       "path": "2013/04/05_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3730696.htm"
@@ -12606,111 +12711,6 @@
       "date": "2013-06-29",
       "path": "2013/06/29_night.json",
       "url": "http://www.abc.net.au/rage/archive/s3790718.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-01",
-      "path": "2013/03/01_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3104300.htm"
-    },
-    {
-      "special": "Mardi Gras on rage.",
-      "timeslot": "morning",
-      "date": "2013-03-02",
-      "path": "2013/03/02_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3701401.htm"
-    },
-    {
-      "special": "Mardi Gras on rage.",
-      "timeslot": "night",
-      "date": "2013-03-02",
-      "path": "2013/03/02_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3701477.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-08",
-      "path": "2013/03/08_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3710974.htm"
-    },
-    {
-      "special": "Mike Patton guest programs rage Saturday March 9th on ABC 1 from 11.30pm.",
-      "timeslot": "morning",
-      "date": "2013-03-09",
-      "path": "2013/03/09_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3711120.htm"
-    },
-    {
-      "special": "Mike Patton guest programs rage Saturday March 9th on ABC 1 from 11.30pm.",
-      "timeslot": "night",
-      "date": "2013-03-09",
-      "path": "2013/03/09_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3711234.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-15",
-      "path": "2013/03/15_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3716547.htm"
-    },
-    {
-      "special": "The Presets",
-      "timeslot": "morning",
-      "date": "2013-03-16",
-      "path": "2013/03/16_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3716553.htm"
-    },
-    {
-      "special": "The Presets",
-      "timeslot": "night",
-      "date": "2013-03-16",
-      "path": "2013/03/16_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s1975168.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-22",
-      "path": "2013/03/22_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3104315.htm"
-    },
-    {
-      "special": "Beach House",
-      "timeslot": "morning",
-      "date": "2013-03-23",
-      "path": "2013/03/23_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3721669.htm"
-    },
-    {
-      "special": "Beach House",
-      "timeslot": "night",
-      "date": "2013-03-23",
-      "path": "2013/03/23_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3604808.htm"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2013-03-29",
-      "path": "2013/03/29_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3726072.htm"
-    },
-    {
-      "special": "Passion Of The Rage",
-      "timeslot": "morning",
-      "date": "2013-03-30",
-      "path": "2013/03/30_morning.json",
-      "url": "http://www.abc.net.au/rage/archive/s3726040.htm"
-    },
-    {
-      "special": "Passion Of The Rage",
-      "timeslot": "night",
-      "date": "2013-03-30",
-      "path": "2013/03/30_night.json",
-      "url": "http://www.abc.net.au/rage/archive/s3726037.htm"
     },
     {
       "special": null,
