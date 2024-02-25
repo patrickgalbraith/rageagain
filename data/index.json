@@ -3,6 +3,734 @@
     {
       "special": null,
       "timeslot": null,
+      "date": "1998-01-02",
+      "path": "1998/01/02.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980102.htm"
+    },
+    {
+      "special": "LOUD special with silverchair, Grinspoon & other young Australian bands",
+      "timeslot": null,
+      "date": "1998-01-03",
+      "path": "1998/01/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980103.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-01-09",
+      "path": "1998/01/09.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980109.htm"
+    },
+    {
+      "special": "Countdown Special",
+      "timeslot": null,
+      "date": "1998-01-10",
+      "path": "1998/01/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980110.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-01-16",
+      "path": "1998/01/16.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980116.htm"
+    },
+    {
+      "special": "Countdown Special",
+      "timeslot": null,
+      "date": "1998-01-17",
+      "path": "1998/01/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980117.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-01-23",
+      "path": "1998/01/23.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980123.htm"
+    },
+    {
+      "special": "Countdown Special",
+      "timeslot": null,
+      "date": "1998-01-24",
+      "path": "1998/01/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980124.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-01-30",
+      "path": "1998/01/30.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980130.htm"
+    },
+    {
+      "special": "Countdown Special",
+      "timeslot": null,
+      "date": "1998-01-31",
+      "path": "1998/01/31.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980131.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-02-06",
+      "path": "1998/02/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980206.htm"
+    },
+    {
+      "special": "INXS Special",
+      "timeslot": null,
+      "date": "1998-02-07",
+      "path": "1998/02/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980207.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-02-13",
+      "path": "1998/02/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980213.htm"
+    },
+    {
+      "special": "Ben Harper & The Innocent Criminals guest program rage",
+      "timeslot": null,
+      "date": "1998-02-14",
+      "path": "1998/02/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980214.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 (100 to 51)",
+      "timeslot": null,
+      "date": "1998-02-20",
+      "path": "1998/02/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980220.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 (50 to 1)",
+      "timeslot": null,
+      "date": "1998-02-21",
+      "path": "1998/02/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980221.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-02-27",
+      "path": "1998/02/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980227.htm"
+    },
+    {
+      "special": "Mardi Gras Dance Music Special",
+      "timeslot": null,
+      "date": "1998-02-28",
+      "path": "1998/02/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980228.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-03-06",
+      "path": "1998/03/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980306.htm"
+    },
+    {
+      "special": "Phil & Ed from Radiohead guest program rage",
+      "timeslot": null,
+      "date": "1998-03-07",
+      "path": "1998/03/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980307.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-03-13",
+      "path": "1998/03/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980313.htm"
+    },
+    {
+      "special": "Phil Jamieson & Joe Hansen from Grinspoon guest program rage",
+      "timeslot": null,
+      "date": "1998-03-14",
+      "path": "1998/03/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980314.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-03-20",
+      "path": "1998/03/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980320.htm"
+    },
+    {
+      "special": "Dave Grohl & Franz Stahl from Foo Fighters guest program rage",
+      "timeslot": null,
+      "date": "1998-03-21",
+      "path": "1998/03/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980321.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-03-27",
+      "path": "1998/03/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980327.htm"
+    },
+    {
+      "special": "Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest program rage",
+      "timeslot": null,
+      "date": "1998-03-28",
+      "path": "1998/03/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980328.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-04-03",
+      "path": "1998/04/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980403.htm"
+    },
+    {
+      "special": "The Whitlams guest program rage",
+      "timeslot": null,
+      "date": "1998-04-04",
+      "path": "1998/04/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980404.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-04-10",
+      "path": "1998/04/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980410.htm"
+    },
+    {
+      "special": "Repeat of Devo guest programming",
+      "timeslot": null,
+      "date": "1998-04-11",
+      "path": "1998/04/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980411.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-04-17",
+      "path": "1998/04/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980417.htm"
+    },
+    {
+      "special": "Garbage special + Tanya Donelly guest programs rage",
+      "timeslot": null,
+      "date": "1998-04-18",
+      "path": "1998/04/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980418.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-04-24",
+      "path": "1998/04/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980424.htm"
+    },
+    {
+      "special": "Green Day guest program rage",
+      "timeslot": null,
+      "date": "1998-04-25",
+      "path": "1998/04/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980425.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-05-01",
+      "path": "1998/05/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980501.htm"
+    },
+    {
+      "special": "Ammonia guest program rage",
+      "timeslot": null,
+      "date": "1998-05-02",
+      "path": "1998/05/02.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980502.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-05-08",
+      "path": "1998/05/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980508.htm"
+    },
+    {
+      "special": "Arkarna guest program rage",
+      "timeslot": null,
+      "date": "1998-05-09",
+      "path": "1998/05/09.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980509.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-05-15",
+      "path": "1998/05/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980515.htm"
+    },
+    {
+      "special": "Madonna special",
+      "timeslot": null,
+      "date": "1998-05-16",
+      "path": "1998/05/16.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980516.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-05-22",
+      "path": "1998/05/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980522.htm"
+    },
+    {
+      "special": "Les Claypool from Primus guest programs rage",
+      "timeslot": null,
+      "date": "1998-05-23",
+      "path": "1998/05/23.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980523.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-05-29",
+      "path": "1998/05/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980529.htm"
+    },
+    {
+      "special": "Jeff Buckley special",
+      "timeslot": null,
+      "date": "1998-05-30",
+      "path": "1998/05/30.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980530.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-05",
+      "path": "1998/06/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980605.htm"
+    },
+    {
+      "special": "Smashing Pumpkins special",
+      "timeslot": null,
+      "date": "1998-06-06",
+      "path": "1998/06/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980606.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-12",
+      "path": "1998/06/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980612.htm"
+    },
+    {
+      "special": "Frenzal Rhomb guest program rage",
+      "timeslot": null,
+      "date": "1998-06-13",
+      "path": "1998/06/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980613.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-19",
+      "path": "1998/06/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980619.htm"
+    },
+    {
+      "special": "Nick Cave Short Film + Australian Music special",
+      "timeslot": null,
+      "date": "1998-06-20",
+      "path": "1998/06/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980620.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-06-26",
+      "path": "1998/06/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980626.htm"
+    },
+    {
+      "special": "Blink 182 guest program rage",
+      "timeslot": null,
+      "date": "1998-06-27",
+      "path": "1998/06/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980627.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 Of All Time (100 to 51)",
+      "timeslot": null,
+      "date": "1998-07-03",
+      "path": "1998/07/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980703.htm"
+    },
+    {
+      "special": "Triple J Hottest 100 Of All Time (50 to 1)",
+      "timeslot": null,
+      "date": "1998-07-04",
+      "path": "1998/07/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980704.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-07-10",
+      "path": "1998/07/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980710.htm"
+    },
+    {
+      "special": "Beastie Boys special followed by mix of Hip Hop videos",
+      "timeslot": null,
+      "date": "1998-07-11",
+      "path": "1998/07/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980711.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-07-17",
+      "path": "1998/07/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980717.htm"
+    },
+    {
+      "special": "Repeat of Foo Fighters guest programming ",
+      "timeslot": null,
+      "date": "1998-07-18",
+      "path": "1998/07/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980718.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-07-24",
+      "path": "1998/07/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980724.htm"
+    },
+    {
+      "special": "Tex Perkins & James Cruickshank from The Cruel Sea guest program rage",
+      "timeslot": null,
+      "date": "1998-07-25",
+      "path": "1998/07/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980725.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-07-31",
+      "path": "1998/07/31.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980731.htm"
+    },
+    {
+      "special": "Repeat of Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest programming ",
+      "timeslot": null,
+      "date": "1998-08-01",
+      "path": "1998/08/01.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980801.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-08-07",
+      "path": "1998/08/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980807.htm"
+    },
+    {
+      "special": "Natasha Schaade (Triple J's Hottest 100 Of All Time winner) guest programs rage",
+      "timeslot": null,
+      "date": "1998-08-08",
+      "path": "1998/08/08.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980808.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-08-14",
+      "path": "1998/08/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980814.htm"
+    },
+    {
+      "special": "Smashing Pumpkins secret gig followed by Smashing Pumpkins videos",
+      "timeslot": null,
+      "date": "1998-08-15",
+      "path": "1998/08/15.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980815.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-08-21",
+      "path": "1998/08/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980821.htm"
+    },
+    {
+      "special": "Dicky Barrett & Joe G from The Mighty Mighty Bosstones guest program rage",
+      "timeslot": null,
+      "date": "1998-08-22",
+      "path": "1998/08/22.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980822.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-08-28",
+      "path": "1998/08/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980828.htm"
+    },
+    {
+      "special": "U.K Bands & Artists special",
+      "timeslot": null,
+      "date": "1998-08-29",
+      "path": "1998/08/29.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980829.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-04",
+      "path": "1998/09/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
+    },
+    {
+      "special": "Female Bands, Artists & Lead Singers special",
+      "timeslot": null,
+      "date": "1998-09-05",
+      "path": "1998/09/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-11",
+      "path": "1998/09/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
+    },
+    {
+      "special": "Snout guest program rage followed by a Powderfinger special ",
+      "timeslot": null,
+      "date": "1998-09-12",
+      "path": "1998/09/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-18",
+      "path": "1998/09/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
+    },
+    {
+      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
+      "timeslot": null,
+      "date": "1998-09-19",
+      "path": "1998/09/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-09-25",
+      "path": "1998/09/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
+    },
+    {
+      "special": "Jeff Buckley special followed by Livid Festival special",
+      "timeslot": null,
+      "date": "1998-09-26",
+      "path": "1998/09/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
+    },
+    {
+      "special": "Paul McDermott & Mikey Robins guest program rage",
+      "timeslot": null,
+      "date": "1998-10-03",
+      "path": "1998/10/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981003.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-10-09",
+      "path": "1998/10/09.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981002.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-10-09",
+      "path": "1998/10/09_2.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981009.htm"
+    },
+    {
+      "special": "Repeat of Frenzal Rhomb's guest programming ",
+      "timeslot": null,
+      "date": "1998-10-10",
+      "path": "1998/10/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981010.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-10-16",
+      "path": "1998/10/16.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981016.htm"
+    },
+    {
+      "special": "Thurston Moore & Lee Ranaldo from Sonic Youth guest program rage",
+      "timeslot": null,
+      "date": "1998-10-17",
+      "path": "1998/10/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981017.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-10-23",
+      "path": "1998/10/23.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981023.htm"
+    },
+    {
+      "special": "R.E.M., U2 & Depeche Mode special",
+      "timeslot": null,
+      "date": "1998-10-24",
+      "path": "1998/10/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981024.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-10-30",
+      "path": "1998/10/30.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981030.htm"
+    },
+    {
+      "special": "Marcy Playground guest program rage",
+      "timeslot": null,
+      "date": "1998-10-31",
+      "path": "1998/10/31.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981031.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-06",
+      "path": "1998/11/06.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981106.htm"
+    },
+    {
+      "special": "The Living End guest program rage",
+      "timeslot": null,
+      "date": "1998-11-07",
+      "path": "1998/11/07.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981107.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-13",
+      "path": "1998/11/13.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981113.htm"
+    },
+    {
+      "special": "The Cruel Sea guest program rage",
+      "timeslot": null,
+      "date": "1998-11-14",
+      "path": "1998/11/14.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981114.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-20",
+      "path": "1998/11/20.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981120.htm"
+    },
+    {
+      "special": "Rage Album special, INXS mini-special, followed by The Dandy Warhols guest programming",
+      "timeslot": null,
+      "date": "1998-11-21",
+      "path": "1998/11/21.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981121.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-11-27",
+      "path": "1998/11/27.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981127.htm"
+    },
+    {
+      "special": "Richard Kingsmill guest programs rage for Australian Music Week",
+      "timeslot": null,
+      "date": "1998-11-28",
+      "path": "1998/11/28.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981128.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-12-04",
+      "path": "1998/12/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981204.htm"
+    },
+    {
+      "special": "Online Australia Day special - Net Top 30 as voted by viewers",
+      "timeslot": null,
+      "date": "1998-12-05",
+      "path": "1998/12/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981205.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-12-11",
+      "path": "1998/12/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981211.htm"
+    },
+    {
+      "special": "The Superjesus guest program rage",
+      "timeslot": null,
+      "date": "1998-12-12",
+      "path": "1998/12/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981212.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-12-18",
+      "path": "1998/12/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981218.htm"
+    },
+    {
+      "special": "Slayer guest program rage",
+      "timeslot": null,
+      "date": "1998-12-19",
+      "path": "1998/12/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981219.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "1998-12-25",
+      "path": "1998/12/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981225.htm"
+    },
+    {
+      "special": "Best of '98 guest programmers",
+      "timeslot": null,
+      "date": "1998-12-26",
+      "path": "1998/12/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981226.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
       "date": "1999-01-01",
       "path": "1999/01/01.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/1999/19990101.htm"
@@ -1469,734 +2197,6 @@
       "date": "2000-12-30",
       "path": "2000/12/30.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2000/20001230.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-01-02",
-      "path": "1998/01/02.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980102.htm"
-    },
-    {
-      "special": "LOUD special with silverchair, Grinspoon & other young Australian bands",
-      "timeslot": null,
-      "date": "1998-01-03",
-      "path": "1998/01/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980103.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-01-09",
-      "path": "1998/01/09.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980109.htm"
-    },
-    {
-      "special": "Countdown Special",
-      "timeslot": null,
-      "date": "1998-01-10",
-      "path": "1998/01/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980110.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-01-16",
-      "path": "1998/01/16.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980116.htm"
-    },
-    {
-      "special": "Countdown Special",
-      "timeslot": null,
-      "date": "1998-01-17",
-      "path": "1998/01/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980117.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-01-23",
-      "path": "1998/01/23.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980123.htm"
-    },
-    {
-      "special": "Countdown Special",
-      "timeslot": null,
-      "date": "1998-01-24",
-      "path": "1998/01/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980124.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-01-30",
-      "path": "1998/01/30.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980130.htm"
-    },
-    {
-      "special": "Countdown Special",
-      "timeslot": null,
-      "date": "1998-01-31",
-      "path": "1998/01/31.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980131.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-02-06",
-      "path": "1998/02/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980206.htm"
-    },
-    {
-      "special": "INXS Special",
-      "timeslot": null,
-      "date": "1998-02-07",
-      "path": "1998/02/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980207.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-02-13",
-      "path": "1998/02/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980213.htm"
-    },
-    {
-      "special": "Ben Harper & The Innocent Criminals guest program rage",
-      "timeslot": null,
-      "date": "1998-02-14",
-      "path": "1998/02/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980214.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 (100 to 51)",
-      "timeslot": null,
-      "date": "1998-02-20",
-      "path": "1998/02/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980220.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 (50 to 1)",
-      "timeslot": null,
-      "date": "1998-02-21",
-      "path": "1998/02/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980221.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-02-27",
-      "path": "1998/02/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980227.htm"
-    },
-    {
-      "special": "Mardi Gras Dance Music Special",
-      "timeslot": null,
-      "date": "1998-02-28",
-      "path": "1998/02/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980228.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-03-06",
-      "path": "1998/03/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980306.htm"
-    },
-    {
-      "special": "Phil & Ed from Radiohead guest program rage",
-      "timeslot": null,
-      "date": "1998-03-07",
-      "path": "1998/03/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980307.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-03-13",
-      "path": "1998/03/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980313.htm"
-    },
-    {
-      "special": "Phil Jamieson & Joe Hansen from Grinspoon guest program rage",
-      "timeslot": null,
-      "date": "1998-03-14",
-      "path": "1998/03/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980314.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-03-20",
-      "path": "1998/03/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980320.htm"
-    },
-    {
-      "special": "Dave Grohl & Franz Stahl from Foo Fighters guest program rage",
-      "timeslot": null,
-      "date": "1998-03-21",
-      "path": "1998/03/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980321.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-03-27",
-      "path": "1998/03/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980327.htm"
-    },
-    {
-      "special": "Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest program rage",
-      "timeslot": null,
-      "date": "1998-03-28",
-      "path": "1998/03/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980328.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-04-03",
-      "path": "1998/04/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980403.htm"
-    },
-    {
-      "special": "The Whitlams guest program rage",
-      "timeslot": null,
-      "date": "1998-04-04",
-      "path": "1998/04/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980404.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-04-10",
-      "path": "1998/04/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980410.htm"
-    },
-    {
-      "special": "Repeat of Devo guest programming",
-      "timeslot": null,
-      "date": "1998-04-11",
-      "path": "1998/04/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980411.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-04-17",
-      "path": "1998/04/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980417.htm"
-    },
-    {
-      "special": "Garbage special + Tanya Donelly guest programs rage",
-      "timeslot": null,
-      "date": "1998-04-18",
-      "path": "1998/04/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980418.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-04-24",
-      "path": "1998/04/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980424.htm"
-    },
-    {
-      "special": "Green Day guest program rage",
-      "timeslot": null,
-      "date": "1998-04-25",
-      "path": "1998/04/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980425.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-05-01",
-      "path": "1998/05/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980501.htm"
-    },
-    {
-      "special": "Ammonia guest program rage",
-      "timeslot": null,
-      "date": "1998-05-02",
-      "path": "1998/05/02.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980502.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-05-08",
-      "path": "1998/05/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980508.htm"
-    },
-    {
-      "special": "Arkarna guest program rage",
-      "timeslot": null,
-      "date": "1998-05-09",
-      "path": "1998/05/09.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980509.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-05-15",
-      "path": "1998/05/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980515.htm"
-    },
-    {
-      "special": "Madonna special",
-      "timeslot": null,
-      "date": "1998-05-16",
-      "path": "1998/05/16.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980516.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-05-22",
-      "path": "1998/05/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980522.htm"
-    },
-    {
-      "special": "Les Claypool from Primus guest programs rage",
-      "timeslot": null,
-      "date": "1998-05-23",
-      "path": "1998/05/23.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980523.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-05-29",
-      "path": "1998/05/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980529.htm"
-    },
-    {
-      "special": "Jeff Buckley special",
-      "timeslot": null,
-      "date": "1998-05-30",
-      "path": "1998/05/30.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980530.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-05",
-      "path": "1998/06/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980605.htm"
-    },
-    {
-      "special": "Smashing Pumpkins special",
-      "timeslot": null,
-      "date": "1998-06-06",
-      "path": "1998/06/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980606.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-12",
-      "path": "1998/06/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980612.htm"
-    },
-    {
-      "special": "Frenzal Rhomb guest program rage",
-      "timeslot": null,
-      "date": "1998-06-13",
-      "path": "1998/06/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980613.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-19",
-      "path": "1998/06/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980619.htm"
-    },
-    {
-      "special": "Nick Cave Short Film + Australian Music special",
-      "timeslot": null,
-      "date": "1998-06-20",
-      "path": "1998/06/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980620.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-06-26",
-      "path": "1998/06/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980626.htm"
-    },
-    {
-      "special": "Blink 182 guest program rage",
-      "timeslot": null,
-      "date": "1998-06-27",
-      "path": "1998/06/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980627.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 Of All Time (100 to 51)",
-      "timeslot": null,
-      "date": "1998-07-03",
-      "path": "1998/07/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980703.htm"
-    },
-    {
-      "special": "Triple J Hottest 100 Of All Time (50 to 1)",
-      "timeslot": null,
-      "date": "1998-07-04",
-      "path": "1998/07/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980704.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-07-10",
-      "path": "1998/07/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980710.htm"
-    },
-    {
-      "special": "Beastie Boys special followed by mix of Hip Hop videos",
-      "timeslot": null,
-      "date": "1998-07-11",
-      "path": "1998/07/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980711.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-07-17",
-      "path": "1998/07/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980717.htm"
-    },
-    {
-      "special": "Repeat of Foo Fighters guest programming ",
-      "timeslot": null,
-      "date": "1998-07-18",
-      "path": "1998/07/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980718.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-07-24",
-      "path": "1998/07/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980724.htm"
-    },
-    {
-      "special": "Tex Perkins & James Cruickshank from The Cruel Sea guest program rage",
-      "timeslot": null,
-      "date": "1998-07-25",
-      "path": "1998/07/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980725.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-07-31",
-      "path": "1998/07/31.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980731.htm"
-    },
-    {
-      "special": "Repeat of Stone Gossard from Brad/Pearl Jam & Regan Hagar from Brad guest programming ",
-      "timeslot": null,
-      "date": "1998-08-01",
-      "path": "1998/08/01.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980801.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-08-07",
-      "path": "1998/08/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980807.htm"
-    },
-    {
-      "special": "Natasha Schaade (Triple J's Hottest 100 Of All Time winner) guest programs rage",
-      "timeslot": null,
-      "date": "1998-08-08",
-      "path": "1998/08/08.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980808.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-08-14",
-      "path": "1998/08/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980814.htm"
-    },
-    {
-      "special": "Smashing Pumpkins secret gig followed by Smashing Pumpkins videos",
-      "timeslot": null,
-      "date": "1998-08-15",
-      "path": "1998/08/15.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980815.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-08-21",
-      "path": "1998/08/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980821.htm"
-    },
-    {
-      "special": "Dicky Barrett & Joe G from The Mighty Mighty Bosstones guest program rage",
-      "timeslot": null,
-      "date": "1998-08-22",
-      "path": "1998/08/22.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980822.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-08-28",
-      "path": "1998/08/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980828.htm"
-    },
-    {
-      "special": "U.K Bands & Artists special",
-      "timeslot": null,
-      "date": "1998-08-29",
-      "path": "1998/08/29.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980829.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-04",
-      "path": "1998/09/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980904.htm"
-    },
-    {
-      "special": "Female Bands, Artists & Lead Singers special",
-      "timeslot": null,
-      "date": "1998-09-05",
-      "path": "1998/09/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980905.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-11",
-      "path": "1998/09/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980911.htm"
-    },
-    {
-      "special": "Snout guest program rage followed by a Powderfinger special ",
-      "timeslot": null,
-      "date": "1998-09-12",
-      "path": "1998/09/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980912.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-18",
-      "path": "1998/09/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980918.htm"
-    },
-    {
-      "special": "Janet English & Quan Yeomans from Happyland guest program rage",
-      "timeslot": null,
-      "date": "1998-09-19",
-      "path": "1998/09/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980919.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-09-25",
-      "path": "1998/09/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980925.htm"
-    },
-    {
-      "special": "Jeff Buckley special followed by Livid Festival special",
-      "timeslot": null,
-      "date": "1998-09-26",
-      "path": "1998/09/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19980926.htm"
-    },
-    {
-      "special": "Paul McDermott & Mikey Robins guest program rage",
-      "timeslot": null,
-      "date": "1998-10-03",
-      "path": "1998/10/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981003.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-10-09",
-      "path": "1998/10/09.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981002.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-10-09",
-      "path": "1998/10/09_2.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981009.htm"
-    },
-    {
-      "special": "Repeat of Frenzal Rhomb's guest programming ",
-      "timeslot": null,
-      "date": "1998-10-10",
-      "path": "1998/10/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981010.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-10-16",
-      "path": "1998/10/16.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981016.htm"
-    },
-    {
-      "special": "Thurston Moore & Lee Ranaldo from Sonic Youth guest program rage",
-      "timeslot": null,
-      "date": "1998-10-17",
-      "path": "1998/10/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981017.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-10-23",
-      "path": "1998/10/23.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981023.htm"
-    },
-    {
-      "special": "R.E.M., U2 & Depeche Mode special",
-      "timeslot": null,
-      "date": "1998-10-24",
-      "path": "1998/10/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981024.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-10-30",
-      "path": "1998/10/30.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981030.htm"
-    },
-    {
-      "special": "Marcy Playground guest program rage",
-      "timeslot": null,
-      "date": "1998-10-31",
-      "path": "1998/10/31.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981031.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-06",
-      "path": "1998/11/06.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981106.htm"
-    },
-    {
-      "special": "The Living End guest program rage",
-      "timeslot": null,
-      "date": "1998-11-07",
-      "path": "1998/11/07.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981107.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-13",
-      "path": "1998/11/13.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981113.htm"
-    },
-    {
-      "special": "The Cruel Sea guest program rage",
-      "timeslot": null,
-      "date": "1998-11-14",
-      "path": "1998/11/14.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981114.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-20",
-      "path": "1998/11/20.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981120.htm"
-    },
-    {
-      "special": "Rage Album special, INXS mini-special, followed by The Dandy Warhols guest programming",
-      "timeslot": null,
-      "date": "1998-11-21",
-      "path": "1998/11/21.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981121.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-11-27",
-      "path": "1998/11/27.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981127.htm"
-    },
-    {
-      "special": "Richard Kingsmill guest programs rage for Australian Music Week",
-      "timeslot": null,
-      "date": "1998-11-28",
-      "path": "1998/11/28.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981128.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-12-04",
-      "path": "1998/12/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981204.htm"
-    },
-    {
-      "special": "Online Australia Day special - Net Top 30 as voted by viewers",
-      "timeslot": null,
-      "date": "1998-12-05",
-      "path": "1998/12/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981205.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-12-11",
-      "path": "1998/12/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981211.htm"
-    },
-    {
-      "special": "The Superjesus guest program rage",
-      "timeslot": null,
-      "date": "1998-12-12",
-      "path": "1998/12/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981212.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-12-18",
-      "path": "1998/12/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981218.htm"
-    },
-    {
-      "special": "Slayer guest program rage",
-      "timeslot": null,
-      "date": "1998-12-19",
-      "path": "1998/12/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981219.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "1998-12-25",
-      "path": "1998/12/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981225.htm"
-    },
-    {
-      "special": "Best of '98 guest programmers",
-      "timeslot": null,
-      "date": "1998-12-26",
-      "path": "1998/12/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/1998/19981226.htm"
     },
     {
       "special": null,
