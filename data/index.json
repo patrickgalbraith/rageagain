@@ -24886,6 +24886,139 @@
       "url": "https://www.abc.net.au/rage/playlist/monday-night-30-november-2020-on-abc-1/12935988"
     },
     {
+      "special": null,
+      "timeslot": "night",
+      "date": "2021-01-01",
+      "path": "2021/01/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-1-jan-2021-on-abc-1/13005084"
+    },
+    {
+      "special": "Best of the Charts 2020, VAULT, Best New Music Videos of 2020, Ragercise Special",
+      "timeslot": "morning",
+      "date": "2021-01-02",
+      "path": "2021/01/02_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-january-2021-on-abc-1/13005088"
+    },
+    {
+      "special": "Ragercise Special",
+      "timeslot": "night",
+      "date": "2021-01-02",
+      "path": "2021/01/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-january-2021-on-abc-1/13005098"
+    },
+    {
+      "special": "Best Music Videos of 2020",
+      "timeslot": "night",
+      "date": "2021-01-03",
+      "path": "2021/01/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3-january-2021-on-abc-1/13005100"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-01-04",
+      "path": "2021/01/04_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-4-january-2021-on-abc-1/13005102"
+    },
+    {
+      "special": "Best Music Videos of 2019",
+      "timeslot": "night",
+      "date": "2021-01-08",
+      "path": "2021/01/08_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-8-january-2021-on-abc-1/13005108"
+    },
+    {
+      "special": "Best Music Videos of 2019",
+      "timeslot": "night",
+      "date": "2021-01-08",
+      "path": "2021/01/08_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/2020-12-21/friday-night-8-january-2021-on-abc-1/13005108"
+    },
+    {
+      "special": "Best of the Charts 2020, VAULT, Best New Music Videos of 2020, New Wave Special",
+      "timeslot": "morning",
+      "date": "2021-01-09",
+      "path": "2021/01/09_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-january-2021-on-abc-1/13005114"
+    },
+    {
+      "special": "New Wave Special",
+      "timeslot": "night",
+      "date": "2021-01-09",
+      "path": "2021/01/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-january-2021-on-abc-1/13005118"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-01-11",
+      "path": "2021/01/11_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-january-2021-on-abc-1/13005140"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-01-15",
+      "path": "2021/01/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-january-2021-on-abc-1/13005380"
+    },
+    {
+      "special": "Charts, Rage Around The World Special",
+      "timeslot": "morning",
+      "date": "2021-01-16",
+      "path": "2021/01/16_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16-january-2021-on-abc-1/13005392"
+    },
+    {
+      "special": "Rage Around The World Special",
+      "timeslot": "night",
+      "date": "2021-01-16",
+      "path": "2021/01/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-january-2021-on-abc-1/13005398"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-01-17",
+      "path": "2021/01/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-january-2021-on-abc-1/13005402"
+    },
+    {
+      "special": "New Music Show",
+      "timeslot": "night",
+      "date": "2021-01-22",
+      "path": "2021/01/22_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-january-2021-on-abc-1/13082136"
+    },
+    {
+      "special": "Charts, VAULT, New Music Videos, Metallica Special on rage",
+      "timeslot": "morning",
+      "date": "2021-01-23",
+      "path": "2021/01/23_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23-january-2021-on-abc-1/13082190"
+    },
+    {
+      "special": "Metallica Special on rage",
+      "timeslot": "night",
+      "date": "2021-01-23",
+      "path": "2021/01/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-january-2021-on-abc-1/13082210"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2021-01-24",
+      "path": "2021/01/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-january-2021-on-abc-1/13082214"
+    },
+    {
+      "special": "The VAULT",
+      "timeslot": "night",
+      "date": "2021-01-25",
+      "path": "2021/01/25_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-25-january-2021-on-abc-1/13089314"
+    },
+    {
       "special": "New Music Show",
       "timeslot": "night",
       "date": "2020-12-04",
@@ -25045,139 +25178,6 @@
       "date": "2020-12-31",
       "path": "2020/12/31_night.json",
       "url": "https://www.abc.net.au/rage/playlist/thursday-night-31-december-2020-on-abc-1/13005082"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2021-01-01",
-      "path": "2021/01/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-1-jan-2021-on-abc-1/13005084"
-    },
-    {
-      "special": "Best of the Charts 2020, VAULT, Best New Music Videos of 2020, Ragercise Special",
-      "timeslot": "morning",
-      "date": "2021-01-02",
-      "path": "2021/01/02_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-2-january-2021-on-abc-1/13005088"
-    },
-    {
-      "special": "Ragercise Special",
-      "timeslot": "night",
-      "date": "2021-01-02",
-      "path": "2021/01/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-2-january-2021-on-abc-1/13005098"
-    },
-    {
-      "special": "Best Music Videos of 2020",
-      "timeslot": "night",
-      "date": "2021-01-03",
-      "path": "2021/01/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-3-january-2021-on-abc-1/13005100"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2021-01-04",
-      "path": "2021/01/04_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-4-january-2021-on-abc-1/13005102"
-    },
-    {
-      "special": "Best Music Videos of 2019",
-      "timeslot": "night",
-      "date": "2021-01-08",
-      "path": "2021/01/08_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-8-january-2021-on-abc-1/13005108"
-    },
-    {
-      "special": "Best Music Videos of 2019",
-      "timeslot": "night",
-      "date": "2021-01-08",
-      "path": "2021/01/08_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/2020-12-21/friday-night-8-january-2021-on-abc-1/13005108"
-    },
-    {
-      "special": "Best of the Charts 2020, VAULT, Best New Music Videos of 2020, New Wave Special",
-      "timeslot": "morning",
-      "date": "2021-01-09",
-      "path": "2021/01/09_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-9-january-2021-on-abc-1/13005114"
-    },
-    {
-      "special": "New Wave Special",
-      "timeslot": "night",
-      "date": "2021-01-09",
-      "path": "2021/01/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-9-january-2021-on-abc-1/13005118"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2021-01-11",
-      "path": "2021/01/11_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-11-january-2021-on-abc-1/13005140"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2021-01-15",
-      "path": "2021/01/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-15-january-2021-on-abc-1/13005380"
-    },
-    {
-      "special": "Charts, Rage Around The World Special",
-      "timeslot": "morning",
-      "date": "2021-01-16",
-      "path": "2021/01/16_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-16-january-2021-on-abc-1/13005392"
-    },
-    {
-      "special": "Rage Around The World Special",
-      "timeslot": "night",
-      "date": "2021-01-16",
-      "path": "2021/01/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-16-january-2021-on-abc-1/13005398"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2021-01-17",
-      "path": "2021/01/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-17-january-2021-on-abc-1/13005402"
-    },
-    {
-      "special": "New Music Show",
-      "timeslot": "night",
-      "date": "2021-01-22",
-      "path": "2021/01/22_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-22-january-2021-on-abc-1/13082136"
-    },
-    {
-      "special": "Charts, VAULT, New Music Videos, Metallica Special on rage",
-      "timeslot": "morning",
-      "date": "2021-01-23",
-      "path": "2021/01/23_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-23-january-2021-on-abc-1/13082190"
-    },
-    {
-      "special": "Metallica Special on rage",
-      "timeslot": "night",
-      "date": "2021-01-23",
-      "path": "2021/01/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-23-january-2021-on-abc-1/13082210"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2021-01-24",
-      "path": "2021/01/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/sunday-night-24-january-2021-on-abc-1/13082214"
-    },
-    {
-      "special": "The VAULT",
-      "timeslot": "night",
-      "date": "2021-01-25",
-      "path": "2021/01/25_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-25-january-2021-on-abc-1/13089314"
     },
     {
       "special": "The VAULT",
