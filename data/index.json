@@ -2619,69 +2619,6 @@
       "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010728.htm"
     },
     {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-08-03",
-      "path": "2001/08/03.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010803.htm"
-    },
-    {
-      "special": "Female Bands, Artists & Lead Singers special",
-      "timeslot": null,
-      "date": "2001-08-04",
-      "path": "2001/08/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010804.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-08-10",
-      "path": "2001/08/10.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010810.htm"
-    },
-    {
-      "special": "The Strokes guest program",
-      "timeslot": null,
-      "date": "2001-08-11",
-      "path": "2001/08/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010811.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-08-17",
-      "path": "2001/08/17.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010817.htm"
-    },
-    {
-      "special": "Stephen Malkmus guest programs",
-      "timeslot": null,
-      "date": "2001-08-18",
-      "path": "2001/08/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010818.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-08-24",
-      "path": "2001/08/24.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010824.htm"
-    },
-    {
-      "special": "Michael Franti & RadioActive from Spearhead guest program",
-      "timeslot": null,
-      "date": "2001-08-25",
-      "path": "2001/08/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010825.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2001-08-31",
-      "path": "2001/08/31.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010831.htm"
-    },
-    {
       "special": "rage features Smashing Pumpkins, Rage Against The Machine, Nirvana & Jeff Buckley",
       "timeslot": null,
       "date": "2001-09-01",
@@ -2743,6 +2680,69 @@
       "date": "2001-09-29",
       "path": "2001/09/29.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010929.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-08-03",
+      "path": "2001/08/03.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010803.htm"
+    },
+    {
+      "special": "Female Bands, Artists & Lead Singers special",
+      "timeslot": null,
+      "date": "2001-08-04",
+      "path": "2001/08/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010804.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-08-10",
+      "path": "2001/08/10.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010810.htm"
+    },
+    {
+      "special": "The Strokes guest program",
+      "timeslot": null,
+      "date": "2001-08-11",
+      "path": "2001/08/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010811.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-08-17",
+      "path": "2001/08/17.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010817.htm"
+    },
+    {
+      "special": "Stephen Malkmus guest programs",
+      "timeslot": null,
+      "date": "2001-08-18",
+      "path": "2001/08/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010818.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-08-24",
+      "path": "2001/08/24.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010824.htm"
+    },
+    {
+      "special": "Michael Franti & RadioActive from Spearhead guest program",
+      "timeslot": null,
+      "date": "2001-08-25",
+      "path": "2001/08/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010825.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2001-08-31",
+      "path": "2001/08/31.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2001/20010831.htm"
     },
     {
       "special": null,
@@ -5750,62 +5750,6 @@
     {
       "special": null,
       "timeslot": null,
-      "date": "2005-11-04",
-      "path": "2005/11/04.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051104.htm"
-    },
-    {
-      "special": "Sarah Blasko guest programs",
-      "timeslot": null,
-      "date": "2005-11-05",
-      "path": "2005/11/05.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051105.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-11",
-      "path": "2005/11/11.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051111.htm"
-    },
-    {
-      "special": "Spiderbait guest programs",
-      "timeslot": null,
-      "date": "2005-11-12",
-      "path": "2005/11/12.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051112.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-18",
-      "path": "2005/11/18.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051118.htm"
-    },
-    {
-      "special": "New Releases only due to tennis coverage",
-      "timeslot": null,
-      "date": "2005-11-19",
-      "path": "2005/11/19.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051119.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
-      "date": "2005-11-25",
-      "path": "2005/11/25.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051125.htm"
-    },
-    {
-      "special": "Bernard Fanning guest programs",
-      "timeslot": null,
-      "date": "2005-11-26",
-      "path": "2005/11/26.json",
-      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051126.htm"
-    },
-    {
-      "special": null,
-      "timeslot": null,
       "date": "2005-12-02",
       "path": "2005/12/02.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051202.htm"
@@ -5872,6 +5816,62 @@
       "date": "2005-12-31",
       "path": "2005/12/31.json",
       "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051231.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-04",
+      "path": "2005/11/04.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051104.htm"
+    },
+    {
+      "special": "Sarah Blasko guest programs",
+      "timeslot": null,
+      "date": "2005-11-05",
+      "path": "2005/11/05.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051105.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-11",
+      "path": "2005/11/11.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051111.htm"
+    },
+    {
+      "special": "Spiderbait guest programs",
+      "timeslot": null,
+      "date": "2005-11-12",
+      "path": "2005/11/12.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051112.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-18",
+      "path": "2005/11/18.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051118.htm"
+    },
+    {
+      "special": "New Releases only due to tennis coverage",
+      "timeslot": null,
+      "date": "2005-11-19",
+      "path": "2005/11/19.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051119.htm"
+    },
+    {
+      "special": null,
+      "timeslot": null,
+      "date": "2005-11-25",
+      "path": "2005/11/25.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051125.htm"
+    },
+    {
+      "special": "Bernard Fanning guest programs",
+      "timeslot": null,
+      "date": "2005-11-26",
+      "path": "2005/11/26.json",
+      "url": "http://www.abc.net.au/rage/playlist/archive/2005/20051126.htm"
     },
     {
       "special": null,
@@ -20483,6 +20483,202 @@
       "url": "https://www.abc.net.au/rage/playlist/saturday-night-29-september-2018-on-abc/10318180"
     },
     {
+      "special": "Alt-Rock Special on Rage",
+      "timeslot": "night",
+      "date": "2018-11-01",
+      "path": "2018/11/01_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-1-november-2018-on-abc-me/10442894"
+    },
+    {
+      "special": "Kira Puru on Rage",
+      "timeslot": "night",
+      "date": "2018-11-01",
+      "path": "2018/11/01_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-1-novemeber-2018-on-abc/10442882"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-02",
+      "path": "2018/11/02_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-2-november-2018-on-abc/10461628"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-11-03",
+      "path": "2018/11/03_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-3-november-2018-on-abc/10461640"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-11-03",
+      "path": "2018/11/03_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-november-2018-on-abc/10461656"
+    },
+    {
+      "special": "VAULT",
+      "timeslot": "night",
+      "date": "2018-11-05",
+      "path": "2018/11/05_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-5-november-2018-on-abc/10465310"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-09",
+      "path": "2018/11/09_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-november-2018-on-abc/10483160"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-11-10",
+      "path": "2018/11/10_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-november-2018-on-abc/10483176"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-11-10",
+      "path": "2018/11/10_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-november-2018-on-abc/10483182"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-12",
+      "path": "2018/11/12_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-november-2018-on-abc-me/10492696"
+    },
+    {
+      "special": "VAULT",
+      "timeslot": "night",
+      "date": "2018-11-12",
+      "path": "2018/11/12_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-november-2018-on-abc/10487642"
+    },
+    {
+      "special": "Hideous Sun Demon on Rage & New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-13",
+      "path": "2018/11/13_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-13-november-2018-on-abc-me/10492708"
+    },
+    {
+      "special": "Hideous Sun Demon on Rage, AusMusic Month & New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-14",
+      "path": "2018/11/14_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-14-november-2018-on-abc-me/10492776"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-14",
+      "path": "2018/11/14_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-14-november-2018-on-abc/10492722"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-11-15",
+      "path": "2018/11/15_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-15-november-2018-on-abc-me/10492804"
+    },
+    {
+      "special": "Hideous Sun Demon on Rage & AusMusic Month on Rage",
+      "timeslot": "night",
+      "date": "2018-11-15",
+      "path": "2018/11/15_night_2.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-15-november-2018-on-abc/10492794"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-16",
+      "path": "2018/11/16_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-november-2018-on-abc/10505926"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-11-17",
+      "path": "2018/11/17_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-17-november-2018-on-abc/10505942"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-11-17",
+      "path": "2018/11/17_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-november-2018-on-abc/10505956"
+    },
+    {
+      "special": "VAULT - Radiohead",
+      "timeslot": "night",
+      "date": "2018-11-19",
+      "path": "2018/11/19_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-19-november-2018-on-abc/10510630"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-23",
+      "path": "2018/11/23_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-23-november-2018-on-abc/10550424"
+    },
+    {
+      "special": null,
+      "timeslot": "morning",
+      "date": "2018-11-24",
+      "path": "2018/11/24_morning.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-24-november-2018-on-abc/10550442"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-11-24",
+      "path": "2018/11/24_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-november-2018-on-abc/10550474"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-26",
+      "path": "2018/11/26_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/monday-night-26-november-2018-on-abc-me/10555692"
+    },
+    {
+      "special": "Tia Gostelow on Rage & New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-27",
+      "path": "2018/11/27_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-27-november-2018-on-abc-me/10555708"
+    },
+    {
+      "special": "New Music Videos & J Award Winners 2018",
+      "timeslot": "night",
+      "date": "2018-11-28",
+      "path": "2018/11/28_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-28-november-2018-on-abc-me/10555726"
+    },
+    {
+      "special": null,
+      "timeslot": "night",
+      "date": "2018-11-29",
+      "path": "2018/11/29_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/thursday-night-29-november-2018-on-abc-me/10555750"
+    },
+    {
+      "special": "New Music Videos",
+      "timeslot": "night",
+      "date": "2018-11-30",
+      "path": "2018/11/30_night.json",
+      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-november-2018-on-abc/10570722"
+    },
+    {
       "special": "New Music Videos",
       "timeslot": "night",
       "date": "2018-10-01",
@@ -20775,202 +20971,6 @@
       "date": "2018-10-31",
       "path": "2018/10/31_night_2.json",
       "url": "https://www.abc.net.au/rage/playlist/wednesday-night-31-october-on-abc/10442852"
-    },
-    {
-      "special": "Alt-Rock Special on Rage",
-      "timeslot": "night",
-      "date": "2018-11-01",
-      "path": "2018/11/01_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-1-november-2018-on-abc-me/10442894"
-    },
-    {
-      "special": "Kira Puru on Rage",
-      "timeslot": "night",
-      "date": "2018-11-01",
-      "path": "2018/11/01_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-1-novemeber-2018-on-abc/10442882"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-02",
-      "path": "2018/11/02_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-2-november-2018-on-abc/10461628"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-11-03",
-      "path": "2018/11/03_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-3-november-2018-on-abc/10461640"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-11-03",
-      "path": "2018/11/03_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-3-november-2018-on-abc/10461656"
-    },
-    {
-      "special": "VAULT",
-      "timeslot": "night",
-      "date": "2018-11-05",
-      "path": "2018/11/05_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-5-november-2018-on-abc/10465310"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-09",
-      "path": "2018/11/09_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-9-november-2018-on-abc/10483160"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-11-10",
-      "path": "2018/11/10_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-10-november-2018-on-abc/10483176"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-11-10",
-      "path": "2018/11/10_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-10-november-2018-on-abc/10483182"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-12",
-      "path": "2018/11/12_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-november-2018-on-abc-me/10492696"
-    },
-    {
-      "special": "VAULT",
-      "timeslot": "night",
-      "date": "2018-11-12",
-      "path": "2018/11/12_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-12-november-2018-on-abc/10487642"
-    },
-    {
-      "special": "Hideous Sun Demon on Rage & New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-13",
-      "path": "2018/11/13_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-13-november-2018-on-abc-me/10492708"
-    },
-    {
-      "special": "Hideous Sun Demon on Rage, AusMusic Month & New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-14",
-      "path": "2018/11/14_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-14-november-2018-on-abc-me/10492776"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-14",
-      "path": "2018/11/14_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-14-november-2018-on-abc/10492722"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-11-15",
-      "path": "2018/11/15_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-15-november-2018-on-abc-me/10492804"
-    },
-    {
-      "special": "Hideous Sun Demon on Rage & AusMusic Month on Rage",
-      "timeslot": "night",
-      "date": "2018-11-15",
-      "path": "2018/11/15_night_2.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-15-november-2018-on-abc/10492794"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-16",
-      "path": "2018/11/16_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-16-november-2018-on-abc/10505926"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-11-17",
-      "path": "2018/11/17_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-17-november-2018-on-abc/10505942"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-11-17",
-      "path": "2018/11/17_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-17-november-2018-on-abc/10505956"
-    },
-    {
-      "special": "VAULT - Radiohead",
-      "timeslot": "night",
-      "date": "2018-11-19",
-      "path": "2018/11/19_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-19-november-2018-on-abc/10510630"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-23",
-      "path": "2018/11/23_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-23-november-2018-on-abc/10550424"
-    },
-    {
-      "special": null,
-      "timeslot": "morning",
-      "date": "2018-11-24",
-      "path": "2018/11/24_morning.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-morning-24-november-2018-on-abc/10550442"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-11-24",
-      "path": "2018/11/24_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/saturday-night-24-november-2018-on-abc/10550474"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-26",
-      "path": "2018/11/26_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/monday-night-26-november-2018-on-abc-me/10555692"
-    },
-    {
-      "special": "Tia Gostelow on Rage & New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-27",
-      "path": "2018/11/27_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/tuesday-night-27-november-2018-on-abc-me/10555708"
-    },
-    {
-      "special": "New Music Videos & J Award Winners 2018",
-      "timeslot": "night",
-      "date": "2018-11-28",
-      "path": "2018/11/28_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/wednesday-night-28-november-2018-on-abc-me/10555726"
-    },
-    {
-      "special": null,
-      "timeslot": "night",
-      "date": "2018-11-29",
-      "path": "2018/11/29_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/thursday-night-29-november-2018-on-abc-me/10555750"
-    },
-    {
-      "special": "New Music Videos",
-      "timeslot": "night",
-      "date": "2018-11-30",
-      "path": "2018/11/30_night.json",
-      "url": "https://www.abc.net.au/rage/playlist/friday-night-30-november-2018-on-abc/10570722"
     },
     {
       "special": null,
